@@ -2,7 +2,8 @@
 
 Devenez un maître de la gestion ! Grâce à l’appli Paramétrage de la classe, gérez votre classe comme vous l’entendez !
 
-Présentation
+## Présentation
+
 Cette application permet notamment de créer et gérer de nouveaux comptes (élèves, parents, personnels, enseignants), d’exporter les identifiants et code d’activation, de renouveler le mot de passe des utilisateurs de la classe, d’activer de nouveaux services pour la classe, modifier le nom de la classe, etc.
 
 Pour accéder à l’application Paramétrage de la classe, cliquez sur l’icône correspondante dans la page « Mes applis ». 
@@ -11,7 +12,8 @@ Pour accéder à l’application Paramétrage de la classe, cliquez sur l’icô
 
 Afin de pouvoir visualiser les utilisateurs et accéder normalement à l'application, il faut obligatoirement être de profil enseignant et être rattaché à une classe minimum.
 
-Créer des utilisateurs dans la classe
+## Créer des utilisateurs dans la classe
+
 Vous accédez à la page de gestion de votre classe, qui vous permet de consulter les utilisateurs de votre classe, modifier le nom de votre classe et d’administrer les utilisateurs (élèves et parents).
 
 Il est alors possible d’ajouter des élèves, des parents, des enseignants et des personnels en cliquant sur le bouton "Ajouter des utilisateurs" (1) pour la classe sélectionnée (2).
@@ -73,7 +75,8 @@ Liste des utilisateurs que vous voulez rattacher à votre classe (5)
 Après avoir complété la liste des utilisateurs que vous voulez rattacher à votre classe, cliquez sur "Ajouter à ma classe" (6) pour que l'action soit confirmée.
 
 
-Créer des fiches de connexion
+## Créer des fiches de connexion
+
 Dans l'interface de l'application, vous disposez d'un bouton pour vous permettre de créer des fiches de connexion (1) sur la classe sélectionnée (2). Ces fiches de connexion peuvent être effectuées pour un compte déjà activé, en lui rappelant la procédure pour renouveler son mot de passe, ou pour un compte non activé, en lui indiquant la démarche de première connexion.
 
 
@@ -97,7 +100,8 @@ Vous pouvez également créer une ou plusieurs fiches de connexions détaillées
 En allant consulter la fiche utilisateur d'un élève (voir partie "Consulter et modifier les informations utilisateurs"), vous pouvez récupérer des fiches de connexions simplifiées en PDF pour l'élève et son ou ses responsables légaux, en cliquant sur le lien "Fiches de connexion famille" (1)
 
 
-Renouveler un mot de passe
+## Renouveler un mot de passe
+
 Dans l’onglet correspondant, uniquement pour les utilisateurs activés, sélectionnez l’utilisateur dont vous souhaitez renouveler le mot de passe (1) et cliquez sur « Réinitialiser le mot de passe » (2).
 
 
@@ -124,17 +128,20 @@ Renseignez l’identifiant de l’utilisateur dans le premier champ (1). Saisiss
 
 La réinitialisation du mot de passe est effective. L’utilisateur peut alors se connecter avec son nouveau mot de passe.
 
-Consulter et modifier les informations utilisateurs
+## Consulter et modifier les informations utilisateurs
+
 En cliquant sur le nom de l'utilisateur présent dans la liste, vous pouvez accéder à sa fiche utilisateur et l'éditer si besoin, pour ajouter une image de profil ou modifier sa devise en cas de problème par exemple.
 
 Une fois la fiche utilisateur affichée, vous pouvez naviguer d'une fiche utilisateur à l'autre en cliquant sur "utilisateur précédent" (1) ou "utilisateur suivant" (2).
 
 
-Bloquer un compte
+## Bloquer un compte
+
 En cas de débordement, vous avez la possibilité de bloquer la connexion d'un utilisateur. Sélectionnez l'utilisateur que vous souhaitez bloquer dans la liste (1) puis cliquez sur le bouton d'action "Bloquer" (2). Une fois l'action effectuée, l'utilisateur ne pourra donc plus se connecter.
 
 
-Retirer un utilisateur de la classe
+## Retirer un utilisateur de la classe
+
 En fin d'année, pour faciliter la transition d'année, vous pouvez retirer les élèves qui ne seront plus dans votre classe, afin que les autres enseignants puissent, via la recherche d'utilisateurs (voir la section "Créer des utilisateurs dans la classe"), rattacher leurs comptes à leur classe.
 
 Sélectionner l'utilisateur concerné (1) puis cliquer sur l'option "Retirer de la classe". Un message de confirmation vous demandera de vérifier si vous souhaitez bien faire votre action.
@@ -142,7 +149,8 @@ Sélectionner l'utilisateur concerné (1) puis cliquer sur l'option "Retirer de 
 En cas d'erreur, vous pourrez (si l'utilisateur n'est rattaché à aucune autre classe) aller dans la recherche d'utilisateur, et rattacher l'utilisateur à votre classe.
 
 
-Supprimer un utilisateur
+## Supprimer un utilisateur
+
 Dans l’onglet correspondant, sélectionnez l’utilisateur que vous souhaitez supprimer (1) et cliquez sur « Supprimer » (2).
 
 
