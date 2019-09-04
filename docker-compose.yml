@@ -1,0 +1,4 @@
+pandoc:
+  image: vbatts/pandoc
+  volumes:
+    - ./application:/application
