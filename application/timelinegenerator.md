@@ -12,7 +12,7 @@ L’appli Frise chronologique permet **d’associer des événements à leur pos
 
 Pour accéder à l’appli Frise chronologique, cliquez sur l’icône correspondante dans la page « Mes applis ».
 
-![](.gitbook/assets/frise-chrono-1-3%20%281%29.png)
+![](.gitbook/assets/frise-chrono-1-3-1.png)
 
 Cliquez sur le bouton « Créer une frise ».
 
@@ -25,7 +25,7 @@ Suivez les étapes suivantes :
 * Renseignez le descriptif de la frise
 * Cliquez sur « Enregistrer »
 
-![](.gitbook/assets/frise_1-2-1%20%281%29.png)
+![](.gitbook/assets/frise_1-2-1-1.png)
 
 ## Partager une frise chronologique
 
@@ -37,7 +37,7 @@ Dans la fenêtre de partage, vous pouvez donner des droits de consultation, de c
 
 Pour valider, cliquez sur le bouton "Partager".
 
-![](.gitbook/assets/frise-chronologique-3%20%281%29.png)
+![](.gitbook/assets/frise-chronologique-3-1.png)
 
 Les différents droits que vous pouvez attribuer sont les suivants :
 
@@ -51,7 +51,7 @@ En bas de chaque frise, vous pourrez voir quel droit vous disposez sur la frise 
 * ![](.gitbook/assets/pencil.png) : Contribuer
 * ![](.gitbook/assets/cog.png) : Gérer
 
-De plus, pour les frises vous appartenant, vous pourrez voir quels sont les frises que vous aurez déjà partagé car elles auront cette icône : ![](.gitbook/assets/share-1.png)
+De plus, pour les frises vous appartenant, vous pourrez voir quels sont les frises que vous aurez déjà partagé car elles auront cette icône : ![](.gitbook/assets/share-1%20%281%29.png)
 
 ## Organiser ses frises chronologiques
 
@@ -65,11 +65,11 @@ Vous avez à votre disposition différents outils pour trier les frises auxquell
    * **Mes frises**, qui est le dossier principal, dans lequel vous pourrez créer tous vos sous-dossiers \(grâce au bouton **Créer un dossier\)**
    * **Corbeille** où vous retrouverez les frises que vous aurez supprimées, pour éviter toute suppression définitive involontaire
 
-![](.gitbook/assets/2019-07-11_12h02_57%20%281%29.png)
+![](.gitbook/assets/2019-07-11_12h02_57-1.png)
 
 Après avoir créé vos différents dossiers, sélectionnez \(1\) la ou les frises que vous voulez mettre dans vos dossiers, puis cliquez sur le bouton "Déplacer" \(2\).
 
-![](.gitbook/assets/2019-07-11_12h51_11%20%281%29.png)
+![](.gitbook/assets/2019-07-11_12h51_11-1.png)
 
 Une fenêtre s'ouvrira, vous permettant de déplacer la frise sélectionnée dans un dossier existant ou d'en créer un nouveau. Vous pouvez également déplacer les dossiers eux-mêmes.
 
@@ -79,7 +79,7 @@ Une fenêtre s'ouvrira, vous permettant de déplacer la frise sélectionnée dan
 
 Pour créer du contenu dans la frise, cliquez sur « Ajouter un événement ».
 
-![](.gitbook/assets/frise1-1024x361-2%20%283%29.png)
+![](.gitbook/assets/frise1-1024x361-2-3.png)
 
 Vous devez renseigner plusieurs informations pour créer un évènement :
 

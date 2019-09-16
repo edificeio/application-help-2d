@@ -12,7 +12,7 @@ Vous accédez aux services pour lesquels vous avez des droits d’accès : appli
 
 Pour accéder à une appli, cliquez sur l’icône correspondante.
 
-![](.gitbook/assets/2-3%20%281%29.png)
+![](.gitbook/assets/2-3-1.png)
 
 La page d’accueil de l’appli apparaît.
 

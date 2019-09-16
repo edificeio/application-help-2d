@@ -32,7 +32,7 @@ Le sondage est maintenant créé.
 
 Pour partager le sondage, cliquez sur le + \(1\), puis sur « Partager » \(2\).
 
-![](.gitbook/assets/sondage1-1024x399-3%20%281%29.png)
+![](.gitbook/assets/sondage1-1024x399-3-1.png)
 
 Dans la fenêtre de partage, vous pouvez donner des droits de lecture, de vote et de gestion à d’autres personnes sur votre sondage. Pour cela, saisissez les premières lettres du nom de l’utilisateur ou du groupe d’utilisateurs que vous recherchez \(1\), sélectionnez le résultat \(2\) et cochez les cases correspondant aux droits que vous souhaitez leur attribuer \(3\).
 
@@ -65,11 +65,11 @@ Pour insérer le sondage, cliquez sur l’icône suivante:
 
 Cliquez sur « Ajouter un sniplet ».
 
-![](.gitbook/assets/s10-1%20%283%29.png)
+![](.gitbook/assets/s10-1-3.png)
 
 Puis choisissez l’appli Sondage.
 
-![](.gitbook/assets/s11-1%20%281%29.png)
+![](.gitbook/assets/s11-1-1.png)
 
 La liste des sondages dont vous êtes gestionnaire apparaît. Choisissez celui que vous souhaitez faire apparaître.
 
@@ -77,5 +77,5 @@ La liste des sondages dont vous êtes gestionnaire apparaît. Choisissez celui q
 
 Le sondage apparaît bien sur la page.
 
-![](.gitbook/assets/s13-1-1%20%281%29.png)
+![](.gitbook/assets/s13-1-1-1.png)
 

@@ -22,7 +22,7 @@ La page de création d’une nouvelle demande se présente comme suit :
 * Le bouton « Ajouter une pièce jointe » \(4\) permet de joindre une copie d’écran ou un document pour illustrer votre propos.
 * La saisie est enregistrée lorsque vous cliquez sur le bouton « Enregistrer »\(5\).
 
-![](.gitbook/assets/2018-08-24_14h58_10-2-1%20%281%29.png)
+![](.gitbook/assets/2018-08-24_14h58_10-2-1-1.png)
 
 {% hint style="info" %}
 La création d’une nouvelle demande donne lieu à l’envoi d’une notification dans le fil de nouveautés de l’administrateur de l'établissement.

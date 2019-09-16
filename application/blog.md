@@ -14,11 +14,11 @@ En cas de contribution de la part d’autres utilisateurs, le gestionnaire du bl
 
 Cliquez sur la page « Mes applis » puis sur l’icône « Blog ».
 
-![](.gitbook/assets/blog2-1024x231-2-2-1%20%281%29.png)
+![](.gitbook/assets/blog2-1024x231-2-2-1-1.png)
 
 Dans le service Blog, cliquez sur le bouton « Créer un blog » présent en haut à droite de la page.
 
-![](.gitbook/assets/2d-blog-creer-1%20%281%29.png)
+![](.gitbook/assets/2d-blog-creer-1-1.png)
 
 Vous accédez à l’interface de création du blog.
 
@@ -57,11 +57,11 @@ Les différents droits que vous pouvez attribuer aux autres utilisateurs sont le
 
 Sur les vignettes de blog, des icônes vous permettent facilement de connaitre vos droit sur les contenus :
 
-* ![](.gitbook/assets/eye.png) : Consulter
-* ![](.gitbook/assets/pencil.png) : Contribuer
-* ![](.gitbook/assets/cog.png) : Gérer
+* ![](.gitbook/assets/eye%20%281%29.png) : Consulter
+* ![](.gitbook/assets/pencil%20%281%29.png) : Contribuer
+* ![](.gitbook/assets/cog%20%281%29.png) : Gérer
 
-De plus, concernant les blogs sur lesquels vous êtes propriétaire, l'icone suivante vous permet de savoir si le contenu a déjà été partagé : ![](.gitbook/assets/share-1.png)
+De plus, concernant les blogs sur lesquels vous êtes propriétaire, l'icone suivante vous permet de savoir si le contenu a déjà été partagé : ![](.gitbook/assets/share-1%20%282%29.png)
 
 ![](.gitbook/assets/2019-07-12_17h47_38.png)
 
@@ -83,15 +83,15 @@ Pour communiquer facilement cette URL, vous pouvez cliquer sur le bouton "Copier
 
 Note : Si l'on rend public un blog, les documents chargés sur le blog \(par vous ou par un autre utilisateur\) seront eux aussi publics.
 
-![](.gitbook/assets/2019-07-11_11h05_12%20%281%29.png)
+![](.gitbook/assets/2019-07-11_11h05_12-1.png)
 
-Sur la vignette du blog, le symbole suivant vous informe que le contenu est public : ![](.gitbook/assets/globe.png)
+Sur la vignette du blog, le symbole suivant vous informe que le contenu est public : ![](https://github.com/opendigitaleducation/application-help-2d/tree/bfd850e5ccf6796688c300e1d9c06303126df2a7/application/.gitbook/assets/globe.png)
 
-![](.gitbook/assets/2019-07-11_11h14_08%20%281%29.png)
+![](.gitbook/assets/2019-07-11_11h14_08-1.png)
 
 L'URL du blog public est visible sous l'image du blog. L'adresse apparaît tronquée. Par un clic-droit, vous pouvez récupérer l'URL en choisissant l'option "Copier l'adresse du lien".
 
-![](.gitbook/assets/2019-07-11_11h16_13%20%281%29.png)
+![](.gitbook/assets/2019-07-11_11h16_13-1.png)
 
 ## Organiser ses blogs
 
@@ -104,7 +104,7 @@ L'URL du blog public est visible sous l'image du blog. L'adresse apparaît tronq
    * **Mes blogs**, qui est le dossier principal, dans lequel vous pourrez créer tous vos sous-dossiers \(grâce au bouton **Créer un dossier\)**
    * **Corbeille** où vous retrouverez les blogs que vous aurez supprimé, pour éviter toute suppression définitive involontaire
 
-![](.gitbook/assets/2019-07-11_11h35_16%20%281%29.png)
+![](.gitbook/assets/2019-07-11_11h35_16-1.png)
 
 Après avoir créer vos différents dossiers, sélectionnez \(1\) le ou les blogs que vous voulez mettre dans vos dossiers, puis cliquez sur le bouton "Déplacer" \(2\).
 
@@ -112,7 +112,7 @@ Après avoir créer vos différents dossiers, sélectionnez \(1\) le ou les blog
 
 Une fenêtre s'ouvrira, vous permettant de déplacer le blog sélectionné dans un dossier existant ou d'en créer un nouveau. Il vous est également possible de déplacer des dossiers.
 
-![](.gitbook/assets/2019-07-11_11h29_47%20%281%29.png)
+![](.gitbook/assets/2019-07-11_11h29_47-1.png)
 
 ## Gérer le circuit de publication
 
@@ -127,7 +127,7 @@ Pour gérer le circuit de publication de votre blog, ouvrez la fenêtre de parta
 
 Une fois votre blog créé, vous pouvez publier un billet. Pour cela, cliquez sur le bouton « Créer un billet » présent en haut de l’écran.
 
-![](.gitbook/assets/blog_4-1024x159-2-1-1%20%281%29.png)
+![](.gitbook/assets/blog_4-1024x159-2-1-1-1.png)
 
 L’outil de création du billet s’affiche dans la page :
 
@@ -170,7 +170,7 @@ Lorsque vous naviguez sur votre blog, vous avez la possibilité de l'imprimer, e
 
 Une option vous permettra de choisir si vous souhaitez imprimer le blog avec les commentaires ou non :
 
-![](.gitbook/assets/2018-10-19_12h42_55-2%20%281%29.png)
+![](.gitbook/assets/2018-10-19_12h42_55-2-1.png)
 
 ## Exporter un blog en PDF
 
@@ -180,7 +180,7 @@ Si vous souhaitez exporter votre blog sous la forme d'un fichier PDF, il vous fa
 
 Dans le champ "Destination", choisissez l'option Enregistrer au format PDF
 
-![](.gitbook/assets/2019-07-11_15h18_39.png)
+![](.gitbook/assets/2019-07-11_15h18_39%20%281%29.png)
 
 * Pour Internet Explorer, Microsoft Edge et Mozilla Firefox :
 

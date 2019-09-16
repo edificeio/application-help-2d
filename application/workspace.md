@@ -23,7 +23,7 @@ Pour accéder à l’appli Espace Documentaire, cliquez sur l’icône correspon
 Pour **accéder au menu d’option** d’un fichier ou d’un dossier, vous devez **cliquer une fois** dessus. Le menu s’affiche ensuite en bas de la page et vous pouvez choisir les actions à effectuer.  
 Vous devez cliquer une nouvelle fois sur le fichier ou le dossier pour le désélectionner.
 
-![](.gitbook/assets/2d-espace-documentaire%20%281%29.png)
+![](.gitbook/assets/2d-espace-documentaire-1.png)
 
 Pour **visualiser un fichier** sur la visionneuse de l’ENT ou pour **ouvrir un dossier**, vous devez **double-cliquer dessus**.
 
@@ -45,7 +45,7 @@ Dans la nouvelle fenêtre, suivez les étapes suivantes :
 
 ![](.gitbook/assets/fenetre-import-vide-1-4.png)
 
-![](.gitbook/assets/fenetre-import-full-1-1%20%281%29.png)
+![](.gitbook/assets/fenetre-import-full-1-1-1.png)
 
 **Vous pouvez importer plusieurs fichiers en une seule fois, si vous en sélectionnez plusieurs sur votre ordinateur.**
 
@@ -76,13 +76,13 @@ Cliquez ensuite sur le bouton "Partager"
 
 Vous pouvez déplacer vos documents et vos dossiers facilement dans votre espace documentaire. Pour cela, sélectionnez le document ou le dossier à déplacer \(1\) et glissez-le vers son nouvel emplacement \(2\).
 
-![](.gitbook/assets/espace-doc-7-1-2%20%281%29.png)
+![](.gitbook/assets/espace-doc-7-1-2-1.png)
 
 Vous ne pouvez pas déplacer un fichier du dossier « Mes documents » vers les dossiers « Documents partagés », « Documents ajoutés dans les applis » ou même à la corbeille.
 
 Le dossier se trouve maintenant à l’emplacement choisi.
 
-![](.gitbook/assets/doc-glisser-deposer-2-1024x273-1-1%20%281%29.png)
+![](.gitbook/assets/doc-glisser-deposer-2-1024x273-1-1-1.png)
 
 ## Connaître l’espace de stockage disponible
 
@@ -96,11 +96,11 @@ Vous pouvez mettre à jour un document tout en gardant une trace de ses précéd
 
 Pour mettre à jour un document, cliquer une fois sur le document pour qu’il soit surligner en bleu. La barre d’action s’affiche en bas de page, cliquez sur le bouton « Versions ».
 
-![](.gitbook/assets/doc-selection-fichier-2-2-1%20%281%29.png)
+![](.gitbook/assets/doc-selection-fichier-2-2-1-1.png)
 
 Une nouvelle page s’affiche, cliquez sur le bouton « Nouvelle version ».
 
-![](.gitbook/assets/document5-1024x328-1-2%20%281%29.png)
+![](.gitbook/assets/document5-1024x328-1-2-1.png)
 
 Choisissez le document depuis votre poste de travail et cliquez sur « Ouvrir ».
 
@@ -131,5 +131,5 @@ Toutes les versions du document s’affichent. Chaque version permet d’accéde
 
 Il est possible de supprimer toutes les versions du document sauf la dernière mise à jour.
 
-![](.gitbook/assets/document8-1024x399-2-1%20%281%29.png)
+![](.gitbook/assets/document8-1024x399-2-1-1.png)
 

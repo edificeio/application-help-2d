@@ -12,19 +12,19 @@ Un wiki permet de **créer et publier des contenus \(texte, images…\) dans dif
 
 Pour créer un wiki, cliquez sur le bouton « Créer un wiki » dans la page d’accueil de l’appli.
 
-![](.gitbook/assets/w1-1-3-1%20%281%29.png)
+![](.gitbook/assets/w1-1-3-1-1.png)
 
 Saisissez un titre \(1\) et enregistrez si vous le souhaitez une image d’illustration du wiki \(sinon c’est l’icône par défaut qui est affichée\) \(2\).
 
 Cliquez enfin sur « Enregistrer » \(3\)
 
-![](.gitbook/assets/w2-1-1%20%284%29.png)
+![](.gitbook/assets/w2-1-1-4.png)
 
 ## Partager un Wiki
 
 Pour partager un Wiki avec d’autres utilisateurs, cliquez sur le correspondant au Wiki \(1\) puis sur le bouton « Partager » \(2\).
 
-![](.gitbook/assets/wiki_1-1024x490-3%20%281%29.png)
+![](.gitbook/assets/wiki_1-1024x490-3-1.png)
 
 Dans la fenêtre, vous pouvez donner aux utilisateurs de l’ENT différents droits d’accès à votre wiki. Pour cela, suivez les étapes suivantes :
 
@@ -67,7 +67,7 @@ Vous pouvez modifier une page. Pour cela, suivez les étapes suivantes :
 1. Cliquez sur le bouton « Modifier », en haut à droite de la page.
 2. Effectuez les modifications nécessaires et cliquez sur le bouton « Enregistrer ».
 
-![](.gitbook/assets/wiki-modifier-1-1024x410-2-1%20%281%29.png)
+![](.gitbook/assets/wiki-modifier-1-1024x410-2-1-1.png)
 
 ## Comparer deux versions de pages
 
@@ -78,7 +78,7 @@ Pour comparer deux versions de page, suivez les étapes suivantes :
 1. Cliquez sur le bouton « Plus » en haut à droite de la page.
 2. Cliquez sur le bouton « Versions »
 
-![](.gitbook/assets/wiki-version-1-1024x451-2%20%281%29.png)
+![](.gitbook/assets/wiki-version-1-1024x451-2-1.png)
 
 La liste des versions de la page s’affiche, avec pour chacune les informations suivantes :
 

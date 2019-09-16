@@ -33,11 +33,11 @@ Le contenu s’affiche.
 
 Pour accéder au profil de l’utilisateur qui vous a partagé le contenu ou l’information, cliquez sur son identifiant.
 
-![](.gitbook/assets/fil_1.2-1024x133-1-2-1%20%281%29.png)
+![](.gitbook/assets/fil_1.2-1024x133-1-2-1-1.png)
 
 Le profil de l’utilisateur s’affiche.
 
-![](.gitbook/assets/fil_3-1024x454-1-1-1%20%281%29.png)
+![](.gitbook/assets/fil_3-1024x454-1-1-1-1.png)
 
 ## Suppression et signalement des notifications
 
@@ -51,7 +51,7 @@ Vous pouvez :
 * Supprimer l’affichage de la notification de votre fil de nouveauté
 * Signaler la notification comme inappropriée à votre référent ENT
 
-![](.gitbook/assets/fil-action-2-1-1%20%281%29.png)
+![](.gitbook/assets/fil-action-2-1-1-1.png)
 
 Vous avez également la possibilité de ne pas diffuser une notification aux utilisateurs avec lesquels vous avez des droits de communication ou vous avez partagé du contenu. Depuis votre espace "Mon compte", vous retrouverez toutes les notifications que vous avez émises en cliquant sur l’onglet "Historique"
 
@@ -67,7 +67,7 @@ Les widgets se situent à gauche du fil de nouveautés. Ils sont composés des n
 
 * Le widget **Notes** \(pense-bêtes\) permet à l’utilisateur de saisir des notes personnelles conservées à chaque déconnexion/reconnexion
 
-![](.gitbook/assets/w1-1-1-1%20%281%29.png)
+![](.gitbook/assets/w1-1-1-1-1.png)
 
 * Le widget **Calendrier** affiche le mois en cours et la date du jour
 
@@ -79,19 +79,19 @@ Les widgets se situent à gauche du fil de nouveautés. Ils sont composés des n
 
 * Le widget **Flux RSS** permet d’afficher un flux d’informations issues d’un site externe. L’utilisateur peut récupérer l’adresse du flux de 3 sites externes maximum.
 
-![](.gitbook/assets/w4-1-2-1-1%20%281%29.png)
+![](.gitbook/assets/w4-1-2-1-1-1.png)
 
 * Le widget **Signets** permet de créer des liens redirigeant vers une adresse internet choisie dans un nouvel onglet. L’utilisateur saisit le nom du lien qui sera affiché, renseigne son adresse web et clique sur « Enregistrer ».
 
-![](.gitbook/assets/w5-1-1%20%281%29.png)
+![](.gitbook/assets/w5-1-1-1.png)
 
 * Le widget **Dictaphone** permet d’enregistrer des sons depuis le micro de son ordinateur. Les sons seront enregistrés dans l’espace documentaire de l’utilisateur.
 
-![](.gitbook/assets/w6-1-1%20%281%29.png)
+![](.gitbook/assets/w6-1-1-1.png)
 
 * Le widget **Applications préférées** permet d’afficher les applications favorites directement depuis la page d’accueil.
 
-![](.gitbook/assets/image11-1-1%20%281%29.png)
+![](.gitbook/assets/image11-1-1-1.png)
 
 Vous pouvez changer l’ordre d’apparition des widgets sur la page d’accueil en sélectionnant le widget puis en le déplaçant sur la page.
 
@@ -99,15 +99,15 @@ Vous pouvez changer l’ordre d’apparition des widgets sur la page d’accueil
 
 Le bandeau de navigation situé en haut de la page permet d’accéder à différents services, quelle que soit l’appli dans laquelle vous naviguez.
 
-![](.gitbook/assets/bandeau-2-2%20%281%29.png)
+![](.gitbook/assets/bandeau-2-2-1.png)
 
 Les différents services disponibles sont les suivants :
 
 * L’accès à votre compte ![](.gitbook/assets/tete-2-2.png)
 * Le bouton de retour à la page d’accueil ![](.gitbook/assets/image-4-1.png) 
 * Le bouton d’accès aux applis ![](.gitbook/assets/2018-11-30_17h20_14-1.png) 
-* Le bouton d’accès à l’appli Communautés ![](.gitbook/assets/c14-2-2-1%20%281%29.png)
-* Le bouton de recherche sur l’ENT ![](.gitbook/assets/loupe-1-1%20%281%29.png)
+* Le bouton d’accès à l’appli Communautés ![](.gitbook/assets/c14-2-2-1-1.png)
+* Le bouton de recherche sur l’ENT ![](.gitbook/assets/loupe-1-1-1.png)
 * Le bouton de notification de nouveaux messages reçus et d’accès à la messagerie ![](.gitbook/assets/m114-2-1-1.png)
 * Le bouton de déconnexion du portail ![](.gitbook/assets/d12-2-1-1.png)
 
@@ -135,11 +135,11 @@ Lorsque l’on clique sur l’icône d’ajout de pièces jointes, on peut chois
 
 La ou les pièces jointes sélectionnées apparaissent dans la zone d'édition dans un cadre dédié.
 
-![](.gitbook/assets/image8-1-1%20%281%29.png)
+![](.gitbook/assets/image8-1-1-1.png)
 
 Pour modifier les pièces jointes, faire un clic droit dans la zone grisée et cliquer sur "Modifier les fichiers" \(3\).
 
-![](.gitbook/assets/image9-1-1%20%281%29.png)
+![](.gitbook/assets/image9-1-1-1.png)
 
 ## L'éditeur d’images
 
@@ -171,7 +171,7 @@ La gestion des paramètres vous permet de modifier votre thème d’apparence ma
 
 Pour y accéder, cliquez sur le bouton à droite de votre fil de nouveautés.
 
-![](.gitbook/assets/f11-1-1-2%20%283%29.png)
+![](.gitbook/assets/f11-1-1-2-3.png)
 
 L’onglet de gestion de vos paramètres apparaît.
 
@@ -185,7 +185,7 @@ L’apparence de votre thème est modifiée.
 
 Pour décider d’afficher seulement certains widgets, désélectionnez ceux que vous ne souhaitez pas voir apparaître sur votre page d’accueil. Ils seront grisés dans la gestion de vos paramètres.
 
-![](.gitbook/assets/2018-08-24_14h29_49-2-2%20%283%29.png)
+![](.gitbook/assets/2018-08-24_14h29_49-2-2-3.png)
 
 ## Notifications externes
 
@@ -193,12 +193,12 @@ Votre réseau est doté d’un système de notification par mail qui permet aux 
 Chaque utilisateur peut modifier les notifications qu’il souhaite recevoir et la fréquence de chacune d’elles \(immédiate, quotidienne, hebdomadaire\).  
 Pour accéder à ce paramétrage, aller dans Mon compte \(1\) et cliquer sur le bouton "Gérer mes notifications externes" \(2\).
 
-![](.gitbook/assets/image1-1-1%20%281%29.png)
+![](.gitbook/assets/image1-1-1-1.png)
 
 La page de paramétrage des notifications externes permet de modifier l’adresse de réception des mails \(3\) et de choisir la fréquence d’envoi de chaque notification \(immédiat, quotidien, hebdomadaire, jamais\) \(4\).  
 Le détail des notifications disponibles par service est accessible en cliquant sur le nom du service dans la ligne correspondante \(5\).
 
-![](.gitbook/assets/image2-1-1-1%20%281%29.png)
+![](.gitbook/assets/image2-1-1-1-1.png)
 
 Lorsque les modifications sont terminées, cliquer sur "Enregistrer" en bas du tableau \(6\).
 
@@ -206,7 +206,7 @@ Lorsque les modifications sont terminées, cliquer sur "Enregistrer" en bas du t
 
 Une fois la notification reçue dans sa boîte mail personnelle, l’utilisateur peut cliquer sur le lien correspondant afin d’accéder au contenu. S’il n’est pas connecté, il devra saisir son identifiant et son mot de passe pour accéder à l’objet de la notification.
 
-![](.gitbook/assets/notiff-1-2%20%282%29.png)
+![](.gitbook/assets/notiff-1-2-2.png)
 
 ## Le moteur de recherche
 
@@ -232,7 +232,7 @@ Les ressources sont recherchées dans les catégories suivantes :
 Seules les ressources pour lesquelles l’utilisateur a un droit d’accès sont affichées dans le moteur de recherche.
 {% endhint %}
 
-![](.gitbook/assets/acces0011-1-2-1%20%281%29.png)
+![](.gitbook/assets/acces0011-1-2-1-1.png)
 
 Vous pouvez accéder à la page de recherche en cliquant sur l’icône de recherche \(1\) de la barre du menu principale. Saisissez les mots-clés dans la zone de saisie \(2\) et validez votre recherche en appuyant sur la touche « Entrée » ou en cliquant sur le bouton « GO ».
 
@@ -248,7 +248,7 @@ Après avoir pris connaissance du message, vous avez la possibilité de le suppr
 
 Vous retrouvez la fenêtre de partage dans la majeure partie des applications. Cette fenêtre vous permet de partager un contenu que vous avez crée ou sur lequel vous avez des droits de gestion. Le bouton "Partager" est accessible en règle générale dans le menu qui apparaît en bas de votre écran. Sélectionnez le contenu en question \(1\) puis cliquez sur "Partager" \(2\).
 
-![](.gitbook/assets/partager-1-2%20%281%29.png)
+![](.gitbook/assets/partager-1-2-1.png)
 
 Vous accédez à la fenêtre de partage dans laquelle vous allez pouvoir rechercher des utilisateurs. Renseignez les premières lettres de la personne, ou du groupe que vous recherchez \(1\). Dans la liste qui vous est proposée, sélectionnez le ou les utilisateurs recherchés \(2\). Si l’utilisateur ou le groupe n’apparaît pas, cliquez sur "Voir la suite" pour dérouler la liste de propositions \(3\).
 
@@ -260,11 +260,11 @@ Vous avez la possibilité d’enregistrer une liste d’utilisateurs ou de group
 
 Il vous suffit ensuite d’inscrire le nom que vous souhaitez donner au favori \(1\) et cliquer sur OK \(2\).
 
-![](.gitbook/assets/favori2-1-2-1%20%281%29.png)
+![](.gitbook/assets/favori2-1-2-1-1.png)
 
 Vous retrouverez ensuite ce favori de partage dans votre barre de recherche, au nom que vous avez enregistré. Vous pourrez ainsi partager plus facilement à un groupe de destinataires avec lequel vous avez l’habitude d'échanger régulièrement des contenus. Après avoir sélectionné votre favori de partage, il vous sera toujours possible de consulter la liste des membres du favori directement dans la fenêtre de partage. Cliquez sur la petite encoche à côté du nom de votre favori \(1\). Consultez les personnes ou les groupes rattachés à votre liste \(2\).
 
-![](.gitbook/assets/consultation-favori-2-2-1%20%281%29.png)
+![](.gitbook/assets/consultation-favori-2-2-1-1.png)
 
 {% hint style="info" %}
 Afin que votre partage soit pris en compte, n’oubliez pas de cliquer sur le bouton "Partager".
