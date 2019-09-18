@@ -1,8 +1,6 @@
 # Cahier de textes
 
-Devenez un maître de l’organisation avec l’appli **Cahier de Texte** ! Créez et organisez vos cours comme vous le souhaitez !
-
-Découvrez des fonctionnalités différentes adaptées au profil de l’utilisateur.
+Devenez un maître de l’organisation avec l’appli **Cahier de Texte** ! Créez et organisez vos cours comme vous le souhaitez ! Découvrez des fonctionnalités différentes adaptées au profil de l’utilisateur.
 
 ## Profil enseignant
 

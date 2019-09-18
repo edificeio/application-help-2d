@@ -1,9 +1,7 @@
 # Présentation
-L’application **Messagerie** permet d’envoyer simplement un message à un utilisateur ou à un groupe d’utilisateurs (les élèves d’une classe, le personnel de l'établissement, etc.) ayant un accès à l’ENT et, selon l’établissement, à des personnes extérieures à l’ENT.
-![](.gitbook/assets/000_écran_msg_vierge.png)
-La **réception** d’un nouveau message est visible dès la **page d’accueil**. Elle est indiquée par une **notification** dans le bandeau de navigation et dans le fil de nouveautés. Le nombre de messages non lus est indiqué devant chaque dossier.
+L’application **Messagerie** permet d’envoyer simplement un message à un utilisateur ou à un groupe d’utilisateurs (les élèves d’une classe, le personnel de l'établissement, etc.) ayant un accès à l’ENT et, selon l’établissement, à des personnes extérieures à l’ENT. La **réception** d’un nouveau message est visible dès la **page d’accueil**. Elle est indiquée par une **notification** dans le bandeau de navigation et dans le fil de nouveautés. Le nombre de messages non lus est indiqué devant chaque dossier.
 
-# Envoyer un message
+## Envoyer un message
 Dans le service **Messagerie**, en mode simplifié, cliquez sur le bouton **« Nouveau message »** présent en haut de la page.
 ![](.gitbook/assets/001_nouveau_message.png)
 Vous accédez à la fenêtre de création d’un message.
@@ -41,11 +39,13 @@ Toutes les modifications effectuées sont **automatiquement enregistrées**. Vou
 Une fois que votre message est prêt, vous pouvez l’envoyer.
 ![](.gitbook/assets/010_envoi.png)
 
-# Communiquer vers l’extérieur
+## Communiquer vers l’extérieur
+
 ### Savoir si vous êtes autorisés à communiquer avec l’extérieur
 Rendez-vous dans l’application de messagerie et cliquez sur **« Nouveau message »**. Si une infobulle signalée par un point d’exclamation s’affiche au niveau de la saisie des destinataires, cela signifie que vous pouvez communiquer avec l’extérieur. 
 ![](.gitbook/assets/011_verif_msg_exterieur.png)
 Si l’icône signalant cette infobulle n’apparaît pas, cela signifie que vous n’avez pas les droits pour communiquer avec l’extérieur. 
+
 ### Envoyer un message lorsque la communication vers l’extérieur est autorisée
 Pour envoyer un message vers des utilisateurs de l’ENT, saisissez les premières lettres du nom de l’utilisateur ou d’un groupe d’utilisateur et les suggestions correspondantes apparaissent. Cliquez sur les suggestions pour les sélectionner (reportez-vous à la section « Envoyer un message » pour plus de détail).
 Pour envoyer un message à une adresse extérieure à l’ENT, saisissez l’adresse du destinataire et validez en tapant sur la touche entrée.
@@ -54,7 +54,7 @@ Pour écrire à plusieurs destinataires, séparez leurs adresses par un point-vi
 Vous pouvez aussi saisie la seconde adresse après avoir validé la première. 
 ![](.gitbook/assets/013_saisie_adresse_exte2.png)
 
-# Visualiser mes messages reçus
+## Visualiser mes messages reçus
 Lorsque vous recevez un nouveau message, la **notification** est indiquée dans le bandeau de navigation supérieur.
 ![](.gitbook/assets/014_notification_bandeau.png)
 Une fois dans l’application de messagerie, le nombre de messages **non lus** est indiqué dans la bulle à droite de la mention « Boîte de réception ».
@@ -88,7 +88,7 @@ Cliquez sur les icônes de changement de vue pour modifier le mode d’affichage
 Cliquez pour passer en **affichage scindé** et voir simultanément la liste de vos messages et le contenu du message sélectionné. 
 ![](.gitbook/assets/022_vue_scindée.png)
 
-# Répondre, transférer, classer et supprimer un message
+## Répondre, transférer, classer et supprimer un message
 Lorsque vous avez cliqué sur le titre d’un message, vous accédez à son contenu. Le bouton **« Répondre »** en haut à droite vous permet de répondre à l’émetteur du message.
 ![](.gitbook/assets/023_répondre_message.png)
 La fenêtre de création d’un message s’ouvre. L’émetteur du message reçu est automatiquement ajouté en tant que destinataire.
@@ -99,7 +99,7 @@ Si vous avez reçu un message groupé vous pouvez cliquer sur le bouton « + » 
 (4) **Imprimer**.
 (5) **Supprimer** : Le message sera déplacé dans votre corbeille. Vous pourrez le supprimer définitivement ou le restaurer en le sélectionnant dans le dossier « Corbeille ».
 
-# Mode expert
+## Mode expert
 ### Accéder au mode expert (hors parents)
 Via la page d’accueil de l’ENT, cliquez sur votre avatar pour ouvrir votre profil.
 ![](.gitbook/assets/025_accès_profil.png)
