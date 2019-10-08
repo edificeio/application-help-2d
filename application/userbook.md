@@ -28,13 +28,13 @@ Vous pouvez remplacer votre identifiant de connexion par un alias, en cliquant s
 
 Il vous suffira ensuite de renseigner votre nouvel identifiant :
 
-![](.gitbook/assets/image-7-1-1.png)
+![](.gitbook/assets/image-7-1-1%20%281%29.png)
 
 ## Changer ma photo de profil
 
 Pour changer votre photo, cliquez directement sur la photo ou sur l’avatar par défaut.
 
-![](.gitbook/assets/m3-2.jpg)
+![](.gitbook/assets/m3-2%20%281%29.jpg)
 
 Vous pouvez choisir une photo à partir de votre espace personnel en la sélectionnant dans :
 
@@ -42,7 +42,7 @@ Vous pouvez choisir une photo à partir de votre espace personnel en la sélecti
 * « Documents partagés avec moi » : documents partagés par d’autres utilisateurs,
 * « Documents ajoutés dans les applis » : documents insérés dans une appli.
 
-![](.gitbook/assets/m4-1-1-3.png)
+![](.gitbook/assets/m4-1-1-3%20%281%29.png)
 
 Vous pouvez aussi choisir d’importer une photo à partir de votre poste de travail.
 
@@ -55,7 +55,7 @@ Sélectionnez un fichier dans votre poste de travail et cliquez sur ouvrir. Cliq
 
 Votre photo est maintenant visible dans votre compte et par tous les utilisateurs !
 
-![](.gitbook/assets/mon-compte-2-1-2-1.png)
+![](.gitbook/assets/mon-compte-2-1-2-1%20%281%29.png)
 
 Votre photo est visible dans le fil de nouveautés des autres utilisateurs lorsque vous leur partagez un contenu mais également lorsque vous postez un message dans un forum.
 
@@ -63,7 +63,7 @@ Votre photo est visible dans le fil de nouveautés des autres utilisateurs lorsq
 
 Pour changer votre mot de passe, cliquez sur « Modifier mon mot de passe ».
 
-![](.gitbook/assets/m7-1-1-1.png)
+![](.gitbook/assets/m7-1-1-1%20%281%29.png)
 
 Puis suivez les étapes suivantes :
 
@@ -88,7 +88,7 @@ En cas d’oubli de votre mot de passe, un lien de récupération vous sera envo
 
 Vous pouvez ajouter une devise à votre compte. Pour cela, remplissez le champ « Devise » sous vos coordonnées.
 
-![](.gitbook/assets/2018-10-19_10h53_59-2-1.png)
+![](.gitbook/assets/2018-10-19_10h53_59-2-1%20%281%29.png)
 
 Votre devise sera visible sur votre profil et apparaîtra dans le fil de nouveautés des autres utilisateurs de l’ENT lorsque vous la modifierez. Afin qu'elle soit valide, cliquez sur "Publier" une fois la devise écrite.
 
@@ -112,7 +112,7 @@ Vous pouvez modifier vos centres d’intérêt : animaux, cinéma, musique, endr
 
 Mais aussi d’autres commentaires dans « Divers ».
 
-![](.gitbook/assets/m15-1-1.png)
+![](.gitbook/assets/m15-1-1%20%281%29.png)
 
 ## Définir la visibilité de mes informations personnelles
 
@@ -122,14 +122,14 @@ En un seul clic, vous choisissez l’icône correspondant au niveau de visibilit
 
 * L’icône “Cadenas” signifie que l’information est privée, vous êtes le \(la\) seul\(e\) à la voir.
 
-![](.gitbook/assets/m16-1-1-1-1-1.png)
+![](.gitbook/assets/m16-1-1-1-1-1%20%281%29.png)
 
 * L’icône “Globe” signifie que l’information est visible des autres utilisateurs de l’ENT, en fonction des droits de communication dont ils disposent.
 
 ![](.gitbook/assets/m18-1-2-1.png)  
 Lorsque vous ajoutez ou modifiez le texte ou les paramètres de visibilité dans votre espace personnel, l’enregistrement est automatique.
 
-![](.gitbook/assets/m19-1-2-1-1.png)
+![](.gitbook/assets/m19-1-2-1-1%20%281%29.png)
 
 ## Notifications externes
 
@@ -145,14 +145,14 @@ La page de paramétrage des notifications externes permet de modifier l’adress
 
 Une fois la notification reçue dans sa boîte mail personnelle, l’utilisateur peut cliquer sur le lien correspondant afin d’accéder au contenu. S’il n’est pas connecté à l’ENT, il devra saisir son identifiant et son mot de passe pour accéder à l’objet de la notification.
 
-![](.gitbook/assets/notif-externe-reception-1-3-1.png)
+![](.gitbook/assets/notif-externe-reception-1-3-1%20%281%29.png)
 
 ## Historique des notifications émises
 
 Vous avez la possibilité de ne pas diffuser une notification aux utilisateurs avec lesquels vous avez des droits de communication ou vous avez partagé du contenu.  
 Depuis votre espace "Mon compte", vous retrouverez toutes les notifications que vous avez émis en cliquant sur l’onglet "Historique".
 
-![](.gitbook/assets/fil-historique-1-3-1.png)
+![](.gitbook/assets/fil-historique-1-3-1%20%281%29.png)
 
 En survolant la notification avec la souris, vous verrez apparaître une flèche sur la droite de la notification. En cliquant sur cette flèche, une action apparaît vous permettant de supprimer définitivement la notification.
 

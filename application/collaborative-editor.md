@@ -22,7 +22,7 @@ Cliquez enfin sur « Enregistrer » \(4\).
 
 Pour partager un Pad avec d’autres utilisateurs, cliquez sur la case à cocher correspondant à votre Pad \(1\) puis sur le bouton « Partager » \(2\).
 
-![](.gitbook/assets/partagepad-2-1.png)
+![](.gitbook/assets/partagepad-2-1%20%281%29.png)
 
 Dans la fenêtre, vous pouvez donner aux utilisateurs différents droits d’accès à votre Pad. Pour cela, suivez les étapes suivantes :
 
@@ -42,7 +42,7 @@ Les droits de partage que vous pouvez attribuer aux autres utilisateurs sont les
 
 Pour travailler avec un Pad partagé, il vous suffit de saisir le texte qui sera transmis automatiquement à tous les collaborateurs en ligne sur ce même Pad.
 
-![](.gitbook/assets/travaillerpad-2-1.png)
+![](.gitbook/assets/travaillerpad-2-1%20%281%29.png)
 
 1. Saisissez du texte dans votre Pad.
 2. Dès lors qu’un collaborateur contribue, sa contribution s’affiche en temps réel dans une couleur différente.

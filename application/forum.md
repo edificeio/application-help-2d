@@ -20,7 +20,7 @@ Pour créer un forum, cliquez sur « Créer une catégorie ».
 2. Cliquez sur l’image pour modifier la vignette
 3. Cliquez sur « Sauvegarder »
 
-![](.gitbook/assets/a210-1-1.png)
+![](.gitbook/assets/a210-1-1%20%281%29.png)
 
 La catégorie de forum a été créée mais n’est pas encore visible par les autres utilisateurs. Pour la partager, suivez les étapes suivantes :
 
@@ -30,7 +30,7 @@ La catégorie de forum a été créée mais n’est pas encore visible par les a
 
 Pour valider, cliquez sur le bouton "Partager", puis "Terminer".
 
-![](.gitbook/assets/partage-forum-2-3.png)
+![](.gitbook/assets/partage-forum-2-3%20%281%29.png)
 
 Les différents droits que vous pouvez attribuer aux autres utilisateurs de l’ENT sur la catégorie de forum sont les suivants :
 
@@ -48,11 +48,11 @@ Pour créer une discussion :
 1. Cliquez sur la case à cocher de la catégorie de forum dans laquelle vous souhaitez créer une discussion
 2. Cliquez sur « Nouvelle discussion »
 
-![](.gitbook/assets/f21-3.png)
+![](.gitbook/assets/f21-3%20%281%29.png)
 
 Dans la fenêtre qui s’ouvre, renseignez le titre de la discussion \(3\), saisissez le premier message \(2\) et cliquez sur « Envoyer » \(3\).
 
-![](.gitbook/assets/creer-une-discussion1-1024x445-3.png)
+![](.gitbook/assets/creer-une-discussion1-1024x445-3%20%281%29.png)
 
 ## Publier un message
 
@@ -90,5 +90,5 @@ Vous êtes gestionnaire d’une discussion lorsque vous l’avez créée ou lors
 
 Pour gérer une discussion, cliquez sur la case à cocher qui y est associée.
 
-![](.gitbook/assets/f22-2-1.png)
+![](.gitbook/assets/f22-2-1%20%281%29.png)
 

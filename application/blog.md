@@ -8,7 +8,7 @@ L’appli **Blog** permet de publier facilement des informations, en y intégran
 
 En cas de contribution de la part d’autres utilisateurs, le gestionnaire du blog choisit le **circuit de publication** souhaité : soit il relit les billets soumis par les autres utilisateurs avant de les publier, soit les billets sont publiés immédiatement quel qu’en soit l’auteur.
 
-![](.gitbook/assets/blog_1-1024x478-2-2-2.png)
+![](.gitbook/assets/blog_1-1024x478-2-2-2%20%281%29.png)
 
 ## Créer un blog privé
 
@@ -36,7 +36,7 @@ Le blog a été créé mais n’est pas encore visible par les autres utilisateu
 1. Cliquez sur le blog à partager \(1\)
 2. Cliquez sur le bouton « Partager » \(2\)
 
-![](.gitbook/assets/2019-07-12_17h37_18.png)
+![](.gitbook/assets/2019-07-12_17h37_18%20%281%29.png)
 
 Pour le partager, suivez les étapes suivantes :
 
@@ -46,7 +46,7 @@ Pour le partager, suivez les étapes suivantes :
 
 Pour valider, cliquez sur le bouton "Partager".
 
-![](.gitbook/assets/blog-2-1.png)
+![](.gitbook/assets/blog-2-1%20%281%29.png)
 
 Les différents droits que vous pouvez attribuer aux autres utilisateurs sont les suivants :
 
@@ -57,19 +57,19 @@ Les différents droits que vous pouvez attribuer aux autres utilisateurs sont le
 
 Sur les vignettes de blog, des icônes vous permettent facilement de connaitre vos droit sur les contenus :
 
-* ![](.gitbook/assets/eye%20%281%29.png) : Consulter
-* ![](.gitbook/assets/pencil%20%281%29.png) : Contribuer
-* ![](.gitbook/assets/cog%20%281%29.png) : Gérer
+* ![](.gitbook/assets/eye-1.png) : Consulter
+* ![](.gitbook/assets/pencil-1.png) : Contribuer
+* ![](.gitbook/assets/cog-1.png) : Gérer
 
-De plus, concernant les blogs sur lesquels vous êtes propriétaire, l'icone suivante vous permet de savoir si le contenu a déjà été partagé : ![](.gitbook/assets/share-1%20%282%29.png)
+De plus, concernant les blogs sur lesquels vous êtes propriétaire, l'icone suivante vous permet de savoir si le contenu a déjà été partagé : ![](.gitbook/assets/share-1-2.png)
 
-![](.gitbook/assets/2019-07-12_17h47_38.png)
+![](.gitbook/assets/2019-07-12_17h47_38%20%281%29.png)
 
 ## Créer un blog public
 
 Pour créer un blog accessible à des personnes extérieures à l'ENT, il vous faut retourner sur la page de création de blog.
 
-![](.gitbook/assets/2019-07-12_16h09_47.png)
+![](.gitbook/assets/2019-07-12_16h09_47%20%281%29.png)
 
 La page des propriétés du blog s'ouvre et vous pouvez y trouver une rubrique nommée "Adresse de mon blog".
 
@@ -91,7 +91,7 @@ Sur la vignette du blog, le symbole suivant vous informe que le contenu est publ
 
 L'URL du blog public est visible sous l'image du blog. L'adresse apparaît tronquée. Par un clic-droit, vous pouvez récupérer l'URL en choisissant l'option "Copier l'adresse du lien".
 
-![](.gitbook/assets/2019-07-11_11h16_13-1.png)
+![](.gitbook/assets/2019-07-11_11h16_13-1%20%281%29.png)
 
 ## Organiser ses blogs
 
@@ -104,7 +104,7 @@ L'URL du blog public est visible sous l'image du blog. L'adresse apparaît tronq
    * **Mes blogs**, qui est le dossier principal, dans lequel vous pourrez créer tous vos sous-dossiers \(grâce au bouton **Créer un dossier\)**
    * **Corbeille** où vous retrouverez les blogs que vous aurez supprimé, pour éviter toute suppression définitive involontaire
 
-![](.gitbook/assets/2019-07-11_11h35_16-1.png)
+![](.gitbook/assets/2019-07-11_11h35_16-1%20%281%29.png)
 
 Après avoir créer vos différents dossiers, sélectionnez \(1\) le ou les blogs que vous voulez mettre dans vos dossiers, puis cliquez sur le bouton "Déplacer" \(2\).
 
@@ -112,7 +112,7 @@ Après avoir créer vos différents dossiers, sélectionnez \(1\) le ou les blog
 
 Une fenêtre s'ouvrira, vous permettant de déplacer le blog sélectionné dans un dossier existant ou d'en créer un nouveau. Il vous est également possible de déplacer des dossiers.
 
-![](.gitbook/assets/2019-07-11_11h29_47-1.png)
+![](.gitbook/assets/2019-07-11_11h29_47-1%20%281%29.png)
 
 ## Gérer le circuit de publication
 
@@ -127,14 +127,14 @@ Pour gérer le circuit de publication de votre blog, ouvrez la fenêtre de parta
 
 Une fois votre blog créé, vous pouvez publier un billet. Pour cela, cliquez sur le bouton « Créer un billet » présent en haut de l’écran.
 
-![](.gitbook/assets/blog_4-1024x159-2-1-1-1.png)
+![](.gitbook/assets/blog_4-1024x159-2-1-1-1%20%281%29.png)
 
 L’outil de création du billet s’affiche dans la page :
 
 1. Saisissez le titre
 2. Rédigez le contenu du billet.
 
-![](.gitbook/assets/2018-08-24_15h13_04-1-1-1.png)
+![](.gitbook/assets/2018-08-24_15h13_04-1-1-1%20%281%29.png)
 
 Une fois la saisie terminée, vous avez différents boutons d'action \(3\) :
 
@@ -152,9 +152,9 @@ Si vous avez activé un circuit de publication \(billets à soumettre pour les c
 
 Cliquez la case à cocher des billets soumis pour afficher les billets rédigés par les contributeurs du blog.
 
-![](.gitbook/assets/blog_51-1-1-1.png)
+![](.gitbook/assets/blog_51-1-1-1%20%281%29.png)
 
-Vous pouvez réaliser les actions suivantes en cliquant sur « Publier » ou sur l’icône ![](.gitbook/assets/unnamed-file-2-1-2.png) :
+Vous pouvez réaliser les actions suivantes en cliquant sur « Publier » ou sur l’icône ![](.gitbook/assets/unnamed-file-2-1-2%20%281%29.png) :
 
 * **Publier** le billet sans mise à jour : le billet est alors visible par tous les utilisateurs ayant accès au blog
 * **Modifier** le billet avant publication : vous accédez à l’éditeur de texte pour apporter vos modifications
@@ -166,11 +166,11 @@ Vous pouvez réaliser les actions suivantes en cliquant sur « Publier » ou sur
 
 Lorsque vous naviguez sur votre blog, vous avez la possibilité de l'imprimer, en cliquant sur le bouton "Imprimer le blog" :
 
-![](.gitbook/assets/imprimer-blog-2-2.png)
+![](.gitbook/assets/imprimer-blog-2-2%20%281%29.png)
 
 Une option vous permettra de choisir si vous souhaitez imprimer le blog avec les commentaires ou non :
 
-![](.gitbook/assets/2018-10-19_12h42_55-2-1.png)
+![](.gitbook/assets/2018-10-19_12h42_55-2-1%20%281%29.png)
 
 ## Exporter un blog en PDF
 
@@ -180,17 +180,17 @@ Si vous souhaitez exporter votre blog sous la forme d'un fichier PDF, il vous fa
 
 Dans le champ "Destination", choisissez l'option Enregistrer au format PDF
 
-![](.gitbook/assets/2019-07-11_15h18_39%20%281%29.png)
+![](.gitbook/assets/2019-07-11_15h18_39-1.png)
 
 * Pour Internet Explorer, Microsoft Edge et Mozilla Firefox :
 
 Dans le champ "Nom", choisissez l'option "Microsoft Print to PDF"
 
-![](.gitbook/assets/2019-07-11_15h18_03.png)
+![](.gitbook/assets/2019-07-11_15h18_03%20%281%29.png)
 
 * Pour Safari :
 
 Cliquez sur la flèche vers le bas situé à coté du PDF puis choisissez l'option "Enregistrer au format PDF"
 
-![](.gitbook/assets/capture-decran-2019-07-11-a-15.36.46.png)
+![](.gitbook/assets/capture-decran-2019-07-11-a-15.36.46%20%281%29.png)
 

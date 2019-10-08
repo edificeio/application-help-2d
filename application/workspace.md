@@ -23,7 +23,7 @@ Pour accéder à l’appli Espace Documentaire, cliquez sur l’icône correspon
 Pour **accéder au menu d’option** d’un fichier ou d’un dossier, vous devez **cliquer une fois** dessus. Le menu s’affiche ensuite en bas de la page et vous pouvez choisir les actions à effectuer.  
 Vous devez cliquer une nouvelle fois sur le fichier ou le dossier pour le désélectionner.
 
-![](.gitbook/assets/2d-espace-documentaire-1.png)
+![](.gitbook/assets/2d-espace-documentaire-1%20%281%29.png)
 
 Pour **visualiser un fichier** sur la visionneuse de l’ENT ou pour **ouvrir un dossier**, vous devez **double-cliquer dessus**.
 
@@ -43,15 +43,15 @@ Dans la nouvelle fenêtre, suivez les étapes suivantes :
 1. Cliquez sur « Parcourir » et sélectionnez sur votre ordinateur le\(s\) document\(s\) que vous souhaitez enregistrer dans l’espace documentaire. Vous pouvez également effectuer un glisser-déposer multiple.
 2. Cliquez sur « Importer ».
 
-![](.gitbook/assets/fenetre-import-vide-1-4.png)
+![](.gitbook/assets/fenetre-import-vide-1-4%20%281%29.png)
 
-![](.gitbook/assets/fenetre-import-full-1-1-1.png)
+![](.gitbook/assets/fenetre-import-full-1-1-1%20%281%29.png)
 
 **Vous pouvez importer plusieurs fichiers en une seule fois, si vous en sélectionnez plusieurs sur votre ordinateur.**
 
 Vous pouvez aussi importer un document ou plusieurs documents en effectuant un glisser-déposer. Pour cela, sélectionnez le ou les documents à déplacer depuis votre espace de travail et glissez-le vers son nouvel emplacement !
 
-![](.gitbook/assets/image-8-1.png)
+![](.gitbook/assets/image-8-1%20%281%29.png)
 
 ## Partager un document ou un dossier
 
@@ -70,19 +70,19 @@ La fenêtre de partage apparaît. Pour attribuer des droits à d’autres utilis
 
 Cliquez ensuite sur le bouton "Partager"
 
-![](.gitbook/assets/partagedocumentaire-3.png)
+![](.gitbook/assets/partagedocumentaire-3%20%281%29.png)
 
 ## Déplacer un document ou un dossier
 
 Vous pouvez déplacer vos documents et vos dossiers facilement dans votre espace documentaire. Pour cela, sélectionnez le document ou le dossier à déplacer \(1\) et glissez-le vers son nouvel emplacement \(2\).
 
-![](.gitbook/assets/espace-doc-7-1-2-1.png)
+![](.gitbook/assets/espace-doc-7-1-2-1%20%281%29.png)
 
 Vous ne pouvez pas déplacer un fichier du dossier « Mes documents » vers les dossiers « Documents partagés », « Documents ajoutés dans les applis » ou même à la corbeille.
 
 Le dossier se trouve maintenant à l’emplacement choisi.
 
-![](.gitbook/assets/doc-glisser-deposer-2-1024x273-1-1-1.png)
+![](.gitbook/assets/doc-glisser-deposer-2-1024x273-1-1-1%20%281%29.png)
 
 ## Connaître l’espace de stockage disponible
 
@@ -96,19 +96,19 @@ Vous pouvez mettre à jour un document tout en gardant une trace de ses précéd
 
 Pour mettre à jour un document, cliquer une fois sur le document pour qu’il soit surligner en bleu. La barre d’action s’affiche en bas de page, cliquez sur le bouton « Versions ».
 
-![](.gitbook/assets/doc-selection-fichier-2-2-1-1.png)
+![](.gitbook/assets/doc-selection-fichier-2-2-1-1%20%281%29.png)
 
 Une nouvelle page s’affiche, cliquez sur le bouton « Nouvelle version ».
 
-![](.gitbook/assets/document5-1024x328-1-2-1.png)
+![](.gitbook/assets/document5-1024x328-1-2-1%20%281%29.png)
 
 Choisissez le document depuis votre poste de travail et cliquez sur « Ouvrir ».
 
-![](.gitbook/assets/document6-1024x720-2-1-1.png)
+![](.gitbook/assets/document6-1024x720-2-1-1%20%281%29.png)
 
 Le document a été mis à jour.
 
-![](.gitbook/assets/document7-1024x408-1-3.png)
+![](.gitbook/assets/document7-1024x408-1-3%20%281%29.png)
 
 Le document sera renommé avec le libellé du dernier document importé.
 
@@ -121,7 +121,7 @@ Pour visualiser les anciennes versions d’un document, suivez les étapes suiva
 1. Cliquez une fois sur le document pour qu’il soit surligné en bleu
 2. Cliquez sur le bouton "Versions" en bas de page
 
-![](.gitbook/assets/doc-selection-fichier-1-1.png)
+![](.gitbook/assets/doc-selection-fichier-1-1%20%281%29.png)
 
 Toutes les versions du document s’affichent. Chaque version permet d’accéder aux informations suivantes :
 

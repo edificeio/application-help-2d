@@ -8,7 +8,7 @@ L’outil de réservation de ressources vous permet de faire des **demandes de r
 
 Les ressources sont créées par des **gestionnaires** qui peuvent mettre en place un **principe de validation des réservations** pour certaines ressources et définir plusieurs paramètres \(comme par exemple la définition de **plages horaires** de réservations, la date à partir de laquelle une réservation peut être effectuée, etc.\).
 
-![](.gitbook/assets/rbs_presentation-1.png)
+![](.gitbook/assets/rbs_presentation-1%20%281%29.png)
 
 ## Consulter les ressources disponibles
 
@@ -24,7 +24,7 @@ La vue calendrier est accessible en cliquant sur l'icône calendrier \(1\). L’
 * Filtre pour afficher uniquement **ses propres réservations**\(5\) :
 * Filtre pour afficher uniquement les réservations **en attente de validation** \(6\)
 
-![](.gitbook/assets/rbs-vue-calendrier-1.png)
+![](.gitbook/assets/rbs-vue-calendrier-1%20%281%29.png)
 
 Chaque réservation est matérialisée sur le calendrier par un pavé de la même couleur que la ressource concernée.
 
@@ -35,7 +35,7 @@ Chaque réservation est matérialisée sur le calendrier par un pavé de la mêm
 
 Pour visualiser le détail d’une réservation, il suffit de cliquer sur la réservation en question, pour afficher une fenêtre \(pop-up\) qui présente plusieurs sections. Chaque section se déplie en cliquant sur le titre.
 
-![](.gitbook/assets/rbs-vue-calendrier-2-2.png)
+![](.gitbook/assets/rbs-vue-calendrier-2-2%20%281%29.png)
 
 ![](.gitbook/assets/r3.png)
 
@@ -52,7 +52,7 @@ Il bénéficie par ailleurs des mêmes filtres que sur la vue Calendrier. Le tri
 
 Pour visualiser le détail d’une réservation, il suffit de cliquer sur la réservation en question dans la liste, pour afficher une fenêtre \(pop-up\) qui donne toutes les informations.
 
-![](.gitbook/assets/r3-1-2.png)
+![](.gitbook/assets/r3-1-2%20%281%29.png)
 
 ## Créer une demande de réservation
 
@@ -70,13 +70,13 @@ Il est possible de créer une demande de réservation ponctuelle ou périodique.
 
 La première section permet de choisir l'établissement \(1\), le type de ressource \(2\) et la ressource à réserver \(3\). La description de la ressource est indiquée \(4\). L’utilisateur peut également voir les noms des valideurs \(5\) si les réservations pour cette ressource sont soumises à validation.
 
-![](.gitbook/assets/r8-1-1.png)
+![](.gitbook/assets/r8-1-1%20%281%29.png)
 
 **Réservation ponctuelle**
 
 Dans le cas d’une réservation ponctuelle, l’utilisateur choisit le créneau de sa demande. L’utilisateur choisit le créneau de réservation \(ce créneau peut être en horaire libre ou sur des plages définies par l'établissement\) \(1\), indique le motif de la réservation \(2\) et d’enregistrer sa demande. \(3\)
 
-![](.gitbook/assets/r12-1-1.png)
+![](.gitbook/assets/r12-1-1%20%281%29.png)
 
 Si l’utilisateur souhaite modifier sa demande ponctuelle en demande périodique, il lui suffit de cliquer sur la case à cocher "réservation périodique" \(4\).
 
@@ -119,7 +119,7 @@ Pour valider une réservation périodique \(qui comporte plusieurs créneaux\), 
 
 * De valider/refuser d’un seul coup la totalité des créneaux, en cochant la case correspondant à la réservation \(1\) puis en cliquant sur le bouton d’action en bas de l’écran : supprimer, valider et refuser \(2\) :
 
-![](.gitbook/assets/rbs-validation-periodique-2.png)
+![](.gitbook/assets/rbs-validation-periodique-2%20%281%29.png)
 
 * De déplier la réservation \(1\) pour visualiser les différents créneaux qui la composent en cliquant sur l’icône suivant:
 
@@ -149,7 +149,7 @@ L’étape suivante consiste à définir les droits d’accès et de gestion
 * Sélectionnez le type de ressources nouvellement créé \(1\)
 * Cliquez sur Modifier \(2\)
 
-![](.gitbook/assets/rdr-edition-type-de-ressources_1-2-1.png)
+![](.gitbook/assets/rdr-edition-type-de-ressources_1-2-1%20%281%29.png)
 
 * Recherchez successivement les utilisateurs et/ou groupes \(1\) auxquels vous souhaitez donner accès à cette ressource
 * Sélectionnez les utilisateurs en question \(2\)
@@ -157,7 +157,7 @@ L’étape suivante consiste à définir les droits d’accès et de gestion
 
 Pour valider, cliquez sur "Enregistrer".
 
-![](.gitbook/assets/rdr-edition-type-de-ressources-2-1.png)
+![](.gitbook/assets/rdr-edition-type-de-ressources-2-1%20%281%29.png)
 
 Les différents droits que vous pouvez attribuer aux autres utilisateurs sont les suivants :
 
@@ -170,7 +170,7 @@ Les différents droits que vous pouvez attribuer aux autres utilisateurs sont le
 
 Une fois les types de ressources définis, il faut créer les ressources. Pour cela, cliquez sur le bouton d’action « Créer une ressource »
 
-![](.gitbook/assets/rdr-creation-ressource-1-3.png)
+![](.gitbook/assets/rdr-creation-ressource-1-3%20%281%29.png)
 
 La ressource doit ensuite être caractérisée par:
 
@@ -195,7 +195,7 @@ Pour exporter les réservations :
 
 * Cliquez sur le bouton d'Export \(1\)
 
-![](.gitbook/assets/rbs-export1.png)
+![](.gitbook/assets/rbs-export1%20%281%29.png)
 
 * Choisissez le type d'export \(iCal ou PDF\) \(2\)
 
@@ -207,11 +207,11 @@ Pour exporter les réservations :
 
 * Choisissez la période \(4\). L'export des réservations se limite à une plage de 12 semaines
 
-![](.gitbook/assets/rbs-export4.png)
+![](.gitbook/assets/rbs-export4%20%281%29.png)
 
 * Choisissez le type de vue \(Mois, semaine ou jour\) pour l'export PDF uniquement \(5\)
 
-![](.gitbook/assets/rbs-export5.png)
+![](.gitbook/assets/rbs-export5%20%281%29.png)
 
 * Cliquez sur Exporter \(6\). L'export se télécharge ensuite.
 

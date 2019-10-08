@@ -8,7 +8,7 @@ Cet outil vous permet de **diffuser facilement une information** \(comme le dér
 
 Lorsque vous publiez une actualité, vous choisissez les utilisateurs ou les groupes de personnes avec lesquels vous souhaitez partager l’information. Les personnes concernées reçoivent une **notification** dans leur **fil de nouveautés** et voient apparaître l’actualité dans le **widget Actualités** sur la page d’accueil.
 
-![](.gitbook/assets/actu_11-1024x475-1-1.png)
+![](.gitbook/assets/actu_11-1024x475-1-1%20%281%29.png)
 
 ## Créer un fil d’actualités
 
@@ -20,9 +20,9 @@ Pour créer un fil d’actualités, suivez les étapes suivantes :
 4. Choisissez une image d’illustration
 5. Cliquez sur « Sauvegarder »
 
-![](.gitbook/assets/actu_2_1-1024x318-1-1.png)
+![](.gitbook/assets/actu_2_1-1024x318-1-1%20%281%29.png)
 
-![](.gitbook/assets/a28-2-1.png)
+![](.gitbook/assets/a28-2-1%20%281%29.png)
 
 ![](.gitbook/assets/a37-1-1.png)
 
@@ -38,9 +38,9 @@ Vous pouvez maintenant partager votre fil d’actualités :
 2. Sélectionnez la case à cocher du fil à partager
 3. Cliquez sur « Partager »
 
-![](.gitbook/assets/actu_2_1-1024x318-1-3.png)
+![](.gitbook/assets/actu_2_1-1024x318-1-3%20%281%29.png)
 
-![](.gitbook/assets/actu_3_1-1024x633-4.png)
+![](.gitbook/assets/actu_3_1-1024x633-4%20%281%29.png)
 
 Pour partager le fil d’actualités avec d’autres utilisateurs, suivez les étapes suivantes :
 
@@ -50,7 +50,7 @@ Pour partager le fil d’actualités avec d’autres utilisateurs, suivez les é
 
 Pour valider, cliquez sur le bouton "Partager".
 
-![](.gitbook/assets/fil-actu-2-1-1.png)
+![](.gitbook/assets/fil-actu-2-1-1%20%281%29.png)
 
 Les différents droits que vous pouvez attribuer aux autres utilisateurs du réseau sur le fil d’actualités sont les suivants :
 
@@ -89,7 +89,7 @@ Pour attribuer ces droits, suivez les étapes suivantes :
 
 Pour valider, cliquez sur le bouton "Partager".
 
-![](.gitbook/assets/actus-1-1.png)
+![](.gitbook/assets/actus-1-1%20%281%29.png)
 
 Les différents droits que vous pouvez attribuer aux autres utilisateurs sur l’actualité sont les suivants :
 

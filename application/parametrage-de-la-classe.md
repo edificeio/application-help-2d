@@ -8,7 +8,11 @@ Cette application permet notamment de créer et gérer de nouveaux comptes \(él
 
 Pour accéder à l’application Paramétrage de la classe, cliquez sur l’icône correspondante dans la page « Mes applis ».
 
-Afin de pouvoir visualiser les utilisateurs et accéder normalement à l'application, il faut obligatoirement être de profil enseignant et être rattaché à une classe minimum.
+![](.gitbook/assets/2019-10-08_13h48_14.png)
+
+![](.gitbook/assets/2019-10-08_13h52_10.png)
+
+Afin de pouvoir visualiser les utilisateurs et accéder normalement à l'application, il faut obligatoirement être de profil enseignant et être rattaché à, au moins, une classe.
 
 ## Créer des utilisateurs dans la classe
 
@@ -16,37 +20,41 @@ Vous accédez à la page de gestion de votre classe, qui vous permet de consulte
 
 Il est alors possible d’ajouter des élèves, des parents, des enseignants et des personnels en cliquant sur le bouton "Ajouter des utilisateurs" \(1\) pour la classe sélectionnée \(2\).
 
+![](.gitbook/assets/2019-10-08_14h26_55.png)
+
 Une interface propose trois options pour ajouter des utilisateurs à votre classe :
 
-Créer des utilisateurs \(1\) : vous permet de créer manuellement des utilisateurs
+* Créer des utilisateurs \(1\) : vous permet de créer manuellement des utilisateurs
+* Importer un fichier \(2\) : vous permet d'importer un fichier CSV issus de votre base pour créer tous vos élèves, ou d'importer un fichier en se basant sur les modèles fournis
+* Rechercher des utilisateurs \(3\) : vous permet de rechercher des utilisateurs déjà présents sur l'école
 
-Importer un fichier \(2\) : vous permet d'importer un fichier CSV issus de votre base pour créer tous vos élèves, ou d'importer un fichier en se basant sur les modèles fournis
+![](.gitbook/assets/2019-09-24_17h04_24.png)
 
-Rechercher des utilisateurs \(3\) : vous permet de rechercher des utilisateurs déjà présents sur l'école
+    1.Si vous souhaitez créer manuellement des utilisateurs, une interface vous propose de créer l'utilisateur de votre choix en renseignant plusieurs informations, obligatoires ou non, en fonction du profil :
 
-1. Si vous souhaitez créer manuellement des utilisateurs, une interface vous propose de créer l'utilisateur de votre choix en renseignant plusieurs informations, obligatoires ou non, en fonction du profil :
+* Profil \(1\)
+* Nom \(obligatoire\) \(2\)
+* Prénom \(obligatoire\) \(3\)
+* Date de naissance \(obligatoire uniquement pour les élèves\) \(4\)
+* Courriel \(5\)
+* Rechercher un élève : uniquement pour les responsables légaux, afin de relier l'élève au responsable créé manuellement\(6\)
 
-Profil \(1\)
-
-Nom \(obligatoire\) \(2\)
-
-Prénom \(obligatoire\) \(3\)
-
-Date de naissance \(obligatoire uniquement pour les élèves\) \(4\)
-
-Courriel \(5\)
-
-Rechercher un élève : uniquement pour les responsables légaux, afin de relier l'élève au responsable créé manuellement\(6\)
+![](.gitbook/assets/2019-09-24_17h05_57.png)
 
 Si vous avez créé un utilisateur existant déjà sur votre établissement, une interface de détection du doublon de compte vous propose trois actions :
 
-Déplacer dans ma classe \(1\) : le compte sera détaché de son ancienne classe et rattaché à sa nouvelle classe
+* Déplacer dans ma classe \(1\) : le compte sera détaché de son ancienne classe et rattaché à sa nouvelle classe
+* Rattacher aux deux classes \(2\) : le compte sera rattaché à la classe et conservera son rattachement à l'autre classe
+* Créer l'utilisateur \(3\) : le compte sera créé dans la classe
 
-Rattacher aux deux classes \(2\) : le compte sera rattaché à la classe et conservera son rattachement à l'autre classe
+![](.gitbook/assets/2019-09-24_17h06_48.png)
 
-Créer l'utilisateur \(3\) : le compte sera créé dans la classe
+    2.Si vous souhaitez importer des utilisateurs à partir d'un fichier, vous avez la possibilité d'exporter votre fichier CSV pour votre classe afin de l'importer depuis l'interface prévue à cet effet.
 
-1. Si vous souhaitez importer des utilisateurs à partir d'un fichier, vous avez la possibilité d'exporter votre fichier CSV pour votre classe afin de l'importer depuis l'interface prévue à cet effet.
+Vous pouvez utiliser les fichiers modèles fournis sur les liens ci-après :
+
+* Fichier élève : [https://neoconnect.opendigitaleducation.com/admin/public/assets/CSV\_Eleves.csv](https://neoconnect.opendigitaleducation.com/admin/public/assets/CSV_Eleves.csv)
+* Fichier responsable légal : [https://neoconnect.opendigitaleducation.com/admin/public/assets/CSV\_Parents.csv](https://neoconnect.opendigitaleducation.com/admin/public/assets/CSV_Parents.csv)
 
 Pour que les élèves soient bien rattachés aux parents, vérifiez que le nom et prénom de l’élève soient correctement saisis dans le fichier des parents.
 
@@ -54,61 +62,84 @@ Attention : pour le bon fonctionnement de ces manipulations, les élèves doiven
 
 Pour créer un compte enseignant ou un compte personnel, il n'est pas possible de fonctionner par import de fichier. Vous devrez créer ces comptes de manière manuelle, comme vu précédemment.
 
-1. Si les comptes utilisateurs que vous devez rattacher à votre classe sont déjà présents sur votre établissement, vous pouvez accéder à une interface qui vous permet de rechercher les utilisateurs.
+    3.Si les comptes utilisateurs que vous devez rattacher à votre classe sont déjà présents sur votre établissement, vous pouvez accéder à une interface qui vous permet de rechercher les utilisateurs.
 
-Classe sélectionnée \(1\) : Vous pouvez y voir les classes auxquelles vous êtes rattachés et les utilisateurs qui ne sont rattachés à aucune classe.
-
-Barre de recherche permet de rechercher des utilisateurs \(2\)
-
-Filtres de profil \(3\)
-
-Liste des utilisateurs rattachés à la classe sélectionnée \(4\)
-
-Liste des utilisateurs que vous voulez rattacher à votre classe \(5\)
+* Classe sélectionnée \(1\) : Vous pouvez y voir les classes auxquelles vous êtes rattachés et les utilisateurs qui ne sont rattachés à aucune classe.
+* Barre de recherche permet de rechercher des utilisateurs \(2\)
+* Filtres de profil \(3\)
+* Liste des utilisateurs rattachés à la classe sélectionnée \(4\)
+* Liste des utilisateurs que vous voulez rattacher à votre classe \(5\)
 
 Après avoir complété la liste des utilisateurs que vous voulez rattacher à votre classe, cliquez sur "Ajouter à ma classe" \(6\) pour que l'action soit confirmée.
+
+![](.gitbook/assets/2019-10-08_14h38_11.png)
 
 ## Créer des fiches de connexion
 
 Dans l'interface de l'application, vous disposez d'un bouton pour vous permettre de créer des fiches de connexion \(1\) sur la classe sélectionnée \(2\). Ces fiches de connexion peuvent être effectuées pour un compte déjà activé, en lui rappelant la procédure pour renouveler son mot de passe, ou pour un compte non activé, en lui indiquant la démarche de première connexion.
 
+![](.gitbook/assets/2019-10-08_14h27_06.png)
+
 Une nouvelle fenêtre s'ouvre où vous pourrez sélectionner un ou plusieurs profils afin de créer leur fiche de connexion.
+
+![](.gitbook/assets/2019-09-24_17h07_59.png)
 
 Une fois le ou les profils sélectionnés, vous disposez de plusieurs options pour récupérer et transmettre des fiches de connexion :
 
-Fiches de connexions détaillées .PDF \(1\)
+* Fiches de connexions détaillées .PDF \(1\)
+* Fiches de connexions simplifiées .PDF \(2\)
+* Fiches de connexions détaillées par mail \(3\)
+* Exporter les codes d'activations en .CSV \(4\)
 
-Fiches de connexions simplifiées .PDF \(2\)
-
-Fiches de connexions détaillées par mail \(3\)
-
-Exporter les codes d'activations en .CSV \(4\)
-
-​
+![](.gitbook/assets/2019-10-08_14h44_14.png)
 
 Vous pouvez également créer une ou plusieurs fiches de connexions détaillées pour un ou plusieurs comptes, en sélectionnant le ou les comptes \(1\), puis en cliquant sur "Fiches de connexions" \(2\).
 
+![](.gitbook/assets/bas-1.png)
+
 En allant consulter la fiche utilisateur d'un élève \(voir partie "Consulter et modifier les informations utilisateurs"\), vous pouvez récupérer des fiches de connexions simplifiées en PDF pour l'élève et son ou ses responsables légaux, en cliquant sur le lien "Fiches de connexion famille" \(1\)
+
+![](.gitbook/assets/2019-09-24_17h09_43%20%281%29.png)
 
 ## Renouveler un mot de passe
 
-Dans l’onglet correspondant, uniquement pour les utilisateurs activés, sélectionnez l’utilisateur dont vous souhaitez renouveler le mot de passe \(1\) et cliquez sur « Réinitialiser le mot de passe » \(2\).
+Dans l’onglet correspondant, **uniquement pour les utilisateurs activés**, sélectionnez l’utilisateur dont vous souhaitez renouveler le mot de passe \(1\) et cliquez sur « Réinitialiser le mot de passe » \(2\).
+
+![](.gitbook/assets/bas-2.png)
 
 L'email suivant est alors envoyé sur l’adresse email que vous avez renseigné dans la rubrique Mon compte :
 
-Bonjour,
+_Bonjour,_
 
-Vous avez demandé la réinitialisation d’un mot de passe. Pour procéder à cette réinitialisation, veuillez cliquer sur le lien ci-dessous. \[lien\] Votre identifiant : \[identifiant\]
+_Vous avez demandé la réinitialisation d’un mot de passe.  
+Pour procéder à cette réinitialisation, veuillez cliquer sur le lien ci-dessous.  
+\[lien\]  
+Votre identifiant : \[identifiant\]_
 
-Si vous n’êtes pas à l’origine de cette demande, vous pouvez ignorer cet email.
+_Si vous n’êtes pas à l’origine de cette demande, vous pouvez ignorer cet email._
 
-Cordialement, L’équipe ENT
+_Cordialement,  
+L’équipe ENT_
 
-Vous avez la possibilité de transmettre ce message à l’utilisateur concerné pour qu’il renouvelle lui-même son mot de passe \(par exemple s’il s’agit d’un parent\).
+Vous pouvez aussi sélectionner l'utilisateur en question \(1\) et cliquez sur "Générer un mot de passe temporaire" \(2\).
 
-Vous pouvez également effectuer vous-même la manipulation. Pour cela, cliquez sur le lien contenu dans le corps du message. Vous accédez à l’interface de réinitialisation du mot de passe.
+![](.gitbook/assets/bas-3.png)
+
+Une nouvelle fenêtre s'ouvre où vous verrez l'utilisateur sélectionné, son identifiant et le mot de passe temporaire généré automatiquement.
+
+![](.gitbook/assets/2019-10-08_14h56_30.png)
+
+Vous avez alors la possibilité de transmettre l'email de réinitialisation / le mot de passe temporaire à l’utilisateur concerné pour qu’il renouvelle lui-même son mot de passe \(par exemple s’il s’agit d’un parent\), ou vous pouvez également effectuer vous-même la manipulation. 
+
+Si vous avez choisi l'e-mail de réinitialisation, il faudra cliquer sur le lien contenu dans le corps du message. 
+
+Si vous avez choisi la génération d'un mot de passe temporaire, il faudra aller sur la page d'authentification à l'ENT et vous connecter en utilisant l'identifiant et le mot de passe temporaire.
+
+Dans les deux cas, vous accédez ensuite à l’interface de réinitialisation du mot de passe.
 
 Renseignez l’identifiant de l’utilisateur dans le premier champ \(1\). Saisissez ensuite le nouveau mot de passe \(2\), puis confirmez-le dans le dernier champ \(3\) et cliquez sur « Réinitialiser ».
+
+![](.gitbook/assets/2019-10-08_15h05_51%20%282%29.png)
 
 La réinitialisation du mot de passe est effective. L’utilisateur peut alors se connecter avec son nouveau mot de passe.
 
@@ -118,9 +149,13 @@ En cliquant sur le nom de l'utilisateur présent dans la liste, vous pouvez acc�
 
 Une fois la fiche utilisateur affichée, vous pouvez naviguer d'une fiche utilisateur à l'autre en cliquant sur "utilisateur précédent" \(1\) ou "utilisateur suivant" \(2\).
 
+![](.gitbook/assets/2019-10-08_15h11_53.png)
+
 ## Bloquer un compte
 
 En cas de débordement, vous avez la possibilité de bloquer la connexion d'un utilisateur. Sélectionnez l'utilisateur que vous souhaitez bloquer dans la liste \(1\) puis cliquez sur le bouton d'action "Bloquer" \(2\). Une fois l'action effectuée, l'utilisateur ne pourra donc plus se connecter.
+
+![](.gitbook/assets/bas-4.png)
 
 ## Retirer un utilisateur de la classe
 
@@ -129,6 +164,8 @@ En fin d'année, pour faciliter la transition d'année, vous pouvez retirer les 
 Sélectionner l'utilisateur concerné \(1\) puis cliquer sur l'option "Retirer de la classe". Un message de confirmation vous demandera de vérifier si vous souhaitez bien faire votre action.
 
 En cas d'erreur, vous pourrez \(si l'utilisateur n'est rattaché à aucune autre classe\) aller dans la recherche d'utilisateur, et rattacher l'utilisateur à votre classe.
+
+![](.gitbook/assets/bas-5.png)
 
 ## Supprimer un utilisateur
 
@@ -139,4 +176,6 @@ Une personne dont le compte est supprimé pourra encore se connecter et récupé
 Au bout de trois mois, un compte supprimé est complètement effacé et l’utilisateur n’a plus accès à la plateforme. Aucune information le concernant n’est conservée.
 
 Par contre, si l'utilisateur n'a jamais activé son compte, il sera définitivement supprimé immédiatement et sans délai.
+
+![](.gitbook/assets/bas-6.png)
 

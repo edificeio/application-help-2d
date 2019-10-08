@@ -6,7 +6,7 @@ Une question vous démange ? Grâce à l’appli **Sondage**, créez des enquêt
 
 L’appli Sondage permet de créer des **sondages qui pourront être intégrés dans des pages web** \(en utilisant l’appli Pages\). L’utilisateur qui crée le sondage peut attribuer **différents droits** aux utilisateurs qu’il choisit : droit de **lecture** \(accès au sondage en consultation\), droit de **vote** \(possibilité de répondre au sondage\) et droit de **gestion** \(possibilité de modifier et supprimer le sondage\).
 
-![](.gitbook/assets/sonage_pres-3.png)
+![](.gitbook/assets/sonage_pres-3%20%281%29.png)
 
 ## Créer un sondage
 
@@ -56,10 +56,10 @@ Une fois le sondage créé et partagé, il est possible de l’insérer dans une
 
 Cliquez sur le site dans lequel vous souhaitez insérer le sondage.
 
-![](.gitbook/assets/s7-1-1.png)
+![](.gitbook/assets/s7-1-1%20%281%29.png)
 
 Pour insérer le sondage, cliquez sur l’icône suivante:  
-![](.gitbook/assets/s8-3.png)
+![](.gitbook/assets/s8-3%20%281%29.png)
 
 ![](.gitbook/assets/s9-1-2.png)
 
@@ -69,13 +69,13 @@ Cliquez sur « Ajouter un sniplet ».
 
 Puis choisissez l’appli Sondage.
 
-![](.gitbook/assets/s11-1-1.png)
+![](.gitbook/assets/s11-1-1%20%281%29.png)
 
 La liste des sondages dont vous êtes gestionnaire apparaît. Choisissez celui que vous souhaitez faire apparaître.
 
-![](.gitbook/assets/s12-1-1.png)
+![](.gitbook/assets/s12-1-1%20%281%29.png)
 
 Le sondage apparaît bien sur la page.
 
-![](.gitbook/assets/s13-1-1-1.png)
+![](.gitbook/assets/s13-1-1-1%20%281%29.png)
 
