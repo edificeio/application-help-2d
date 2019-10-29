@@ -15,7 +15,7 @@
 * [Compétences](application/viescolaire.md)
 * [Espace Documentaire](application/workspace.md)
 * [Exercices et évaluations](application/exercizer.md)
-* [Export](application/archive.md)
+* [Mes données](application/archive.md)
 * [Forum](application/forum.md)
 * [Frise chronologique](application/timelinegenerator.md)
 * [Mes applis](application/portal.md)
