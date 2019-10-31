@@ -6,6 +6,7 @@
 * [Agenda](application/calendar.md)
 * [Annuaire](application/directory.md)
 * [Assistance ENT](application/support.md)
+* [Bibliothèque](application/library.md)
 * [Blog](application/blog.md)
 * [Cahier de textes](application/diary.md)
 * [Cahier multimédia](application/scrap-book.md)
