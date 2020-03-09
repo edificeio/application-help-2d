@@ -4,7 +4,7 @@ Des documents importants à conserver ? Des données à récupérer lors d’un 
 
 ## Présentation
 
-Le service **Mes Données** a pour objectif de permettre à chaque utilisateur d'**exporter** les données de son compte et d'**importer** sur son compte des données issues de la fonctionnalité d'export.  
+Le service **Mes Données** a pour objectif de permettre à chaque utilisateur d'**exporter** les données de son compte et d'**importer** sur son compte des données issues de la fonctionnalité d'export.
 
 ![](.gitbook/assets/exporter.png)
 
@@ -22,7 +22,7 @@ Le téléchargement des données peut prendre plusieurs minutes pour les fichier
 
 Le fichier généré \(fichier compressé\) peut être enregistré sur votre appareil. Il contient un dossier par application exportée. Les documents de l’espace personnel \(documents personnels, documents partagés, et documents ajoutés dans les applis\) ainsi que les documents associés aux contenus partagés avec vous, sont exportés dans leur format d’origine. Les données propres aux applications sont exportées au format JSON.
 
-![](.gitbook/assets/exporter-fichiertelecharg%20%281%29.png)
+![](.gitbook/assets/exporter-fichiertelecharg-1.png)
 
 ## Importer des données
 
@@ -34,7 +34,7 @@ _Seul un fichier au format .zip, généré par la fonction EXPORTER de l’appli
 
 Une fois le fichier sélectionné et chargé, une fenêtre s’affiche vous proposant de sélectionner les applications pour lesquelles vous souhaitez importer les contenus. Cochez les contenus à importer \(1\) puis cliquez sur le bouton Importer \(2\) :
 
-![](.gitbook/assets/importer_selectionapplipourimport2.png)
+![](.gitbook/assets/importer_selectionapplipourimport2%20%281%29.png)
 
 _Pour que le contenu d’une application puisse être importé, il faut :_
 
@@ -43,7 +43,7 @@ _Pour que le contenu d’une application puisse être importé, il faut :_
 
 Si l'import est volumineux, il peut prendre plusieurs minutes :
 
-![](.gitbook/assets/importer_spinner.png)
+![](.gitbook/assets/importer_spinner%20%281%29.png)
 
 A la fin de l’import, un rapport s’affiche sur l’onglet IMPORTER, indiquant notamment le nombre de contenus importés par application :
 

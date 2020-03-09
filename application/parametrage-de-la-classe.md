@@ -10,7 +10,7 @@ Pour accéder à l’application Paramétrage de la classe, cliquez sur l’icô
 
 ![](.gitbook/assets/2019-10-08_13h48_14.png)
 
-![](.gitbook/assets/2019-10-08_13h52_10.png)
+![](.gitbook/assets/2019-10-08_13h52_10%20%281%29.png)
 
 Afin de pouvoir visualiser les utilisateurs et accéder normalement à l'application, il faut obligatoirement être de profil enseignant et être rattaché à, au moins, une classe.
 
@@ -20,7 +20,7 @@ Vous accédez à la page de gestion de votre classe, qui vous permet de consulte
 
 Il est alors possible d’ajouter des élèves, des parents, des enseignants et des personnels en cliquant sur le bouton "Ajouter des utilisateurs" \(1\) pour la classe sélectionnée \(2\).
 
-![](.gitbook/assets/2019-10-08_14h26_55.png)
+![](.gitbook/assets/2019-10-08_14h26_55%20%281%29.png)
 
 Une interface propose trois options pour ajouter des utilisateurs à votre classe :
 
@@ -30,7 +30,9 @@ Une interface propose trois options pour ajouter des utilisateurs à votre class
 
 ![](.gitbook/assets/2019-09-24_17h04_24.png)
 
-    1.Si vous souhaitez créer manuellement des utilisateurs, une interface vous propose de créer l'utilisateur de votre choix en renseignant plusieurs informations, obligatoires ou non, en fonction du profil :
+```text
+1.Si vous souhaitez créer manuellement des utilisateurs, une interface vous propose de créer l'utilisateur de votre choix en renseignant plusieurs informations, obligatoires ou non, en fonction du profil :
+```
 
 * Profil \(1\)
 * Nom \(obligatoire\) \(2\)
@@ -39,7 +41,7 @@ Une interface propose trois options pour ajouter des utilisateurs à votre class
 * Courriel \(5\)
 * Rechercher un élève : uniquement pour les responsables légaux, afin de relier l'élève au responsable créé manuellement\(6\)
 
-![](.gitbook/assets/2019-09-24_17h05_57.png)
+![](.gitbook/assets/2019-09-24_17h05_57%20%281%29.png)
 
 Si vous avez créé un utilisateur existant déjà sur votre établissement, une interface de détection du doublon de compte vous propose trois actions :
 
@@ -49,7 +51,9 @@ Si vous avez créé un utilisateur existant déjà sur votre établissement, une
 
 ![](.gitbook/assets/2019-09-24_17h06_48.png)
 
-    2.Si vous souhaitez importer des utilisateurs à partir d'un fichier, vous avez la possibilité d'exporter votre fichier CSV pour votre classe afin de l'importer depuis l'interface prévue à cet effet.
+```text
+2.Si vous souhaitez importer des utilisateurs à partir d'un fichier, vous avez la possibilité d'exporter votre fichier CSV pour votre classe afin de l'importer depuis l'interface prévue à cet effet.
+```
 
 Vous pouvez utiliser les fichiers modèles fournis sur les liens ci-après :
 
@@ -62,7 +66,9 @@ Attention : pour le bon fonctionnement de ces manipulations, les élèves doiven
 
 Pour créer un compte enseignant ou un compte personnel, il n'est pas possible de fonctionner par import de fichier. Vous devrez créer ces comptes de manière manuelle, comme vu précédemment.
 
-    3.Si les comptes utilisateurs que vous devez rattacher à votre classe sont déjà présents sur votre établissement, vous pouvez accéder à une interface qui vous permet de rechercher les utilisateurs.
+```text
+3.Si les comptes utilisateurs que vous devez rattacher à votre classe sont déjà présents sur votre établissement, vous pouvez accéder à une interface qui vous permet de rechercher les utilisateurs.
+```
 
 * Classe sélectionnée \(1\) : Vous pouvez y voir les classes auxquelles vous êtes rattachés et les utilisateurs qui ne sont rattachés à aucune classe.
 * Barre de recherche permet de rechercher des utilisateurs \(2\)
@@ -82,7 +88,7 @@ Dans l'interface de l'application, vous disposez d'un bouton pour vous permettre
 
 Une nouvelle fenêtre s'ouvre où vous pourrez sélectionner un ou plusieurs profils afin de créer leur fiche de connexion.
 
-![](.gitbook/assets/2019-09-24_17h07_59.png)
+![](.gitbook/assets/2019-09-24_17h07_59%20%281%29.png)
 
 Une fois le ou les profils sélectionnés, vous disposez de plusieurs options pour récupérer et transmettre des fiches de connexion :
 
@@ -91,7 +97,7 @@ Une fois le ou les profils sélectionnés, vous disposez de plusieurs options po
 * Fiches de connexions détaillées par mail \(3\)
 * Exporter les codes d'activations en .CSV \(4\)
 
-![](.gitbook/assets/2019-10-08_14h44_14.png)
+![](.gitbook/assets/2019-10-08_14h44_14%20%281%29.png)
 
 Vous pouvez également créer une ou plusieurs fiches de connexions détaillées pour un ou plusieurs comptes, en sélectionnant le ou les comptes \(1\), puis en cliquant sur "Fiches de connexions" \(2\).
 
@@ -99,13 +105,13 @@ Vous pouvez également créer une ou plusieurs fiches de connexions détaillées
 
 En allant consulter la fiche utilisateur d'un élève \(voir partie "Consulter et modifier les informations utilisateurs"\), vous pouvez récupérer des fiches de connexions simplifiées en PDF pour l'élève et son ou ses responsables légaux, en cliquant sur le lien "Fiches de connexion famille" \(1\)
 
-![](.gitbook/assets/2019-09-24_17h09_43%20%281%29.png)
+![](.gitbook/assets/2019-09-24_17h09_43-1.png)
 
 ## Renouveler un mot de passe
 
 Dans l’onglet correspondant, **uniquement pour les utilisateurs activés**, sélectionnez l’utilisateur dont vous souhaitez renouveler le mot de passe \(1\) et cliquez sur « Réinitialiser le mot de passe » \(2\).
 
-![](.gitbook/assets/bas-2.png)
+![](.gitbook/assets/bas-2%20%281%29.png)
 
 L'email suivant est alors envoyé sur l’adresse email que vous avez renseigné dans la rubrique Mon compte :
 
@@ -127,11 +133,11 @@ Vous pouvez aussi sélectionner l'utilisateur en question \(1\) et cliquez sur "
 
 Une nouvelle fenêtre s'ouvre où vous verrez l'utilisateur sélectionné, son identifiant et le mot de passe temporaire généré automatiquement.
 
-![](.gitbook/assets/2019-10-08_14h56_30.png)
+![](.gitbook/assets/2019-10-08_14h56_30%20%281%29.png)
 
-Vous avez alors la possibilité de transmettre l'email de réinitialisation / le mot de passe temporaire à l’utilisateur concerné pour qu’il renouvelle lui-même son mot de passe \(par exemple s’il s’agit d’un parent\), ou vous pouvez également effectuer vous-même la manipulation. 
+Vous avez alors la possibilité de transmettre l'email de réinitialisation / le mot de passe temporaire à l’utilisateur concerné pour qu’il renouvelle lui-même son mot de passe \(par exemple s’il s’agit d’un parent\), ou vous pouvez également effectuer vous-même la manipulation.
 
-Si vous avez choisi l'e-mail de réinitialisation, il faudra cliquer sur le lien contenu dans le corps du message. 
+Si vous avez choisi l'e-mail de réinitialisation, il faudra cliquer sur le lien contenu dans le corps du message.
 
 Si vous avez choisi la génération d'un mot de passe temporaire, il faudra aller sur la page d'authentification à l'ENT et vous connecter en utilisant l'identifiant et le mot de passe temporaire.
 
@@ -139,7 +145,7 @@ Dans les deux cas, vous accédez ensuite à l’interface de réinitialisation d
 
 Renseignez l’identifiant de l’utilisateur dans le premier champ \(1\). Saisissez ensuite le nouveau mot de passe \(2\), puis confirmez-le dans le dernier champ \(3\) et cliquez sur « Réinitialiser ».
 
-![](.gitbook/assets/2019-10-08_15h05_51%20%282%29.png)
+![](.gitbook/assets/2019-10-08_15h05_51-2.png)
 
 La réinitialisation du mot de passe est effective. L’utilisateur peut alors se connecter avec son nouveau mot de passe.
 
@@ -155,7 +161,7 @@ Une fois la fiche utilisateur affichée, vous pouvez naviguer d'une fiche utilis
 
 En cas de débordement, vous avez la possibilité de bloquer la connexion d'un utilisateur. Sélectionnez l'utilisateur que vous souhaitez bloquer dans la liste \(1\) puis cliquez sur le bouton d'action "Bloquer" \(2\). Une fois l'action effectuée, l'utilisateur ne pourra donc plus se connecter.
 
-![](.gitbook/assets/bas-4.png)
+![](.gitbook/assets/bas-4%20%281%29.png)
 
 ## Retirer un utilisateur de la classe
 
@@ -177,5 +183,5 @@ Au bout de trois mois, un compte supprimé est complètement effacé et l’util
 
 Par contre, si l'utilisateur n'a jamais activé son compte, il sera définitivement supprimé immédiatement et sans délai.
 
-![](.gitbook/assets/bas-6.png)
+![](.gitbook/assets/bas-6%20%281%29.png)
 

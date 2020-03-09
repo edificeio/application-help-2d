@@ -12,25 +12,25 @@ L’appli Statistiques vous propose de suivre **cinq indicateurs** calculés sur
 * **Activation de comptes** : calcule le nombre de comptes activés mensuellement sur la période sélectionnée ;
 * **Comptes activés** : indique la proportion d’activations de comptes par rapport à l’effectif total par profil.
 
-![](.gitbook/assets/stat-presentation-1024x372-1-1-1%20%281%29.png)
+![](.gitbook/assets/stat-presentation-1024x372-1-1-1-1.png)
 
 ## Statistiques de connexion
 
 Pour accéder à l’appli Statistiques, cliquez sur l’icône correspondante dans la page « Mes applis ».
 
-![](.gitbook/assets/s2-2-1.png)
+![](.gitbook/assets/s2-2-1%20%281%29.png)
 
 A l’arrivée sur l’application, les statistiques de connexion s’affichent par défaut \(1\). Vous pouvez choisir la période pour laquelle vous souhaitez voir apparaître les statistiques en cliquant sur le début de la période \(2\) et la fin de la période \(3\) puis cliquez sur « Afficher le diagramme » \(4\) pour afficher les résultats.
 
 Vous pouvez organiser les résultats par profil \(5\) et les exporter dans un fichier au format CSV \(6\).
 
-![](.gitbook/assets/stat-21-1024x442-4-1%20%281%29.png)
+![](.gitbook/assets/stat-21-1024x442-4-1-1.png)
 
 ## Statistiques d’accès aux applications
 
 Vous pouvez organiser les résultats par profil \(6\) et les exporter dans un fichier au format CSV \(7\).
 
-![](.gitbook/assets/stat-3-1024x443-4%20%281%29.png)
+![](.gitbook/assets/stat-3-1024x443-4-1.png)
 
 ## Statistiques d’activations de comptes
 
@@ -44,9 +44,9 @@ Vous pouvez organiser les résultats par profil \(5\) et les exporter dans un fi
 
 Vous pouvez organiser les résultats par profil \(5\) et les exporter dans un fichier au format CSV \(6\).
 
-![](.gitbook/assets/stat-5-1024x441-4%20%281%29.png)
+![](.gitbook/assets/stat-5-1024x441-4-1.png)
 
 ## Statistiques des comptes activés
 
-![](.gitbook/assets/stat-61-1.png)
+![](.gitbook/assets/stat-61-1%20%282%29.png)
 

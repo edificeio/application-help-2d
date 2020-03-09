@@ -15,7 +15,7 @@
 * [Communautés](application/community.md)
 * [Compétences](application/viescolaire.md)
 * [Espace Documentaire](application/workspace.md)
-* [Exercices et évaluations](application/exercizer.md)
+* [Exercices](application/exercizer.md)
 * [Mes données](application/archive.md)
 * [Forum](application/forum.md)
 * [Frise chronologique](application/timelinegenerator.md)
