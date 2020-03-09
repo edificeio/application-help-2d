@@ -28,7 +28,7 @@ Vous accédez à l’interface de création du cahier.
 4. Choisissez une couleur de couverture
 5. Cliquez sur « Enregistrer »
 
-![](.gitbook/assets/2019-07-16_15h07_54.png)
+![](.gitbook/assets/2019-07-16_15h07_54%20%281%29.png)
 
 Votre cahier est désormais créé mais n’est pas encore visible. Pour le partager avec d’autres utilisateurs, cliquez sur la case à cocher \(1\) située à côté du cahier puis sur « Partager » \(2\).
 
@@ -83,7 +83,7 @@ Pour ajouter de nouvelles pages, cliquez sur « Ajouter une page » \(1\) ou sur
 
 Vous pouvez ajouter les contenus suivants dans vos cahiers :
 
-![](.gitbook/assets/2019-07-11_16h35_57.png)
+![](.gitbook/assets/2019-07-11_16h35_57%20%281%29.png)
 
 1. Texte
 2. Image
@@ -125,11 +125,11 @@ Une fenêtre s'ouvrira pour accéder à toutes les pages de votre cahier multim�
 
 * Vous pouvez dupliquer la page en cours, en cliquant sur "Dupliquer la page". La page dupliquée se retrouvera avant la page sélectionnée.
 
-![](.gitbook/assets/2019-07-12_15h42_491-1.png)
+![](.gitbook/assets/2019-07-12_15h42_491-1%20%281%29.png)
 
 * Vous pouvez dupliquer la page en cours dans un autre cahier multimédia en cliquant sur le bouton "Copier vers un cahier".
 
-![](.gitbook/assets/2019-07-12_15h42_492-2.png)
+![](.gitbook/assets/2019-07-12_15h42_492-2%20%281%29.png)
 
 Vous pourrez choisir le ou les cahiers multimédias de destination puis cliquer sur "Copier".
 
@@ -165,7 +165,7 @@ Collez le lien Iframe \(5\) et cliquez sur "Appliquer" \(6\).
 
 Positionnez ensuite la vidéo dans la page et sauvegardez votre travail.
 
-![](.gitbook/assets/2019-07-16_15h11_27.png)
+![](.gitbook/assets/2019-07-16_15h11_27%20%281%29.png)
 
 Votre cahier est complété et la vidéo prête à être regardée !
 
@@ -193,11 +193,11 @@ Dans le champ "Destination", choisissez l'option Enregistrer au format PDF‌
 
 Dans le champ "Nom", choisissez l'option "Microsoft Print to PDF"‌
 
-![](.gitbook/assets/2019-07-11_15h18_03-1.png)
+![](.gitbook/assets/2019-07-11_15h18_03-1%20%281%29.png)
 
 * Pour Safari :
 
 Cliquez sur la flèche vers le bas situé à coté du PDF puis choisissez l'option "Enregistrer au format PDF"
 
-![](.gitbook/assets/capture-decran-2019-07-11-a-15.36.46-1.png)
+![](.gitbook/assets/capture-decran-2019-07-11-a-15.36.46-1%20%282%29.png)
 

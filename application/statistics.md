@@ -38,7 +38,7 @@ Cliquez sur l’indicateur «Activations de comptes » puis choisissez la pério
 
 Vous pouvez organiser les résultats par profil \(5\) et les exporter dans un fichier au format CSV \(6\).
 
-![](.gitbook/assets/stat-4-1024x442-1-1.png)
+![](.gitbook/assets/stat-4-1024x442-1-1%20%281%29.png)
 
 ## Statistiques de visiteurs uniques
 

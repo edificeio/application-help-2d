@@ -25,7 +25,7 @@ Pour filtrer les notifications reçues, déplier le menu "Filtrer les nouveauté
 
 Pour accéder à une information ou un contenu qui vous a été partagé, cliquez sur le lien présent dans la nouveauté.
 
-![](.gitbook/assets/fil_1.1-1024x133-2-2.png)
+![](.gitbook/assets/fil_1.1-1024x133-2-2%20%281%29.png)
 
 Le contenu s’affiche.
 
@@ -55,7 +55,7 @@ Vous pouvez :
 
 Vous avez également la possibilité de ne pas diffuser une notification aux utilisateurs avec lesquels vous avez des droits de communication ou vous avez partagé du contenu. Depuis votre espace "Mon compte", vous retrouverez toutes les notifications que vous avez émises en cliquant sur l’onglet "Historique"
 
-![](.gitbook/assets/fil-historique-1-2-1.png)
+![](.gitbook/assets/fil-historique-1-2-1%20%281%29.png)
 
 Comme précédemment, en survolant la notification avec la souris, vous verrez apparaître une flèche sur la droite de la notification. En cliquant sur cette flèche, une action apparaît vous permettant de supprimer définitivement la notification.
 
@@ -123,7 +123,7 @@ L’éditeur permet également d’intégrer différents types de contenus :
 4. Une formule Latex
 5. Un lien
 
-![](.gitbook/assets/image5-1024x387-2-1.png)
+![](.gitbook/assets/image5-1024x387-2-1%20%281%29.png)
 
 L'éditeur permet désormais d’ajouter plus simplement des pièces jointes dans un contenu.
 
@@ -145,7 +145,7 @@ Pour modifier les pièces jointes, faire un clic droit dans la zone grisée et c
 
 L’éditeur d’images permet de modifier une image en cours d’import ou déjà importée. Vous pouvez y accéder directement en cliquant sur une image depuis l'éditeur :
 
-![](.gitbook/assets/editeur-depuis-editeur-1-2.png)
+![](.gitbook/assets/editeur-depuis-editeur-1-2%20%281%29.png)
 
 Depuis la fenêtre d’import d’images :
 
@@ -179,7 +179,7 @@ L’onglet de gestion de vos paramètres apparaît.
 
 Pour changer l’apparence de votre thème, cliquez sur celui de votre choix.
 
-![](.gitbook/assets/2018-08-24_14h29_09-2-1-1.png)
+![](.gitbook/assets/2018-08-24_14h29_09-2-1-1%20%281%29.png)
 
 L’apparence de votre thème est modifiée.
 
@@ -206,7 +206,7 @@ Lorsque les modifications sont terminées, cliquer sur "Enregistrer" en bas du t
 
 Une fois la notification reçue dans sa boîte mail personnelle, l’utilisateur peut cliquer sur le lien correspondant afin d’accéder au contenu. S’il n’est pas connecté, il devra saisir son identifiant et son mot de passe pour accéder à l’objet de la notification.
 
-![](.gitbook/assets/notiff-1-2-2.png)
+![](.gitbook/assets/notiff-1-2-2%20%281%29.png)
 
 ## Le moteur de recherche
 

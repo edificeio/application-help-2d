@@ -14,7 +14,7 @@ Pour accéder à l’appli Mur collaboratif, cliquez sur l’icône correspondan
 
 ![](.gitbook/assets/mur-1-2-1-1.png)
 
-![](.gitbook/assets/m11-1-1-5.png)
+![](.gitbook/assets/m11-1-1-5%20%281%29.png)
 
 Dans le service Mur Collaboratif, cliquez sur « Créer un mur ».
 
@@ -65,7 +65,7 @@ Une palette de couleurs apparait sur la partie supérieure de la page. Cliquez s
 
 ![](.gitbook/assets/m111-1-3.png)
 
-Pour afficher l’auteur de la note, cliquez sur: ![](.gitbook/assets/m12-1-5.png)
+Pour afficher l’auteur de la note, cliquez sur: ![](.gitbook/assets/m12-1-5%20%281%29.png)
 
 ![](.gitbook/assets/m13-1-2-1%20%281%29.png)
 
@@ -73,5 +73,5 @@ Pour ajouter du contenu à la note, cliquez sur: ![](.gitbook/assets/m14-1-2-1%2
 
 ![](.gitbook/assets/editeur-texte_mur_collabora-1024x288-3%20%281%29.png)
 
-Pour supprimer la note, cliquez sur: ![](.gitbook/assets/m16-4-1.png)
+Pour supprimer la note, cliquez sur: ![](.gitbook/assets/m16-4-1%20%281%29.png)
 

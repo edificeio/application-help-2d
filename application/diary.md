@@ -10,7 +10,7 @@ Les enseignants peuvent créer et organiser une séance. Il leur est ensuite pos
 
 C’est l'écran d’accueil du cahier de texte. Il s’ouvre sur la semaine courante.
 
-![](.gitbook/assets/cdt-professeur-2-1.png)
+![](.gitbook/assets/cdt-professeur-2-1%20%281%29.png)
 
 **Créer une séance**
 
@@ -20,7 +20,7 @@ Une séance correspond à un cours, à une date donnée et à une heure donnée.
 
 Une nouvelle page s’ouvre. La séance sera à l'état de brouillon tant qu’elle n’aura pas été publiée. On peut sélectionner la matière \(1\), ainsi que le groupe concerné \(2\).
 
-![](.gitbook/assets/cdt-professeur-creerseance2-1-1-1.png)
+![](.gitbook/assets/cdt-professeur-creerseance2-1-1-1%20%281%29.png)
 
 3 onglets sont disponibles :
 
@@ -42,7 +42,7 @@ On peut créer un travail
 
 On indique la date pour laquelle le travail doit être rendu \(1\) et le type de devoir \(2 : Devoir maison / Exercices / Autres\).
 
-![](.gitbook/assets/cdt-professeur-taf-1-2-1.png)
+![](.gitbook/assets/cdt-professeur-taf-1-2-1%20%281%29.png)
 
 La charge de travail \(3\) des élèves pour la semaine courante est affichée, afin d'éviter de surcharger les élèves.
 
@@ -70,7 +70,7 @@ Cliquer sur l’onglet "Séances". La liste apparaît. Cliquer sur la séance à
 
 Après la création d’une séance, celle-ci est d’abord à l'état de brouillon. Pour la "valider" et la rendre visible par les autres utilisateurs, on doit la "publier".
 
-![](.gitbook/assets/cdt-professeur-publication-3-1-1.png)
+![](.gitbook/assets/cdt-professeur-publication-3-1-1%20%281%29.png)
 
 * Cocher la séance que l’on souhaite publier \(1\)
 * Cliquer sur "Publier" dans le menu qui apparaît au bas de la page \(2\), et confirmer.
@@ -135,7 +135,7 @@ Du contenu peut être rajouté à la progression. Par contenu, on entend "séanc
 
 On se retrouve avec l’interface de création de séance.
 
-![](.gitbook/assets/cdt-professeur-contenu2-2-1.png)
+![](.gitbook/assets/cdt-professeur-contenu2-2-1%20%281%29.png)
 
 De retour vers l'écran détail de la progression, on peut ordonner les séances. Cliquer sur l'élément à déplacer, et faire un glisser - déposer :
 
@@ -151,7 +151,7 @@ Pour rajouter une séance d’un contenu dans l’agenda, on sélectionne d’ab
 
 ## Profil enseignant - Semaine modèle A et B
 
-![](.gitbook/assets/cdt-professeur-modele-2-1-1-1.png)
+![](.gitbook/assets/cdt-professeur-modele-2-1-1-1%20%281%29.png)
 
 Les professeurs peuvent définir des semaines modèles, limitées à 2 \(A et B\). Cela permet de gérer facilement l’alternance de semaines.
 
@@ -165,7 +165,7 @@ Chaque semaine sera ainsi reproduite sur toute l’année, mais restera modifiab
 
 Pour consulter les archives, cliquer sur "Voir les archives".
 
-![](.gitbook/assets/cdt-professeur-archives-1-1.png)
+![](.gitbook/assets/cdt-professeur-archives-1-1%20%281%29.png)
 
 On peut à partir de là consulter les archives sur une année scolaire, soit en triant par enseignant soit par classe \(1\). Un filtre est disponible \(2\), et il reste à choisir l’année \(3\) et la classe / l’enseignant \(4\).
 
@@ -175,7 +175,7 @@ On peut à partir de là consulter les archives sur une année scolaire, soit en
 
 L'élève n’a accès qu'à la consultation de l’agenda. Il ne peut pas intervenir sur les séances. Il voit les devoirs à faire \(1\) et les séances \(2\).
 
-![](.gitbook/assets/cdt-eleve-agenda-3-1-1.png)
+![](.gitbook/assets/cdt-eleve-agenda-3-1-1%20%281%29.png)
 
 En cliquant sur la séance, il peut accéder au détail, avec le travail à faire éventuellement rattaché \(toujours en lecture seule\).
 
@@ -241,11 +241,11 @@ Tous les visas peuvent être édités sous forme de PDF via le menu.
 
 Le directeur d'établissement peut gérer les habilitations des inspecteurs.
 
-![](.gitbook/assets/cdt-directeur-habilitations1-2-1-1.png)
+![](.gitbook/assets/cdt-directeur-habilitations1-2-1-1%20%281%29.png)
 
 Cela permet d’attribuer ou de retirer à l’inspecteur \(2\) le droit de délivrer un visa pour l’enseignant de cet établissement \(1\).
 
-![](.gitbook/assets/cdt-directeur-habilitations2-1-2-1.png)
+![](.gitbook/assets/cdt-directeur-habilitations2-1-2-1%20%281%29.png)
 
 Pour rajouter un enseignant, on saisit son nom dans \(3\). Et pour supprimer l’habilitation, on clique sur \(4\).
 

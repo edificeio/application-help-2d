@@ -42,7 +42,7 @@ Une fois l’exercice terminé, cliquez sur rendre la copie. Un message de confi
 
 Lorsqu’un exercice est corrigé, vous êtes informés via une publication sur le fil de nouveauté.
 
-![](.gitbook/assets/notif-2.jpg)
+![](.gitbook/assets/notif-2%20%281%29.jpg)
 
 Vous pouvez vous rendre sur l’application « Exercices et évaluations », cliquez sur l’onglet « terminés » en haut et à gauche de la page \(1\).
 
@@ -109,7 +109,7 @@ Pour certains types de question avec plusieurs possibilités de réponses \("Ré
 
 Après avoir créé votre question, cliquez sur « ajouter un élément » et choisissez le type de la question suivante pour poursuivre votre sujet. En cochant la case à gauche du titre de la question, un bandeau orange en bas de votre écran s’affiche. Vous pouvez « dupliquer » ou « supprimer » la question.
 
-![](.gitbook/assets/case-a-cocher-1-1.jpg)
+![](.gitbook/assets/case-a-cocher-1-1%20%281%29.jpg)
 
 Le volet à gauche de l’écran vous permet de glisser et de déposer des questions avec votre curseur pour les ordonner.
 
@@ -127,11 +127,11 @@ Une fois la création de votre sujet terminée, vous pouvez le distribuer en cli
 
 Saisissez les premières lettres du nom de l’utilisateur ou du groupe d’utilisateurs que vous recherchez puis sélectionnez le nom de l’utilisateur ou du groupe. Lorsque vous ajoutez un groupe, la liste des utilisateurs individuels se met à jour dans la colonne de droite. Si vous souhaitez exclure un ou plusieurs élèves d’une distribution à un groupe, supprimez les utilisateurs individuellement. Cliquer ensuite sur le bouton « suivant ».
 
-![](.gitbook/assets/image-1-1.png)
+![](.gitbook/assets/image-1-1%20%281%29.png)
 
 Vous pouvez accéder à la fiche de l'utilisateur en cliquant sur son nom :
 
-![](.gitbook/assets/distribuer-exercices-utilisateur-1-2.png)
+![](.gitbook/assets/distribuer-exercices-utilisateur-1-2%20%281%29.png)
 
 Vous pouvez également retrouver vos favoris dans la recherche d'utilisateur :
 
@@ -163,7 +163,7 @@ Cliquez sur l’onglet “Mes Corrections” \(1\), puis cliquez sur le sujet so
 
 Dans le bloc des informations sur sujet en haut à gauche, cliquer sur “Déprogrammer” \(1\) Les apprenants n’auront plus accès au sujet.
 
-![](.gitbook/assets/deprogrammer2-2.png)
+![](.gitbook/assets/deprogrammer2-2%20%281%29.png)
 
 ## Enseignant - Exclure un élève d’une évaluation distribuée à un groupe
 
@@ -179,7 +179,7 @@ Si vous avez déjà distribué le sujet, rendez-vous dans “Mes Corrections”.
 
 Pour partager un sujet avec d’autres utilisateurs, cliquez sur la case à cocher correspondant au sujet \(1\) puis sur le bouton « Partager » \(2\).
 
-![](.gitbook/assets/partager-un-sujet-1-1.jpg)
+![](.gitbook/assets/partager-un-sujet-1-1%20%281%29.jpg)
 
 La fenêtre de partage apparaît. Pour attribuer des droits d’accès à votre sujet à d’autres utilisateurs, suivez les étapes suivantes :
 
@@ -209,7 +209,7 @@ _Nota Bene : Contrairement à la publication de sujet dans la bibliothèque \(cf
 
 Pour corriger un sujet, cliquez sur l’onglet « Mes corrections » en haut à gauche de l’écran puis cliquez sur le sujet que vous souhaitez corriger.
 
-![](.gitbook/assets/mes-corrections-2-2.jpg)
+![](.gitbook/assets/mes-corrections-2-2%20%281%29.jpg)
 
 Vous arrivez sur la liste des élèves du groupe auquel vous avez distribué le sujet. Pour les élèves n'ayant pas rendu leur devoir, vous pouvez sélectionner un des élèves sur la case à cocher \(1\) afin de lui envoyer un rappel \(2\) pour faire le devoir, ou l'exclure de l'évaluation \(3\) si l'élève ne peut pas faire le devoir. Il est également possible de sélectionner en lot tous les élèves n'ayant pas rendu le devoir \(4\).
 
@@ -225,7 +225,7 @@ Vous disposez de plusieurs statuts de correction pour vous repérez au cours des
 * En cours de correction \(2\) : la correction a été débutée mais n'est pas finalisée
 * Rendu \(3\) : le devoir a été rendu par l'élève mais la correction n'a pas encore débutée
 
-![](.gitbook/assets/corrections-2-etat-1.PNG)
+![](.gitbook/assets/corrections-2-etat-1%20%281%29.PNG)
 
 ## Enseignant - Publier un sujet dans la bibliothèque
 
@@ -261,7 +261,7 @@ Vous accédez ainsi :
 
 Pour exporter ces statistiques au format CSV, cliquez sur le bouton “Exporter” en haut à droite depuis la page de Statistiques.
 
-![](.gitbook/assets/exercizer-stat2-2-1.png)
+![](.gitbook/assets/exercizer-stat2-2-1%20%281%29.png)
 
 ## Enseignant - Importer un sujet
 

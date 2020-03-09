@@ -89,7 +89,7 @@ Vous pouvez modifier la durée de validité \(1\) du fichier dans la limite de 3
 
 Modifiez le titre \(2\) ou la description \(3\) puis cliquez sur le bouton "Enregistrer" \(4\) pour valider vos modifications.
 
-![](.gitbook/assets/203-modifier1-3-2.png)
+![](.gitbook/assets/203-modifier1-3-2%20%281%29.png)
 
 ## Supprimer un fichier
 
@@ -119,5 +119,5 @@ Vous pouvez également sélectionner le fichier en cochant la case située devan
 
 Le journal de téléchargement affiche la liste des utilisateurs \(1\) qui ont téléchargé le fichier et indique la date du téléchargement \(2\).
 
-![](.gitbook/assets/503-historique1-4.png)
+![](.gitbook/assets/503-historique1-4%20%281%29.png)
 

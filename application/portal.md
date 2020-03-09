@@ -4,7 +4,7 @@
 
 Pour accéder à vos applis, cliquez sur l’icône correspondante dans le bandeau de navigation.
 
-![](.gitbook/assets/a16-2-2.png)
+![](.gitbook/assets/a16-2-2%20%281%29.png)
 
 Vous accédez aux services pour lesquels vous avez des droits d’accès : applications, connecteurs aux outils de vie scolaire, sites web internes au réseau ou publics …
 

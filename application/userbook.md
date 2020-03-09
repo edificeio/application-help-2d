@@ -14,7 +14,7 @@ Cliquez sur l’avatar en haut à gauche de l'écran.
 
 Vous accédez à votre espace personnel où vous pouvez modifier vos informations : photo, coordonnées, devise, humeur, centres d’intérêt, en cliquant simplement sur le champ à modifier.
 
-![](.gitbook/assets/2018-10-19_10h52_07-2-1.png)
+![](.gitbook/assets/2018-10-19_10h52_07-2-1%20%281%29.png)
 
 ![](.gitbook/assets/2018-10-19_10h52_52-2.png)
 
@@ -51,7 +51,7 @@ Vous pouvez aussi choisir d’importer une photo à partir de votre poste de tra
 
 Sélectionnez un fichier dans votre poste de travail et cliquez sur ouvrir. Cliquez en suite sur « Importer » pour lancer le téléchargement.
 
-![](.gitbook/assets/mon-compte-1-1-1.png)
+![](.gitbook/assets/mon-compte-1-1-1%20%281%29.png)
 
 Votre photo est maintenant visible dans votre compte et par tous les utilisateurs !
 
@@ -72,7 +72,7 @@ Puis suivez les étapes suivantes :
 * Saisissez la « Confirmation du mot de passe »
 * Cliquez sur « Réinitialiser »
 
-![](.gitbook/assets/mon-compte-1024x463-3-1.png)
+![](.gitbook/assets/mon-compte-1024x463-3-1%20%281%29.png)
 
 Votre mot de passe est maintenant modifié !
 
@@ -80,7 +80,7 @@ Votre mot de passe est maintenant modifié !
 
 Vous pouvez ajouter ou modifier votre adresse mail dans l’espace « Mon compte ». Pour ajouter ou modifier votre adresse mail, saisissez votre nouvelle adresse dans le champ prévu, en face de « Adresse courrielle ».
 
-![](.gitbook/assets/compte4-1024x379-1-2-1-1.png)
+![](.gitbook/assets/compte4-1024x379-1-2-1-1%20%281%29.png)
 
 En cas d’oubli de votre mot de passe, un lien de récupération vous sera envoyé sur l’adresse mail renseignée dans votre compte.
 
@@ -100,7 +100,7 @@ Pour changer votre humeur, cliquez sur l’icône en dessous de votre photo.
 
 Une liste d’humeurs apparaît. Choisissez celle que vous souhaitez.
 
-![](.gitbook/assets/m12-2-1-1-1.png)
+![](.gitbook/assets/m12-2-1-1-1%20%281%29.png)
 
 Votre nouvelle humeur apparaît sur votre compte et est maintenant visible dans le fil de nouveautés des autres utilisateurs de l’ENT avec lesquels vous avez le droit de communiquer.
 

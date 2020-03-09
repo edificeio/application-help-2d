@@ -48,7 +48,7 @@ La vue Liste est accessible en cliquant sur \(1\). L’utilisateur peut afficher
 
 Il bénéficie par ailleurs des mêmes filtres que sur la vue Calendrier. Le tri peut être fait sur toutes les colonnes du tableau : demandeur, ressource, date de début, date de fin et état.
 
-![](.gitbook/assets/rbs-vue-liste-1.png)
+![](.gitbook/assets/rbs-vue-liste-1%20%281%29.png)
 
 Pour visualiser le détail d’une réservation, il suffit de cliquer sur la réservation en question dans la liste, pour afficher une fenêtre \(pop-up\) qui donne toutes les informations.
 
@@ -60,7 +60,7 @@ Il est possible de réserver une ressource :
 
 * Soit en cliquant sur « Nouvelle réservation » en haut de l’écran
 
-![](.gitbook/assets/rbs_creation-2-1.png)
+![](.gitbook/assets/rbs_creation-2-1%20%281%29.png)
 
 * Soit en cliquant sur un créneau dans le calendrier.
 
@@ -107,7 +107,7 @@ Le valideur peut aussi valider les demandes de réservations directement dans le
 
 Pour accepter ou refuser une réservation ponctuelle, le valideur doit sélectionner la réservation \(1\) et cliquer sur le bouton Valider ou Refuser \(2\).
 
-![](.gitbook/assets/rbs-validation-ponctuelle.png)
+![](.gitbook/assets/rbs-validation-ponctuelle%20%281%29.png)
 
 Le valideur qui refuse une réservation peut indiquer le motif de son refus \(1\) \(champ non obligatoire\), puis confirmer son refus. \(2\)
 
@@ -133,7 +133,7 @@ Puis en sélectionnant les seuls créneaux que l’on veut valider/refuser \(2\)
 
 Pour accéder à l’interface de gestion des ressources, les utilisateurs habilités \(gestionnaires\) doivent cliquer sur l’icône de la molette. \(1\)
 
-![](.gitbook/assets/r71-2-1.png)
+![](.gitbook/assets/r71-2-1%20%281%29.png)
 
 Pour ajouter des nouveaux types de ressources, cliquez sur « Créer un type de ressources » \(1\) et renseignez les champs suivants :
 
@@ -199,7 +199,7 @@ Pour exporter les réservations :
 
 * Choisissez le type d'export \(iCal ou PDF\) \(2\)
 
-![](.gitbook/assets/rbs-export2.png)
+![](.gitbook/assets/rbs-export2%20%281%29.png)
 
 * Filtrez sur les ressources sélectionnées ou toutes les ressources accessibles par l'utilisateur \(3\)
 

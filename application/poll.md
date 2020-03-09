@@ -12,7 +12,7 @@ L’appli Sondage permet de créer des **sondages qui pourront être intégrés 
 
 Pour accéder à l’appli Sondage, cliquez sur l’icône correspondante dans la page « Mes applis ».
 
-![](.gitbook/assets/s1-2-1.png)
+![](.gitbook/assets/s1-2-1%20%281%29.png)
 
 Cliquez sur "Créer un sondage".
 
@@ -61,7 +61,7 @@ Cliquez sur le site dans lequel vous souhaitez insérer le sondage.
 Pour insérer le sondage, cliquez sur l’icône suivante:  
 ![](.gitbook/assets/s8-3%20%281%29.png)
 
-![](.gitbook/assets/s9-1-2.png)
+![](.gitbook/assets/s9-1-2%20%281%29.png)
 
 Cliquez sur « Ajouter un sniplet ».
 

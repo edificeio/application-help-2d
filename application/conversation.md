@@ -6,7 +6,7 @@ Communiquez dans un cadre sécurisé ! Envoyez et recevez tous vos e-mails via l
 
 L’appli Messagerie permet d’envoyer simplement un message à **un utilisateur** ou à un **groupe d’utilisateurs** \(les élèves d’une classe, le personnel de l'établissement, etc.\) ayant un accès à l’ENT.
 
-![](.gitbook/assets/messagerie-1-2-2.png)
+![](.gitbook/assets/messagerie-1-2-2%20%281%29.png)
 
 La réception d’un nouveau message est visible dès la page d’accueil. Elle est indiquée par une **notification** dans le bandeau de navigation et dans le fil de nouveautés. Le nombre de messages non lus est indiqué devant chaque dossier.
 
@@ -45,7 +45,7 @@ Choisissez le document depuis votre poste de travail.
 
 En cochant « Ajouter une signature », vous pouvez maintenant paramétrer l’ajout d’une signature \(1\) pour ce message et pour les suivants.
 
-![](.gitbook/assets/signature-2.png)
+![](.gitbook/assets/signature-2%20%281%29.png)
 
 L’option pourra être à tout moment décochée et le texte modifié : en cliquant sur la flèche vous faites apparaître le bloc de texte dédié à la signature.
 
@@ -59,7 +59,7 @@ Toutes les modifications effectuées sont automatiquement enregistrées. Vous po
 
 Une fois que votre message est prêt, vous pouvez l’envoyer.
 
-![](.gitbook/assets/envoyer-1-1.png)
+![](.gitbook/assets/envoyer-1-1%20%281%29.png)
 
 ## Visualiser mes messages reçus
 
@@ -79,7 +79,7 @@ Sur l’écran central, les messages non lus apparaissent en bleu dans la liste 
 
 \(2\) Le trombone indique que le message comporte une pièce jointe
 
-![](.gitbook/assets/messagerie-2-3-1.png)
+![](.gitbook/assets/messagerie-2-3-1%20%281%29.png)
 
 \(1\) Le filtre « messages non lus » vous permet de ne faire apparaître que les messages qui n’ont pas encore été lus.
 

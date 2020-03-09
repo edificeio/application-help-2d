@@ -10,7 +10,7 @@ Le Pad est un éditeur de texte en ligne fonctionnant en mode collaboratif temps
 
 Pour créer un Pad, cliquez sur le bouton « Créer un Pad » dans la page d’accueil de l’appli.
 
-![](.gitbook/assets/nouveaupad1-2-1.png)
+![](.gitbook/assets/nouveaupad1-2-1%20%281%29.png)
 
 Ensuite, saisissez un nom \(1\) et enregistrez si vous le souhaitez une image d’illustration du Pad \(sinon c’est l’icône par défaut qui est affichée\) \(2\). Vous pouvez ensuite si vous le souhaitez ajouter une description \(3\).
 
@@ -51,7 +51,7 @@ Pour travailler avec un Pad partagé, il vous suffit de saisir le texte qui sera
    * La partie gauche concerne des outils de saisie de texte classique \(gras, italique, souligné, etc.\)
    * La partie droite offre certaines fonctionnalités complémentaires :
 
-![](.gitbook/assets/barre-outil-3.png)
+![](.gitbook/assets/barre-outil-3%20%281%29.png)
 
 * Importer/exporter un Pad dans divers formats ;
 * Accéder à l’historique dynamique. Cette fonctionnalité présente une cinématique des différentes versions du contenu du Pad ;

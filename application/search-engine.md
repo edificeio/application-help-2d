@@ -44,7 +44,7 @@ Seules les ressources pour lesquelles l’utilisateur a un droit d’accès sont
 
 Pour accéder à la page de recherche, vous devez cliquer sur l’icône de recherche de la barre de menu principale de l’ENT.
 
-![](.gitbook/assets/acces0011-3.png)
+![](.gitbook/assets/acces0011-3%20%281%29.png)
 
 Si vous cliquez sur l’icône « Loupe », vous accédez directement à l’application.
 

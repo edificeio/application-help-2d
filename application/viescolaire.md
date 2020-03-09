@@ -100,13 +100,13 @@ Pour accéder au relevé de notes, suivez les étapes suivantes :
 
 1. Cliquez sur le menu «Relevés de notes »
 
-![](.gitbook/assets/releve-de-notes-1-1-1.jpg)
+![](.gitbook/assets/releve-de-notes-1-1-1%20%281%29.jpg)
 
 1. Renseigner les critères  
 2. Il est possible d’accéder aux détails des devoirs en cliquant sur l’entête de l’évaluation \(une évaluation avec des compétences est soulignée en orange\)  
 3. Il est possible de modifier les notes des élèves directement sur le relevé
 
-![](.gitbook/assets/releve-de-notes-2-2-1-1-1.jpg)
+![](.gitbook/assets/releve-de-notes-2-2-1-1-1%20%281%29.jpg)
 
 ## Suivre le niveau des élèves
 
@@ -135,7 +135,7 @@ Pour voir le bilan du niveau des élèves individuellement, suivez les étapes s
 ![](.gitbook/assets/suivre-le-niveau-des-eleves-1-2-2.jpg)
 
 1. Renseigner les critères pour choisir un élève  
-2. Il est possible d’afficher le bilan de compétences d’un élève en cliquant sur : ![](.gitbook/assets/visualisation-bilan-1-1-1.jpg) 
+2. Il est possible d’afficher le bilan de compétences d’un élève en cliquant sur : ![](.gitbook/assets/visualisation-bilan-1-1-1%20%281%29.jpg) 
 
 ![](.gitbook/assets/visualisation-bilan-2-1-3-1.jpg)
 
@@ -186,7 +186,7 @@ Le remplacement d’un enseignant par un autre permet à l’enseignant remplaç
 
 Pour effectuer le remplacement d’un enseignant par un autre enseignant pour un temps donné :
 
-1. Cliquez sur le menu « Gérer les remplacements » ![](.gitbook/assets/remplacement-1-2-3.jpg)
+1. Cliquez sur le menu « Gérer les remplacements » ![](.gitbook/assets/remplacement-1-2-3%20%281%29.jpg)
 2. Renseigner les critères pour choisir l’enseignant à remplacer, l’enseignant remplaçant, ainsi que les dates durant lesquelles le remplacement a cours.
 
 ![](.gitbook/assets/remplacement-2-1-1-1.jpg)
@@ -195,7 +195,7 @@ Pour effectuer le remplacement d’un enseignant par un autre enseignant pour un
 
 La sélection d’un ou plusieurs remplacements permet ensuite l’édition ou la suppression de ceux-ci
 
-![](.gitbook/assets/remplacement-3-1-1-1-1.jpg)
+![](.gitbook/assets/remplacement-3-1-1-1-1%20%281%29.jpg)
 
 Version de l’application en cours d’expérimentation
 

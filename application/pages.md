@@ -14,7 +14,7 @@ Il est possible d’insérer dans ces pages **différents** types de contenus **
 
 Depuis la page d’accueil, cliquez sur « Mes applis » en haut à droite de l’écran puis cliquez sur « Pages ».
 
-![](.gitbook/assets/pages1-2-1.png)
+![](.gitbook/assets/pages1-2-1%20%281%29.png)
 
 * Pour créer un projet : Cliquez sur « Créer un un projet» \(1\)
 * Choisissez ensuite si vous voulez créer un projet privé ou public \(2\)
@@ -66,5 +66,5 @@ Pour créer une nouvelle page, vous pouvez :
 
 * Ou cliquer sur gérer les pages \(2\), puis sur "nouvelle page" \(3\)
 
-![](.gitbook/assets/capture-pages-7-1-1.png)
+![](.gitbook/assets/capture-pages-7-1-1%20%281%29.png)
 

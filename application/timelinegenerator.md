@@ -16,7 +16,7 @@ Pour accéder à l’appli Frise chronologique, cliquez sur l’icône correspon
 
 Cliquez sur le bouton « Créer une frise ».
 
-![](.gitbook/assets/f11-3.png)
+![](.gitbook/assets/f11-3%20%281%29.png)
 
 Suivez les étapes suivantes :
 
@@ -47,11 +47,11 @@ Les différents droits que vous pouvez attribuer sont les suivants :
 
 En bas de chaque frise, vous pourrez voir quel droit vous disposez sur la frise en question grâce aux icônes suivantes:
 
-* ![](.gitbook/assets/eye.png) : Consulter
+* ![](.gitbook/assets/eye%20%281%29.png) : Consulter
 * ![](.gitbook/assets/pencil%20%282%29.png) : Contribuer
 * ![](.gitbook/assets/cog%20%282%29.png) : Gérer
 
-De plus, pour les frises vous appartenant, vous pourrez voir quels sont les frises que vous aurez déjà partagé car elles auront cette icône : ![](.gitbook/assets/share-1-1.png)
+De plus, pour les frises vous appartenant, vous pourrez voir quels sont les frises que vous aurez déjà partagé car elles auront cette icône : ![](.gitbook/assets/share-1-1%20%281%29.png)
 
 ## Organiser ses frises chronologiques
 

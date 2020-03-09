@@ -65,7 +65,7 @@ Il est possible de changer les dates et heures de début et de fin. La case à c
 
 Enfin le dernier onglet appelé "Récurrence" permet de définir la récurrence de l’événement si nécessaire.
 
-![](.gitbook/assets/agenda-creation-recurrence-1-2-2.png)
+![](.gitbook/assets/agenda-creation-recurrence-1-2-2%20%281%29.png)
 
 Pour cela, il faut cocher la case « Récurrent » pour pouvoir accéder à la sélection du paramétrage de la récurrence. Ensuite, il est possible de modifier :
 
@@ -81,7 +81,7 @@ Pour cela, il faut cocher la case « Récurrent » pour pouvoir accéder à la s
 
 L’accès au partage de la ressource calendrier se fait grâce au menu du bas lors de la sélection d’un calendrier dans la liste des calendriers de l’utilisateur.
 
-![](.gitbook/assets/2018-08-24_14h42_20-1-1-1-1.png)
+![](.gitbook/assets/2018-08-24_14h42_20-1-1-1-1%20%281%29.png)
 
 Dans la fenêtre, vous pouvez donner aux utilisateurs différents droits d’accès à votre agenda. Pour cela, suivez les étapes suivantes :
 

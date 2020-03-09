@@ -59,7 +59,7 @@ Sur les vignettes de blog, des icônes vous permettent facilement de connaitre v
 
 * ![](.gitbook/assets/eye-1.png) : Consulter
 * ![](.gitbook/assets/pencil-1.png) : Contribuer
-* ![](.gitbook/assets/cog-1.png) : Gérer
+* ![](.gitbook/assets/cog-1%20%281%29.png) : Gérer
 
 De plus, concernant les blogs sur lesquels vous êtes propriétaire, l'icone suivante vous permet de savoir si le contenu a déjà été partagé : ![](.gitbook/assets/share-1-2.png)
 

@@ -60,7 +60,7 @@ Pour partager votre document avec d’autres utilisateurs, suivez les étapes su
 * Sélectionnez le document ou dossier en question en cliquant dessus \(1\)
 * Cliquez sur le bouton "Partager" en bas de l'écran \(2\)
 
-![](.gitbook/assets/partage-doc-1-1.png)
+![](.gitbook/assets/partage-doc-1-1%20%281%29.png)
 
 La fenêtre de partage apparaît. Pour attribuer des droits à d’autres utilisateurs, suivez les étapes suivantes :
 
@@ -88,7 +88,7 @@ Le dossier se trouve maintenant à l’emplacement choisi.
 
 La jauge affichée sous la liste des dossiers de l’espace documentaire vous permet de connaître l’espace de stockage dont vous disposez. L’espace utilisé est indiqué sur la gauche. Le chiffre situé sur la droite indique l’espace total de l’utilisateur.
 
-![](.gitbook/assets/document11-1.png)
+![](.gitbook/assets/document11-1%20%281%29.png)
 
 ## Ajouter la nouvelle version d’un document
 
@@ -131,5 +131,5 @@ Toutes les versions du document s’affichent. Chaque version permet d’accéde
 
 Il est possible de supprimer toutes les versions du document sauf la dernière mise à jour.
 
-![](.gitbook/assets/document8-1024x399-2-1-1.png)
+![](.gitbook/assets/document8-1024x399-2-1-1%20%281%29.png)
 

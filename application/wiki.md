@@ -67,7 +67,7 @@ Vous pouvez modifier une page. Pour cela, suivez les étapes suivantes :
 1. Cliquez sur le bouton « Modifier », en haut à droite de la page.
 2. Effectuez les modifications nécessaires et cliquez sur le bouton « Enregistrer ».
 
-![](.gitbook/assets/wiki-modifier-1-1024x410-2-1-1.png)
+![](.gitbook/assets/wiki-modifier-1-1024x410-2-1-1%20%281%29.png)
 
 ## Comparer deux versions de pages
 

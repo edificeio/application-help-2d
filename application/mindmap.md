@@ -68,7 +68,7 @@ Grâce à la barre d’outils de la carte mentale vous pouvez ajouter à vos nœ
 
 Les liens et les notes apparaissent sous forme d’icône dans le nœud avant le texte et une visualisation est proposée au survol de l’icône.
 
-![](.gitbook/assets/carte-mentale-11-1-1.png)
+![](.gitbook/assets/carte-mentale-11-1-1%20%281%29.png)
 
 Lorsque la carte mentale est terminée, cliquez sur « Enregistrer ».
 

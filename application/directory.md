@@ -41,7 +41,7 @@ Vous pouvez rechercher facilement et rapidement un groupe d’utilisateurs. Pour
 
 Une fois le groupe trouvé, vous pouvez accéder à la liste des utilisateurs concernés. Vous avez la possibilité d’envoyer un message au groupe \(1\), d’ajouter le groupe à vos favoris de partage \(2\), ou consulter leurs fiches individuelles.
 
-![](.gitbook/assets/groupe-liste-1-1.png)
+![](.gitbook/assets/groupe-liste-1-1%20%281%29.png)
 
 ## Gérer vos favoris de partage
 
@@ -53,7 +53,7 @@ En cliquant sur la fenêtre des favoris, vous pourrez gérer des listes d’util
 
 Pour consulter une liste de favoris, cliquez sur son nom dans l’onglet de gauche \(1\). Vous voyez apparaître la liste des utilisateurs concernés \(2\). Si vous souhaitez supprimer ou ajouter des utilisateurs, ou des groupes d’utilisateurs à cette liste, cliquez sur "Modifier le favori" \(3\).
 
-![](.gitbook/assets/consulter-modifier-favori-1-1-1-1.png)
+![](.gitbook/assets/consulter-modifier-favori-1-1-1-1%20%281%29.png)
 
 Pour ajouter un utilisateur ou un groupe à votre favori, vous pouvez utiliser la barre de recherche \(1\), et affiner votre recherche grâce au système de filtres \(2\). Cliquez ensuite sur "Rechercher" pour faire apparaître des propositions d’utilisateurs \(3\)
 
@@ -91,7 +91,7 @@ Pour supprimer de votre liste des utilisateurs ou des groupes, vous pouvez cliqu
 Important : si vous supprimez un groupe ou un utilisateur d’un favori qui a déjà été utilisé, les partages déjà effectués ne seront pas supprimés.
 {% endhint %}
 
-![](.gitbook/assets/favori-gerer-1-1-7.png)
+![](.gitbook/assets/favori-gerer-1-1-7%20%281%29.png)
 
 Vous avez également la possibilité de créer des listes de favoris directement depuis la fenêtre de partage. Une option "Enregistrer comme favori de partage" est disponible dans toutes les fenêtres de partage, pour enregistrer rapidement et sans effort vos listes favorites.
 
