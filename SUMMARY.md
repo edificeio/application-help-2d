@@ -31,6 +31,6 @@
 * [Réservation de ressources](application/rbs.md)
 * [Sondage](application/poll.md)
 * [Statistiques](application/statistics.md)
-* [Wiki](application/wiki.md)
 * [Visioconférence](application/webconference.md)
+* [Wiki](application/wiki.md)
 
