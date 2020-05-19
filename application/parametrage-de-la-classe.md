@@ -8,7 +8,7 @@ Cette application permet notamment de créer et gérer de nouveaux comptes \(él
 
 Pour accéder à l’application Paramétrage de la classe, cliquez sur l’icône correspondante dans la page « Mes applis ».
 
-![](.gitbook/assets/2019-10-08_13h48_14.png)
+![](.gitbook/assets/2019-10-08_13h48_14%20%281%29.png)
 
 ![](.gitbook/assets/2019-10-08_13h52_10%20%281%29.png)
 
@@ -28,7 +28,7 @@ Une interface propose trois options pour ajouter des utilisateurs à votre class
 * Importer un fichier \(2\) : vous permet d'importer un fichier CSV issus de votre base pour créer tous vos élèves, ou d'importer un fichier en se basant sur les modèles fournis
 * Rechercher des utilisateurs \(3\) : vous permet de rechercher des utilisateurs déjà présents sur l'école
 
-![](.gitbook/assets/2019-09-24_17h04_24.png)
+![](.gitbook/assets/2019-09-24_17h04_24%20%281%29.png)
 
 ```text
 1.Si vous souhaitez créer manuellement des utilisateurs, une interface vous propose de créer l'utilisateur de votre choix en renseignant plusieurs informations, obligatoires ou non, en fonction du profil :
@@ -49,7 +49,7 @@ Si vous avez créé un utilisateur existant déjà sur votre établissement, une
 * Rattacher aux deux classes \(2\) : le compte sera rattaché à la classe et conservera son rattachement à l'autre classe
 * Créer l'utilisateur \(3\) : le compte sera créé dans la classe
 
-![](.gitbook/assets/2019-09-24_17h06_48.png)
+![](.gitbook/assets/2019-09-24_17h06_48%20%281%29.png)
 
 ```text
 2.Si vous souhaitez importer des utilisateurs à partir d'un fichier, vous avez la possibilité d'exporter votre fichier CSV pour votre classe afin de l'importer depuis l'interface prévue à cet effet.
@@ -78,13 +78,13 @@ Pour créer un compte enseignant ou un compte personnel, il n'est pas possible d
 
 Après avoir complété la liste des utilisateurs que vous voulez rattacher à votre classe, cliquez sur "Ajouter à ma classe" \(6\) pour que l'action soit confirmée.
 
-![](.gitbook/assets/2019-10-08_14h38_11.png)
+![](.gitbook/assets/2019-10-08_14h38_11%20%281%29.png)
 
 ## Créer des fiches de connexion
 
 Dans l'interface de l'application, vous disposez d'un bouton pour vous permettre de créer des fiches de connexion \(1\) sur la classe sélectionnée \(2\). Ces fiches de connexion peuvent être effectuées pour un compte déjà activé, en lui rappelant la procédure pour renouveler son mot de passe, ou pour un compte non activé, en lui indiquant la démarche de première connexion.
 
-![](.gitbook/assets/2019-10-08_14h27_06.png)
+![](.gitbook/assets/2019-10-08_14h27_06%20%281%29.png)
 
 Une nouvelle fenêtre s'ouvre où vous pourrez sélectionner un ou plusieurs profils afin de créer leur fiche de connexion.
 
@@ -101,11 +101,11 @@ Une fois le ou les profils sélectionnés, vous disposez de plusieurs options po
 
 Vous pouvez également créer une ou plusieurs fiches de connexions détaillées pour un ou plusieurs comptes, en sélectionnant le ou les comptes \(1\), puis en cliquant sur "Fiches de connexions" \(2\).
 
-![](.gitbook/assets/bas-1.png)
+![](.gitbook/assets/bas-1%20%281%29.png)
 
 En allant consulter la fiche utilisateur d'un élève \(voir partie "Consulter et modifier les informations utilisateurs"\), vous pouvez récupérer des fiches de connexions simplifiées en PDF pour l'élève et son ou ses responsables légaux, en cliquant sur le lien "Fiches de connexion famille" \(1\)
 
-![](.gitbook/assets/2019-09-24_17h09_43-1.png)
+![](.gitbook/assets/2019-09-24_17h09_43%20%281%29%20%281%29.png)
 
 ## Renouveler un mot de passe
 
@@ -129,7 +129,7 @@ L’équipe ENT_
 
 Vous pouvez aussi sélectionner l'utilisateur en question \(1\) et cliquez sur "Générer un mot de passe temporaire" \(2\).
 
-![](.gitbook/assets/bas-3.png)
+![](.gitbook/assets/bas-3%20%281%29.png)
 
 Une nouvelle fenêtre s'ouvre où vous verrez l'utilisateur sélectionné, son identifiant et le mot de passe temporaire généré automatiquement.
 
@@ -145,7 +145,7 @@ Dans les deux cas, vous accédez ensuite à l’interface de réinitialisation d
 
 Renseignez l’identifiant de l’utilisateur dans le premier champ \(1\). Saisissez ensuite le nouveau mot de passe \(2\), puis confirmez-le dans le dernier champ \(3\) et cliquez sur « Réinitialiser ».
 
-![](.gitbook/assets/2019-10-08_15h05_51-2.png)
+![](.gitbook/assets/2019-10-08_15h05_51%20%282%29%20%281%29.png)
 
 La réinitialisation du mot de passe est effective. L’utilisateur peut alors se connecter avec son nouveau mot de passe.
 
@@ -155,7 +155,7 @@ En cliquant sur le nom de l'utilisateur présent dans la liste, vous pouvez acc�
 
 Une fois la fiche utilisateur affichée, vous pouvez naviguer d'une fiche utilisateur à l'autre en cliquant sur "utilisateur précédent" \(1\) ou "utilisateur suivant" \(2\).
 
-![](.gitbook/assets/2019-10-08_15h11_53.png)
+![](.gitbook/assets/2019-10-08_15h11_53%20%281%29.png)
 
 ## Bloquer un compte
 
@@ -171,7 +171,7 @@ Sélectionner l'utilisateur concerné \(1\) puis cliquer sur l'option "Retirer d
 
 En cas d'erreur, vous pourrez \(si l'utilisateur n'est rattaché à aucune autre classe\) aller dans la recherche d'utilisateur, et rattacher l'utilisateur à votre classe.
 
-![](.gitbook/assets/bas-5.png)
+![](.gitbook/assets/bas-5%20%281%29.png)
 
 ## Supprimer un utilisateur
 
