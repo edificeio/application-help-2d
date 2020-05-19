@@ -32,13 +32,13 @@ Une activité est une production réalisée via les applications pédagogiques d
 
 ![](.gitbook/assets/consulteractivite-all2.png)
 
-### A\) Visualiser en PDF
+**A\) Visualiser en PDF**
 
 Vous accédez au PDF de l’activité pour en obtenir un aperçu. Pour cela, cliquez sur “Voir en PDF”
 
 ![](.gitbook/assets/visualiserpdf2.png)
 
-### B\) Voir les statistiques d’une activité
+**B\) Voir les statistiques d’une activité**
 
 Vous accédez en haut à droite d’une activité aux différentes statistiques de consultation :
 
@@ -49,13 +49,13 @@ Vous accédez en haut à droite d’une activité aux différentes statistiques 
 3. Nombre d’ajouts dans Mes Inspirations
 4. Nombre de récupération par d’autres enseignants 
 
-### C\) Ajouter une activité à Mes inspirations
+**C\) Ajouter une activité à Mes inspirations**
 
 Ajouter une activité dans Mes inspirations vous permet l’enregistrer pour la consulter plus tard depuis votre Collection, disponible dans le bandeau supérieur.
 
 ![](.gitbook/assets/ajoutera-mesinspis.png)
 
-### D\) Commenter une activité
+**D\) Commenter une activité**
 
 Vous pouvez commenter une activité, ou répondre à un commentaire existant, en bas de la page de chaque activité. L’auteur de l’activité sera notifié de ce commentaire et pourra vous répondre !
 

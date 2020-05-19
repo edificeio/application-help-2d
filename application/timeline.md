@@ -181,7 +181,7 @@ La fenêtre, qui s’affiche propose un choix entre trois options d’intégrati
 • L’onglet ENREGISTRER UNE VIDÉO permet de réaliser la captation, sur votre appareil, directement depuis votre espace numérique, en cliquant simplement sur “Démarrer l’enregistrement”.   
 • L’onglet PARCOURIR MON ESPACE PERSONNEL vous permet d’incorporer un contenu multimédia déjà présent dans votre espace numérique.
 
-### Intégrer un lien :
+**Intégrer un lien :**
 
  Différentes ressources sont proposées par défaut \(LearningApps, Educaplay, YouTube, Dailymotion, Vimeo, Libcast...\) et peuvent être intégrées à un service en recopiant leur adresse internet \(ex : [https://learningapps.org/1459550](https://learningapps.org/1459550)\).
 
@@ -201,7 +201,7 @@ Une nouvelle fenêtre s’ouvre, dans laquelle vous pouvez coller l’adresse de
 
 La ressource est maintenant intégrée à votre contenu !
 
-### Enregistrer une vidéo
+**Enregistrer une vidéo**
 
 Vous pouvez également ajouter une capture vidéo d’une durée maximale de 5 minutes. Pour cela, sélectionnez l’onglet Enregistrer une vidéo  dans la fenêtre qui s’ouvre lorsque vous cliquez sur l’icône Ajouter une vidéo. Puis autoriser si besoin l’utilisation du micro et de la caméra de votre appareil
 
@@ -229,7 +229,7 @@ La vidéo sera bien enregistrée et sauvegardée si ce bandeau s’affiche :
 
 Le message vous avertit que la vidéo est automatiquement placée dans votre Espace documentaire \(par défaut dans l’onglet “Document ajouté dans les applis”\).
 
-### Parcourir mon espace personnel 
+**Parcourir mon espace personnel** 
 
 Enfin, le dernier onglet de la fenêtre permet de parcourir son espace personnel pour intégrer une captation vidéo déjà réalisée et stockée dans la section “Document ajouté dans les applis” de l'Espace documentaire. Il vous suffit donc de sélectionner la vidéo que vous venez d’enregistrer, puis cliquer sur “Ajouter” pour l’intégrer à votre contenu.
 
