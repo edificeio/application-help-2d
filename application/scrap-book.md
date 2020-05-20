@@ -221,6 +221,8 @@ La Bibliothèque est un espace de partage et d’inspiration entre enseignants.
 
 Si vous souhaitez publier votre cahier multimédia dans la bibliothèque pour inspirer d’autres enseignants, il vous suffit de cliquer sur le contenu que vous voulez publier. Le bandeau orange en bas de l’écran s’affiche. Cliquez sur le bouton « Publier dans la Bibliothèque ».
 
+![](.gitbook/assets/image%20%2826%29.png)
+
 Vous devez ensuite renseigner les caractéristiques de votre contenu pour expliquer votre usage :
 
 *  Titre : le plus explicatif possible
@@ -232,10 +234,15 @@ Vous devez ensuite renseigner les caractéristiques de votre contenu pour expliq
 * Âge des élèves : Quel est la tranche d’âge des élèves concernés par l’activité ? 
 * Mots-clés : Quels sont les mots-clés qui caractérisent le mieux votre activité ? 
 
+![](.gitbook/assets/2020-05-20_16h39_14.png)
+
 Lorsque votre cahier multimédia est publié, vous pouvez le visualiser en cliquant sur “Voir dans la Bibliothèque”.
 
-Vous aurez ensuite la possibilité de modifier les champs saisis ou de supprimer la publication de votre cahier multimédia en cliquant sur “Modifier” depuis la page de votre activité.  
+![](.gitbook/assets/2020-05-20_16h39_42.png)
 
+Vous aurez ensuite la possibilité de modifier les champs saisis ou de supprimer la publication de votre cahier multimédia en cliquant sur “Modifier” depuis la page de votre activité.
+
+![](.gitbook/assets/2020-05-20_16h39_59.png)
 
 ## Imprimer le cahier multimédia <a id="imprimer-le-cahier-multimedia"></a>
 

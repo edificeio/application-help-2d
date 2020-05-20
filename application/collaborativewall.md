@@ -101,6 +101,8 @@ La Bibliothèque est un espace de partage et d’inspiration entre enseignants.
 
 Si vous souhaitez publier votre mur collaboratif dans la bibliothèque pour inspirer d’autres enseignants, il vous suffit de cliquer sur le contenu que vous voulez publier. Le bandeau orange en bas de l’écran s’affiche. Cliquez sur le bouton « Publier dans la bibliothèque ».
 
+![](.gitbook/assets/2020-05-20_17h04_59.png)
+
 Vous devez ensuite renseigner les caractéristiques de votre contenu pour expliquer votre usage :
 
 *  Titre : le plus explicatif possible
@@ -112,8 +114,13 @@ Vous devez ensuite renseigner les caractéristiques de votre contenu pour expliq
 * Âge des élèves : Quel est la tranche d’âge des élèves concernés par l’activité ? 
 * Mots-clés : Quels sont les mots-clés qui caractérisent le mieux votre activité ?
 
+![](.gitbook/assets/2020-05-20_17h05_45.png)
+
 Lorsque votre mur collaboratif est publié, vous pouvez le visualiser en cliquant sur “Voir dans la Bibliothèque”.
 
-Vous aurez ensuite la possibilité de modifier les champs saisis ou de supprimer la publication de votre mur collaboratif en cliquant sur “Modifier” depuis la page de votre activité.   
+![](.gitbook/assets/2020-05-20_17h06_09.png)
 
+Vous aurez ensuite la possibilité de modifier les champs saisis ou de supprimer la publication de votre mur collaboratif en cliquant sur “Modifier” depuis la page de votre activité. 
+
+![](.gitbook/assets/2020-05-20_17h06_26.png)
 

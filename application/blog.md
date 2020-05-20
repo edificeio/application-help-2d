@@ -93,7 +93,7 @@ L'URL du blog public est visible sous l'image du blog. L'adresse apparaît tronq
 
 ![](.gitbook/assets/2019-07-11_11h16_13-1%20%281%29%20%281%29.png)
 
-Attention, les commentaires de chaque billet qui s'affichent dans l'ENT ne seront pas visible sur la version publique du blog. 
+Note : Les commentaires qui s'affichent dans l'ENT ne sont pas visible sur la version publique du blog.
 
 ## Organiser ses blogs
 
@@ -170,6 +170,8 @@ La Bibliothèque est un espace de partage et d’inspiration entre enseignants.
 
 Si vous souhaitez publier votre blog dans la bibliothèque pour inspirer d’autres enseignants, il vous suffit de cliquer sur le contenu que vous voulez publier. Le bandeau orange en bas de l’écran s’affiche. Cliquez sur le bouton « Publier dans la Bibliothèque ».
 
+![](.gitbook/assets/2020-05-20_15h56_40.png)
+
 Vous devez ensuite renseigner les caractéristiques de votre contenu pour expliquer votre usage :
 
 * **Titre** : le plus explicatif possible
@@ -181,10 +183,17 @@ Vous devez ensuite renseigner les caractéristiques de votre contenu pour expliq
 * **Âge des élèves** : Quel est la tranche d’âge des élèves concernés par l’activité ? 
 * **Mots-clés** : Quels sont les mots-clés qui caractérisent le mieux votre activité ? 
 
+![](.gitbook/assets/2020-05-20_16h01_02.png)
+
 Lorsque votre blog est publié, vous pouvez le visualiser en cliquant sur “Voir dans la Bibliothèque”.
 
-Vous aurez ensuite la possibilité de modifier les champs saisis ou de supprimer la publication de votre blog en cliquant sur “Modifier” depuis la page de votre activité.  
+![](.gitbook/assets/2020-05-20_16h02_02.png)
 
+Vous aurez ensuite la possibilité de modifier les champs saisis ou de supprimer la publication de votre blog en cliquant sur “Modifier” depuis la page de votre activité.
+
+![](.gitbook/assets/2020-05-20_16h03_50.png)
+
+![](.gitbook/assets/2020-05-20_16h04_05.png)
 
 ## Imprimer un blog
 
