@@ -93,6 +93,8 @@ L'URL du blog public est visible sous l'image du blog. L'adresse apparaît tronq
 
 ![](.gitbook/assets/2019-07-11_11h16_13-1%20%281%29%20%281%29.png)
 
+Attention, les commentaires de chaque billet qui s'affichent dans l'ENT ne seront pas visible sur la version publique du blog. 
+
 ## Organiser ses blogs
 
 1. Vous disposez de 3 filtres pour afficher vos blogs : 
