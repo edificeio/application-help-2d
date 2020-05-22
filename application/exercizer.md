@@ -161,7 +161,7 @@ Cliquez sur l’onglet “Mes Corrections” \(1\), puis cliquez sur le sujet so
 
 ![](.gitbook/assets/deprogrammer1-1-1%20%281%29%20%281%29.png)
 
-Dans le bloc des informations sur sujet en haut à gauche, cliquer sur “Déprogrammer” \(1\) Les apprenants n’auront plus accès au sujet.
+Dans le bloc des informations sur le sujet en haut à gauche, cliquer sur “Déprogrammer” \(1\) Les apprenants n’auront plus accès au sujet.
 
 ![](.gitbook/assets/deprogrammer2-2%20%282%29.png)
 
