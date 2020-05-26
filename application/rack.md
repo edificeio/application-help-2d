@@ -24,7 +24,7 @@ Lorsqu’un document a été déposé dans un casier, il n’est **pas possible 
 
 Pour déposer un document dans le casier d’un autre utilisateur, accédez à l’appli Casier puis cliquez sur le bouton « Déposer dans un casier ».
 
-![](.gitbook/assets/1-casier-1-4%20%282%29.png)
+![](.gitbook/assets/image%20%2845%29.png)
 
 Dans la fenêtre, cliquez sur « Parcourir » \(1\) pour sélectionner sur votre ordinateur le document à envoyer \(ou faites un glisser-déposer\) puis sélectionnez le\(s\) destinataire\(s\) \(2\). Vous pouvez retrouver vos favoris dans la barre de recherche. Une fois les utilisateurs sélectionnés, ils apparaissent à droite dans "Tous les utilisateurs ajoutés". Vous pouvez consulter leur fiche utilisateur en cliquant sur le nom, ou bien les supprimer de votre sélection en cliquant sur la croix à droite de leur nom. Vous pouvez choisir un utilisateur ou un groupe d'utilisateurs.
 

@@ -276,7 +276,7 @@ Lorsque les modifications sont terminées, cliquer sur "Enregistrer" en bas du t
 
 Une fois la notification reçue dans sa boîte mail personnelle, l’utilisateur peut cliquer sur le lien correspondant afin d’accéder au contenu. S’il n’est pas connecté, il devra saisir son identifiant et son mot de passe pour accéder à l’objet de la notification.
 
-![](.gitbook/assets/notiff-1-2-2%20%282%29.png)
+![](.gitbook/assets/image%20%2839%29.png)
 
 ## Le moteur de recherche
 

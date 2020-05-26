@@ -55,7 +55,7 @@ De plus, pour les frises vous appartenant, vous pourrez voir quels sont les fris
 
 ## Dupliquer une frise chronologique
 
-Cliquez sur le signe + qui se trouve sur la frise dont vous souhaitez faire une copie, puis choisissez l'option "dupliquer" sur le menu.
+Cliquez sur la frise dont vous souhaitez faire une copie, puis choisissez l'option "dupliquer" sur le menu.
 
 ![](.gitbook/assets/image%20%2810%29.png)
 
@@ -75,7 +75,7 @@ La Bibliothèque est un espace de partage et d’inspiration entre enseignants.
 
 Si vous souhaitez publier votre frise chronologique dans la bibliothèque pour inspirer d’autres enseignants, il vous suffit de cliquer sur le contenu que vous voulez publier. Le bandeau orange en bas de l’écran s’affiche. Cliquez sur le bouton « Publier dans la Bibliothèque ».
 
-![](.gitbook/assets/2020-05-20_16h49_02.png)
+![](.gitbook/assets/image%20%2844%29.png)
 
 Vous devez ensuite renseigner les caractéristiques de votre contenu pour expliquer votre usage :
 

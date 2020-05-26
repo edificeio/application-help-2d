@@ -89,7 +89,7 @@ Vous verrez apparaître un message vous demandant de patienter un moment, puis u
 
 Vous pourrez ensuite vérifier que la copie est bien présente dans votre application.
 
-![](.gitbook/assets/image%20%2815%29.png)
+![](.gitbook/assets/image%20%2835%29.png)
 
 
 
@@ -101,7 +101,7 @@ La Bibliothèque est un espace de partage et d’inspiration entre enseignants.
 
 Si vous souhaitez publier votre mur collaboratif dans la bibliothèque pour inspirer d’autres enseignants, il vous suffit de cliquer sur le contenu que vous voulez publier. Le bandeau orange en bas de l’écran s’affiche. Cliquez sur le bouton « Publier dans la bibliothèque ».
 
-![](.gitbook/assets/2020-05-20_17h04_59.png)
+![](.gitbook/assets/image%20%2843%29.png)
 
 Vous devez ensuite renseigner les caractéristiques de votre contenu pour expliquer votre usage :
 

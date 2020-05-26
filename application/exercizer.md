@@ -6,13 +6,13 @@ Des tests qui ont du peps ! Fini les moues boudeuses à l’annonce d’un exerc
 
 L’appli Exercices et évaluations permet de créer des sujets, de les distribuer et d’en faire automatiquement ou manuellement la correction. Grâce à la Bibliothèque de l’appli, il est notamment possible de rechercher des sujets publiés par d’autres enseignants et de les ajouter à ses sujets personnels pour une réutilisation ou une adaptation.
 
-![](.gitbook/assets/exercices-1-1-1%20%281%29%20%281%29.png)
+![](.gitbook/assets/image%20%2842%29.png)
 
 ## Élève / Apprenant - Réaliser un exercice
 
 Depuis la page d’accueil, cliquez sur « Mes applis » en haut à droite de l’écran puis cliquez sur « Exercices et évaluations ». Vous retrouvez les sujets à réaliser dans la semaine à gauche de l’écran. Cliquez sur le sujet de votre choix.
 
-![](.gitbook/assets/exercices-2-2-2%20%281%29%20%281%29.png)
+![](.gitbook/assets/image%20%2837%29.png)
 
 Une présentation du sujet s’affiche précisant la date de rendu \(1\), la durée de réalisation \(2\) et une description de l’exercice.
 
@@ -257,7 +257,7 @@ La Bibliothèque est un espace de partage et d’inspiration entre enseignants.
 
 Si vous souhaitez publier votre sujet dans la Bibliothèque pour inspirer d’autres enseignants, il vous suffit de cliquer sur le contenu concerné et de cocher la case en bas à droite du contenu que vous voulez publier. Le bandeau orange en bas de l’écran s’affiche. Cliquez sur le bouton « Publier dans la Bibliothèque ».
 
-![](.gitbook/assets/2020-05-20_17h36_22.png)
+![](.gitbook/assets/image%20%2841%29.png)
 
 Vous devez ensuite renseigner les caractéristiques de votre contenu pour expliquer votre usage :
 

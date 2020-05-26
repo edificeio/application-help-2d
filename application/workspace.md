@@ -76,7 +76,7 @@ Cliquez ensuite sur le bouton "Partager"
 
 Vous pouvez déplacer vos documents et vos dossiers facilement dans votre espace documentaire. Pour cela, sélectionnez le document ou le dossier à déplacer \(1\) et glissez-le vers son nouvel emplacement \(2\).
 
-![](.gitbook/assets/espace-doc-7-1-2-1%20%281%29%20%281%29.png)
+![](.gitbook/assets/image%20%2834%29.png)
 
 Vous ne pouvez pas déplacer un fichier du dossier « Mes documents » vers les dossiers « Documents partagés », « Documents ajoutés dans les applis » ou même à la corbeille.
 
