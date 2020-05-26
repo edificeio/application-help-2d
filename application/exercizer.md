@@ -237,7 +237,7 @@ Vous disposez de plusieurs statuts de correction pour vous repérez au cours des
 
 ## **Dupliquer un sujet**
 
-Cliquez sur le signe + qui se trouve sur le sujet dont vous souhaitez faire une copie, puis choisissez l'option "dupliquer" sur le menu.
+Cliquez sur le sujet dont vous souhaitez faire une copie, puis choisissez l'option "dupliquer" sur le menu.
 
 ![](.gitbook/assets/image%20%286%29.png)
 
