@@ -187,7 +187,7 @@ Cette option vous permettra notamment de ne pas inclure ces élèves dans les ra
 
 Pour partager un sujet avec d’autres utilisateurs, cliquez sur la case à cocher correspondant au sujet \(1\) puis sur le bouton « Partager » \(2\).
 
-![](.gitbook/assets/partager-un-sujet-1-1%20%282%29.jpg)
+![](.gitbook/assets/image%20%2853%29.png)
 
 La fenêtre de partage apparaît. Pour attribuer des droits d’accès à votre sujet à d’autres utilisateurs, suivez les étapes suivantes :
 
@@ -205,11 +205,11 @@ Vous pouvez attribuer différents droits aux autres utilisateurs de l’ENT :
 
 La personne à qui vous avez partagé le sujet peut le retrouver dans la rubrique « Sujets partagés avec moi ». En fonction des droits accordés, elle a la possibilité de le modifier et de le distribuer en cliquant sur l’intitulé du sujet.
 
-![](.gitbook/assets/sujets-partages-avec-moi-1-1-1%20%281%29%20%281%29.jpg)
+![](.gitbook/assets/image%20%2851%29.png)
 
 Elle peut aussi copier le sujet en cochant la case en bas à droite du sujet et faire des modifications dans sa propre version.
 
-![](.gitbook/assets/copier-1-2%20%281%29%20%281%29.jpg)
+![](.gitbook/assets/image%20%2850%29.png)
 
 _Nota Bene : Contrairement à la publication de sujet dans la bibliothèque \(cf. onglet dédié\) cette fonction de partage est restreinte aux seules personnes à qui les droits de consultation, contribution et/ou gestion ont été ouverts._
 
@@ -235,7 +235,7 @@ Vous disposez de plusieurs statuts de correction pour vous repérez au cours des
 
 ![](.gitbook/assets/corrections-2-etat-1%20%282%29.PNG)
 
-## **Dupliquer un sujet**
+## **Enseignant - Dupliquer un sujet**
 
 Cliquez sur le sujet dont vous souhaitez faire une copie, puis choisissez l'option "dupliquer" sur le menu.
 
@@ -251,7 +251,7 @@ Vous pourrez ensuite vérifier que la copie est bien présente dans votre applic
 
 ![](.gitbook/assets/image%20%2814%29.png)
 
-## **Publier dans la Bibliothèque**
+## **Enseignant - Publier dans la Bibliothèque**
 
 La Bibliothèque est un espace de partage et d’inspiration entre enseignants.
 
@@ -324,5 +324,5 @@ Charger le sujet au format Moodle XML. Renseignez le titre de votre sujet, une i
 
 Il vous est possible d’exporter des sujets. Dans “Mes Sujets”, sélectionnez un sujet interactif \(1\), puis cliquer sur “Exporter” \(2\).
 
-![](.gitbook/assets/exporter-2-2%20%282%29.png)
+![](.gitbook/assets/image%20%2855%29.png)
 

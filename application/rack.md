@@ -10,11 +10,16 @@ Pour accéder à l’appli Casier, cliquez sur l’icône correspondante dans la
 
 Le casier est composé de 3 dossiers :
 
-![](.gitbook/assets/2018-08-23_17h28_52-1-1-1%20%281%29%20%281%29.png)
+![](.gitbook/assets/image%20%2865%29.png)
 
 Le dossier « **Mon casier** » contient les documents envoyés dans mon casier.  
-Le dossier « **Historique** » contient les documents déposés par l’utilisateur dans le casier d’autres utilisateurs. Pour chaque document reçu, le titre du document, l’identifiant du destinataire ainsi que la date et l’heure d’envoi sont précisés.  
-Les documents supprimés sont disponibles dans le dossier « **Corbeille** » avant suppression définitive.
+Le dossier « **Mes Dépôts** » contient les documents déposés par l’utilisateur dans le casier d’autres utilisateurs. Pour chaque document reçu, le titre du document \(1\), l’identifiant du destinataire \(2\) ainsi que la date et l’heure d’envoi \(3\) sont précisés.
+
+![](.gitbook/assets/image%20%2857%29.png)
+
+Les documents supprimés sont disponibles dans le dossier « **Corbeille** » avant suppression définitive \(1\) ou bien restauration \(2\).
+
+![](.gitbook/assets/image%20%2860%29.png)
 
 {% hint style="info" %}
 Lorsqu’un document a été déposé dans un casier, il n’est **pas possible de le modifier, ni de le supprimer a posteriori**. Il est néanmoins possible de faire un second envoi avec une nouvelle version du document.
@@ -24,7 +29,7 @@ Lorsqu’un document a été déposé dans un casier, il n’est **pas possible 
 
 Pour déposer un document dans le casier d’un autre utilisateur, accédez à l’appli Casier puis cliquez sur le bouton « Déposer dans un casier ».
 
-![](.gitbook/assets/image%20%2845%29.png)
+![](.gitbook/assets/image%20%2864%29.png)
 
 Dans la fenêtre, cliquez sur « Parcourir » \(1\) pour sélectionner sur votre ordinateur le document à envoyer \(ou faites un glisser-déposer\) puis sélectionnez le\(s\) destinataire\(s\) \(2\). Vous pouvez retrouver vos favoris dans la barre de recherche. Une fois les utilisateurs sélectionnés, ils apparaissent à droite dans "Tous les utilisateurs ajoutés". Vous pouvez consulter leur fiche utilisateur en cliquant sur le nom, ou bien les supprimer de votre sélection en cliquant sur la croix à droite de leur nom. Vous pouvez choisir un utilisateur ou un groupe d'utilisateurs.
 
@@ -32,11 +37,21 @@ Cliquez ensuite sur « Envoyer » \(3\) pour envoyer le document. Un message de 
 
 ![](.gitbook/assets/casier-deposer-2%20%281%29%20%281%29.png)
 
+Dans « **Mes Dépôts** » vous pourrez consulter l'historique des documents déposés. Ces informations peuvent s'afficher soit en mode liste \(1\) soit en mode mosaïque \(2\). Cliquez en haut à votre droite l'icône du mode que vous préférez.  
+
+![](.gitbook/assets/image%20%2852%29.png)
+
+![](.gitbook/assets/image%20%2854%29.png)
+
+Vous ne pouvez pas supprimer ces documents, ce sont les utilisateurs qui les reçoivent qui doivent les télécharger et puis les supprimer. De toute façon, ils n'occupent pas votre espace de stockage.
+
+
+
 ## Sélection et action sur les documents
 
 Pour sélectionner un fichier, vous devez cliquer une fois dessus. Le fichier est alors surligné en bleu \(1\) et le menu d’option s’affiche en bas de page \(2\). Vous pouvez également sélectionner plusieurs documents en même temps pour effectuer une action sur tous ces documents.
 
-![](.gitbook/assets/rack-tous-selectionnes2-1024x512-1-1%20%281%29%20%281%29.png)
+![](.gitbook/assets/image%20%2866%29.png)
 
 Vous disposez également d’un bouton "télécharger" sur chaque fichier si vous souhaitez télécharger directement le fichier sur votre ordinateur.
 

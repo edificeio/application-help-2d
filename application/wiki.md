@@ -24,7 +24,7 @@ Cliquez enfin sur « Enregistrer » \(3\)
 
 Pour partager un Wiki avec d’autres utilisateurs, cliquez sur le correspondant au Wiki \(1\) puis sur le bouton « Partager » \(2\).
 
-![](.gitbook/assets/wiki_1-1024x490-3-1%20%281%29%20%281%29.png)
+![](.gitbook/assets/image%20%2847%29.png)
 
 Dans la fenêtre, vous pouvez donner aux utilisateurs de l’ENT différents droits d’accès à votre wiki. Pour cela, suivez les étapes suivantes :
 

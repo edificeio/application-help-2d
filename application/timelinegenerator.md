@@ -31,7 +31,7 @@ Suivez les étapes suivantes :
 
 Votre frise chronologique est désormais créée mais n’est pas encore visible. Pour le partager avec d’autres utilisateurs, cliquez sur votre frise puis cliquez sur le bouton « Partager ».
 
-![](.gitbook/assets/2d-frise-chrono-partager%20%281%29%20%281%29.png)
+![](.gitbook/assets/image%20%2858%29.png)
 
 Dans la fenêtre de partage, vous pouvez donner des droits de consultation, de contribution ou de gestion sur votre frise chronologique. Pour cela, saisissez les premières lettres du nom de l’utilisateur ou du groupe d’utilisateurs que vous recherchez \(1\), sélectionnez le résultat \(2\) et cochez les cases correspondant aux droits que vous souhaitez leur attribuer \(3\).
 
@@ -114,7 +114,7 @@ Vous avez à votre disposition différents outils pour trier les frises auxquell
 
 Après avoir créé vos différents dossiers, sélectionnez \(1\) la ou les frises que vous voulez mettre dans vos dossiers, puis cliquez sur le bouton "Déplacer" \(2\).
 
-![](.gitbook/assets/2019-07-11_12h51_11-1%20%281%29%20%281%29.png)
+![](.gitbook/assets/image%20%2856%29.png)
 
 Une fenêtre s'ouvrira, vous permettant de déplacer la frise sélectionnée dans un dossier existant ou d'en créer un nouveau. Vous pouvez également déplacer les dossiers eux-mêmes.
 

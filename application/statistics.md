@@ -26,6 +26,12 @@ Vous pouvez organiser les résultats par profil \(5\) et les exporter dans un fi
 
 ![](.gitbook/assets/stat-21-1024x442-4-1%20%281%29%20%281%29.png)
 
+Vous pouvez faire la distinction entre les connexions réalisées sur la version web de l'espace numérique et celles effectuées via l'application mobile, si votre établissement en bénéficie. Il suffit d'aller sur «Moyen» \(1\), cliquer sur la flèche et sélectionner une des options dans la liste déroulante \(2\) **Web uniquement**, **Mobile uniquement**, **Web et Mobile**, pour obtenir des statistiques plus précises.
+
+![](.gitbook/assets/image%20%2849%29.png)
+
+![](.gitbook/assets/image%20%2862%29.png)
+
 ## Statistiques d’accès aux applications
 
 Vous pouvez organiser les résultats par profil \(6\) et les exporter dans un fichier au format CSV \(7\).
@@ -49,4 +55,8 @@ Vous pouvez organiser les résultats par profil \(5\) et les exporter dans un fi
 ## Statistiques des comptes activés
 
 ![](.gitbook/assets/stat-61-1%20%282%29.png)
+
+
+
+
 

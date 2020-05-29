@@ -29,6 +29,7 @@
 * [Paramétrage de la classe](application/parametrage-de-la-classe.md)
 * [Poste-fichiers](application/share-big-files.md)
 * [Réservation de ressources](application/rbs.md)
+* [Site web](application/website.md)
 * [Sondage](application/poll.md)
 * [Statistiques](application/statistics.md)
 * [Visioconférence](application/webconference.md)

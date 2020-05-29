@@ -32,7 +32,7 @@ Une nouvelle page apparaît.
 
 Pour partager le mur, cliquez sur le + \(1\) correspondant au mur puis sur « Partager » \(2\).
 
-![](.gitbook/assets/mur-3-1024x501-1-1-1%20%281%29%20%281%29.png)
+![](.gitbook/assets/image%20%2848%29.png)
 
 Dans la fenêtre de partage, vous pouvez donner des droits de lecture, de contribution et de gestion à d’autres personnes sur votre mur. Pour cela, saisissez les premières lettres du nom de l’utilisateur ou du groupe d’utilisateurs que vous recherchez \(1\), sélectionnez le résultat \(2\) et cochez les cases correspondant aux droits que vous souhaitez leur attribuer \(3\).
 
