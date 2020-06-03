@@ -235,7 +235,7 @@ Vous disposez de plusieurs statuts de correction pour vous repérez au cours des
 
 ![](.gitbook/assets/corrections-2-etat-1%20%282%29.PNG)
 
-## **Enseignant - Dupliquer un sujet**
+## Enseignant - Dupliquer un sujet
 
 Cliquez sur le sujet dont vous souhaitez faire une copie, puis choisissez l'option "dupliquer" sur le menu.
 
@@ -251,7 +251,7 @@ Vous pourrez ensuite vérifier que la copie est bien présente dans votre applic
 
 ![](.gitbook/assets/image%20%2814%29.png)
 
-## **Enseignant - Publier dans la Bibliothèque**
+## Enseignant - Publier dans la Bibliothèque
 
 La Bibliothèque est un espace de partage et d’inspiration entre enseignants.
 
