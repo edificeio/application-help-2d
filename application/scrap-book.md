@@ -215,7 +215,7 @@ Positionnez ensuite la vidéo dans la page et sauvegardez votre travail en cliqu
 
 Votre cahier est complété et la vidéo prête à être regardée !
 
-## **Publier dans la Bibliothèque**
+## Publier dans la Bibliothèque
 
 La Bibliothèque est un espace de partage et d’inspiration entre enseignants.
 

@@ -69,7 +69,7 @@ Vous pourrez ensuite vérifier que la copie est bien présente dans votre applic
 
 ![](.gitbook/assets/image%20%2816%29.png)
 
-## **Publier dans la Bibliothèque**
+## Publier dans la Bibliothèque
 
 La Bibliothèque est un espace de partage et d’inspiration entre enseignants.
 
