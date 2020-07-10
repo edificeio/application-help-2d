@@ -15,7 +15,7 @@
 * [Communautés](application/community.md)
 * [Compétences](application/viescolaire.md)
 * [Espace Documentaire](application/workspace.md)
-* [Exercices](application/exercizer.md)
+* [Exercices et évaluations](application/exercizer.md)
 * [Mes données](application/archive.md)
 * [Forum](application/forum.md)
 * [Frise chronologique](application/timelinegenerator.md)
@@ -29,9 +29,7 @@
 * [Paramétrage de la classe](application/parametrage-de-la-classe.md)
 * [Poste-fichiers](application/share-big-files.md)
 * [Réservation de ressources](application/rbs.md)
-* [Site web](application/website.md)
 * [Sondage](application/poll.md)
 * [Statistiques](application/statistics.md)
-* [Visioconférence](application/webconference.md)
 * [Wiki](application/wiki.md)
 
