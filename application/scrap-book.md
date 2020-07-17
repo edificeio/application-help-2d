@@ -145,15 +145,7 @@ Vous pouvez intégrer des contenus multimédias comme des exercices interactifs,
 
 ![](.gitbook/assets/cma-13-2-2%20%282%29.png)
 
-La fenêtre, qui s’affiche propose un choix entre trois options d’intégration multimédia : 
-
-![](.gitbook/assets/ajoutervideo_ongletsneo.png)
-
-• L’onglet INTÉGRER UN LIEN permet d’intégrer une vidéo en copiant-collant l’URL ou le code embed issu d’une plateforme de partage   
-• L’onglet ENREGISTRER UNE VIDÉO permet de réaliser la captation, sur votre appareil, directement depuis votre espace numérique, en cliquant simplement sur “Démarrer l’enregistrement”.   
-• L’onglet PARCOURIR MON ESPACE PERSONNEL vous permet d’incorporer un contenu multimédia déjà présent dans votre espace numérique.
-
-**Intégrer un lien**
+**Intégrer un lien à partir d'une url**
 
 Il est possible d’ajouter dans vos cahiers multimédias des vidéos stockées sur des plateformes d’hébergement comme Youtube, Dailymotion, Libcast, Vimeo, LearningApps, educaplay…
 
@@ -165,7 +157,11 @@ Collez l’URL de la vidéo \(2\) et cliquez sur « Appliquer » \(3\).
 
 ![](.gitbook/assets/cma-16-2-2-1-1%20%281%29%20%281%29.png)
 
-Pour une vidéo hébergée ailleurs , appuyez sur la vignette "Collez votre propre code" \(4\),
+#### Ajouter une ressource dont le type n’est pas proposé par défaut
+
+Il existe de nombreuses ressources internet que vous pouvez intégrer sur votre réseau éducatif si le code d’intégration lié est proposé. Ce code se trouve souvent derrière le symbole : **&lt;/&gt;** mais on peut le trouver également derrière un bouton "Partager" ou des icônes de partage. 
+
+Pour ces ressources, copiez le code d'intégration depuis le site externe, puis, dans la fenêtre d'ajout de contenu du cahier multimédia, appuyez sur la vignette "Collez votre propre code" \(4\).
 
 ![](.gitbook/assets/cma-18-1-1-1%20%281%29%20%281%29.png)
 
@@ -176,40 +172,6 @@ Collez le lien Iframe \(5\) et cliquez sur "Appliquer" \(6\).
 Positionnez ensuite la vidéo dans la page et sauvegardez votre travail.
 
 ![](.gitbook/assets/2019-07-16_15h11_27%20%282%29.png)
-
-**Enregistrer une vidéo**
-
-Vous pouvez également ajouter une capture vidéo d’une durée maximale de 5 minutes. Pour cela, sélectionnez l’onglet Enregistrer une vidéo dans la fenêtre qui s’ouvre lorsque vous cliquez sur l’icône Ajouter une vidéo. Puis autoriser si besoin l’utilisation du micro et de la caméra de votre appareil
-
-![](.gitbook/assets/capturevideoneo.png)
-
-Pour que l’enregistrement se mette en place, cliquez sur «Démarrer l’enregistrement».
-
-![](.gitbook/assets/demarrerenregistrementneo.png)
-
-Pour arrêter la captation, cliquez sur l’icône «Stop». Vous pouvez ensuite voir votre enregistrement en cliquant sur «Lire la vidéo». Pour recommencer, cliquer sur l’icône «Refaire»
-
-![](.gitbook/assets/arreterenrneo.png)
-
-![](.gitbook/assets/lirevideoneo.png)
-
-![](.gitbook/assets/refairevideoneo.png)
-
-Pour sauvegarder votre vidéo, cliquer sur l’icône «Enregistrer».
-
-![](.gitbook/assets/savevideoneo.png)
-
-La vidéo sera bien enregistrée et sauvegardée si ce bandeau s’affiche :
-
-![](.gitbook/assets/confirmationenregistrement.png)
-
-Le message vous avertit que la vidéo est automatiquement placée dans votre Espace documentaire \(par défaut dans l’onglet “Documents ajoutés dans les applis”\).
-
-**Parcourir mon espace personnel**
-
- Enfin, le dernier onglet de la fenêtre permet de parcourir son espace personnel pour intégrer une captation vidéo déjà réalisée et stockée dans la section “Documents ajoutés dans les applis” de l'Espace documentaire. Il vous suffit donc de sélectionner la vidéo que vous venez d’enregistrer, puis cliquer sur “Ajouter” pour l’intégrer à votre contenu.
-
-![](.gitbook/assets/parcourirmonespace.png)
 
 Positionnez ensuite la vidéo dans la page et sauvegardez votre travail en cliquant sur le bouton **Enregistrer**. 
 
