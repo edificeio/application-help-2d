@@ -87,7 +87,7 @@ Les widgets se situent à gauche du fil de nouveautés. Ils sont composés des n
 
 * Le widget **Dictaphone** permet d’enregistrer des sons depuis le micro de son ordinateur. Les sons seront enregistrés dans l’espace documentaire de l’utilisateur.
 
-![](.gitbook/assets/w6-1-1-1%20%281%29%20%281%29.png)
+![](.gitbook/assets/dictaphone-widget2d-3.png)
 
 * Le widget **Applications préférées** permet d’afficher les applications favorites directement depuis la page d’accueil.
 
