@@ -68,3 +68,18 @@ Pour créer une nouvelle page, vous pouvez :
 
 ![](.gitbook/assets/capture-pages-7-1-1%20%282%29.png)
 
+## Imprimer ou exporter un projet au format PDF 
+
+Pour imprimer votre projet au format papier ou l'exporter au format PDF, positionnez vous sur la page d’accueil de l'application Pages qui liste les projets puis :
+
+1. Sélectionnez le projet que vous souhaitez imprimer
+2. Dans le menu qui apparaît en bas de page, cliquez sur la fonction "Imprimer".
+
+![](.gitbook/assets/pages_impressionpdf.png)
+
+Une fenêtre d'impression s'ouvre avec une impression au format pdf proposée par défaut. Vous avez alors la possibilité de choisir votre imprimante si vous préférez une impression papier. 
+
+
+
+
+
