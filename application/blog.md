@@ -193,7 +193,7 @@ Vous aurez ensuite la possibilité de modifier les champs saisis ou de supprimer
 
 ![](.gitbook/assets/2020-05-20_16h03_50.png)
 
-![](.gitbook/assets/2020-05-20_16h04_05.png)
+![](.gitbook/assets/correction-imagemodifieractivit-blog.png)
 
 ## Imprimer un blog
 

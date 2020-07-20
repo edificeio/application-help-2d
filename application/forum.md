@@ -68,15 +68,17 @@ Rédigez votre message dans la zone de texte en bas de page \(1\) et cliquez sur
 
 Si vous êtes habilité à créer une catégorie de forum \(présence du bouton « Nouvelle catégorie » en haut de l'écran\), vous disposez également des droits de gestion de la catégorie, c’est-à-dire que vous pouvez :
 
+* Ajouter une nouvelle discussion à la catégorie
 * Modifier la catégorie
-* Supprimer la catégorie
 * Définir les droits de partage de la catégorie.
+* Imprimer les discussions de la catégorie
+* Supprimer la catégorie
 
 Vous êtes gestionnaire d’une catégorie de discussions lorsque vous l’avez créée ou lorsque le créateur d’une catégorie vous a donné le droit de gestionnaire dans les fonctions de partage.
 
 Pour gérer une catégorie, cliquez sur la case à cocher qui y est associée.
 
-![](.gitbook/assets/forum-1-2%20%282%29.png)
+![](.gitbook/assets/forum_gerercategorie.png)
 
 ## Gérer une discussion
 
