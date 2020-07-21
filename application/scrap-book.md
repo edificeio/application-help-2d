@@ -157,7 +157,7 @@ Collez l’URL de la vidéo \(2\) et cliquez sur « Appliquer » \(3\).
 
 ![](.gitbook/assets/cma-16-2-2-1-1%20%281%29%20%281%29.png)
 
-#### Ajouter une ressource dont le type n’est pas proposé par défaut
+**Ajouter une ressource dont le type n’est pas proposé par défaut**
 
 Il existe de nombreuses ressources internet que vous pouvez intégrer sur votre réseau éducatif si le code d’intégration lié est proposé. Ce code se trouve souvent derrière le symbole : **&lt;/&gt;** mais on peut le trouver également derrière un bouton "Partager" ou des icônes de partage. 
 

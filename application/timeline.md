@@ -103,13 +103,13 @@ Le bandeau de navigation situé en haut de la page permet d’accéder à diffé
 
 Les différents services disponibles sont les suivants :
 
-* ![](.gitbook/assets/correction-iconesmenus-profil.png)L’accès à votre compte
-* ![](.gitbook/assets/correction-iconesmenus-accueil.png)Le bouton de retour à la page d’accueil
-* ![](.gitbook/assets/correction-iconesmenus-mesapplis.png)Le bouton d’accès aux applis 
-* ![](.gitbook/assets/correction-iconesmenus-communaut.png)Le bouton d’accès à l’appli Communautés 
-* ![](.gitbook/assets/correction-iconesmenus-recherche.png)Le bouton de recherche sur l’ENT
-* ![](.gitbook/assets/correction-iconesmenus-messagerie.png)Le bouton de notification de nouveaux messages reçus et d’accès à la messagerie
-* ![](.gitbook/assets/correction-iconesmenus-deconnect.png)Le bouton de déconnexion du portail 
+* ![](.gitbook/assets/correction-iconesmenus-profil.png) L’accès à votre compte
+* ![](.gitbook/assets/correction-iconesmenus-accueil.png) Le bouton de retour à la page d’accueil
+* ![](.gitbook/assets/correction-iconesmenus-mesapplis.png) Le bouton d’accès aux applis 
+* ![](.gitbook/assets/correction-iconesmenus-communaut.png) Le bouton d’accès à l’appli Communautés 
+* ![](.gitbook/assets/correction-iconesmenus-recherche.png) Le bouton de recherche sur l’ENT
+* ![](.gitbook/assets/correction-iconesmenus-messagerie.png) Le bouton de notification de nouveaux messages reçus et d’accès à la messagerie
+* ![](.gitbook/assets/correction-iconesmenus-deconnect.png) Le bouton de déconnexion du portail 
 
 ## L’éditeur de texte
 
@@ -195,11 +195,11 @@ La ressource est maintenant intégrée à votre contenu !
 
 #### 
 
-#### Ajouter une ressource dont le type n’est pas proposé par défaut
+**Ajouter une ressource dont le type n’est pas proposé par défaut**
 
 Si le type de la ressource à intégrer n’est pas proposé par défaut, il faudra coller le code d’intégration.
 
-**a\) Exemples de contenus à intégrer via le code d'intégration \(embed ou iframe\)**
+_**a\) Exemples de contenus à intégrer via le code d'intégration \(embed ou iframe\)**_
 
 Il existe de nombreuses ressources internet que vous pouvez intégrer sur votre réseau éducatif si le code d’intégration lié est proposé. Ce code se trouve souvent derrière le symbole : **&lt;/&gt;** mais on peut le trouver également derrière un bouton "Partager" ou des icônes de partage. 
 
@@ -212,7 +212,7 @@ Voici quelques exemple de sites qui proposent des ressources intéressantes que 
 * [OpenStreetMap](http://www.openstreetmap.fr/) : Le wiki cartographique mondial qui crée et fournit des données géographiques sous licence libre.
 * Vous pouvez également intégrer des contenus interactif \(Présentations, Infographies, Dossiers, Vidéos-Présentations, ePosters, Quiz,...\) créés sur [Genially](https://www.genial.ly/fr)
 
-**b\) Collez le code d’intégration pour intégrer la ressource sur ONE**
+_**b\) Collez le code d’intégration pour intégrer la ressource sur ONE**_
 
 Une fois le code d’intégration copié, vous pouvez insérer la ressource dans toutes les applications dotées de l’éditeur de texte en cliquant sur l’icône d’intégration ci-contre.
 
