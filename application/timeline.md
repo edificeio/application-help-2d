@@ -212,7 +212,7 @@ Voici quelques exemple de sites qui proposent des ressources intéressantes que 
 * [OpenStreetMap](http://www.openstreetmap.fr/) : Le wiki cartographique mondial qui crée et fournit des données géographiques sous licence libre.
 * Vous pouvez également intégrer des contenus interactif \(Présentations, Infographies, Dossiers, Vidéos-Présentations, ePosters, Quiz,...\) créés sur [Genially](https://www.genial.ly/fr)
 
-_**b\) Collez le code d’intégration pour intégrer la ressource sur ONE**_
+_**b\) Collez le code d’intégration pour intégrer la ressource sur votre espace numérique**_
 
 Une fois le code d’intégration copié, vous pouvez insérer la ressource dans toutes les applications dotées de l’éditeur de texte en cliquant sur l’icône d’intégration ci-contre.
 
