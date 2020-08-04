@@ -94,7 +94,7 @@ Les différents droits que vous pouvez attribuer sont les suivants :
 * Contribution : l’utilisateur peut apporter des modifications à la carte
 * Gestion : l’utilisateur peut modifier, supprimer et attribuer des droits de partage sur la carte
 
-## **Publier dans la Bibliothèque**
+## Publier dans la Bibliothèque
 
 La Bibliothèque est un espace de partage et d’inspiration entre enseignants.
 
