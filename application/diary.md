@@ -1,261 +1,192 @@
-# Cahier de textes
+# Cahier de texte
 
-Devenez un maître de l’organisation avec l’appli **Cahier de Texte** ! Créez et organisez vos cours comme vous le souhaitez ! Découvrez des fonctionnalités différentes adaptées au profil de l’utilisateur.
+Le cahier de texte est un module qui permet, selon les profils, d'accéder ou de créer des séances, des devoirs.
+Il permet aux parents et élèves de **suivre les devoirs et séances remplis par les enseignants.**
+Il permet aux enseignants de **gérer tout leur cahier de texte** : création, modification, création de progressions...
+Il permet **à la vie scolaire d'accéder aux cahiers de texte pour aider les élèves et à la direction de viser les cahiers de texte.**
+
+#### Table des matières
+
+<!-- TOC depthFrom:2 depthTo:3 withLinks:1 updateOnSave:0 orderedList:0 -->
+
+- [Profil enseignant](#profil-enseignant)
+	- [Vue calendaire](#vue-calendaire)
+	- [Liste des cahiers de texte](#liste-des-cahiers-de-texte)
+	- [Progressions](#progressions)
+- [Profil Vie Scolaire](#profil-vie-scolaire)
+	- [Liste des cahiers de texte](#liste-des-cahiers-de-texte)
+	- [Vue calendaire](#vue-calendaire)
+- [Profil Parents et élèves](#profil-parents-et-%C3%A9l%C3%A8ves)
+	- [Vue liste](#vue-liste)
+	- [Vue calendaire](#vue-calendaire)
+
+<!-- /TOC -->
 
 ## Profil enseignant
 
-Les enseignants peuvent créer et organiser une séance. Il leur est ensuite possible d’intervenir sur les séances afin d’y ajouter des travails à faire, ainsi que de suivre la progression.
+### Vue calendaire
 
-## Profil enseignant - Calendrier
+La vue calendaire est la vue par défaut du cahier de texte des enseignants. Elle affiche l'emploi du temps de l'enseignant connecté et donne accès aux principales fonctionnalités.
 
-C’est l'écran d’accueil du cahier de texte. Il s’ouvre sur la semaine courante.
+![](.gitbook/assets/img_cgi/diary/1calendaire_enseignant.png)
 
-![](.gitbook/assets/cdt-professeur-2-1.png)
+Légende des couleurs :
+- **vert** : une séance a été saisie
+- **orange** : un travail à faire a été saisi pour ce créneau
+- **vert et orange** : une séance et un ou plusieurs devoirs ont été saisis sur ce créneau
 
-**Créer une séance**
+![](.gitbook/assets/img_cgi/diary/1calendaire_couleurs.png)
 
-Une séance correspond à un cours, à une date donnée et à une heure donnée. Cliquer sur "Créer une séance".
+#### Créer des séances et devoirs
 
-![](.gitbook/assets/cdt-professeur-creerseance-1%20%282%29.png)
+##### Les différents accès
+Pour créer un devoir ou une séance, il existe plusieurs moyens :
+- depuis les boutons en haut à droite
+- en cliquant directement sur la séance concernée dans le calendrier
+- en glissant-déposant une séance du bloc progression vers un créneau
 
-Une nouvelle page s’ouvre. La séance sera à l'état de brouillon tant qu’elle n’aura pas été publiée. On peut sélectionner la matière \(1\), ainsi que le groupe concerné \(2\).
+Chacune de ces actions ouvre une fenêtre permettant de saisir plusieurs informations.
 
-![](.gitbook/assets/cdt-professeur-creerseance2-1-1-1.png)
+##### Créer une séance
 
-3 onglets sont disponibles :
+![](.gitbook/assets/img_cgi/diary/2ajouter_seance.png)
 
-* Séance : c’est la description du cours.
-* Travail à faire : permet d’ajouter un travail à faire
-* Séances précédentes.
+Si l'ajout de séance a été réalisé en cliquant sur un créneau, la classe et la discipline sont pré-remplies, sinon il faut choisir.
 
-**Créer un travail**
+Il faut encore compléter :
+- **Un titre** : par défaut Séance + date du jour
+- **salle préremplie** avec l'emploi du temps
+- **type de séances** (ces types sont paramétrés par la vie scolaire)
+- **date du jour pré-renseignée**
+- bouton de **publication** : activé par défaut (possible de le désactiver pour rentrer des séances et devoirs en avance sans que les autres profils le voient)
+- **description** : il s'agit de l'éditeur de texte présent partout sur l'ENT
 
-On peut créer un travail
+Un bouton **"Ajouter un travail à faire"** permet de poursuivre la saisie d'un travail, d'un devoir.
 
-* soit à partir de la page calendrier :
+##### Ajouter un travail à faire
 
-![](.gitbook/assets/cdt-professeur-creertravail-1-1%20%282%29.png)
+![](.gitbook/assets/img_cgi/diary/3ajouter_travail.PNG)
 
-* soit à partir du détail d’une séance, via l’onglet "Travail à faire".
+Pour cette section, il est possible de saisir un travail :
+- **pour une échéance** : séance (par défaut celle en cours) ou date
+- **pour une ou plusieurs classes, groupes**
+- **pour une discipline spécifique** (si l'enseignant est multidisciplinaire)
 
-![](.gitbook/assets/cdt-professeur-creertravail2-2-1-1%20%282%29.png)
+Il est possible aussi d'ajouter :
+- un **type de travail** (paramétré par la vie scolaire)
+- une **durée** estimée
 
-On indique la date pour laquelle le travail doit être rendu \(1\) et le type de devoir \(2 : Devoir maison / Exercices / Autres\).
+Une fois le travai validé, un **tableau récapitulatif apparaît**.
+![](.gitbook/assets/img_cgi/diary/3recap_travail.PNG)
 
-![](.gitbook/assets/cdt-professeur-taf-1-2-1.png)
+#### La recherche
 
-La charge de travail \(3\) des élèves pour la semaine courante est affichée, afin d'éviter de surcharger les élèves.
+En tant qu'enseignant il est possible d'afficher les cahiers de texte d'autres enseignants et d'autres classes. Il faut pour cela choisir l'enseignant ou la classe dans **les champs de recherche situés en haut de la page.**
 
-Si le travail à faire a été créé pour une séance, il apparaît dans la barre en haut de l’agenda \(1\). Si l’on crée un travail à faire indépendamment d’une séance, il apparaît dans l’onglet à droite de l’agenda "Travails à faire" \(2\).
+![](.gitbook/assets/img_cgi/diary/1calendaire_recherche.PNG)
 
-![](.gitbook/assets/cdt-professeur-taf2-1-1-1.png)
+### Liste des cahiers de texte
 
-**Glisser déposer un travail**
+Sur cette page **sont recensés tous les cahiers de texte** saisis par l'enseignant pour toutes ses classes avec des informations sur la dernière modification, le nombre de séances contenues dans le cahier de texte, et l'état s'il a été visé ou non par la direction.
 
-Cliquer sur l’onglet "Travails à faire". La liste apparaît.
+![](.gitbook/assets/img_cgi/diary/4liste_cahierdetexte.PNG)
 
-![](.gitbook/assets/cdt-professeur-taf3-1%20%281%29.png)
 
-Cliquer sur le travail que vous voulez planifier, et glissez-le dans la barre des devoirs \(1\).
+**En cliquant sur les lignes**, le cahier de texte s'ouvre et met à disposition toutes les séances et devoirs rattachés à ce cahier de texte.
 
-![](.gitbook/assets/cdt-professeur-taf4-2%20%282%29.png)
+![](.gitbook/assets/img_cgi/diary/4details.PNG)
 
-**Glisser une séance**
+En cliquant dessus, **la séance ou le travail s'ouvre dans une fenêtre et il est alors possible de naviguer de l'un à l'autre à l'aide de flèches de navigation**.
 
-Cliquer sur l’onglet "Séances". La liste apparaît. Cliquer sur la séance à planifier, et glissez-la dans l’agenda à la date souhaitée.
+![](.gitbook/assets/img_cgi/diary/4contenu.PNG)
 
-![](.gitbook/assets/cdt-professeur-seance-2-1-1.png)
+### Progressions
 
-**Publication**
+Il est possible dans ce module d'anticiper son travail de saisie des séances et éventuellement travail à faire. Au sein de Progressions, l'enseignant peut créer des dossiers et y ranger des séances non publiées, qu'il pourra ensuite glisser déposer dans la vue calendaire.
 
-Après la création d’une séance, celle-ci est d’abord à l'état de brouillon. Pour la "valider" et la rendre visible par les autres utilisateurs, on doit la "publier".
+#### Créer un dossier
 
-![](.gitbook/assets/cdt-professeur-publication-3-1-1.png)
+La création d'un dossier se fait depuis le **bouton "Créer un dossier"** dans l'arborescence à gauche.
 
-* Cocher la séance que l’on souhaite publier \(1\)
-* Cliquer sur "Publier" dans le menu qui apparaît au bas de la page \(2\), et confirmer.
+![](.gitbook/assets/img_cgi/diary/5creer_dossier.PNG)
 
-![](.gitbook/assets/cdt-professeur-publication2-1-1.png)
+**Ce dossier correspond à une progression** dans laquelle, il est alors possible de créer des séances en anticipation.
 
-Il est possible de dépublier une séance via le détail.
+#### Créer une séance
 
-**Partage**
+Pour créer une séance, il suffit de **cliquer sur le bouton "Créer une séance"en haut à droite.**
 
-Pour déterminer avec qui l’on souhaite partager une séance, sélectionner la séance \(1\), puis cliquer sur "Partager" dans le menu \(2\).
+Une fenêtre s'ouvre avec les mêmes champs à remplir que depuis la vue calendaire.
+![](.gitbook/assets/img_cgi/diary/5creer_seance.PNG)
 
-![](.gitbook/assets/cdt-professeur-partager-1-1%20%281%29.png)
+Une fois la séance enregistrée, elle apparaît dans le dossier dans lequel l'utilisateur était positionné. Cette séance se retrouve ensuite dans **le bloc de gauche sur la vue calendaire.**
 
-Il est à noter que l’on peut définir la liste de partage avant de publier la séance.
+![](.gitbook/assets/img_cgi/diary/5calendaire_sidebar.png)
 
-## Profil enseignant - Liste
+Ainsi, il est possible de **pré-remplir des séances dans Progressions pour ensuite les glisser-déposer dans la vue calendaire pour plusieurs classes** et ainsi gagner du temps.
 
-Outre la vue Agenda, une vue **liste** des séances est disponible :
 
-![](.gitbook/assets/cdt-professeur-liste-2-2%20%281%29.png)
+## Profil Vie Scolaire
 
-La liste peut être filtrée par date \(1\) ou par matière \(2\)
+Les équipes de la Vie scolaire et les fonctions Direction disposent de droits différents sur ce module, principalement liés à de la consultation et à des actions de contrôle.
 
-![](.gitbook/assets/cdt-professeur-liste2-1-1.png)
+### Liste des cahiers de texte
 
-En cliquant sur une date \(1\), on peut accéder au détail de la journée. Une icône indique s’il s’agit d’un cours \(2\) ou d’un travail à faire \(3\). Pour modifier un cours ou un devoir, on peut le sélectionner en le cochant, et accéder au menu.
+La vue par défaut des équipes de vie scolaire est la vue Liste des cahiers de texte.
 
-![](.gitbook/assets/cdt-professeur-liste3-2-1-1.png)
+![](.gitbook/assets/img_cgi/diary/6tableau.PNG)
 
-## Profil enseignant - Progression
+Elle propose : **une ligne par enseignant et par classe** : chaque ligne est donc un cahier de texte.
 
-La progression est une suite de séances, qui doivent être effectuées dans un ordre précis. Elle est accessible via la vue Agenda.
+En cliquant sur la ligne le détail s'ouvre et il est alors possible de consulter les séances et devoirs de ce cahier de texte.
 
-![](.gitbook/assets/cdt-professeur-progression-1-1%20%281%29.png)
+![](.gitbook/assets/img_cgi/diary/6details.png)
 
-On accède à la liste des progressions disponibles. Un filtre est disponible \(1\). On peut avoir une vue détaillée en cliquant sur \(2\).
+Si le personnel connecté dispose des droits, il lui est possible de **viser un cahier de texte**. Pour cela, il faut sélectionner le cahier de texte. Un menu apparaît en bas qui permet de sélectionner "Viser".
 
-![](.gitbook/assets/cdt-professeur-progression2-2-1%20%281%29.png)
+![](.gitbook/assets/img_cgi/diary/6toaster_viser.png)
 
-En choisissant la progression, on peut accéder à la liste des séances et devoirs impliqués dans la progression \(3\).
+Une fenêtre s'ouvre pour entrer un commentaire et viser.
 
-![](.gitbook/assets/cdt-professeur-progression3-4-1-1.png)
+![](.gitbook/assets/img_cgi/diary/6viser.png)
 
-La vue détaillée :
+### Vue calendaire
 
-![](.gitbook/assets/cdt-professeur-progression4-4%20%281%29.png)
+Il est aussi possible pour l'équipe de vie scolaire de **consulter la vue calendaire des cahiers de texte**. Cela permet notamment d'accompagner des élèves qui en auraient besoin.
 
-Sélectionner une progression pour en voir le détail. Il est possible à partir de cet écran de modifier les séances et les devoirs.
+Sur cette vue vide par défaut, il est **nécessaire de sélectionner un enseignant et/ou une classe** pour en afficher le cahier de texte.
 
-![](.gitbook/assets/cdt-professeur-progression5-1-2%20%282%29.png)
+![](.gitbook/assets/img_cgi/diary/7vue_calendaire_viesco.png)
 
-Pour créer une nouvelle progression, cliquer sur "Créer une progression" \(1\) et remplir les champs \(2\).
 
-![](.gitbook/assets/cdt-professeur-progression6-2-1-1%20%282%29.png)
+## Profil Parents et élèves
 
-## Profil enseignant - Contenu
+Les parents et élèves peuvent accéder au module cahier de texte pour y consulter les séances et devoirs à faire.
 
-Du contenu peut être rajouté à la progression. Par contenu, on entend "séance", y compris les travails à faire qui peuvent y être liés. Pour ce faire, sélectionner une progression, et "Ajouter du contenu" \(1\).
+### Vue liste
 
-![](.gitbook/assets/cdt-professeur-contenu-2-1-1-1.png)
+![](.gitbook/assets/img_cgi/diary/8vue_liste.png)
 
-On se retrouve avec l’interface de création de séance.
+La vue par défaut des profils Parents et élèves est **une vue liste qui proposent les prochains devoirs à faire** sur les 15 jours à venir.
 
-![](.gitbook/assets/cdt-professeur-contenu2-2-1.png)
+Il est toutefois possible d'apporter des **modifications** à cette liste à l'aide de différents filtres :
+- filtre de **dates modifiables** : il est donc possible de revenir en arrière **(1)**
+- **affichage des devoirs à faire uniquement et/ou des séances** **(2)**
+- filtre de **discipline** **(3)**
 
-De retour vers l'écran détail de la progression, on peut ordonner les séances. Cliquer sur l'élément à déplacer, et faire un glisser - déposer :
+En cliquant sur un travail à faire ou une séance, celui-ci se déplie pour dévoiler son contenu mais il est aussi possible de l'afficher en grand en cliquant sur **"Voir"** **(4)**.
 
-![](.gitbook/assets/cdt-professeur-contenu4-2-1%20%281%29.png)
+Le **profil élève uniquement peut noter le travail comment ayant été effectué** **(5)**. Les parents voient juste l'état validé ou non par leur enfant.
 
-Ici, nous avons pris le cours sur les verbes irréguliers pour les placer avant le cours sur le vocabulaire :
+Si la vue liste n'est pas assez lisible, il est possible pour les profils Parents et élèves de **basculer sur une vue calendaire** **(6)**.
 
-![](.gitbook/assets/cdt-professeur-contenu3-1-1-1.png)
+### Vue calendaire
 
-Pour rajouter une séance d’un contenu dans l’agenda, on sélectionne d’abord la progression concernée, puis la séance, et on fait un glisser déposer :
+Cette vue propose l'emploi du temps de l'élève. Avec un jeu de couleur, il est facilement aisé de voir les séances remplies ou les devoirs à effectuer.
 
-![](.gitbook/assets/cdt-professeur-progression7-1-2%20%282%29.png)
+![](.gitbook/assets/img_cgi/diary/8vue_calendaire_eleve.png)
 
-## Profil enseignant - Semaine modèle A et B
-
-![](.gitbook/assets/cdt-professeur-modele-2-1-1-1.png)
-
-Les professeurs peuvent définir des semaines modèles, limitées à 2 \(A et B\). Cela permet de gérer facilement l’alternance de semaines.
-
-**Par exemple**, un professeur donne un cours de latin le lundi de 14h à 15h. Cependant, ce cours est donné **une semaine sur deux** à une classe de 5ème, et une semaine sur deux à une classe de 4ème. Avec les semaines modèles, il pourra facilement définir la semaine de cours à la classe de 5ème comme étant le **modèle A**, et la semaine de cours à la classe de 4ème le **modèle B**.
-
-{% hint style="info" %}
-Chaque semaine sera ainsi reproduite sur toute l’année, mais restera modifiable individuellement. Un raccourci d’inversion des modèles A et B est proposé, afin de faciliter la gestion, par exemple, des vacances qui ne durent qu’une semaine.
-{% endhint %}
-
-## Profil enseignant - Archive
-
-Pour consulter les archives, cliquer sur "Voir les archives".
-
-![](.gitbook/assets/cdt-professeur-archives-1-1.png)
-
-On peut à partir de là consulter les archives sur une année scolaire, soit en triant par enseignant soit par classe \(1\). Un filtre est disponible \(2\), et il reste à choisir l’année \(3\) et la classe / l’enseignant \(4\).
-
-![](.gitbook/assets/cdt-professeur-archives2-1-1%20%282%29.png)
-
-## Profil élève \(visualisation\)
-
-L'élève n’a accès qu'à la consultation de l’agenda. Il ne peut pas intervenir sur les séances. Il voit les devoirs à faire \(1\) et les séances \(2\).
-
-![](.gitbook/assets/cdt-eleve-agenda-3-1-1.png)
-
-En cliquant sur la séance, il peut accéder au détail, avec le travail à faire éventuellement rattaché \(toujours en lecture seule\).
-
-![](.gitbook/assets/cdt-eleve-seance-1-1-1.png)
-
-## Profil parent \(visualisation\) choix enfant
-
-L’affichage est exactement le même que pour un élève.
-
-Cependant, si le parent a plusieurs enfants, il devra sélectionner de quel enfant il souhaite consulter le cahier de texte.
-
-## Profil Directeur d'établissement
-
-Le directeur d'établissement a accès à tous les contenus publiés des professeurs de son périmètre. Sur la vue agenda, un filtre permet de cibler la vue :
-
-* Par établissement \(1\)
-* Par enseignant \(2\)
-* Par classe \(3\)
-
-![](.gitbook/assets/cdt-directeur-agenda-2-1-1.png)
-
-Les séances et les devoirs à faire sont en lecture seule. Cependant, la gestion des visas permet de les valider.
-
-## Profil Directeur d'établissement - Gestion des visas
-
-Les visas sont délivrés par le directeur d'établissement aux séances et aux devoirs à faire, afin de signaler l’inspection de leur contenu et leur planification. On y accède via le bouton dans l’agenda :
-
-![](.gitbook/assets/cdt-directeur-visa1-1-1%20%281%29.png)
-
-Un filtre permet de sélectionner les élements :
-
-* Par enseignant \(1\)
-* Par matière \(2\)
-* Par classe \(3\)
-* Par statut \(soit "A viser" soit "Visé et à viser"\) \(4\)
-
-![](.gitbook/assets/cdt-directeur-visa2-1-1-1.png)
-
-Les séances sont regroupées par enseignant / classe / matière, avec la possibilité d’aposer un visa global en sélectionnant plusieurs triplets.
-
-* Si la date de visa est **verte** \(5\), alors les séances ont été validées \( = visées \).
-* Si aucune validation n’a encore été apportée, "Non visé" est indiqué \(6\).
-* Si elle est **orange** \(7\), les séances ont été validées, mais ont été modifiées depuis la validation.
-* On peut accéder au **détail des séances** en cliquant sur \(8\).
-
-![](.gitbook/assets/cdt-directeur-visa3-1-1%20%282%29.png)
-
-**Appliquer un visa : en verrouillant / sans verrouiller**
-
-Lorsque l’on applique le visa, une fenêtre s’ouvre. Il est **obligatoire** de rentrer un commentaire pour valider.
-
-![](.gitbook/assets/cdt-directeur-visa4-3-1%20%281%29.png)
-
-Si l’on **verrouille**, cela signifie que l’enseignant ne pourra plus modifier la séance.
-
-**Générer PDF**
-
-Tous les visas peuvent être édités sous forme de PDF via le menu.
-
-![](.gitbook/assets/cdt-directeur-visa5-4-1.png)
-
-**Gestion des habilitations Inspecteur**
-
-Le directeur d'établissement peut gérer les habilitations des inspecteurs.
-
-![](.gitbook/assets/cdt-directeur-habilitations1-2-1-1.png)
-
-Cela permet d’attribuer ou de retirer à l’inspecteur \(2\) le droit de délivrer un visa pour l’enseignant de cet établissement \(1\).
-
-![](.gitbook/assets/cdt-directeur-habilitations2-1-2-1.png)
-
-Pour rajouter un enseignant, on saisit son nom dans \(3\). Et pour supprimer l’habilitation, on clique sur \(4\).
-
-## Profil inspecteur
-
-Tout comme le directeur d'établissement, l’inspecteur peut délivrer des visas, mais uniquement aux séances des enseignants pour lesquels il a obtenu une habilitation \(voir la section "Directeur d'établissement" pour plus de détails\).
-
-![](.gitbook/assets/cdt-inspecteur-agenda-1-1%20%282%29.png)
-
-Un filtre permet de sélectionner l'établissement et l’enseignant.
-
-En cliquant sur "Gérer les visas", l’inspecteur peut valider les séances de la même manière que le directeur d'établissement.
-
+Légende des couleurs :
+- **vert** : une séance a été saisie
+- **orange** : un travail à faire a été saisi pour ce créneau
+- **vert et orange** : une séance et un ou plusieurs devoirs ont été saisis sur ce créneau
