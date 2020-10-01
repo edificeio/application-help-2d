@@ -2,49 +2,6 @@
 
 Paramétrer les modules de vie scolaire pour votre établissement.
 
-####Table des matières
-<!-- TOC depthFrom:2 depthTo:3 withLinks:1 updateOnSave:1 orderedList:0 -->
-
-- [Présentation](#prsentation)
-- [Établissement](#tablissement)
-	- [Paramétrage année scolaire](#paramtrage-anne-scolaire)
-	- [Paramétrage des périodes](#paramtrage-des-priodes)
-	- [Paramétrage des périodes d'exclusions](#paramtrage-des-priodes-dexclusions)
-	- [Plages horaires](#plages-horaires)
-	- [Paramétrage des services](#paramtrage-des-services)
-- [Compétences](#comptences)
-	- [Niveau de maîtrise](#niveau-de-matrise)
-	- [Visibilité sur le BFC](#visibilit-sur-le-bfc)
-	- [Items de Compétences](#items-de-comptences)
-	- [Rattachement des cycles](#rattachement-des-cycles)
-	- [Projets éducatifs](#projets-ducatifs)
-	- [Modalités des services](#modalits-des-services)
-	- [Modification des libellés des matières](#modification-des-libells-des-matires)
-	- [Imports retards et absences](#imports-retards-et-absences)
-	- [Avis du conseil de classe](#avis-du-conseil-de-classe)
-	- [Éléments du programme](#lments-du-programme)
-	- [Organiser les matières](#organiser-les-matires)
-- [Présences](#prsences)
-	- [Préalables](#pralables)
-	- [Les périodes de fermeture](#les-priodes-de-fermeture)
-	- [Les périodes scolaires](#les-priodes-scolaires)
-	- [L'emploi du temps](#lemploi-du-temps)
-	- [Paramétrer Présences](#paramtrer-prsences)
-	- [Motifs d'absences individuelles](#motifs-dabsences-individuelles)
-	- [Actions](#actions)
-	- [Alertes](#alertes)
-	- [Présences](#prsences)
-	- [Incidents](#incidents)
-	- [Punitions & Sanctions](#punitions-sanctions)
-	- [Publipostage](#publipostage)
-	- [Comptage des événements](#comptage-des-vnements)
-- [Cahier de texte](#cahier-de-texte)
-- [Emploi du temps](#emploi-du-temps)
-
-<!-- /TOC -->
-
-## Présentation
-
 ## Établissement
 
 ### Paramétrage année scolaire

@@ -2,19 +2,6 @@
 
 L'emploi du temps est un module qui permet d'afficher les emplois du temps pour les enseignants, parents, élèves et de gérer les cours pour les équipes de vie scolaire.
 
-#### Table des matières
-<!-- TOC depthFrom:2 depthTo:3 withLinks:1 updateOnSave:0 orderedList:0 -->
-
-- [Profil Elève et parent](#profil-el%C3%A8ve-et-parent)
-- [Profil Enseignant](#profil-enseignant)
-- [Profil Vie scolaire](#profil-vie-scolaire)
-	- [Les champs de recherche](#les-champs-de-recherche)
-	- [Les filtres](#les-filtres)
-	- [Créer un cours](#cr%C3%A9er-un-cours)
-	- [Modifier un cours](#modifier-un-cours)
-	- [Supprimer un cours](#supprimer-un-cours)
-
-<!-- /TOC -->
 ## Profil Elève et parent
 Avec un profil parent ou élève, l'accès au module Emploi du temps permet d'afficher l'emploi du temps de l'élève. C'est une vue calendaire classique qui présentent les différents cours de la semaine.
 Il est possible de modifier cette vue pour l'avoir en **vue jour ou en vue mois (1)** et il est possible de **naviguer de semaine en semaine avec les flèches de navigation (2)** ou de **choisir une date (3)**. Il est aussi possible de personnaliser le calendrier en affichant les **quarts d'heure, le samedi et le dimanche (4)**.

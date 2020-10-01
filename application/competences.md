@@ -1,27 +1,5 @@
 # Compétences
 
-#### Table des matières
-<!-- TOC depthFrom:2 depthTo:3 withLinks:1 updateOnSave:1 orderedList:0 -->
-
-- [Présentation](#pr%C3%A9sentation)
-- [Créer une évaluation avec des compétences](#cr%C3%A9er-une-%C3%A9valuation-avec-des-comp%C3%A9tences)
-- [Évaluer un élève](#%C3%A9valuer-un-%C3%A9l%C3%A8ve)
-- [Accéder au relevé de notes](#acc%C3%A9der-au-relev%C3%A9-de-notes)
-- [Suivre le niveau des élèves](#suivre-le-niveau-des-%C3%A9l%C3%A8ves)
-	- [Visualiser les niveaux d'un élève sur les compétences](#visualiser-les-niveaux-dun-%C3%A9l%C3%A8ve-sur-les-comp%C3%A9tences)
-	- [Visualiser le bilan de fin de cycle d'un élève](#visualiser-le-bilan-de-fin-de-cycle-dun-%C3%A9l%C3%A8ve)
-	- [Visualiser les notes et le bulletin d'un élève](#visualiser-les-notes-et-le-bulletin-dun-%C3%A9l%C3%A8ve)
-- [Suivre le niveau d'une classe](#suivre-le-niveau-dune-classe)
-	- [Suivre les niveau de compétences d'une classe](#suivre-les-niveau-de-comp%C3%A9tences-d%E2%80%99une-classe)
-	- [Consulter les positionnenents d'une classe](#consulter-les-positionnenents-d%E2%80%99une-classe)
-	- [Consulter les moyennes d'une classe](#consulter-les-moyennes-d%E2%80%99une-classe)
-	- [Consulter les appréciations des professeurs d'une classe](#consulter-les-appr%C3%A9ciations-des-professeurs-dune-classe)
-- [Saisir les projets éducatifs](#saisir-les-projets-%C3%A9ducatifs)
-- [Exports LSU (chef d'établissement)](#exports-lsu-chef-d%C3%A9tablissement)
-- [Générer les bulletins (chef d'établissement)](#g%C3%A9n%C3%A9rer-les-bulletins-chef-d%C3%A9tablissement)
-
-<!-- /TOC -->
-
 Suivez l'évolution de vos élèves grâce à un outil simple et ergonomique ! Par le biais de **notes numériques ou de compétences**, évaluez vos élèves facilement, consultez leur courbe de progression, et partagez ce suivi avec vos collègues.
 
 ## Présentation

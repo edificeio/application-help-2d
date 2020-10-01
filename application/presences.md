@@ -1,5 +1,10 @@
 # Présences
-Présences est un module de vie scolaire qui permet de **gérer tous les événements ayant lieu au sein de l'établissement scolaire**. Il comprend plusieurs parties que nous détaillerons dans cette documentation :
+
+Présences est un module de vie scolaire qui permet de **gérer tous les événements ayant lieu au sein de l'établissement scolaire**. 
+
+## Introduction
+
+Il comprend plusieurs parties que nous détaillerons dans cette documentation :
 - La gestions des **absences et des appels**
 - La gestion des **présences**
 - La gestion des **incidents et des punitions, sanctions**
@@ -8,36 +13,6 @@ Présences est un module de vie scolaire qui permet de **gérer tous les événe
 Le module Présences a l'avantage d'être **personnalisable** à différents niveaux et nous verrons dans une autre documentation comment paramétrer le module.
 
 Par ailleurs certains écrans sont communs pour les CPE et enseignants, d'autres sont plus spécifiques. Nous préciserons par **(VS)** quand les pages ne concernent que les personnels de vie scolaire.
-
-#### Table des matières
-<!-- TOC depthFrom:2 depthTo:3 withLinks:1 updateOnSave:1 orderedList:0 -->
-
-- [Le tableau de bord](#le-tableau-de-bord)
-	- [Le tableau de bord des CPE](#le-tableau-de-bord-des-cpe)
-	- [Le tableau de bord des enseignants](#le-tableau-de-bord-des-enseignants)
-	- [Le tableau de bord des parents](#le-tableau-de-bord-des-parents)
-- [La vue calendaire (VS)](#la-vue-calendaire-vs)
-	- [Déclarer une absence](#d%C3%A9clarer-une-absence)
-	- [Déclarer une dispense, un incident, des punitions ou sanctions](#d%C3%A9clarer-une-dispense-un-incident-des-punitions-ou-sanctions)
-	- [Déclarer un carnet oublié](#d%C3%A9clarer-un-carnet-oubli%C3%A9)
-	- [Autres éléments de la vue calendaire](#autres-%C3%A9l%C3%A9ments-de-la-vue-calendaire)
-- [Le registre (VS)](#le-registre-vs)
-- [La liste des appels](#la-liste-des-appels)
-- [La saisie d'un appel](#la-saisie-dun-appel)
-- [La gestion des événements : absences, retards, dispenses (VS)](#la-gestion-des-%C3%A9v%C3%A9nements-absences-retards-dispenses-vs)
-	- [La liste des événements](#la-liste-des-%C3%A9v%C3%A9nements)
-	- [Les alertes (VS)](#les-alertes-vs)
-	- [Les déclarations en ligne (VS)](#les-d%C3%A9clarations-en-ligne-vs)
-	- [Les dispenses (VS)](#les-dispenses-vs)
-	- [Absences collectives (VS)](#absences-collectives-vs)
-- [La gestion des présences](#la-gestion-des-pr%C3%A9sences)
-- [La gestion des incidents, punitions, sanctions](#la-gestion-des-incidents-punitions-sanctions)
-	- [Les incidents (VS)](#les-incidents-vs)
-	- [Punitions et sanctions](#punitions-et-sanctions)
-- [Le publipostage](#le-publipostage)
-- [Les statistiques](#les-statistiques)
-
-<!-- TOC -->
 
 ## Le tableau de bord
 

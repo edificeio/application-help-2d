@@ -5,23 +5,6 @@ Il permet aux parents et élèves de **suivre les devoirs et séances remplis pa
 Il permet aux enseignants de **gérer tout leur cahier de texte** : création, modification, création de progressions...
 Il permet **à la vie scolaire d'accéder aux cahiers de texte pour aider les élèves et à la direction de viser les cahiers de texte.**
 
-#### Table des matières
-
-<!-- TOC depthFrom:2 depthTo:3 withLinks:1 updateOnSave:0 orderedList:0 -->
-
-- [Profil enseignant](#profil-enseignant)
-	- [Vue calendaire](#vue-calendaire)
-	- [Liste des cahiers de texte](#liste-des-cahiers-de-texte)
-	- [Progressions](#progressions)
-- [Profil Vie Scolaire](#profil-vie-scolaire)
-	- [Liste des cahiers de texte](#liste-des-cahiers-de-texte)
-	- [Vue calendaire](#vue-calendaire)
-- [Profil Parents et élèves](#profil-parents-et-%C3%A9l%C3%A8ves)
-	- [Vue liste](#vue-liste)
-	- [Vue calendaire](#vue-calendaire)
-
-<!-- /TOC -->
-
 ## Profil enseignant
 
 ### Vue calendaire
