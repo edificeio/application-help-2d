@@ -13,7 +13,7 @@
 * [Carte mentale](application/mindmap.md)
 * [Casier](application/rack.md)
 * [Communautés](application/community.md)
-* [Compétences](application/viescolaire.md)
+* [Compétences](application/competences.md)
 * [Espace Documentaire](application/workspace.md)
 * [Exercices](application/exercizer.md)
 * [Mes données](application/archive.md)
@@ -32,6 +32,7 @@
 * [Site web](application/website.md)
 * [Sondage](application/poll.md)
 * [Statistiques](application/statistics.md)
+* [Vie Scolaire](application/viescolaire.md)
 * [Visioconférence](application/webconference.md)
 * [Wiki](application/wiki.md)
 
