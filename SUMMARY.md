@@ -1,4 +1,4 @@
-# Table of contents
+# Table of contents     
 
 * [Introduction](README.md)
 * [Premiers pas](application/timeline.md)
@@ -14,6 +14,7 @@
 * [Casier](application/rack.md)
 * [Communautés](application/community.md)
 * [Compétences](application/competences.md)
+* [Emploi du Temps](application/edt.md)
 * [Espace Documentaire](application/workspace.md)
 * [Exercices](application/exercizer.md)
 * [Mes données](application/archive.md)
@@ -28,6 +29,7 @@
 * [Pages](application/pages.md)
 * [Paramétrage de la classe](application/parametrage-de-la-classe.md)
 * [Poste-fichiers](application/share-big-files.md)
+* [Présences](application/presences)
 * [Réservation de ressources](application/rbs.md)
 * [Site web](application/website.md)
 * [Sondage](application/poll.md)
