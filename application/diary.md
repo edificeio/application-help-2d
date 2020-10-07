@@ -66,22 +66,22 @@ Une fois le travai validé, un **tableau récapitulatif apparaît**.
 
 En tant qu'enseignant il est possible d'afficher les cahiers de texte d'autres enseignants et d'autres classes. Il faut pour cela choisir l'enseignant ou la classe dans **les champs de recherche situés en haut de la page.**
 
-![](.gitbook/assets/img_cgi/diary/1calendaire_recherche.PNG)
+![](.gitbook/assets/img_cgi/diary/1calendaire_recherche.png)
 
 ### Liste des cahiers de texte
 
 Sur cette page **sont recensés tous les cahiers de texte** saisis par l'enseignant pour toutes ses classes avec des informations sur la dernière modification, le nombre de séances contenues dans le cahier de texte, et l'état s'il a été visé ou non par la direction.
 
-![](.gitbook/assets/img_cgi/diary/4liste_cahierdetexte.PNG)
+![](.gitbook/assets/img_cgi/diary/4liste_cahierdetexte.png)
 
 
 **En cliquant sur les lignes**, le cahier de texte s'ouvre et met à disposition toutes les séances et devoirs rattachés à ce cahier de texte.
 
-![](.gitbook/assets/img_cgi/diary/4details.PNG)
+![](.gitbook/assets/img_cgi/diary/4details.png)
 
 En cliquant dessus, **la séance ou le travail s'ouvre dans une fenêtre et il est alors possible de naviguer de l'un à l'autre à l'aide de flèches de navigation**.
 
-![](.gitbook/assets/img_cgi/diary/4contenu.PNG)
+![](.gitbook/assets/img_cgi/diary/4contenu.png)
 
 ### Progressions
 
@@ -91,7 +91,7 @@ Il est possible dans ce module d'anticiper son travail de saisie des séances et
 
 La création d'un dossier se fait depuis le **bouton "Créer un dossier"** dans l'arborescence à gauche.
 
-![](.gitbook/assets/img_cgi/diary/5creer_dossier.PNG)
+![](.gitbook/assets/img_cgi/diary/5creer_dossier.png)
 
 **Ce dossier correspond à une progression** dans laquelle, il est alors possible de créer des séances en anticipation.
 
@@ -100,7 +100,7 @@ La création d'un dossier se fait depuis le **bouton "Créer un dossier"** dans 
 Pour créer une séance, il suffit de **cliquer sur le bouton "Créer une séance"en haut à droite.**
 
 Une fenêtre s'ouvre avec les mêmes champs à remplir que depuis la vue calendaire.
-![](.gitbook/assets/img_cgi/diary/5creer_seance.PNG)
+![](.gitbook/assets/img_cgi/diary/5creer_seance.png)
 
 Une fois la séance enregistrée, elle apparaît dans le dossier dans lequel l'utilisateur était positionné. Cette séance se retrouve ensuite dans **le bloc de gauche sur la vue calendaire.**
 
@@ -117,7 +117,7 @@ Les équipes de la Vie scolaire et les fonctions Direction disposent de droits d
 
 La vue par défaut des équipes de vie scolaire est la vue Liste des cahiers de texte.
 
-![](.gitbook/assets/img_cgi/diary/6tableau.PNG)
+![](.gitbook/assets/img_cgi/diary/6tableau.png)
 
 Elle propose : **une ligne par enseignant et par classe** : chaque ligne est donc un cahier de texte.
 
