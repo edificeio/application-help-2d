@@ -29,7 +29,7 @@
 * [Pages](application/pages.md)
 * [Paramétrage de la classe](application/parametrage-de-la-classe.md)
 * [Poste-fichiers](application/share-big-files.md)
-* [Présences](application/presences)
+* [Présences](application/presences.md)
 * [Réservation de ressources](application/rbs.md)
 * [Site web](application/website.md)
 * [Sondage](application/poll.md)
