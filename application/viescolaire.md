@@ -2,9 +2,9 @@
 
 Paramétrer les modules de vie scolaire pour votre établissement.
 
-## Établissement
+## Établissement : paramétrages année, périodes et plages horaires
 
-### Paramétrage année scolaire
+**Paramétrage année scolaire :** 
 
 Dans le menu **Paramétrage année scolaire**, vous définissez les dates de début et de fin de l'année scolaire.
 
@@ -12,7 +12,9 @@ Dans le menu **Paramétrage année scolaire**, vous définissez les dates de dé
 
 Il est aussi possible d'effectuer ce paramétrage depuis l'onglet **Emploi Du Temps**.
 
-### Paramétrage des périodes
+
+
+**Paramétrage des périodes :** 
 
 Pour configurer les périodes par classe, suivez les étapes suivantes : 1. Cliquez sur le menu « Paramétrage des périodes » \(1\)
 
@@ -20,13 +22,15 @@ Pour configurer les périodes par classe, suivez les étapes suivantes : 1. Cliq
 
 1. Rechercher une **classe ou un ensemble de classe \(2\)**, sélectionner les **classes souhaitées \(3\)** puis cliquer sur le bouton **Modifier \(4\)**.
 
-   ![](.gitbook/assets/1_03_période_évaluation%20%281%29.png)
+![](.gitbook/assets/1_03_période_évaluation%20%281%29.png)
 
 Il est possible de de choisir le type de période : **semestre** ou **trimestre** puis saisir des dates attendues.
 
 ![](.gitbook/assets/1_04_période_évaluation%20%281%29.png)
 
-### Paramétrage des périodes d'exclusions
+### 
+
+**Paramétrage des périodes d'exclusions**
 
 Dans le menu **Paramétrage des périodes d'exclusion**, vous définissez les périodes de fermeture de l'établissement \(jours fériés\) qui doivent être pris en compte dans les différentes applications de vie scolaire.
 
@@ -34,7 +38,9 @@ Dans le menu **Paramétrage des périodes d'exclusion**, vous définissez les p�
 
 Il est aussi possible d'effectuer ce paramétrage depuis l'onglet **Emploi Du Temps**.
 
-### Plages horaires
+
+
+**Plages horaires**
 
 **Plages horaires** vous permet de sélectionner les plages horaires de votre établissement qui seront nécessaires pour l'utilisation de certaines applications.
 
@@ -42,13 +48,15 @@ Après avoir défini au préalables les plages horaires dans la **console d'admi
 
 ![](.gitbook/assets/1_06_plage_horaire%20%281%29.png)
 
-### Paramétrage des services
+## Établissement : Paramétrage des services
 
 Dans le menu **Paramétrage des services**, vous retrouvez la liste des services de l'établissement et pouvez y rattacher des sous-matières, des co-enseignants ou des remplaçants.
 
 Les services sont affichés et regroupés par **matière** \(1\), par **groupes** \(2\) et par **enseignants** \(3\) et vous pouvez effectuer une recherche sur ces trois éléments.
 
 ![](.gitbook/assets/1_07_liste_services%20%281%29.png)
+
+#### 
 
 #### Ajouter un co-enseignant
 
@@ -64,6 +72,8 @@ Après validation, le co-enseignant est ajouté au service sélectionné. Pour l
 
 ![](.gitbook/assets/1_10_ajout_co-enseignant3%20%281%29.png)
 
+#### 
+
 #### Ajouter un remplaçant
 
 Vous pouvez ajouter un remplaçant sur l'un des services en cliquant sur l'icône correspondant \(7\).
@@ -78,6 +88,8 @@ La **date de fin de saisie** permet à l'enseignant remplaçant de continuer à 
 
 Après l'ajout, le remplaçant apparaît dans la colonne **remplaçant** du service sélectionné.
 
+#### 
+
 #### Ajouter / attribuer une sous-matière
 
 Vous pouvez ajouter une sous-matière en cliquant sur l'icône correspondant \(1\).
@@ -90,9 +102,7 @@ Sélectionner la sous-matière que vous souhaitez ajouter \(2\) ou créez-en une
 
 Arpès validation, la sous-matière est ajoutée. Si des évaluations étaient rattachées à la matière, elles seront automatiquement rattachées à la sous-matière créée.
 
-## Compétences
-
-### Niveau de maîtrise
+## Compétences : Niveau de maîtrise
 
 Pour personnaliser le niveau de maitrise par cycle, suivez les étapes suivantes :
 
@@ -119,7 +129,7 @@ La modification sera appliquée pour tous les utilisateurs de l'établissement.
 
 ![](.gitbook/assets/2_05_niveau5%20%281%29.png)
 
-### Visibilité sur le BFC
+## Compétences : Visibilité sur le BFC
 
 Il est possible de masquer ou d’afficher certains éléments sur le Bilan de fin de cycle.
 
@@ -143,7 +153,7 @@ Si vous choisissez d'afficher le barème, vous aurez le résultat suivant :
 
 ![](.gitbook/assets/2_09_visibiliteBFC4%20%281%29.png)
 
-### Items de Compétences
+## Compétences : Items de Compétences
 
 Pour mettre à jour le référentiel de compétences cliquez sur le menu **« Items de compétences » \(1\)**
 
@@ -159,7 +169,9 @@ Pour chaque item, vous pouvez \(4\) :
 * **le modifier** : modification du libellé uniquement
 * **afficher les domaines rattachés \(5\)**
 
-Enfin, il est tout à fait possible de **créer un nouvel item** de compétence dans un élément signifiant **\(6\)** : ![](.gitbook/assets/2_11_ref_comp2%20%281%29.png)
+Enfin, il est tout à fait possible de **créer un nouvel item** de compétence dans un élément signifiant **\(6\)** : 
+
+![](.gitbook/assets/2_11_ref_comp2%20%281%29.png)
 
 **Saisir un libellé et choisir un ou plusieurs domaines rattachés \(7\)** – ce nouvel item apparaitra dans le module Compétences.
 
@@ -167,7 +179,7 @@ Enfin, il est tout à fait possible de **créer un nouvel item** de compétence 
 
 NB : Le bouton **Réinitialiser** permet de revenir à l’état initial du référentiel de compétences du socle.
 
-### Rattachement des cycles
+## Compétences : Rattachement des cycles
 
 Pour rattacher une classe ou un groupe à un cycle, suivez les étapes suivantes :
 
@@ -179,7 +191,7 @@ Recherchez une ou plusieurs classes ou groupes \(2\) – filtre possible par cla
 
 ![](.gitbook/assets/2_14_ratt_cycle%20%281%29.png)
 
-### Projets éducatifs
+## Compétences :  Projets éducatifs
 
 Pour paramétrer les projets éducatifs, cliquer sur le menu **« Projets éducatifs » \(1\)** :
 
@@ -199,7 +211,7 @@ Saisissez un **libellé et une description \(7\)** et enfin choisissez au moins 
 
 Cliquer sur **Ajouter** pour créer l’EPI. Celui-ci apparaitra dans la liste des EPI ajoutés. Même principe sur les onglet AP et Parcours.
 
-### Modalités des services
+## Compétences : Modalités des services
 
 Le liste des services est affichée et organisée de la même manière que sur la page **paramétrage des services** : les services avec une même matière et un même enseignant sont regroupés ensemble pour l'affichage. Sur cette page, vous pouvez modifier le coefficient des services, les modalités, et si le service est évaluable. Pour un service avec plusieurs enseignants \(co-enseignants ou remplaçants\), vous pouvez aussi choisir la visibilité des intervenants.
 
@@ -236,7 +248,7 @@ Légende des modalités :
 
 Lorsqu'un service est rattaché à plusieurs enseignants \(co-enseignants ou remplaçants\), il est possible de masquer un ou plusieurs des ces intervenants en cliquant sur l'icône ![](.gitbook/assets/2_23_modalites_services6%20%281%29.png) L'intervenant masqué ne sera alors plus affiché sur les différentes pages et exports du module **Compétences**, notamment dans l'onglet **conseil de classe** et sur le **bulletin**.
 
-### Modification des libellés des matières
+## Compétences : Modification des libellés des matières
 
 Vous pouvez modifier les **libellés des matières** qui seront affichés sur le bulletin. Vous pouvez rechercher un modèle déjà créé \(1\) ou le modifier \(2\). Pour créer un nouveau modèle, cliquer sur **créer un modèle** \(3\).
 
@@ -254,13 +266,13 @@ Sélectionnez le modèle que vous souhaitez utiliser \(7\).
 
 ![](.gitbook/assets/2_27_modif_libelle4%20%281%29.png)
 
-### Imports retards et absences
+## Compétences : Imports retards et absences
 
 Vous pouvez importer dans l'application les **retards et les absences** des élèves. Si l'application **Présences** est activée, vous pouvez directement récupérer les informations depuis le module \(1\). Sinon, vous pouvez importer vous-même le fichier contenant les informations \(2\).
 
 ![](.gitbook/assets/2_28_absences%20%281%29.png)
 
-### Avis du conseil de classe
+## Compétences : Avis du conseil de classe
 
 Vous pouvez personnaliser les **avis du conseil de classe** et d'**orientation** des élèves. Vous pouvez en **créer un nouveau** \(1\), **modifier** un avis que vous avez créé \(2\), le **masquer** \(3\) ou le **supprimer** \(4\).
 
@@ -268,21 +280,19 @@ Vous pouvez personnaliser les **avis du conseil de classe** et d'**orientation**
 
 Les avis peuvent aussi être créés directement depuis l'ongle **Conseil de classe** du module **Compétences**.
 
-### Éléments du programme
+## Compétences : Éléments du programme
 
 Vous pouvez ici modifier ou ajouter des **éléments du programmes travaillés** aux sous-domaines pour ensuite les utilisés lors de la saisie dans le **relevé périodique**. Après avoir sélectionné le cycle et le domaine \(1\), vous pouvez ajouter une élément au sous domaine \(2\), modifier un élément ajouté \(3\) ou le supprimer \(4\).
 
 ![](.gitbook/assets/2_30_ajout_element%20%281%29.png)
 
-### Organiser les matières
+## Compétences : Organiser les matières
 
 Vous pouvez choisir d'organiser l'**ordre d'affichage des matières** sur les écrans et exports du modules compétences. Vous pouvez déplacer les matières en les **glissant-déposant** \(1\) dans l'ordre voulu ou en cliquant sur les **flèches** pour les déplacer \(2\). Le bouton **Réinitialiser** \(3\) permet de les remettre dans l'ordre alphabétique \(ordre par défaut\).
 
 ![](.gitbook/assets/2_31_organiser_matiere%20%281%29.png)
 
-## Présences
-
-### Préalables
+## Présences : Préalables
 
 Avant de paramétrer spécifiquement le module Présences, il faut paramétrer la Vie Scolaire dans son ensemble.
 
@@ -310,23 +320,31 @@ Pour créer une grille horaire, **cliquer sur "Créer une grille"** puis **défi
 
 **ATTENTION, cette partie est très importante** : Vous devez **absolument saisir ici les créneaux déclarés dans le logiciel d'emploi du temps**. Cela est important pour de nombreuses fonctionnalités du module Présences. Par ailleurs les appels sont créés sur la base de ces créneaux, notamment les appels multiples qui se scindent en fonction de ces horaires. De ce fait, **il ne faut absolument pas définir les récréations comme des créneaux** sinon des appels seront créés pour les récréations si un cours se situe de part et d'autre de la pause. Pour information, il est possible de créer différentes grilles horaires : une pour le module réservation de ressources et agenda et une autre pour la vie scolaire.
 
-Une fois vos créneaux définis, retourner dans Mes Applis dans l'ENT et sélectionner le module **Paramétrages Vie Scolaire.** ![](.gitbook/assets/uni-parametres%20%289%29.png)
+Une fois vos créneaux définis, retourner dans Mes Applis dans l'ENT et sélectionner le module **Paramétrages Vie Scolaire.**
 
-Puis dans **l'onglet "Etablissement"**, choisir **Plage Horaire** et là dans le menu déroulant, **sélectionner la grille horaire** que vous venez de créer. ![](.gitbook/assets/3plage_horaire%20%281%29.png)
+ ![](.gitbook/assets/uni-parametres%20%289%29.png)
 
-### Les périodes de fermeture
+Puis dans **l'onglet "Etablissement"**, choisir **Plage Horaire** et là dans le menu déroulant, **sélectionner la grille horaire** que vous venez de créer.
+
+![](.gitbook/assets/3plage_horaire%20%281%29.png)
+
+## Présences : Périodes de fermeture et périodes scolaires
+
+**Les périodes de fermeture**
 
 Il est possible de **définir des périodes ou des jours de fermeture** dans le paramétrage de Vie Scolaire. Côté Présences, cela aura pour conséquences de **griser ces périodes dans le registre**.
 
 Dans le module Paramétrages de vie scolaire, aller dans **"Paramétrage des périodes d'exclusion"**. Vous pourrez ensuite cliquer sur le bouton **"Ajouter une exclusion"** ce qui vous permettra de définir la période concernée.
 
-![](.gitbook/assets/3fermeture%20%281%29.png) ![](.gitbook/assets/3ajouter_fermeture%20%281%29.png)
+![](.gitbook/assets/3fermeture%20%281%29.png)
 
-### Les périodes scolaires
+![](.gitbook/assets/3ajouter_fermeture%20%281%29.png)
+
+**Les périodes scolaires**
 
 Il est important que les périodes scolaires \(trimestres ou semestres\) soient bien définies. Pour cela, dans le **module Paramétrage Vie Scolaire**, choisir **"Paramétrage des périodes"** et définir les dates de vos trimestres et ou semestre. Cela sera utile pour les récapitulatifs d'absences ou de retards par période.
 
-### L'emploi du temps
+## Présences : L'emploi du temps
 
 Le module Présences crée des appels sur la base des cours existants dans le module Emploi du temps. Il est donc **obligatoire d'importer l'emploi du temps** de votre logiciel d'emploi du temps dans l'ENT pour faire fonctionner Présences. Attention, si les repas ou les permanences sont déclarés comme des créneaux de cours dans votre logiciel d'emploi du temps, des appels pourront être générés sur ces créneaux.
 
@@ -355,7 +373,7 @@ Vous pouvez ensuite **charger votre archive .zip et cliquer sur "importer"**. Un
 
 Une fois que tout ces paramétrages préalables sont réalisés, il est possible de passer aux paramétrages du module Présences à proprement parler.
 
-### Paramétrer Présences
+## Paramétrer Présences
 
 Le module Présences dispose de nombreux menus déroulants proposant différentes options. C'est ici que vous allez pouvoir paramétrer ces options.
 
@@ -363,13 +381,15 @@ Dans le module de Paramétrage Vie Scolaire, passer à **l'onglet Présences.**
 
 Dans un premier temps, **activer le module** si ce n'est pas déjà fait.
 
-Si vous le souhaitez, un **bouton d'initialisation** vous permet de remplir tous les paramètres avec des valeurs par défaut que vous pourrez ensuite modifier. Ce bouton n'est valable qu'une fois. ![](.gitbook/assets/3-01initialisation_parametres%20%281%29.png)
+Si vous le souhaitez, un **bouton d'initialisation** vous permet de remplir tous les paramètres avec des valeurs par défaut que vous pourrez ensuite modifier. Ce bouton n'est valable qu'une fois. 
+
+![](.gitbook/assets/3-01initialisation_parametres%20%281%29.png)
 
 Le **menu de tous les paramètres disponibles** sur cette page est clicable pour vous amener plus rapidement à la partie de votre choix.
 
 ![](.gitbook/assets/3-02menu_parametres%20%281%29.png)
 
-### Motifs d'absences individuelles
+**Motifs d'absences individuelles**
 
 Les motifs d'absences individuelles sont ceux que vous allez trouver dans les menus déroulants "motifs" situés :
 
@@ -395,7 +415,9 @@ Une fois qu'ils sont définis, vous pouvez :
 
 Nous rappelons par ailleurs que **tous les motifs justifient une absence**. Pour conserver des absences non justifiées, il faut **les laisser sans motif**. Cela sera visuellement observable dans le module Présences, les absences non justifiées étant rouge tandis que les justifiées sont roses. De même, de nombreuses fonctionnalités utilisent cet état justifié / non justifié. Il n'est donc pas possible de définir un motif "non recevable" qui ne justifierait pas l'absence.
 
-### Actions
+\*\*\*\*
+
+**Actions**
 
 Les actions interviennent uniquement dans la liste des événements. Il s'agit **d'actions que vous pouvez positionner sur un événement pour indiquer l'avancement de son traitement**. Cela facilite le suivi si plusieurs personnes interviennent à la suite les unes des autres.
 
@@ -404,9 +426,9 @@ Vous pouvez donc ici paramétrer :
 * **le nom de l'action**
 * **son abréviation** : qui apparaîtra dans la liste des événements
 
-![](https://github.com/opendigitaleducation/application-help-2d/tree/78bd6799b64c953a085ac81df53ea132828f347e/application/.gitbook/assets/img_cgi/viescolaire/3-04actions.png)
+![](.gitbook/assets/3-04actions.png)
 
-### Alertes
+**Alertes**
 
 Les alertes s'affichent **sur le tableau de bord de la Vie Scolaire et sur une page dédiée**. Elles apparaissent quand un nombre limite d'événements est franchi.
 
@@ -421,7 +443,9 @@ C'est ici que vous allez **définir le moment à partir duquel une alerte est d�
 
 Pour l'unité des absences \(créneaux, demi-journée ou journée\), cela se paramètre au niveau des statistiques. L'unité de comptage des absences sera donc celle définie plus bas.
 
-### Présences
+
+
+**Présences :** 
 
 C'est ici que se paramètrent les **lieux et moments pour lesquels il sera possible de déclarer des présences**.
 
@@ -429,7 +453,9 @@ Comme pour les motifs d'absences, il sera possible de modifier avec le crayon au
 
 ![](.gitbook/assets/3-06presences%20%281%29.png)
 
-### Incidents
+### 
+
+**Incidents**
 
 De nombreux paramètres sont modifiables dans cette rubrique :
 
@@ -441,23 +467,31 @@ De nombreux paramètres sont modifiables dans cette rubrique :
 
 De façon générale, tout fonctionne comme les absences. Une fois un type ou un lieu défini, il est modifiable, peut être supprimé ou caché \(en fonction de son utilisation préalable\).
 
-### Punitions & Sanctions
+
+
+**Punitions & Sanctions**
 
 Les punitions et les sanctions donnent lieu à des formulaires différenciés en fonction de 4 catégories. Ainsi avant de définir un type, vous devez choisir une catégorie. En cliquant sur chacune catégorie, vous voyez apparaître à droite un aperçu des différents formulaires disponibles dans le module.
 
-#### Le formulaire type Blâme
+#### _Le formulaire type Blâme_
 
-Il s'agit du formulaire le plus simple. Vous **n'avez qu'un menu déroulant** avec le type de punition ou de sanction à donner . ![](.gitbook/assets/3-10categorie_blame%20%281%29.png)
+Il s'agit du formulaire le plus simple. Vous **n'avez qu'un menu déroulant** avec le type de punition ou de sanction à donner . 
 
-#### Le formulaire type Exclusion
+![](.gitbook/assets/3-10categorie_blame%20%281%29.png)
 
-Celui-ci propose en plus **une période sur laquelle la punition ou la sanction va être appliquée**. ![](.gitbook/assets/3-11categorie_exclusion%20%281%29.png)
+#### _Le formulaire type Exclusion_
 
-#### Le formulaire type Devoir supplémentaire
+Celui-ci propose en plus **une période sur laquelle la punition ou la sanction va être appliquée**. 
 
-Il est possible ici d'ajouter une consigne de devoir. ![](.gitbook/assets/3-12categorie_devoir%20%281%29.png)
+![](.gitbook/assets/3-11categorie_exclusion%20%281%29.png)
 
-#### Le formulaire type Retenue
+#### _Le formulaire type Devoir supplémentaire_
+
+Il est possible ici d'ajouter une consigne de devoir. 
+
+![](.gitbook/assets/3-12categorie_devoir%20%281%29.png)
+
+#### _Le formulaire type Retenue_
 
 Ce formulaire permet de sélectionner **une date et des créneaux horaires pour la retenue ainsi qu'un lieu**.
 
@@ -467,11 +501,13 @@ Une fois que vous avez sélectionné la catégorie, vous pouvez alors **choisir 
 
 Vous pouvez ensuite saisir un libellé qui convient pour votre établissement et votre type de punition/sanction est créé.
 
-### Publipostage
+
+
+**Publipostage**
 
 Dans cette section, il est possible de rédiger les modèles de messages à envoyer aux familles.
 
-#### Publipostage Mail
+#### _Publipostage Mail_
 
 Afin de définir un premier modèle de mail, **indiquer son titre**, puis dans le corps du message, **saisir le contenu du mail à envoyer**. Afin qu'il soit générique, des **codes existent** à droite qui seront remplacés lors du publipostage par les valeurs correspondantes à chaque élève. **Au clic sur le code, il est possible de le copier** pour ensuite le coller dans l'éditeur à l'aide du **raccourcis de touches CTRL+V**.
 
@@ -479,13 +515,15 @@ Afin de définir un premier modèle de mail, **indiquer son titre**, puis dans l
 
 Le récapitulatif, sous forme de tableau, présente la totalité des événements que vous souhaitez publiposter sur la période que vous avez sélectionné.
 
-Voici un exemple de rendu de mail : ![](.gitbook/assets/3-09publipostage_mail_result%20%281%29.png)
+Voici un exemple de rendu de mail : 
+
+![](.gitbook/assets/3-09publipostage_mail_result%20%281%29.png)
 
 La liste des modèles que vous avez renseignés se trouve en dessous. Il suffit de cliquer sur un modèle pour que le texte s'affiche dans l'éditeur et que vous puissiez le modifier.
 
 ![](.gitbook/assets/3-08publipostage_mail_liste%20%281%29.png)
 
-#### Publipostage SMS
+#### _Publipostage SMS_
 
 Le concept est le même pour les SMS mais les contraintes sont plus importantes.
 
@@ -494,7 +532,9 @@ Le concept est le même pour les SMS mais les contraintes sont plus importantes.
 
 Le mode de fonctionnement est identique au publipostage par mail. La liste des modèles se trouve en dessous de l'éditeur de texte, il est possible de modifier un modèle en cliquant dessus.
 
-### Comptage des événements
+\*\*\*\*
+
+**Comptage des événements**
 
 C'est ici que vous sélectionnez la façon dont vous souhaitez comptabiliser les absences :
 

@@ -22,13 +22,13 @@ Attention, **si l'enseignant est multi-établissement**, par défaut lors de la 
 
 **Plusieurs profils cohabitent** au sein de l'équipe de vie scolaire. Les utilisateurs appartenant au **groupe manuel CPE** auront les mêmes droits que les enseignants. Ceux appartenant au **groupe Admin-VieScolaire** pourront gérer les cours.
 
-### Les champs de recherche
+**Les champs de recherche :** 
 
 Les champs de recherche "enseignants" permettent de sélectionner un enseignant pour en afficher son emploi du temps. Il est possible de **cumuler plusieurs recherches.**
 
 Le **champ de recherche "classes" active les filtres** disponibles sur la gauche.
 
-### Les filtres
+**Les filtres :** 
 
 Les filtres sont rangés dans **l'ordre alphabétique** et affichent toutes les classes et tous les groupes de l'établissement.
 
@@ -38,7 +38,7 @@ Il est aussi possible de **ne sélectionner qu'un groupe \(2\)** ou de désélec
 
 ![](.gitbook/assets/3filtres.png)
 
-### Créer un cours
+## Vie scolaire : Créer un cours
 
 Si vous disposez des **droits de gestion de l'emploi du temps**, vous verrez apparaître en haut à droite comme sur tous les outils de vie scolaire, un **bouton "Créer un cours"**.
 
@@ -62,7 +62,7 @@ Si vous choisissez **l'option "cours récurrent"**, vous pourrez définir **diff
 
 Validez enfin votre choix pour voir apparaître le cours dans l'emploi du temps.
 
-### Modifier un cours
+## Vie scolaire : Modifier un cours
 
 **Seuls les cours dans le futur peuvent être modifiés**. Ils sont marqués par un petit icône "crayon" et au clic sur ce crayon, 2 possibilités :
 
@@ -75,7 +75,7 @@ Validez enfin votre choix pour voir apparaître le cours dans l'emploi du temps.
 
 Ces modifications sont immédiatement visibles depuis les profils enseignants, élèves et parents.
 
-### Supprimer un cours
+## Vie scolaire : Supprimer un cours
 
 Comme pour la modification, **il n'est pas possible de supprimer des cours dans le passé**. Pour supprimer un cours il existe **2 méthodes** :
 

@@ -4,7 +4,7 @@ Présences est un module de vie scolaire qui permet de **gérer tous les événe
 
 ## Introduction
 
-Il comprend plusieurs parties que nous détaillerons dans cette documentation :
+Le module Présence comprend plusieurs parties que nous détaillerons dans cette documentation :
 
 * La gestions des **absences et des appels**
 * La gestion des **présences**
@@ -19,7 +19,7 @@ Par ailleurs certains écrans sont communs pour les CPE et enseignants, d'autres
 
 Le **tableau de bord** de Présences est la **porte d'entrée** de ce module et donne accès aux actions quotidiennes des différents acteurs de l'établissement. Sa **constitution dépend de votre profil** sur l'ENT. Ainsi, CPE, enseignants et parents n'y verront pas nécessairement les mêmes informations.
 
-### Le tableau de bord des CPE
+## Le tableau de bord des CPE
 
 Ce tableau de bord se compose de :
 
@@ -32,7 +32,7 @@ Ce tableau de bord se compose de :
 
 ![](.gitbook/assets/1dashboard.png)
 
-### Le tableau de bord des enseignants
+## Le tableau de bord des enseignants
 
 Le tableau de bord Enseignants est plus directement tourné vers la saisie des appels et se compose :
 
@@ -40,9 +40,9 @@ Le tableau de bord Enseignants est plus directement tourné vers la saisie des a
 * La **liste des présences** qu'il a déclaré dans la journée **\(2\)**
 * Un panneau latéral qui lui donne un **accès direct à son appel du moment** **\(3\)**
 
-![](https://github.com/opendigitaleducation/application-help-2d/tree/8f560d03ad1f52ea27a2a8907eeb5d8f119ae92e/application/.gitbook/assets/img_cgi/presences/1dashboard_prof.png)
+![](.gitbook/assets/1dashboard_prof.png)
 
-### Le tableau de bord des parents
+## Le tableau de bord des parents
 
 Le tableau de bord des parents est centré sur les **événements liés à l'élève.**
 
@@ -64,14 +64,14 @@ Automatiquement la vue calendaire s'ouvre sur l'élève et la semaine en cours.
 
 ![](.gitbook/assets/2vue_calendaire.png)
 
-Depus cette vue calendaire vous pouvez :
+Depuis cette vue calendaire vous pouvez :
 
-### Déclarer une absence
+**Déclarer une absence**
 
 * Soit à l'aide du bouton en haut à droite
 * Soit en cliquant sur le créneau concerné ou en glissant sur les différents créneaux concernés
 
-![](https://github.com/opendigitaleducation/application-help-2d/tree/8f560d03ad1f52ea27a2a8907eeb5d8f119ae92e/application/.gitbook/assets/img_cgi/presences/2declarer_absence.png)
+![](.gitbook/assets/2declarer_absence.png)
 
 Renseigner les champs de **date**, **d'heure** et de **motif** puis cliquer sur Créer. La plage horaire sélectionnée se colore :
 
@@ -80,11 +80,11 @@ Renseigner les champs de **date**, **d'heure** et de **motif** puis cliquer sur 
 
 ![](.gitbook/assets/uni-parametres%20%284%29.png) _Il est possible de paramétrer les motifs depuis les paramétrages._
 
-### Déclarer une dispense, un incident, des punitions ou sanctions
+**Déclarer une dispense, un incident, des punitions ou sanctions :** 
 
 Nous verrons ces déclarations dans les pages concernées.
 
-### Déclarer un carnet oublié
+**Déclarer un carnet oublié :** 
 
 Enfin, c'est ici que la vie scolaire peut déclarer qu'un élève a **oublié son carnet de correspondance.** Depuis le **bouton "Carnet oublié"** en haut à droite de l'écran. Une fenêtre s'ouvre qui vous permet de saisir la **date de l'oubli** et qui indique le **nombre d'oublis déjà recensés**. ![](.gitbook/assets/2carnet_oublie.png)
 
@@ -92,7 +92,7 @@ Enfin, c'est ici que la vie scolaire peut déclarer qu'un élève a **oublié so
 
 Ces événements Carnets oubliés seront consultables depuis le registre.
 
-### Autres éléments de la vue calendaire
+**Autres éléments de la vue calendaire**
 
 Une fois sur la vue calendaire d'un élève, vous pourrez **facilement consulter la vue calendaire des autres élèves** de la classe. A côté du nom de l'élève, une bouton avec le nom de la classe et une flèche permet d'afficher la liste des élèves de la classe et de les sélectionner au fur et à mesure.
 
@@ -176,7 +176,7 @@ Une fois l'appel effectué, il peut être **validé pour qu'il n'apparaisse plus
 
 Cette gestion a été imaginée de façon **transversale**. Il est possible de réaliser des actions identiques à plusieurs endroits pour fluidifier la réalisation des tâches. Ces différents endroits sont reliés entre eux dans la mesure du possible.
 
-### La liste des événements
+## La liste des événements
 
 Cette page centralise les **événements d'absence, retards, départs** de tout l'établissement et permet de les gérer. Il ne s'agit uniquement des événements ayant déjà eu lieu. Ainsi n'apparaissent pas les absences déclarées dans le futur depuis la vue calendaire.
 
@@ -219,7 +219,7 @@ Cette liste d'événement est bien entendu filtrable :
 
 Pour information : **Absence non justifiée = absence sans motif** \(ne pas mettre de motif si celui qui est donné est considéré comme non recevable\).
 
-### Les alertes \(VS\)
+## Événements : Les alertes \(VS\)
 
 La page des alertes recense toutes les alertes déclarées sur l'établissement concernant les événements :
 
@@ -236,7 +236,7 @@ Il est possible d'arriver sur cette page déjà filtrée en arrivant depuis le t
 
 ![](.gitbook/assets/uni-parametres%20%288%29.png) _Le maximum d'événements à atteindre pour déclencher une alerte est paramétrable_.
 
-### Les déclarations en ligne \(VS\)
+## Événements : Les déclarations en ligne \(VS\)
 
 Il est possible grâce au module, **pour les parents, de déclarer en ligne une absence** pour leur enfant. Cela se fait depuis leur tableau de bord, sur la partie droite de leur écran \(voir Tableau de bord Parents\).
 
@@ -251,7 +251,7 @@ Vous pouvez accéder directement à la vue calendaire de l'élève pour créer l
 
 Vous pouvez également noter ces déclarations comme traitées. Cela les fait disparaître du tableau, pour lequel un filtre "non traités" est activé par défaut. Pour retrouver toutes les déclarations, désactivez ce filtre.
 
-### Les dispenses \(VS\)
+## Événements : Les dispenses \(VS\)
 
 La page des dispenses est à la fois une page de **consultation et de saisie des dispenses**. Quand des dispenses ont été déclarées, la page met à disposition un tableau récapitulatif sur le mois en cours.
 
@@ -268,10 +268,6 @@ Depuis la fenêtre de saisie de dispenses, il est possible de choisir "dispense 
 ![](.gitbook/assets/7saisie_dispense_recurrente.png)
 
 Cette fonctionnalité vous permet de **sélectionner des jours de la semaine ainsi que des créneaux**. Il est possible de déclarer ces dispenses récurrentes tous les 15 jours.
-
-### Absences collectives \(VS\)
-
-En cours de développement
 
 ## La gestion des présences
 
@@ -295,11 +291,9 @@ Enfin, si une présence est déclarée alors que l'élève est par ailleurs not�
 
 ![](.gitbook/assets/uni-parametres%20%287%29.png) _Les lieux et moments pour lesquels il est possible de déclarer une présence sont paramértables_.
 
-## La gestion des incidents, punitions, sanctions
+## La gestion des incidents
 
 La gestion des incidents est liée à celle des punitions, sanctions et comme pour les absences peut se faire de différents endroits dans le module.
-
-### Les incidents \(VS\)
 
 La page des incidents est à la fois une page de **consultation et de saisie des incidents**. Quand des incidents ont été déclarés, la page met à disposition un tableau récapitulatif sur le mois en cours. ![](.gitbook/assets/10tableau_incidents.png)
 
@@ -313,7 +307,7 @@ Une fois les champs remplis, il est possible de **valider** et donc de fermer la
 
 ![](.gitbook/assets/uni-parametres%20%282%29.png) _Tous les champs de la fenêtre d'incident seront paramétrables._
 
-### Punitions et sanctions
+## La gestion des **Punitions et sanctions :**
 
 Cette fonctionnalité permet de déclarer des punitions ou des sanctions à l'encontre d'un ou plusieurs élèves.
 
@@ -351,7 +345,9 @@ Il peut concerner les absences justifiées ou non, les retards, \(les punitions 
 
 Des **filtres** vous sont proposés pour affiner votre publipostage. ![](.gitbook/assets/12filtres_publipostage.png)
 
-Une fois **les filtres sélectionnés \(1\)** vous disposez d'un **récapitulatif du nombre d'événements à publiposter \(2\)**. Si des **anomalies** existent au niveau des coordonnées des parents, elles seront directement visibles dans un **tableau sous le récapitulatif \(3\)**. Enfin vous pourrez sélectionner **le mode de publipostage à l'aide des boutons en haut à droite \(4\)**. ![](.gitbook/assets/12publipostage.png)
+Une fois **les filtres sélectionnés \(1\)** vous disposez d'un **récapitulatif du nombre d'événements à publiposter \(2\)**. Si des **anomalies** existent au niveau des coordonnées des parents, elles seront directement visibles dans un **tableau sous le récapitulatif \(3\)**. Enfin vous pourrez sélectionner **le mode de publipostage à l'aide des boutons en haut à droite \(4\)**.
+
+ ![](.gitbook/assets/12publipostage.png)
 
 En cliquant sur le mode de publipostage, une pop-up s'ouvre avec :
 
@@ -362,8 +358,4 @@ En cliquant sur le mode de publipostage, une pop-up s'ouvre avec :
   ![](https://github.com/opendigitaleducation/application-help-2d/tree/8f560d03ad1f52ea27a2a8907eeb5d8f119ae92e/application/.gitbook/assets/img_cgi/presences/12publipostage_envoi.png)
 
 Une fois le publipostage effectué, il est possible d'en **consulter l'historique** depuis un 2ème onglet. Cet historique présente tous les envois qui ont été réalisés sur la période que vous souhaitez. Il est ainsi possible de consulter tous les publipostages pour un élève, pour certains types d'événements.
-
-## Les statistiques
-
-En cours de développement
 
