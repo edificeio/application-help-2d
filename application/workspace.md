@@ -4,21 +4,25 @@
 
 ## Présentation
 
-Pour accéder à l’appli Espace Documentaire, cliquez sur l’icône correspondante dans la page « Mes applis ».
+**En centralisant l’ensemble des documents accessibles par l’utilisateur, l’appli Espace Documentaire permet d’intégrer facilement un contenu dans n’importe quelle appli.**
 
-![](.gitbook/assets/espace-doc-1-2-2%20%282%29.png)
+![](.gitbook/assets/neo-espacedoc.png)
 
-**Mes documents** : Dans ce dossier, vous pouvez charger tous types de fichiers depuis votre ordinateur, qu’il s’agisse de documents texte ou PDF, d’images, de vidéos ou d’extraits audio. Classez ces fichiers dans des dossier pour les retrouver plus facilement. En quelques clics, partagez vos documents personnels avec d’autres utilisateurs en leur attribuant des droits de consultation, de contribution, de gestion ou de commentaire, selon vos besoins.
+L’application Espace documentaire d’un utilisateur est composée de 4 sections : ****
+
+**Documents** **personnels** : cette section comporte les documents que vous avez importés dans l'espace documentaire mais que vous n'avez pas partagés à d'autres utilisateurs. Vous pouvez charger tous types de fichiers depuis votre ordinateur, qu’il s’agisse de documents texte ou PDF, d’images, de vidéos ou d’extraits audio.
 
 **Documents partagés** : Vous retrouvez dans ce dossier tous les documents partagés, que d’autres utilisateurs ont partagés avec vous, ou que vous leur avez partagés.
 
 **Documents ajoutés dans les applis** : Vous retrouverez ici tous les fichiers que vous avez ajouté dans d’autres applis \(par exemple image d’un billet de blog\).
 
-{% hint style="info" %}
-**En centralisant l’ensemble des documents accessibles par l’utilisateur, l’appli Espace Documentaire permet d’intégrer facilement un contenu dans n’importe quelle appli.**
-{% endhint %}
+**Corbeille** : Cette section contient tous les documents que vous avez supprimés des autres sections. Les documents présents dans la corbeille sont comptabilisés dans l'espace de stockage utilisé. 
 
 ## Naviguer dans mon Espace Documentaire
+
+Trois types d'affichage de vos documents sont disponibles en haut à droite de l'espace documentaire  : un affichage sous forme de vignettes \(A\), un affichage détaillé ou un carrousel d'images \(C\) qui permet de faire défiler automatiquement et manuellement les images du dossier sélectionné.
+
+![](.gitbook/assets/neo-espacedoc_caroussel2.png)
 
 Pour **accéder au menu d’option** d’un fichier ou d’un dossier, vous devez **cliquer une fois** dessus. Le menu s’affiche ensuite en bas de la page et vous pouvez choisir les actions à effectuer.  
 Vous devez cliquer une nouvelle fois sur le fichier ou le dossier pour le désélectionner.
@@ -26,6 +30,10 @@ Vous devez cliquer une nouvelle fois sur le fichier ou le dossier pour le désé
 ![](.gitbook/assets/2d-espace-documentaire-1%20%281%29%20%281%29.png)
 
 Pour **visualiser un fichier** sur la visionneuse de l’ENT ou pour **ouvrir un dossier**, vous devez **double-cliquer dessus**.
+
+Depuis la visionneuse de document, vous pouvez accéder à un aperçu du document :
+
+![](.gitbook/assets/neo-espacedoc_apercu.png)
 
 Vous pouvez également sélectionner plusieurs fichiers ou dossiers si vous souhaitez effectuer une action sur tous ces documents simultanément.
 
@@ -36,7 +44,9 @@ Si vous effectuez une action de partage sur plusieurs fichiers ou dossiers alors
 
 Pour importer un document dans votre espace de stockage personnel ou dans un dossier partagé avec vous \(en contribution au minimum\), cliquez sur le bouton « Importer » situé en haut de l’interface.
 
-![](.gitbook/assets/image-2-1%20%282%29.png)
+![](.gitbook/assets/neo-espacedoc_importer.png)
+
+N.B. : _Le bouton IMPORTER apparait lorsque la section des "Documents personnels" ou celle des "Documents partagés" est sélectionnée. En cas de positionnement sur la section "Documents partagés", une fenêtre de partage s'ouvrira automatiquement suite à l'import de document._ 
 
 Dans la nouvelle fenêtre, suivez les étapes suivantes :
 
@@ -45,11 +55,21 @@ Dans la nouvelle fenêtre, suivez les étapes suivantes :
 
 ![](.gitbook/assets/fenetre-import-vide-1-4%20%281%29%20%281%29.png)
 
-![](.gitbook/assets/fenetre-import-full-1-1-1%20%281%29%20%281%29.png)
-
 **Vous pouvez importer plusieurs fichiers en une seule fois, si vous en sélectionnez plusieurs sur votre ordinateur.**
 
-Vous pouvez aussi importer un document ou plusieurs documents en effectuant un glisser-déposer. Pour cela, sélectionnez le ou les documents à déplacer depuis votre espace de travail et glissez-le vers son nouvel emplacement !
+![](.gitbook/assets/fenetre-import-full-1-1-1%20%281%29%20%281%29.png)
+
+Il est possible d’**importer un fichier compressé** \(.zip\) et de choisir au moment de l’importation de conserver ou non la compression. 
+
+![](.gitbook/assets/esp-doc-neo-1.png)
+
+L’arborescence des documents de votre fichier sera parfaitement conservée au moment de l’import.
+
+![](.gitbook/assets/esp-doc-neo-3.png)
+
+![](.gitbook/assets/esp-doc-neo-4.png)
+
+Vous pouvez également importer un document ou plusieurs documents en effectuant un glisser-déposer. Pour cela, sélectionnez le ou les documents à déplacer depuis votre espace de travail et glissez-le vers son nouvel emplacement !
 
 ![](.gitbook/assets/image-8-1%20%281%29%20%281%29.png)
 
@@ -83,6 +103,20 @@ Vous ne pouvez pas déplacer un fichier du dossier « Mes documents » vers les 
 Le dossier se trouve maintenant à l’emplacement choisi.
 
 ![](.gitbook/assets/doc-glisser-deposer-2-1024x273-1-1-1%20%281%29%20%281%29.png)
+
+## Télécharger un document
+
+Vous souhaitez récupérer, sur votre poste de travail, un ou plusieurs documents présents dans votre espace documentaire,  rien de plus simple : 
+
+1. Sélectionner dans votre espace documentaire, le ou les documents à télécharger.
+2. Cliquer sur le bouton TÉLÉCHARGER présent dans le menu du bas qui s'affiche.
+3. Dans l'explorateur de document, choisir l'emplacement d'enregistrement du document ou de l'archive de documents, personnaliser le nom d'enregistrement du fichier puis cliquer sur le bouton Enregistrer.
+
+![](.gitbook/assets/neo-espacedoc_telecharger.png)
+
+Vous pouvez également télécharger un document ouvert dans la visionneuse de document : 
+
+![](.gitbook/assets/neo-espacedoc_telechargervisioneuse.png)
 
 ## Connaître l’espace de stockage disponible
 
