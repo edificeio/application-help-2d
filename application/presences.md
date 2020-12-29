@@ -307,7 +307,7 @@ Une fois les champs remplis, il est possible de **valider** et donc de fermer la
 
 ![](.gitbook/assets/uni-parametres%20%282%29.png) _Tous les champs de la fenêtre d'incident seront paramétrables._
 
-## La gestion des **Punitions et sanctions :**
+## La gestion des Punitions et sanctions :
 
 Cette fonctionnalité permet de déclarer des punitions ou des sanctions à l'encontre d'un ou plusieurs élèves.
 
