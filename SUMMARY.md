@@ -10,6 +10,7 @@
 * [Blog](application/blog.md)
 * [Cahier de textes](application/diary.md)
 * [Cahier multimédia](application/scrap-book.md)
+* [Carnet de liaison](application/schoolbook.md)
 * [Carte mentale](application/mindmap.md)
 * [Casier](application/rack.md)
 * [Carnet d'activité](application/homeworks.md)
