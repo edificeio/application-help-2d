@@ -70,7 +70,7 @@ Accéder au suivi » du mot en question.
 ![](.gitbook/assets/schoolbook-image8.png)La
 fenêtre « Suivi du mot » s'ouvre avec deux colonnes :
 
--   La colonne de gauche (1) indique les élèves auxquels les
+-   La colonne de gauche (1) indique les élèves pour lesquels les
     responsables ont lu le mot. Une indication au dessus de la colonne
     informe du nombre de lu sur le total des destinataires (2).
 -   La colonne de droite (3) indique les utilisateurs qui ont répondu au
@@ -83,7 +83,7 @@ fenêtre « Suivi du mot » s'ouvre avec deux colonnes :
 En cliquant sur l'onglet « Réponse » en haut de la colonne (1), vous
 pouvez consulter les réponses des responsables. Cette option est
 disponible seulement si elle a été activée lors de la création du mot.
-Les réponses s'affichent par ordre ante chronologique. A droite, vous
+Les réponses s'affichent par ordre antéchronologique. À droite, vous
 voyez apparaître la réponse du responsable (3), et à gauche, vous
 retrouvez l\'élève correspondant (2). Chaque parent peut répondre une
 seule fois au mot de son enfant.
@@ -180,9 +180,11 @@ Si l'enseignant a activé l'option « réponse » lors de l'envoi du mot :
 
 ## Vue Parent - Filtrez par enfant
 
-Les photos de profils sous le titre « Carnet de liaison » permet au
-parent de filtrer les mots selon les enfants dont il est responsable.
-S'il est rattaché à un seul enfant, la fonction filtre n'apparaît pas.
+Si vous êtes responsable de plusieurs enfants, un filtre vous permet de
+sélectionner l'enfant pour lequel vous souhaitez afficher les mots.
+Cliquer pour celà sur une des photos de profil sous le titre le
+l'application, en haut à gauche. Les mots du carnet de liaison de
+l'enfant sélectionné s'afficheront dans la partie centrale de l'écran.
 
 ## Vue Élève - Lecture d\'un mot
 
