@@ -39,7 +39,7 @@ pipeline {
               *SNAPSHOT) nexusRepository='snapshots' ;;
               *)         nexusRepository='releases' ;;
             esac
-            mvn deploy:deploy-file -DgroupId=com.opendigitaleducation -DartifactId=application-help -Dversion=$VERSION -Dpackaging=tar.gz -Dfile=application-help.tar.gz -DrepositoryId=wse -Durl=http://maven.opendigitaleducation.com/nexus/content/repositories/$nexusRepository/
+            mvn deploy:deploy-file -DgroupId=com.opendigitaleducation -DartifactId=application-help -Dversion=$VERSION -Dpackaging=tar.gz -Dfile=application-help.tar.gz -DrepositoryId=wse -Durl=https://maven.opendigitaleducation.com/nexus/content/repositories/$nexusRepository/
           '''
         }
       }
