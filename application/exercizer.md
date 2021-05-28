@@ -485,7 +485,7 @@ Il vous est possible d’importer des sujets. Depuis la page mes sujets, cliquez
 
 Vous accéderez à une note d’information concernant les fichiers autorisés depuis Moodle et depuis TD Base :
 
-![](.gitbook/assets/importer1-1-2-1-1%20%282%29%20%281%29.png)
+![](.gitbook/assets/exercizer_importer_sujet_interactif_2.png)
 
 Charger le sujet au format Moodle XML. Renseignez le titre de votre sujet, une image et une description si nécessaire. Afin de valider, cliquez sur "Importer".
 
