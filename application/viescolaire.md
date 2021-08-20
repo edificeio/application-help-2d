@@ -544,9 +544,9 @@ C'est ici que vous sélectionnez la façon dont vous souhaitez comptabiliser les
 
 Ce paramétrage est utilisé **pour les alertes, pour le publipostage** \(à l'exception du récapitulatif qui présente les créneaux par défaut\). Les statistiques seront, quant à elles, automatiquement calculées à la fois en demi journées et en créneaux.
 
-## Cahier de texte
+## Cahier de textes
 
-Le paramétrage Cahier de texte est simple et consiste à définir des valeurs pour :
+Le paramétrage Cahier de textes est simple et consiste à définir des valeurs pour :
 
 * les types de devoirs
 * les types de séances

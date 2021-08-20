@@ -13,7 +13,7 @@
 * [Carnet de liaison](application/schoolbook.md)
 * [Carte mentale](application/mindmap.md)
 * [Casier](application/rack.md)
-* [Carnet d'activité](application/homeworks.md)
+* [Carnet d'activités](application/homeworks.md)
 * [Communautés](application/community.md)
 * [Compétences](application/competences.md)
 * [Emploi du Temps](application/edt.md)
