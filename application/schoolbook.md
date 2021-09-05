@@ -182,7 +182,7 @@ Si l'enseignant a activé l'option « réponse » lors de l'envoi du mot :
 
 Si vous êtes responsable de plusieurs enfants, un filtre vous permet de
 sélectionner l'enfant pour lequel vous souhaitez afficher les mots.
-Cliquer pour celà sur une des photos de profil sous le titre le
+Cliquer pour cela sur une des photos de profil sous le titre le
 l'application, en haut à gauche. Les mots du carnet de liaison de
 l'enfant sélectionné s'afficheront dans la partie centrale de l'écran.
 
