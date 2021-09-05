@@ -20,6 +20,7 @@
 * [Espace Documentaire](application/workspace.md)
 * [Exercices](application/exercizer.md)
 * [Mes données](application/archive.md)
+* [Formulaire](application/formulaire.md)
 * [Forum](application/forum.md)
 * [Frise chronologique](application/timelinegenerator.md)
 * [Mes applis](application/portal.md)
