@@ -41,12 +41,14 @@ Une fois que votre message est prêt, vous pouvez l’envoyer.
 
 ## Communiquer vers l’extérieur
 
-### Savoir si vous êtes autorisés à communiquer avec l’extérieur
+**Savoir si vous êtes autorisés à communiquer avec l’extérieur**
+
 Rendez-vous dans l’application de messagerie et cliquez sur **« Nouveau message »**. Si une infobulle signalée par un point d’exclamation s’affiche au niveau de la saisie des destinataires, cela signifie que vous pouvez communiquer avec l’extérieur. 
 ![](.gitbook/assets/011_verif_msg_exterieur.png)
 Si l’icône signalant cette infobulle n’apparaît pas, cela signifie que vous n’avez pas les droits pour communiquer avec l’extérieur. 
 
-### Envoyer un message lorsque la communication vers l’extérieur est autorisée
+**Envoyer un message lorsque la communication vers l’extérieur est autorisée**
+
 Pour envoyer un message vers des utilisateurs de l’ENT, saisissez les premières lettres du nom de l’utilisateur ou d’un groupe d’utilisateur et les suggestions correspondantes apparaissent. Cliquez sur les suggestions pour les sélectionner (reportez-vous à la section « Envoyer un message » pour plus de détail).
 Pour envoyer un message à une adresse extérieure à l’ENT, saisissez l’adresse du destinataire et validez en tapant sur la touche entrée.
 Pour écrire à plusieurs destinataires, séparez leurs adresses par un point-virgule.
@@ -100,7 +102,8 @@ Si vous avez reçu un message groupé vous pouvez cliquer sur le bouton « + » 
 (5) **Supprimer** : Le message sera déplacé dans votre corbeille. Vous pourrez le supprimer définitivement ou le restaurer en le sélectionnant dans le dossier « Corbeille ».
 
 ## Mode expert
-### Accéder au mode expert (hors parents)
+**Accéder au mode expert (hors parents)**
+
 Via la page d’accueil de l’ENT, cliquez sur votre avatar pour ouvrir votre profil.
 ![](.gitbook/assets/025_accès_profil.png)
 Cochez la case « Accès direct au mode Expert de la messagerie ».

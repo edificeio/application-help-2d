@@ -193,8 +193,6 @@ Une nouvelle fenêtre s’ouvre, dans laquelle vous pouvez coller l’adresse de
 
 La ressource est maintenant intégrée à votre contenu !
 
-#### 
-
 **Ajouter une ressource dont le type n’est pas proposé par défaut**
 
 Si le type de la ressource à intégrer n’est pas proposé par défaut, il faudra coller le code d’intégration.

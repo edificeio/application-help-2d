@@ -1,4 +1,4 @@
-### Documentation Médiacentre
+# Médiacentre
 
 Médiacentre est un **moteur de recherche** qui vous permet de chercher des ressources pédagogiques dans trois espaces différents : **le GAR, Moodle et PMB**.
 Seuls les **enseignants et élèves** peuvent voir des ressources GAR dans le Mediacentre.
