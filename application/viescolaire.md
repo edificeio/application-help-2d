@@ -240,7 +240,7 @@ Légende des modalités :
 
 Lorsqu'un service est rattaché à plusieurs enseignants (co-enseignants ou remplaçants), il est possible de masquer un ou plusieurs des ces intervenants en cliquant sur l'icône ![](.gitbook/assets/2_23_modalites_services6.png) L'intervenant masqué ne sera alors plus affiché sur les différentes pages et exports du module **Compétences**, notamment dans l'onglet **conseil de classe** et sur le **bulletin**.
 
-* Modification des libellés des matières**
+* **Modification des libellés des matières**
 
 Vous pouvez modifier les **libellés des matières** qui seront affichés sur le bulletin. Vous pouvez rechercher un modèle déjà créé (1) ou le modifier (2). Pour créer un nouveau modèle, cliquer sur **créer un modèle** (3).
 
