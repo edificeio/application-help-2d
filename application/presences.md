@@ -1,5 +1,7 @@
 # Présences
+
 Présences est un module de vie scolaire qui permet de **gérer tous les événements ayant lieu au sein de l'établissement scolaire**. Il comprend plusieurs parties que nous détaillerons dans cette documentation :
+
 - La gestion des **absences et des appels**
 - La gestion des **présences**
 - La gestion des **incidents et des punitions, sanctions**
@@ -75,6 +77,7 @@ Depuis cette vue calendaire, vous pouvez :
 ![](.gitbook/assets/2declarer_absence.png)
 
 Renseigner les champs de **date**, **d'heure** et de **motif** puis cliquer sur Créer. La plage horaire sélectionnée se colore :
+
 * en **rouge** si l'absence est sans motif
 * en **rose** si elle a un motif, mais n'est pas régularisée
 * en **vert** si elle a un motif et est régularisée
@@ -120,6 +123,7 @@ Vous pourrez aussi **aisément sélectionner une autre classe ou un autre élèv
 ![](.gitbook/assets/2recherche.png)
 
 Enfin, cette vue calendaire vous permet de consulter tous les événements liés à un élève sur les créneaux de cours. Un code couleur + lettre vous permettra d'identifier :
+
 - les **retards** (violet)
 - les **départs anticipés** (violet-clair)
 - les **observations** (bleu foncé)
@@ -132,6 +136,7 @@ Enfin, cette vue calendaire vous permet de consulter tous les événements liés
 ## Le registre (VS)
 Le registre permet de **consulter tous les événements d'une classe sur un mois**.
 Il est accessible directement depuis la page d'accueil en rentrant le nom de la classe.
+
 ![](.gitbook/assets/1champ_recherche_registre.png)
 
 Une fois le registre ouvert, il est possible de cliquer sur chaque événement pour en **avoir le détail**. Il est aussi possible de **filtrer l'affichage des événements** à l'aide des filtres situés sous la sélection du mois.
@@ -147,7 +152,9 @@ Enfin, chaque récapitulatif mensuel peut être **exporté au format csv** pour 
 ![](.gitbook/assets/3memento.png)
 
 ## La liste des appels
+
 Cette page recense :
+
 - tous les appels de l'établissement pour les CPE
 - ses propres appels pour les enseignants
 
@@ -158,16 +165,17 @@ Par défaut, le **filtre "appels oubliés" est sélectionné** et le filtre **"a
 Le CPE peut **notifier l'enseignant** pour lui rappeler qu'il doit valider son appel en cliquant sur la petite clochette dans la carte de l'appel. Cette notification arrive dans la messagerie ENT de l'enseignant concerné.
 
 ## La saisie d'un appel
+
 L'appel est normalement saisi par l'enseignant, mais peut l'être aussi par le CPE.
 
 La page de saisie d'un appel comporte :
+
 - les **différents créneaux** de cours de l'enseignant **(1)**
 - la **liste des élèves** (qui peut être rangée par ordre alphabétique ou par groupe dans le cas de cours avec plusieurs groupes d'enseignement)
 
 Les différentes actions possibles :
 
 - **Noter un élève absent** en cliquant sur le rond devant son nom : un tiret rouge apparaît pour indiquer l'absence. Dans l'historique à droite, le point correspondant au cours actuel se colore. **(2)**
-
 - **Déclarer un retard ou un départ anticipé** : en cliquant sur le nom de l'élève, un panneau latéral s'ouvre qui permet de noter retard, départ et observations. En fonction de l'événement déclaré, un tiret de la couleur correspondante apparaît et le point se colore. Les retards sont en violet et les départs en vert. **(3)**
 
 ![](.gitbook/assets/4saisir_appel.png)
@@ -175,6 +183,7 @@ Les différentes actions possibles :
 ![](.gitbook/assets/4panneau_eleve.png)
 
 Des informations pour l'enseignant sont disponibles sur l'appel :
+
 - **Si l'élève a été absent lors du dernier cours de l'enseignant**, une petite icône le lui signale ![](.gitbook/assets/4absent_derniercours.png)
 - **Si l'élève a été noté absent par le CPE avant le début du cours**, l'absence est déjà déclarée et l'élève est grisé. S'il est finalement là, l'enseignant peut mettre une observation à destination de la vie scolaire.
 - **Si l'élève a oublié son carnet de correspondance**, une petite icône le signale à l'enseignant.![](.gitbook/assets/4carnet_oublie.png)
@@ -196,6 +205,7 @@ Cette gestion a été imaginée de façon **transversale**. Il est possible de r
 Cette page centralise les **événements d'absence, retards, départs** de tout l'établissement et permet de les gérer. Il s'agit uniquement des événements ayant déjà eu lieu. Ainsi n'apparaissent pas les absences déclarées dans le futur depuis la vue calendaire.
 
 Chaque ligne du tableau se compose ainsi :
+
 - nom de l'élève et classe
 - date de l'événement
 - créneaux horaires concernés
@@ -221,6 +231,7 @@ Enfin, il est possible d'indiquer **les actions en cours concernant cet événem
 ![](.gitbook/assets/uni-parametres.png) *Les types d'actions et leurs abréviations sont paramétrables*.
 
 Cette liste d'événement est bien entendu filtrable :
+
 - par élève
 - par classe
 - par date
@@ -231,10 +242,10 @@ Cette liste d'événement est bien entendu filtrable :
 
 ![](.gitbook/assets/5filtres.png)
 
-
 **Les alertes (VS)**
 
 La page des alertes recense toutes les alertes déclarées sur l'établissement concernant les événements :
+
 - **absences**
 - **retards**
 - **incidents**
@@ -254,6 +265,7 @@ Il est possible grâce au module, **pour les parents, de déclarer en ligne une 
 Cela se fait depuis leur tableau de bord, sur la partie droite de leur écran (voir Tableau de bord Parents).
 
 Ces déclarations une fois validées apparaissent pour l'équipe de Vie scolaire à 2 endroits :
+
 - sur le tableau de bord CPE (voir Tableau de bord CPE)
 - sur la page Déclarations en ligne, derrière le menu "Evénements"
 
@@ -275,7 +287,7 @@ Le bouton **Saisir une dispense** (également disponible depuis la vue calendair
 
  ![](.gitbook/assets/7saisie_dispense.png)
 
-Il est aussi possible de **saisir des dispenses récurrentes** pour des élèves qui seraient dispensés sur l'année d'une ou plusieurs heures de cours (orthophonie, kiné...)
+Il est aussi possible de **saisir des dispenses récurrentes** pour des élèves qui seraient dispensés sur l'année d'une ou plusieurs heures de cours (orthophonie, kiné...).
 
 Depuis la fenêtre de saisie de dispenses, il est possible de choisir "dispense ponctuelle" ou "dispense récurrente".
 
@@ -304,6 +316,7 @@ Si des élèves déclarés absents à partir d'une absence collective sont **mod
 Il est possible **d'exporter le tableau des absences collectives** dans un fichier qui comportera le nom des élèves concernés, des groupes auxquels ils appartiennent et les motifs des absences.
 
 ## La gestion des présences
+
 Cette fonctionnalité est celle qui donne son nom au module.
 Elle permet de **déclarer la présence d'élèves sur des créneaux qui ne sont pas inscrits dans l'emploi du temps**.
 
@@ -328,15 +341,18 @@ Enfin, si une présence est déclarée alors que l'élève est par ailleurs not�
 ![](.gitbook/assets/uni-parametres.png) *Les lieux et moments pour lesquels il est possible de déclarer une présence sont paramétrables*.
 
 ## La gestion des incidents, punitions, sanctions
+
 La gestion des incidents est liée à celle des punitions, sanctions et comme pour les absences peut se faire de différents endroits dans le module.
 
 **Les incidents (VS)**
 
 La page des incidents est à la fois une page de **consultation et de saisie des incidents**.
 Quand des incidents ont été déclarés, la page met à disposition un tableau récapitulatif sur le mois en cours.
+
 ![](.gitbook/assets/10tableau_incidents.png)
 
 En cliquant sur une ligne, il est possible d'en afficher les détails.
+
 ![](.gitbook/assets/10detail_incident.png)
 
 Le bouton **Saisir un incident** (également disponible depuis la vue calendaire de l'élève) ouvre une fenêtre pour saisir le contexte et les caractéristiques de l'incident ainsi que les protagonistes :
@@ -344,7 +360,6 @@ Le bouton **Saisir un incident** (également disponible depuis la vue calendaire
 ![](.gitbook/assets/10saisie_incident.png)
 
 Une fois les champs remplis, il est possible de **valider** et donc de fermer la fenêtre et de retourner au tableau récapitulatif.
-
 
 ![](.gitbook/assets/uni-parametres.png) *Tous les champs de la fenêtre d'incident seront paramétrables.*
 
@@ -371,9 +386,11 @@ Une fois cette fenêtre validée, la ligne correspondant à la punition saisie a
 ![](.gitbook/assets/uni-parametres.png) *Les types de punitions et sanctions sont paramétrables.*
 
 ## Le publipostage
+
 Le publipostage permet de traiter en masse l'envoi de courrier aux familles concernant différents événements.
 
 Ce publipostage peut être fait :
+
 - **par mail**
 - **par SMS**
 - **par génération de pdf** (en cours de développement)
@@ -381,23 +398,28 @@ Ce publipostage peut être fait :
 Il peut concerner les absences justifiées ou non, les retards (les punitions et les sanctions en cours de développement). Si absences et retards peuvent faire l'objet d'un même publipostage, les punitions et sanctions doivent être traitées à part.
 
 Des **filtres** vous sont proposés pour affiner votre publipostage.
+
 ![](.gitbook/assets/12filtres_publipostage.png)
 
 Une fois **les filtres sélectionnés (1)** vous disposez d'un **récapitulatif du nombre d'événements à publiposter (2)**. Si des **anomalies** existent au niveau des coordonnées des parents, elles seront directement visibles dans un **tableau sous le récapitulatif (3)**. Enfin vous pourrez sélectionner **le mode de publipostage à l'aide des boutons en haut à droite (4)**.
+
 ![](.gitbook/assets/12publipostage.png)
 
 En cliquant sur le mode de publipostage, une pop-up s'ouvre avec :
+
 - **le récapitulatif de ce qui est envoyé**
 - **le message à envoyer** : vous aurez le choix du message parmi ceux que vous aurez paramétrés.
 - **la liste des personnes à qui ce message va être envoyé** : c'est là que vous pouvez désélectionner certaines personnes.
+
 ![](.gitbook/assets/12publipostage_envoi.png)
 
 Une fois le publipostage effectué, il est possible d'en **consulter l'historique** depuis un 2ème onglet.
 Cet historique présente tous les envois qui ont été réalisés sur la période que vous souhaitez. Il est ainsi possible de consulter tous les publipostages pour un élève, pour certains types d'événements.
 
-
 ## Les statistiques
+
 Il existe différents types de statistiques sur le module Présences :
+
 - les **globales**
 - les **mensuelles**
 - les **hebdomadaires** (à développer)

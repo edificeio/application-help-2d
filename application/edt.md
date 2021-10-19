@@ -3,12 +3,14 @@
 L'emploi du temps est un module qui permet d'afficher les emplois du temps pour les enseignants, parents, élèves et de gérer les cours pour les équipes de vie scolaire.
 
 ## Profil Elève et parent
+
 Avec un profil parent ou élève, l'accès au module Emploi du temps permet d'afficher l'emploi du temps de l'élève. C'est une vue calendaire classique qui présente les différents cours de la semaine.
 Il est possible de modifier cette vue pour l'avoir en **vue jour ou en vue mois (1)** et il est possible de **naviguer de semaine en semaine avec les flèches de navigation (2)** ou de **choisir une date (3)**. Il est aussi possible de personnaliser le calendrier en affichant les **quarts d'heure, le samedi et le dimanche (4)**.
 
 ![](.gitbook/assets/1calendaire_parents_enfants.png)
 
 ## Profil Enseignant
+
 Le module pour les enseignants affiche par défaut l'emploi du temps de l'enseignant, mais il est **possible pour lui de chercher l'emploi du temps d'un autre enseignant ou d'une classe, à l'aide des champs de recherche en haut ou des filtres de classes à gauche**.
 
 ![](.gitbook/assets/2calendaire_enseignant.png)
@@ -19,6 +21,7 @@ Attention, **si l'enseignant est multiétablissement**, par défaut lors de la p
 Le dernier choix de l'utilisateur sera sauvegardé pour sa prochaine visite.
 
 ## Profil Vie scolaire
+
 **Plusieurs profils cohabitent** au sein de l'équipe de vie scolaire.
 Les utilisateurs appartenant au **groupe manuel CPE** auront les mêmes droits que les enseignants.
 Ceux appartenant au **groupe Admin-VieScolaire** pourront gérer les cours.
@@ -46,6 +49,7 @@ Si vous disposez des **droits de gestion de l'emploi du temps**, vous verrez app
 ![](.gitbook/assets/4creer_cours.png)
 
 Une fois ce bouton cliqué, une fenêtre s'ouvre vous demandant de remplir plusieurs champs :
+
 - **l'établissement** (si vous êtes multi-établissements)
 - **l'enseignant**
 - **la classe et/ou les groupes**
@@ -79,6 +83,7 @@ Ces modifications sont immédiatement visibles depuis les profils enseignants, �
 
 Comme pour la modification, **il n'est pas possible de supprimer des cours dans le passé**.
 Pour supprimer un cours, il existe **2 méthodes** :
+
 - **clic droit sur le cours** : cela fait apparaître un bouton **"Supprimer les cours sélectionnés"** en haut à droite
 
     ![](.gitbook/assets/6suppression.png)

@@ -25,15 +25,19 @@ Pour créer une évaluation **avec des compétences**, suivez les étapes suivan
 ![](.gitbook/assets/03_evaluation-avec-des-competences-2.jpg)
 
 * Sélectionner ou saisir les **informations obligatoires** suivantes **(2)** :
+
   * Établissement
   * Classe ou groupe du cycle 3 ou du cycle 4
   * Matière
   * Type
+  
 * **Titre** de l'évaluation et description **(3)**
 * Cocher si vous le souhaitez la case **"Activer l'évaluation numérique"** pour évaluer les élèves avec des notes **(4)**
 * Modifier si besoin le coefficient et la note maximum
 * Choisissez **la période (5)**
+
   * Date de l'évaluation et date de publication de la note
+  
 * Enfin l'option **"Rendre visible les appréciations saisies"** autorise l'affichage ou non des appréciations aux élèves et aux parents - cette option peut être activée directement lors de l'évaluation du devoir.**(6)**
 
 
@@ -52,6 +56,7 @@ Pour créer une évaluation **avec des compétences**, suivez les étapes suivan
 ## Évaluer un élève
 
 Pour évaluer les élèves, suivez les étapes suivantes :
+
 1. Cliquez sur le menu **"Liste des évaluations" (1)**
 
     ![](.gitbook/assets/05_evaluer-un-eleve-1.jpg)
@@ -71,6 +76,7 @@ Pour évaluer les élèves, suivez les étapes suivantes :
 5. Si l'évaluation numérique a été activée, il est possible de **mettre des notes à chaque élève dans la colonne résultat** (possibilité d’utiliser le clavier pour se déplacer d’élève en élève) **(5)**
 
 6. Si le devoir possède une ou plusieurs compétences, il est possible **d’évaluer les compétences** des élèves avec les pastilles (possibilité d’utiliser le clavier avec les touches de 0 à 4 pour évaluer les compétences)**(6)**
+
    * ![](.gitbook/assets/pastille-grise.png) Pastille grise : Compétence non évaluée
    * ![](.gitbook/assets/pastille-rouge.png) Pastille rouge : Maîtrise insuffisante
    * ![](.gitbook/assets/pastille-orange.png) Pastille orange : Maîtrise fragile
@@ -109,7 +115,7 @@ Pour accéder au relevé de notes, suivez les étapes suivantes :
 
 7. Le **clic sur le détail** pour un élève **(7)** permet de saisir ici également l'appréciation.
 
-![](.gitbook/assets/12_releve-de-notes-3.jpg)
+    ![](.gitbook/assets/12_releve-de-notes-3.jpg)
 
 Un **rappel des moyennes** est affiché **(8)** et le positionnement calculé est modifiable.
 Les **notes détaillées obtenues lors des évaluations** (notes et compétences) apparaissent ici aussi **(9)**.
@@ -234,11 +240,11 @@ Pour saisir les projets éducatifs paramétrés, suivez les étapes suivantes :
 
 * Cliquer sur le menu **"Saisie de projets" (1)**
 
-![](.gitbook/assets/29_saisie-projet1.jpg)
+    ![](.gitbook/assets/29_saisie-projet1.jpg)
 
 * Renseigner les critères pour **choisir une période et une classe (2).** Tous les projets éducatifs paramétrés pour l'enseignant sur la période choisie et la classe apparaissent **triés par onglet (3)**: EPI, AP et Parcours.
 
-![](.gitbook/assets/30_projets.png)
+    ![](.gitbook/assets/30_projets.png)
 
 **Saisir les appréciations sur les élèves concernés par les projets (4)** : ces appréciations apparaîtront dans le bilan périodique.
 Vous pouvez aussi saisir une **appréciation pour la classe (5)**.
