@@ -1,4 +1,3 @@
-# Présences
 
 Présences est un module de vie scolaire qui permet de **gérer tous les événements ayant lieu au sein de l'établissement scolaire**. Il comprend plusieurs parties que nous détaillerons dans cette documentation :
 
@@ -6,10 +5,6 @@ Présences est un module de vie scolaire qui permet de **gérer tous les événe
 - La gestion des **présences**
 - La gestion des **incidents et des punitions, sanctions**
 - Le **publipostage** de tous ces événements
-
-Le module Présences a l'avantage d'être **personnalisable** à différents niveaux et nous verrons dans une autre documentation comment paramétrer le module.
-
-Par ailleurs certains écrans sont communs pour les CPE et enseignants, d'autres sont plus spécifiques. Nous préciserons par **(VS)** quand les pages ne concernent que les personnels de vie scolaire.
 
 ## Le tableau de bord
 
