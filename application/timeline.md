@@ -4,11 +4,11 @@
 
 La page d’accueil est la première page affichée après vous être connecté sur la plateforme. Elle vous permet d’accéder à différentes fonctions et contenus, comme le fil de nouveautés, les widgets, le bandeau de navigation \(présents sur chaque page de l’ENT\) mais aussi de changer de thème.
 
-![](.gitbook/assets/fil-complet-1-1-1%20%282%29.png)
+![](.gitbook/assets/aperçu page d'accueil.png)
 
 ## Le fil de nouveautés
 
-Le fil de nouveautés affiche les dernières informations et contenus qui vous concernent.
+Le fil de nouveautés affiche les derniers informations et contenus qui vous concernent.
 
 Il est composé des éléments suivants :
 
@@ -63,35 +63,31 @@ Comme précédemment, en survolant la notification avec la souris, vous verrez a
 
 ## Les widgets
 
-Les widgets se situent à gauche du fil de nouveautés. Ils sont composés des notes personnelles, du calendrier, des actualités, du flux RSS, du dictaphone et des signets.
-
-* Le widget **Notes** \(pense-bêtes\) permet à l’utilisateur de saisir des notes personnelles conservées à chaque déconnexion/reconnexion
-
-![](.gitbook/assets/w1-1-1-1-1%20%281%29%20%281%29.png)
-
-* Le widget **Calendrier** affiche le mois en cours et la date du jour
-
-![](.gitbook/assets/w2-1-1-1%20%281%29%20%281%29.png)
+Les widgets se situent à gauche du fil de nouveautés. Ils sont composés des notes personnelles, du calendrier, des actualités, du flux RSS, du dictaphone et des liens utiles.
 
 * Le widget **Actualités** affiche les 5 dernières actualités publiées dans votre réseau
 
-![](.gitbook/assets/w3-1-2-1%20%282%29.png)
+![](.gitbook/assets/widget actualités.png)
 
 * Le widget **Flux RSS** permet d’afficher un flux d’informations issues d’un site externe. L’utilisateur peut récupérer l’adresse du flux de 3 sites externes maximum.
 
-![](.gitbook/assets/w4-1-2-1-1-1%20%281%29%20%281%29.png)
+![](.gitbook/assets/widget RSS.png)
 
-* Le widget **Signets** permet de créer des liens redirigeant vers une adresse internet choisie dans un nouvel onglet. L’utilisateur saisit le nom du lien qui sera affiché, renseigne son adresse web et clique sur « Enregistrer ».
+* Le widget **Liens utiles** permet de créer des liens redirigeant vers une adresse internet choisie dans un nouvel onglet. L’utilisateur saisit le nom du lien qui sera affiché, renseigne son adresse web et clique sur « Enregistrer ».
 
-![](.gitbook/assets/w5-1-1-1%20%281%29%20%281%29.png)
+![](.gitbook/assets/widget liens utiles.png)
 
 * Le widget **Dictaphone** permet d’enregistrer des sons depuis le micro de son ordinateur. Les sons seront enregistrés dans l’espace documentaire de l’utilisateur.
 
-![](.gitbook/assets/dictaphone-widget2d-3.png)
+![](.gitbook/assets/widget dictaphone.png)
 
 * Le widget **Applications préférées** permet d’afficher les applications favorites directement depuis la page d’accueil.
 
-![](.gitbook/assets/image11-1-1-1%20%281%29%20%281%29.png)
+![](.gitbook/assets/widget mes applis favorites.png)
+
+* Le widget **Agenda** permet de voir les 5 prochains évènements à venir.
+
+![](.gitbook/assets/widget agenda.png)
 
 Vous pouvez changer l’ordre d’apparition des widgets sur la page d’accueil en sélectionnant le widget puis en le déplaçant sur la page.
 
@@ -230,21 +226,25 @@ La gestion des paramètres vous permet de modifier votre thème d’apparence ma
 
 Pour y accéder, cliquez sur le bouton à droite de votre fil de nouveautés.
 
-![](.gitbook/assets/f11-1-1-2-3%20%281%29%20%281%29.png)
+![](.gitbook/assets/personnalisation page d'accueil.png)
 
 L’onglet de gestion de vos paramètres apparaît.
 
-![](.gitbook/assets/2018-08-24_14h28_32-3-1%20%282%29.png)
+![](.gitbook/assets/volet personnalisation page d'accueil.png)
 
 Pour changer l’apparence de votre thème, cliquez sur celui de votre choix.
 
-![](.gitbook/assets/2018-08-24_14h29_09-2-1-1%20%282%29.png)
+![](.gitbook/assets/volet personnalisation page d'accueil thème.png)
 
 L’apparence de votre thème est modifiée.
 
 Pour décider d’afficher seulement certains widgets, désélectionnez ceux que vous ne souhaitez pas voir apparaître sur votre page d’accueil. Ils seront grisés dans la gestion de vos paramètres.
 
-![](.gitbook/assets/2018-08-24_14h29_49-2-2-3%20%281%29%20%281%29.png)
+![](.gitbook/assets/volet personnalisation page d'accueil widgets.png)
+
+Vous pouvez également choisir la langue de l’interface.
+
+![](.gitbook/assets/volet personnalisation page d'accueil langue.png)
 
 ## Notifications externes
 
