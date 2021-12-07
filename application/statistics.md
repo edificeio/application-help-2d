@@ -1,62 +1,57 @@
-# Statistiques
+# Statistiques (2D)
 
 Devenez un analyste en herbe ! Grâce à l’appli **Statistique** suivez, sur une période donnée, la fréquentation par application ou encore le nombre de visiteurs de votre plateforme.
 
 ## Présentation
 
-L’appli Statistiques vous propose de suivre **cinq indicateurs** calculés sur **une période donnée** **\(vous pouvez choisir la période à afficher\):**
+L’appli Statistiques vous propose de suivre **cinq indicateurs** calculés sur **une période donnée** **(vous pouvez choisir la période à afficher):**
 
 * **Connexions**: indique le nombre de connexions mensuelles par profil ;
-* **Visiteurs uniques** : calcule le nombre d’utilisateurs différents \(par profil\) qui se sont connectés mensuellement ;
+* **Visiteurs uniques** : calcule le nombre d’utilisateurs différents (par profil) qui se sont connectés mensuellement ;
 * **Accès aux applications** : indique le nombre de visites par appli sur la période choisie ;
 * **Activation de comptes** : calcule le nombre de comptes activés mensuellement sur la période sélectionnée ;
 * **Comptes activés** : indique la proportion d’activations de comptes par rapport à l’effectif total par profil.
 
-![](.gitbook/assets/stat-presentation-1024x372-1-1-1%20%281%29%20%281%29.png)
+![](<.gitbook/assets/stat-presentation-1024x372-1-1-1 (1) (1) (2).png>)
 
 ## Statistiques de connexion
 
 Pour accéder à l’appli Statistiques, cliquez sur l’icône correspondante dans la page « Mes applis ».
 
-![](.gitbook/assets/s2-2-1%20%282%29.png)
+![](<.gitbook/assets/s2-2-1 (2) (1).png>)
 
-A l’arrivée sur l’application, les statistiques de connexion s’affichent par défaut \(1\). Vous pouvez choisir la période pour laquelle vous souhaitez voir apparaître les statistiques en cliquant sur le début de la période \(2\) et la fin de la période \(3\) puis cliquez sur « Afficher le diagramme » \(4\) pour afficher les résultats.
+A l’arrivée sur l’application, les statistiques de connexion s’affichent par défaut (1). Vous pouvez choisir la période pour laquelle vous souhaitez voir apparaître les statistiques en cliquant sur le début de la période (2) et la fin de la période (3) puis cliquez sur « Afficher le diagramme » (4) pour afficher les résultats.
 
-Vous pouvez organiser les résultats par profil \(5\) et les exporter dans un fichier au format CSV \(6\).
+Vous pouvez organiser les résultats par profil (5) et les exporter dans un fichier au format CSV (6).
 
-![](.gitbook/assets/stat-21-1024x442-4-1%20%281%29%20%281%29.png)
+![](<.gitbook/assets/stat-21-1024x442-4-1 (1) (1).png>)
 
-Vous pouvez faire la distinction entre les connexions réalisées sur la version web de l'espace numérique et celles effectuées via l'application mobile, si votre établissement en bénéficie. Il suffit d'aller sur «Moyen» \(1\), cliquer sur la flèche et sélectionner une des options dans la liste déroulante \(2\) **Web uniquement**, **Mobile uniquement**, **Web et Mobile**, pour obtenir des statistiques plus précises.
+Vous pouvez faire la distinction entre les connexions réalisées sur la version web de l'espace numérique et celles effectuées via l'application mobile, si votre établissement en bénéficie. Il suffit d'aller sur «Moyen» (1), cliquer sur la flèche et sélectionner une des options dans la liste déroulante (2) **Web uniquement**, **Mobile uniquement**, **Web et Mobile**, pour obtenir des statistiques plus précises.
 
-![](.gitbook/assets/image%20%2849%29.png)
+![](<.gitbook/assets/image (49).png>)
 
-![](.gitbook/assets/image%20%2862%29.png)
+![](<.gitbook/assets/image (62).png>)
 
 ## Statistiques d’accès aux applications
 
-Vous pouvez organiser les résultats par profil \(6\) et les exporter dans un fichier au format CSV \(7\).
+Vous pouvez organiser les résultats par profil (6) et les exporter dans un fichier au format CSV (7).
 
-![](.gitbook/assets/stat-3-1024x443-4%20%281%29%20%281%29.png)
+![](<.gitbook/assets/stat-3-1024x443-4 (1) (1).png>)
 
 ## Statistiques d’activations de comptes
 
-Cliquez sur l’indicateur «Activations de comptes » puis choisissez la période pour laquelle vous souhaitez voir apparaître les statistiques en cliquant sur le début de la période \(2\) et la fin de la période \(3\). Cliquez sur « Afficher le diagramme » \(4\) pour afficher les résultats.
+Cliquez sur l’indicateur «Activations de comptes » puis choisissez la période pour laquelle vous souhaitez voir apparaître les statistiques en cliquant sur le début de la période (2) et la fin de la période (3). Cliquez sur « Afficher le diagramme » (4) pour afficher les résultats.
 
-Vous pouvez organiser les résultats par profil \(5\) et les exporter dans un fichier au format CSV \(6\).
+Vous pouvez organiser les résultats par profil (5) et les exporter dans un fichier au format CSV (6).
 
-![](.gitbook/assets/stat-4-1024x442-1-1%20%282%29.png)
+![](<.gitbook/assets/stat-4-1024x442-1-1 (2) (2).png>)
 
 ## Statistiques de visiteurs uniques
 
-Vous pouvez organiser les résultats par profil \(5\) et les exporter dans un fichier au format CSV \(6\).
+Vous pouvez organiser les résultats par profil (5) et les exporter dans un fichier au format CSV (6).
 
-![](.gitbook/assets/stat-5-1024x441-4%20%281%29%20%281%29.png)
+![](<.gitbook/assets/stat-5-1024x441-4 (1) (1).png>)
 
 ## Statistiques des comptes activés
 
-![](.gitbook/assets/stat-61-1%20%282%29.png)
-
-
-
-
-
+![](<.gitbook/assets/stat-61-1 (2) (1).png>)
