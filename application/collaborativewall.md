@@ -110,12 +110,12 @@ Vous devez ensuite renseigner les caractéristiques de votre contenu pour expliq
 * Âge des élèves : Quel est la tranche d’âge des élèves concernés par l’activité ?&#x20;
 * Mots-clés : Quels sont les mots-clés qui caractérisent le mieux votre activité ?
 
-![](.gitbook/assets/2020-05-20\_17h05\_45.png)
+![](<.gitbook/assets/2020-05-20\_17h05\_45.png>)
 
 Lorsque votre mur collaboratif est publié, vous pouvez le visualiser en cliquant sur “Voir dans la Bibliothèque”.
 
-![](.gitbook/assets/2020-05-20\_17h06\_09.png)
+![](<.gitbook/assets/2020-05-20\_17h06\_09.png>)
 
 Vous aurez ensuite la possibilité de modifier les champs saisis ou de supprimer la publication de votre mur collaboratif en cliquant sur “Modifier” depuis la page de votre activité.
 
-![](.gitbook/assets/2020-05-20\_17h06\_26.png)
+![](<.gitbook/assets/2020-05-20\_17h06\_26.png>)

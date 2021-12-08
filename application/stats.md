@@ -16,17 +16,17 @@ L’appli Statistiques vous propose de suivre **neuf indicateurs** calculés sur
 * **Pic de connexion hebdomadaire** : indique le jour de la semaine recueillant le plus de visites depuis un an. 
 * **Comptes activés** : calcule le nombre de comptes activés depuis un an.
 
-![](.gitbook/assets/stats_dashboard.png)
+![](<.gitbook/assets/stats_dashboard.png>)
 
 Un graphique détaillé est disponible pour chacun de ces indicateurs :
 
-![](.gitbook/assets/stats_graph_courbes.png)
+![](<.gitbook/assets/stats_graph_courbes.png>)
 
 ## Naviguer dans l'application Statistiques
 
 Pour accéder à l’appli Statistiques, cliquez sur l’icône correspondante dans la page « Mes applis ».
 
-![](.gitbook/assets/stats_icone_mes_applis.png)
+![](<.gitbook/assets/stats_icone_mes_applis.png>)
 
 Un récapitulatif des statistiques de fréquentation de votre principale structure ou classe de rattachement s’affiche.
 
@@ -34,47 +34,47 @@ Si vous êtes un ADML rattaché à plusieurs établissements ou plusieurs classe
  
 Si vous êtes enseignant, vous avez accès aux statistiques des classes auxquelles vous êtes rattaché.
 
-![](.gitbook/assets/stats_navigation_arbo.png)
+![](<.gitbook/assets/stats_navigation_arbo.png>)
 
 Pour plus de détails sur un indicateur, cliquez sur sa vignette. Un graphe s’affiche.
 
 Vous pouvez naviguer d'un indicateur à l'autre en choisissant les statistiques souhaitées dans la colonne de gauche :
 
-![](.gitbook/assets/stats_navigation_side_menu.png)
+![](<.gitbook/assets/stats_navigation_side_menu.png>)
 
 Deux boutons, en haut à droite, vous permettent de passer de la vue récapitulative des indicateurs à la vue détaillée.
 
-![](.gitbook/assets/stats_boutons_mode_de_vue.png)
+![](<.gitbook/assets/stats_boutons_mode_de_vue.png>)
 
 ## Comprendre les données disponibles
 
 L’encart situé en haut à droite permet de choisir la période d’affichage des résultats.
 
-![](.gitbook/assets/stats_graph_periode_affichage.png)
+![](<.gitbook/assets/stats_graph_periode_affichage.png>)
 
 Par défaut, tous les profils d'utilisateurs s'affichent. Vous pouvez isoler certains profils d'utilisateur en cliquant en dessous du graphique sur le nom ou la couleur des profils dont vous ne souhaitez pas afficher les résultats. 
 
-![](.gitbook/assets/stats_graph_masquer_certaines_donnees_1.png)
+![](<.gitbook/assets/stats_graph_masquer_certaines_donnees_1.png>)
 
-![](.gitbook/assets/stats_graph_masquer_certaines_donnees_2.png)
+![](<.gitbook/assets/stats_graph_masquer_certaines_donnees_2.png>)
 
 Pour les indicateurs "Appli la plus utilisée", "Connecteur le plus utilisé", "Connexions par type de support" et "Comptes activés" vous pouvez choisir d'avoir les résultats pour l'ensemble des profils (valeur par défaut) ou pour un profil en particulier en sélectionnant ce profil parmi les boutons radio. Dans l'exemple ci-dessous, on choisit par exemple de n'afficher que les comptes activés (B) pour les utilisateurs de profil Personnel (A). 
 
-![](.gitbook/assets/stats_graph_filtrer_donnees.png)
+![](<.gitbook/assets/stats_graph_filtrer_donnees.png>)
 
 En positionnant le curseur de la souris sur un point des graphiques en courbes (ou sur une barre des graphiques à barres), vous pouvez consulter les valeurs détaillées. Par exemple dans l’écran ci-dessous, on constate qu'en août 2020, il y a eu 40 connexions depuis des ordinateurs et 56 depuis des applications mobiles. 
 
-![](.gitbook/assets/stats_graphe_survol_point.png)
+![](<.gitbook/assets/stats_graphe_survol_point.png>)
 
 Pour les indicateurs "Appli la plus utilisée" et "Connecteur le plus utilisé" vous pouvez voir le détail par application / par connecteur en le sélectionnant dans la liste déroulante.
 
-![](.gitbook/assets/stats_details_appli_connecteur_1.png)
+![](<.gitbook/assets/stats_details_appli_connecteur_1.png>)
 
-![](.gitbook/assets/stats_details_appli_connecteur_2.png)
+![](<.gitbook/assets/stats_details_appli_connecteur_2.png>)
 
 ## Exporter les données pour un indicateur
 
-![](.gitbook/assets/stats_lien_export.png)
+![](<.gitbook/assets/stats_lien_export.png>)
 
 Pour exporter les statistiques relatives à un indicateur, positionnez-vous sur la vue détaillée de l'indicateur désiré. En cliquant sur le lien "Exporter les statistiques" en bas à droite de votre écran, vous générez un fichier .csv que vous pouvez enregistrer sur votre appareil.
  

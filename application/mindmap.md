@@ -113,11 +113,11 @@ Vous devez ensuite renseigner les caractéristiques de votre contenu pour expliq
 * Âge des élèves : Quel est la tranche d’âge des élèves concernés par l’activité ?&#x20;
 * Mots-clés : Quels sont les mots-clés qui caractérisent le mieux votre activité ?&#x20;
 
-![](.gitbook/assets/2020-05-20\_17h13\_58.png)
+![](<.gitbook/assets/2020-05-20\_17h13\_58.png>)
 
 Lorsque votre carte mentale est publiée, vous pouvez la visualiser en cliquant sur “Voir dans la Bibliothèque”.
 
-![](.gitbook/assets/2020-05-20\_17h14\_39.png)
+![](<.gitbook/assets/2020-05-20\_17h14\_39.png>)
 
 Vous aurez ensuite la possibilité de modifier les champs saisis ou de supprimer la publication de votre carte mentale en cliquant sur “Modifier” depuis la page de votre activité.
 

@@ -28,8 +28,8 @@ Pour **inviter des utilisateurs de la plateforme** à rejoindre votre salle de v
 
 ## Gérer ma visioconférence
 
-Une fois connecté sur la **salle de visioconférence**, vous pouvez gérer différents aspects de la conférence, tels que la présentation, la diffusion de contenu, les participants … ![](.gitbook/assets/06\_BBB.png)
+Une fois connecté sur la **salle de visioconférence**, vous pouvez gérer différents aspects de la conférence, tels que la présentation, la diffusion de contenu, les participants … ![](<.gitbook/assets/06\_BBB.png>)
 
-Le panel de gauche vous permet de voir et gérer la **liste des utilisateurs connectés** à votre visioconférence (1), d’accéder au **notes partagées** (2) et à la **discussion (chat) de groupe** (3). ![](.gitbook/assets/07\_BBB\_panneau\_gauche.png)
+Le panel de gauche vous permet de voir et gérer la **liste des utilisateurs connectés** à votre visioconférence (1), d’accéder au **notes partagées** (2) et à la **discussion (chat) de groupe** (3). ![](<.gitbook/assets/07\_BBB\_panneau\_gauche.png>)
 
-Sur la seconde partie de l’écran, vous pouvez choisir de partager ou non votre webcam, votre micro ou votre écran (1), d’y ajouter des **annotations en direct** pour les utilisateurs connectés (2). Il vous est aussi possible de **charger un document**, de créer un **sondage en direct** ou de **partager une vidéo externe** (3). ![](.gitbook/assets/08\_BBB\_panneau\_droit.png)
+Sur la seconde partie de l’écran, vous pouvez choisir de partager ou non votre webcam, votre micro ou votre écran (1), d’y ajouter des **annotations en direct** pour les utilisateurs connectés (2). Il vous est aussi possible de **charger un document**, de créer un **sondage en direct** ou de **partager une vidéo externe** (3). ![](<.gitbook/assets/08\_BBB\_panneau\_droit.png>)

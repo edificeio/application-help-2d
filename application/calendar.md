@@ -6,7 +6,7 @@ Une organisation haute en couleur ! Retrouvez, en un clin d’oeil, tous les év
 
 Le service Agenda permet de créer et partager des agendas et des événements.
 
-![](.gitbook/assets/01\_calendar.png)
+![](<.gitbook/assets/01\_calendar.png>)
 
 Par défaut, vous disposez d'un agenda **Agenda NOM Prénom** dans lequel vous pourrez retrouver tous les événements qui ont été partagés avec vous, hors agenda partagé. Vous pouvez utiliser cet agenda pour créer vos événements et les partager à votre tour à d'autres utilisateurs.
 
@@ -44,7 +44,7 @@ Attention, si la barre de couleur de l'agenda est pâle, c'est que l'agenda n'es
 
 Pour créer un événement, plusieurs options s’offrent à l’utilisateur, il est possible de **cliquer dans le calendrier au créneau horaire souhaité** ou d’utiliser le **bouton "Créer un événement" en haut à droite** :
 
-![](.gitbook/assets/03\_button\_creation\_evenement.png)
+![](<.gitbook/assets/03\_button\_creation\_evenement.png>)
 
 La fenêtre de création d’événement apparait en popup. Elle se décompose en trois onglets.
 
@@ -65,7 +65,7 @@ Il est possible de changer les dates et heures de début et de fin. La case à c
 
 Enfin le dernier onglet appelé **"Récurrence"** permet de définir la récurrence de l’événement si nécessaire.
 
-![](.gitbook/assets/03\_recurrence.png)
+![](<.gitbook/assets/03\_recurrence.png>)
 
 Pour cela, il faut cocher la case « Récurrence » pour pouvoir accéder à la sélection du paramétrage de la récurrence. Ensuite, il est possible de modifier :
 
@@ -121,7 +121,7 @@ Attention, dans le cadre d'un partage d'événement à l'intérieur d'un agenda 
 
 Les événements créés sont affichés sur la vue calendrier avec comme couleur de fond celle de l’agenda auquel ils appartiennent.
 
-![](.gitbook/assets/01\_calendar.png)
+![](<.gitbook/assets/01\_calendar.png>)
 
 Il est possible de choisir les agendas affichés sur le calendrier en cliquant dessus dans la partie de gauche. Les agenda non sélectionnés ont la même couleur mais plus pâle.
 
@@ -129,6 +129,6 @@ Il est possible de choisir les agendas affichés sur le calendrier en cliquant d
 
 La seconde façon de visualiser les événements est la vue liste accessible par l’icône ![](<.gitbook/assets/06\_icone\_liste (1).png>) disponible en haut du menu latéral de gauche.
 
-![](.gitbook/assets/06\_vue\_liste.png)
+![](<.gitbook/assets/06\_vue\_liste.png>)
 
 Elle synthétise les informations des événements des différents agendas affichés.

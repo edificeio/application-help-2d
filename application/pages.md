@@ -75,6 +75,6 @@ Pour imprimer votre projet au format papier ou l'exporter au format PDF, positio
 1. Sélectionnez le projet que vous souhaitez imprimer
 2. Dans le menu qui apparaît en bas de page, cliquez sur la fonction "Imprimer".
 
-![](.gitbook/assets/pages\_impressionpdf.png)
+![](<.gitbook/assets/pages\_impressionpdf.png>)
 
 Une fenêtre d'impression s'ouvre avec une impression au format pdf proposée par défaut. Vous avez alors la possibilité de choisir votre imprimante si vous préférez une impression papier.

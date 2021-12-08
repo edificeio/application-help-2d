@@ -78,7 +78,7 @@ Vous êtes gestionnaire d’une catégorie de discussions lorsque vous l’avez 
 
 Pour gérer une catégorie, cliquez sur la case à cocher qui y est associée.
 
-![](.gitbook/assets/forum\_gerercategorie.png)
+![](<.gitbook/assets/forum\_gerercategorie.png>)
 
 ## Gérer une discussion
 

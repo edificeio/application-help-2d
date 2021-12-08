@@ -183,17 +183,17 @@ Vous devez ensuite renseigner les caractéristiques de votre contenu pour expliq
 * **Âge des élèves** : Quel est la tranche d’âge des élèves concernés par l’activité ?&#x20;
 * **Mots-clés** : Quels sont les mots-clés qui caractérisent le mieux votre activité ?&#x20;
 
-![](.gitbook/assets/2020-05-20\_16h01\_02.png)
+![](<.gitbook/assets/2020-05-20\_16h01\_02.png>)
 
 Lorsque votre blog est publié, vous pouvez le visualiser en cliquant sur “Voir dans la Bibliothèque”.
 
-![](.gitbook/assets/2020-05-20\_16h02\_02.png)
+![](<.gitbook/assets/2020-05-20\_16h02\_02.png>)
 
 Vous aurez ensuite la possibilité de modifier les champs saisis ou de supprimer la publication de votre blog en cliquant sur “Modifier” depuis la page de votre activité.
 
-![](.gitbook/assets/2020-05-20\_16h03\_50.png)
+![](<.gitbook/assets/2020-05-20\_16h03\_50.png>)
 
-![](.gitbook/assets/correction-imagemodifieractivit-blog.png)
+![](<.gitbook/assets/correction-imagemodifieractivit-blog.png>)
 
 ## Imprimer un blog
 

@@ -46,7 +46,7 @@ Légende des couleurs :
       Un bouton **"Ajouter un travail à faire"** permet de poursuivre la saisie d'un travail, d'un devoir.
   *   **Ajouter un travail à faire**
 
-      ![](.gitbook/assets/3ajouter\_travail.png)
+      ![](<.gitbook/assets/3ajouter\_travail.png>)
 
       Pour cette section, il est possible de saisir un travail :
 
@@ -59,26 +59,26 @@ Légende des couleurs :
       * un **type de travail** (paramétré par la vie scolaire)
       * une **durée** estimée
 
-      Une fois le travail validé, un **tableau récapitulatif apparaît**. ![](.gitbook/assets/3recap\_travail.png)
+      Une fois le travail validé, un **tableau récapitulatif apparaît**. ![](<.gitbook/assets/3recap\_travail.png>)
 *   **La recherche**
 
     En tant qu'enseignant il est possible d'afficher les cahiers de textes d'autres enseignants et d'autres classes. Il faut pour cela choisir l'enseignant ou la classe dans **les champs de recherche situés en haut de la page.**
 
-    ![](.gitbook/assets/1calendaire\_recherche.png)
+    ![](<.gitbook/assets/1calendaire\_recherche.png>)
 
 **Liste des cahiers de textes**
 
 Sur cette page **sont recensés tous les cahiers de textes** saisis par l'enseignant pour toutes ses classes avec des informations sur la dernière modification, le nombre de séances contenues dans le cahier de textes, et l'état s'il a été visé ou non par la direction.
 
-![](.gitbook/assets/4liste\_cahierdetexte.png)
+![](<.gitbook/assets/4liste\_cahierdetexte.png>)
 
 **En cliquant sur les lignes**, le cahier de textes s'ouvre et met à disposition tous les séances et devoirs rattachés à ce cahier de textes.
 
-![](.gitbook/assets/4details.png)
+![](<.gitbook/assets/4details.png>)
 
 En cliquant dessus, **la séance ou le travail s'ouvre dans une fenêtre et il est alors possible de naviguer de l'un à l'autre à l'aide de flèches de navigation**.
 
-![](.gitbook/assets/4contenu.png)
+![](<.gitbook/assets/4contenu.png>)
 
 **Progressions**
 
@@ -88,14 +88,14 @@ Il est possible dans ce module d'anticiper son travail de saisie des séances et
 
     La création d'un dossier se fait depuis le **bouton "Créer un dossier"** dans l'arborescence à gauche.
 
-    ![](.gitbook/assets/5creer\_dossier.png)
+    ![](<.gitbook/assets/5creer\_dossier.png>)
 
     **Ce dossier correspond à une progression** dans laquelle, il est alors possible de créer des séances en anticipation.
 *   **Créer une séance**
 
     Pour créer une séance, il suffit de **cliquer sur le bouton "Créer une séance"en haut à droite.**
 
-    Une fenêtre s'ouvre avec les mêmes champs à remplir que depuis la vue calendaire. ![](.gitbook/assets/5creer\_seance.png)
+    Une fenêtre s'ouvre avec les mêmes champs à remplir que depuis la vue calendaire. ![](<.gitbook/assets/5creer\_seance.png>)
 
     Une fois la séance enregistrée, elle apparaît dans le dossier dans lequel l'utilisateur était positionné. Cette séance se retrouve ensuite dans **le bloc de gauche sur la vue calendaire.**
 
@@ -121,7 +121,7 @@ Les équipes de la Vie scolaire et les fonctions Direction disposent de droits d
 
 La vue par défaut des équipes de vie scolaire est la vue Liste des cahiers de textes.
 
-![](.gitbook/assets/6tableau.png)
+![](<.gitbook/assets/6tableau.png>)
 
 Elle propose : **une ligne par enseignant et par classe** : chaque ligne est donc un cahier de textes.
 

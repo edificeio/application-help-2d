@@ -30,55 +30,49 @@ Une interface propose trois options pour ajouter des utilisateurs à votre class
 
 ![](<.gitbook/assets/2019-09-24\_17h04\_24 (1) (1).png>)
 
-```
-1.Si vous souhaitez créer manuellement des utilisateurs, une interface vous propose de créer l'utilisateur de votre choix en renseignant plusieurs informations, obligatoires ou non, en fonction du profil :
-```
+1. Si vous souhaitez créer manuellement des utilisateurs, une interface vous propose de créer l'utilisateur de votre choix en renseignant plusieurs informations, obligatoires ou non, en fonction du profil :
 
-* Profil (1)
-* Nom (obligatoire) (2)
-* Prénom (obligatoire) (3)
-* Date de naissance (obligatoire uniquement pour les élèves) (4)
-* Courriel (5)
-* Rechercher un élève : uniquement pour les responsables légaux, afin de relier l'élève au responsable créé manuellement(6)
+    * Profil (1)
+    * Nom (obligatoire) (2)
+    * Prénom (obligatoire) (3)
+    * Date de naissance (obligatoire uniquement pour les élèves) (4)
+    * Courriel (5)
+    * Rechercher un élève : uniquement pour les responsables légaux, afin de relier l'élève au responsable créé manuellement(6)
+    
+    ![](<.gitbook/assets/2019-09-24\_17h05\_57 (1).png>)
+    
+    Si vous avez créé un utilisateur existant déjà sur votre établissement, une interface de détection du doublon de compte vous propose trois actions :
+    
+    * Déplacer dans ma classe (1) : le compte sera détaché de son ancienne classe et rattaché à sa nouvelle classe
+    * Rattacher aux deux classes (2) : le compte sera rattaché à la classe et conservera son rattachement à l'autre classe
+    * Créer l'utilisateur (3) : le compte sera créé dans la classe
+    
+    ![](<.gitbook/assets/2019-09-24\_17h06\_48 (1) (1).png>)
 
-![](<.gitbook/assets/2019-09-24\_17h05\_57 (1).png>)
+2. Si vous souhaitez importer des utilisateurs à partir d'un fichier, vous avez la possibilité d'exporter votre fichier CSV pour votre classe afin de l'importer depuis l'interface prévue à cet effet.
 
-Si vous avez créé un utilisateur existant déjà sur votre établissement, une interface de détection du doublon de compte vous propose trois actions :
+    Vous pouvez utiliser les fichiers modèles fournis sur les liens ci-après :
+    
+    * Fichier élève : [https://neoconnect.opendigitaleducation.com/admin/public/assets/CSV\_Eleves.csv](https://neoconnect.opendigitaleducation.com/admin/public/assets/CSV\_Eleves.csv)
+    * Fichier responsable légal : [https://neoconnect.opendigitaleducation.com/admin/public/assets/CSV\_Parents.csv](https://neoconnect.opendigitaleducation.com/admin/public/assets/CSV\_Parents.csv)
+    
+    Pour que les élèves soient bien rattachés aux parents, vérifiez que le nom et prénom de l’élève soient correctement saisis dans le fichier des parents.
+    
+    Attention : pour le bon fonctionnement de ces manipulations, les élèves doivent être créés avant les parents.
+    
+    Pour créer un compte enseignant ou un compte personnel, il n'est pas possible de fonctionner par import de fichier. Vous devrez créer ces comptes de manière manuelle, comme vu précédemment.
 
-* Déplacer dans ma classe (1) : le compte sera détaché de son ancienne classe et rattaché à sa nouvelle classe
-* Rattacher aux deux classes (2) : le compte sera rattaché à la classe et conservera son rattachement à l'autre classe
-* Créer l'utilisateur (3) : le compte sera créé dans la classe
+3. Si les comptes utilisateurs que vous devez rattacher à votre classe sont déjà présents sur votre établissement, vous pouvez accéder à une interface qui vous permet de rechercher les utilisateurs.
 
-![](<.gitbook/assets/2019-09-24\_17h06\_48 (1) (1).png>)
-
-```
-2.Si vous souhaitez importer des utilisateurs à partir d'un fichier, vous avez la possibilité d'exporter votre fichier CSV pour votre classe afin de l'importer depuis l'interface prévue à cet effet.
-```
-
-Vous pouvez utiliser les fichiers modèles fournis sur les liens ci-après :
-
-* Fichier élève : [https://neoconnect.opendigitaleducation.com/admin/public/assets/CSV\_Eleves.csv](https://neoconnect.opendigitaleducation.com/admin/public/assets/CSV\_Eleves.csv)
-* Fichier responsable légal : [https://neoconnect.opendigitaleducation.com/admin/public/assets/CSV\_Parents.csv](https://neoconnect.opendigitaleducation.com/admin/public/assets/CSV\_Parents.csv)
-
-Pour que les élèves soient bien rattachés aux parents, vérifiez que le nom et prénom de l’élève soient correctement saisis dans le fichier des parents.
-
-Attention : pour le bon fonctionnement de ces manipulations, les élèves doivent être créés avant les parents.
-
-Pour créer un compte enseignant ou un compte personnel, il n'est pas possible de fonctionner par import de fichier. Vous devrez créer ces comptes de manière manuelle, comme vu précédemment.
-
-```
-3.Si les comptes utilisateurs que vous devez rattacher à votre classe sont déjà présents sur votre établissement, vous pouvez accéder à une interface qui vous permet de rechercher les utilisateurs.
-```
-
-* Classe sélectionnée (1) : Vous pouvez y voir les classes auxquelles vous êtes rattachés et les utilisateurs qui ne sont rattachés à aucune classe.
-* Barre de recherche permet de rechercher des utilisateurs (2)
-* Filtres de profil (3)
-* Liste des utilisateurs rattachés à la classe sélectionnée (4)
-* Liste des utilisateurs que vous voulez rattacher à votre classe (5)
-
-Après avoir complété la liste des utilisateurs que vous voulez rattacher à votre classe, cliquez sur "Ajouter à ma classe" (6) pour que l'action soit confirmée.
-
-![](<.gitbook/assets/2019-10-08\_14h38\_11 (1) (1).png>)
+    * Classe sélectionnée (1) : Vous pouvez y voir les classes auxquelles vous êtes rattachés et les utilisateurs qui ne sont rattachés à aucune classe.
+    * Barre de recherche permet de rechercher des utilisateurs (2)
+    * Filtres de profil (3)
+    * Liste des utilisateurs rattachés à la classe sélectionnée (4)
+    * Liste des utilisateurs que vous voulez rattacher à votre classe (5)
+    
+    Après avoir complété la liste des utilisateurs que vous voulez rattacher à votre classe, cliquez sur "Ajouter à ma classe" (6) pour que l'action soit confirmée.
+    
+    ![](<.gitbook/assets/2019-10-08\_14h38\_11 (1) (1).png>)
 
 ## Créer des fiches de connexion
 

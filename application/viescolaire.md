@@ -394,7 +394,7 @@ Vous pouvez donc ici paramétrer :
 * **le nom de l'action**
 * **son abréviation** : qui apparaîtra dans la liste des événements
 
-![](.gitbook/assets/3-04actions.png)
+![](<.gitbook/assets/3-04actions.png>)
 
 **Alertes**
 

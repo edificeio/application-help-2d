@@ -13,13 +13,13 @@ Ce module vous permet de **créer des formulaires** en y intégrant différents 
 * une demande de réponse courte,
 * une demande de réponse longue.
 
-![](.gitbook/assets/01\_formulaire-presentation.png)
+![](<.gitbook/assets/01\_formulaire-presentation.png>)
 
 ## Créer un formulaire
 
 Dans l’application formulaire, lorsque vous êtes dans l’onglet **« Mes formulaires »** cliquez sur le bouton **« Créer un formulaire »** présent en haut à droite de la page.
 
-![](.gitbook/assets/02\_creer-un-formulaire1.png)
+![](<.gitbook/assets/02\_creer-un-formulaire1.png>)
 
 Vous accédez à l’interface de création du formulaire :
 
@@ -31,30 +31,30 @@ Vous accédez à l’interface de création du formulaire :
 
 Cliquez sur **« Enregistrer »** pour valider la création du formulaire.
 
-![](.gitbook/assets/02\_creer-un-formulaire2.png)
+![](<.gitbook/assets/02\_creer-un-formulaire2.png>)
 
 ## Construire un formulaire
 
 Une fois le formulaire créé vous pouvez créer les questions que contiendra votre formulaire. Pour cela, cliquez sur **« Ajouter un élément »**.
 
-![](.gitbook/assets/03\_construire-un-formulaire1.png)
+![](<.gitbook/assets/03\_construire-un-formulaire1.png>)
 
 Vous avez le choix entre plusieurs types de questions, choisissez celui que vous voulez.
 
-![](.gitbook/assets/03\_construire-un-formulaire2.png)
+![](<.gitbook/assets/03\_construire-un-formulaire2.png>)
 
 Une fois le type de section choisi, la page d’édition de la question s’ouvre.
 
-![](.gitbook/assets/03\_construire-un-formulaire3.png)
+![](<.gitbook/assets/03\_construire-un-formulaire3.png>)
 
 L’outil de création de la section s’affiche dans la page :
 
 1. Saisissez le **titre**.
 2. Rédigez les **réponses possibles** (pour les choix multiples et réponse unique).
-3. Choisissez de rendre la réponse à cette question **obligatoire** : ![](.gitbook/assets/03\_construire-un-formulaire4.png)
-4. **Dupliquer** la section (avec la question et les réponses possibles) : ![](.gitbook/assets/03\_construire-un-formulaire5.png)
-5. **Supprimer** la question : ![](.gitbook/assets/03\_construire-un-formulaire6.png)
-6. **Annuler** les récentes modifications : ![](.gitbook/assets/03\_construire-un-formulaire7.png)
+3. Choisissez de rendre la réponse à cette question **obligatoire** : ![](<.gitbook/assets/03\_construire-un-formulaire4.png>)
+4. **Dupliquer** la section (avec la question et les réponses possibles) : ![](<.gitbook/assets/03\_construire-un-formulaire5.png>)
+5. **Supprimer** la question : ![](<.gitbook/assets/03\_construire-un-formulaire6.png>)
+6. **Annuler** les récentes modifications : ![](<.gitbook/assets/03\_construire-un-formulaire7.png>)
 
 Une fois la saisie des différentes questions terminée, vous avez différents **boutons d'action** :
 
@@ -71,12 +71,12 @@ Le formulaire a été créé, mais n’est pas encore visible par les autres uti
 1. Cliquez sur le formulaire à partager.
 2.  Cliquez sur le bouton **« Partager »**.
 
-    ![](.gitbook/assets/04\_partager-un-formulaire1.png)
+    ![](<.gitbook/assets/04\_partager-un-formulaire1.png>)
 3. Une pop-up « Partager avec... » s'affiche. Saisissez les premières lettres du nom de l’utilisateur ou du groupe d’utilisateurs que vous recherchez.
 4. Sélectionnez le résultat.
 5.  Cochez les cases correspondant aux droits que vous souhaitez leur attribuer. Pour valider, cliquez sur le bouton **« Partager »**.
 
-    ![](.gitbook/assets/04\_partager-un-formulaire2.png)
+    ![](<.gitbook/assets/04\_partager-un-formulaire2.png>)
 
 Les différents droits que vous pouvez attribuer aux autres utilisateurs sont les suivants :
 
@@ -88,9 +88,9 @@ Les différents droits que vous pouvez attribuer aux autres utilisateurs sont le
 
 Sur les vignettes de formulaire, des icônes vous permettent de connaître facilement vos opérations/droits sur les contenus :
 
-* ![](.gitbook/assets/05\_vignettes1.png) : le formulaire a été partagé en mode réponse à des utilisateurs
-* ![](.gitbook/assets/05\_vignettes2.png) : vous avez partagé le formulaire en mode gestion ou contribution à des utilisateurs ou le formulaire a été partagé en mode gestion ou contribution avec vous
-* ![](.gitbook/assets/05\_vignettes3.png) : un rappel de demande de réponse a été envoyé aux utilisateurs dont vous avez partagé le formulaire en mode réponse
+* ![](<.gitbook/assets/05\_vignettes1.png>) : le formulaire a été partagé en mode réponse à des utilisateurs
+* ![](<.gitbook/assets/05\_vignettes2.png>) : vous avez partagé le formulaire en mode gestion ou contribution à des utilisateurs ou le formulaire a été partagé en mode gestion ou contribution avec vous
+* ![](<.gitbook/assets/05\_vignettes3.png>) : un rappel de demande de réponse a été envoyé aux utilisateurs dont vous avez partagé le formulaire en mode réponse
 
 ## Envoyer un rappel
 
@@ -99,13 +99,13 @@ Le formulaire a été créé et partagé en réponse à des utilisateurs, mais v
 1. Cliquez sur le formulaire avec le rappel à envoyer.
 2.  Cliquez sur le bouton **« Rappel »**.
 
-    ![](.gitbook/assets/06\_envoyer-un-rappel1.png)
+    ![](<.gitbook/assets/06\_envoyer-un-rappel1.png>)
 3. La page suivante s’ouvre : l’objet et le contenu du rappel déjà prérempli et vous avez la possibilité de les modifier.
 4. Cliquez sur **« Confirmer »**, le rappel est envoyé :
    * à ceux qui n’ont pas répondu au formulaire si plusieurs réponses d’un même utilisateur ne sont pas possibles.
    *   à tout le monde si plusieurs réponses d’un même utilisateur sont possibles.
 
-       ![](.gitbook/assets/06\_envoyer-un-rappel2.png)
+       ![](<.gitbook/assets/06\_envoyer-un-rappel2.png>)
 
 ## Voir les résultats d'un formulaire
 
@@ -114,17 +114,17 @@ Le formulaire a été créé et partagé en réponse à des utilisateurs, vous s
 1. Cliquez sur le formulaire dont vous voulez voir les réponses.
 2.  Cliquez sur le bouton **« Résultats »**.
 
-    ![](.gitbook/assets/07\_resultats-d-un-formulaire1.png)
+    ![](<.gitbook/assets/07\_resultats-d-un-formulaire1.png>)
 3. Naviguez dans les réponses grâce aux boutons **« Précédent »** et **« Résultats »**.
 4. Vous pouvez télécharger toutes les réponses dans un fichier Excel en cliquant sur **« Télécharger tous les résultats (CSV) »**.
 5.  Vous pouvez télécharger toutes les réponses dans un fichier PDF en cliquant sur **« Télécharger tous les résultats (PDF) »**.
 
-    ![](https://github.com/opendigitaleducation/application-help-2d/tree/34d292165eba6ffadb2a766dd5e4cd29b3d9212b/application/.gitbook/assets/07\_resultats-d-un-formulaire2.png)
+    ![](<.gitbook/assets/07\_resultats-d-un-formulaire2.png>)
 6. Pour les dépôts de fichier, il est possible de :
    * télécharger tous les fichiers dans un zip
    *   télécharger un seul des fichiers en cliquant dessus
 
-       ![](.gitbook/assets/07\_resultats-d-un-formulaire3.png)
+       ![](<.gitbook/assets/07\_resultats-d-un-formulaire3.png>)
 
 ## Organiser ses formulaires
 
@@ -140,7 +140,7 @@ Le formulaire a été créé et partagé en réponse à des utilisateurs, vous s
    * **Formulaires partagés avec moi :** qui est le dossier, dans lequel vous trouverez tous les formulaires qui vous ont été partagés.
    * **Corbeille :** où vous retrouverez les formulaires que vous avez supprimés, pour éviter toute suppression définitive involontaire
 
-![](.gitbook/assets/08\_organiser-ses-formulaires1.png)
+![](<.gitbook/assets/08\_organiser-ses-formulaires1.png>)
 
 ## Répondre à un formulaire
 
@@ -149,14 +149,14 @@ Lorsque vous êtes dans l’onglet **« Mes réponses »**, la liste des formula
 1. Cliquez sur le formulaire à répondre.
 2.  Cliquez sur **« Ouvrir »**.
 
-    ![](.gitbook/assets/09\_repondre-a-un-formulaire1.png)
+    ![](<.gitbook/assets/09\_repondre-a-un-formulaire1.png>)
 3. Vous pouvez naviguer dans les questions auxquelles répondre grâce à **« Précédent »** et **« Suivant »**.
 4.  À tout moment vous pouvez décider d’arrêter de répondre au formulaire pour continuer à y répondre plus tard en cliquant sur **« Enregistrer et quitter »**.
 
-    ![](.gitbook/assets/09\_repondre-a-un-formulaire2.png)
+    ![](<.gitbook/assets/09\_repondre-a-un-formulaire2.png>)
 5.  Lorsque vous arrivez à la dernière question, cliquez sur **« Terminer et envoyer »** pour que vos réponses soient prises en compte.
 
-    ![](.gitbook/assets/09\_repondre-a-un-formulaire3.png)
+    ![](<.gitbook/assets/09\_repondre-a-un-formulaire3.png>)
 
 ## Organiser ses formulaires pour le répondant
 
@@ -173,4 +173,4 @@ Lorsque vous êtes dans l’onglet **« Mes réponses »**, la liste des formula
    * **Réponses : x :** Plusieurs réponses autorisées et vous en avez envoyées x.
    * **Réponses : 0 :** Plusieurs réponses autorisées et vous n’en avez pas encore envoyées.
 
-![](.gitbook/assets/10\_organiser-ses-formulaires-pour-le-repondant1.png)
+![](<.gitbook/assets/10\_organiser-ses-formulaires-pour-le-repondant1.png>)
