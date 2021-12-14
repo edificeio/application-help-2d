@@ -65,6 +65,18 @@ Comme précédemment, en survolant la notification avec la souris, vous verrez a
 
 Les widgets se situent à gauche du fil de nouveautés. Ils sont composés des notes personnelles, du calendrier, des actualités, du flux RSS, du dictaphone et des liens utiles.
 
+* Le widget **Mon réseau** affiche la photo de profil de l’utilisateur, son nom et son établissement de rattachement. S’il est rattaché à plusieurs établissements, il peut sélectionner un de ses établissements dans une liste déroulante.
+
+  * Les enseignants peuvent cliquer sur “Mes classes” et sur “Équipe enseignante”
+
+  * Les personnels peuvent cliquer sur “Personnels et enseignants” et sur “Les classes”
+
+  * Les élèves disposent un bouton “Ma classe” et un bouton “Mes enseignants”
+
+  * Les parents bénéficient des boutons “Equipe enseignante” et “Direction”
+
+![](<.gitbook/assets/widget mon réseau.png>)
+
 * Le widget **Actualités** affiche les 5 dernières actualités publiées dans votre réseau
 
 ![](<.gitbook/assets/widget actualités.png>)
@@ -295,11 +307,11 @@ Vous pouvez accéder à la page de recherche en cliquant sur l’icône de reche
 
 ## Message Flash
 
-Des messages d’informations à destinations de tous les utilisateurs de l’ENT s’affichent dans le fil de nouveautés via un bandeau coloré (1).
+Des messages d’informations à destinations de tous les utilisateurs de l’ENT s’affichent dans le fil de nouveautés via un bandeau coloré.
 
-![](<.gitbook/assets/image12-1024x556-2-2-2 (2) (2).png>)
+![](<.gitbook/assets/message flash.png>)
 
-Après avoir pris connaissance du message, vous avez la possibilité de le supprimer en cliquant sur la croix à droite de celui-ci (2).
+Après avoir pris connaissance du message, vous avez la possibilité de le supprimer en cliquant sur la croix à droite de celui-ci (1).
 
 ## Partage et favoris de partage
 
