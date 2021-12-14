@@ -73,7 +73,7 @@ Les widgets se situent à gauche du fil de nouveautés. Ils sont composés des n
 
   * Les élèves disposent un bouton “Ma classe” et un bouton “Mes enseignants”
 
-  * Les parents bénéficient des boutons “Equipe enseignante” et “Direction”
+  * Les parents bénéficient des boutons “Équipe enseignante” et “Direction”
 
 ![](<.gitbook/assets/widget mon réseau.png>)
 

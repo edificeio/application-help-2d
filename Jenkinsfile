@@ -21,6 +21,7 @@ pipeline {
                 docker-compose run --rm pandoc -s --toc --section-divs -f markdown -t html /application/${app}.md -o /application/${app}/index.html
                 echo "Processed $app"
             done
+            # Rename markdown file to match the app name in ENT urls
             mv application/collaborative-editor application/collaborativeeditor
             mv application/scrap-book application/scrapbook
             mv application/search-engine application/searchengine
