@@ -85,7 +85,7 @@ Note : Si l'on rend public un blog, les documents chargés sur le blog (par vous
 
 ![](<.gitbook/assets/2019-07-11\_11h05\_12-1 (2) (1).png>)
 
-Sur la vignette du blog, le symbole suivant vous informe que le contenu est public : ![](https://github.com/opendigitaleducation/application-help-2d/tree/bfd850e5ccf6796688c300e1d9c06303126df2a7/application/.gitbook/assets/globe.png)
+Sur la vignette du blog, le symbole suivant vous informe que le contenu est public :
 
 ![](<.gitbook/assets/2019-07-11\_11h14\_08-1 (2) (1).png>)
 

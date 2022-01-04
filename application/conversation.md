@@ -83,7 +83,7 @@ Sur l’écran central, les messages non lus apparaissent en bleu dans la liste 
 
 (1) Le filtre « messages non lus » vous permet de ne faire apparaître que les messages qui n’ont pas encore été lus.
 
-(2) La barre de recherche vous permet de rechercher un message dans le dossier en cours de consultation grâce au nom d’un utilisateur, un mot clé présent dans l’objet ou le contenu.
+(2) La barre de recherche vous permet de rechercher un message dans le dossier en cours de consultation grâce au nom d’un utilisateur, un mot clé présent dans l’objet ou le contenu. **Veillez à bien saisir un mot entier**.
 
 Cliquez sur le titre d’un message pour en lire le contenu.
 
