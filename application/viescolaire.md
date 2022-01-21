@@ -123,23 +123,23 @@ Il est possible de masquer ou d’afficher certains éléments sur le Bilan de f
 
 * **Niveau calculé du BFC par domaines**
 
-Cliquez sur le menu **« Visibilité du niveau calculé du BFC »**
+  Cliquez sur le menu **« Visibilité du niveau calculé du BFC »**
 
-![](<.gitbook/assets/2\_06\_visibilité\_BFC (1).png>)
+  ![](<.gitbook/assets/2\_06\_visibilité\_BFC (1).png>)
 
-Si vous choisissez d'afficher le niveau, vous aurez le résultat suivant :
+  Si vous choisissez d'afficher le niveau, vous aurez le résultat suivant :
 
-![](<.gitbook/assets/2\_07\_visibiliteBFC3 (1).png>)
+  ![](<.gitbook/assets/2\_07\_visibiliteBFC3 (1).png>)
 
 * **Barème DNB**
 
-Cliquez sur le menu **« Visibilité du barème DNB affiché sur le BFC »** pour choisir d'afficher ou de masquer le barème DNB.
+  Cliquez sur le menu **« Visibilité du barème DNB affiché sur le BFC »** pour choisir d'afficher ou de masquer le barème DNB.
 
-![](<.gitbook/assets/2\_08\_visibilité\_DNB (1).png>)
+  ![](<.gitbook/assets/2\_08\_visibilité\_DNB (1).png>)
 
-Si vous choisissez d'afficher le barème, vous aurez le résultat suivant :
+  Si vous choisissez d'afficher le barème, vous aurez le résultat suivant :
 
-![](<.gitbook/assets/2\_09\_visibiliteBFC4 (1).png>)
+  ![](<.gitbook/assets/2\_09\_visibiliteBFC4 (1).png>)
 
 **Items de Compétences**
 

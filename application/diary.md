@@ -19,6 +19,7 @@ Légende des couleurs :
 ![](<.gitbook/assets/1calendaire\_couleurs (1).png>)
 
 * **Créer des séances et devoirs**
+
   *   **Les différents accès**
 
       Pour créer un devoir ou une séance, il existe plusieurs moyens :
@@ -28,6 +29,7 @@ Légende des couleurs :
       * en glissant-déposant une séance du bloc progression vers un créneau
 
       Chacune de ces actions ouvre une fenêtre permettant de saisir plusieurs informations.
+      
   *   **Créer une séance**
 
       ![](<.gitbook/assets/2ajouter\_seance (1).png>)
@@ -44,6 +46,7 @@ Légende des couleurs :
       * **description** : il s'agit de l'éditeur de texte présent partout sur l'ENT
 
       Un bouton **"Ajouter un travail à faire"** permet de poursuivre la saisie d'un travail, d'un devoir.
+      
   *   **Ajouter un travail à faire**
 
       ![](<.gitbook/assets/3ajouter\_travail.png>)
@@ -60,6 +63,7 @@ Légende des couleurs :
       * une **durée** estimée
 
       Une fois le travail validé, un **tableau récapitulatif apparaît**. ![](<.gitbook/assets/3recap\_travail.png>)
+
 *   **La recherche**
 
     En tant qu'enseignant il est possible d'afficher les cahiers de textes d'autres enseignants et d'autres classes. Il faut pour cela choisir l'enseignant ou la classe dans **les champs de recherche situés en haut de la page.**
@@ -91,6 +95,7 @@ Il est possible dans ce module d'anticiper son travail de saisie des séances et
     ![](<.gitbook/assets/5creer\_dossier.png>)
 
     **Ce dossier correspond à une progression** dans laquelle, il est alors possible de créer des séances en anticipation.
+    
 *   **Créer une séance**
 
     Pour créer une séance, il suffit de **cliquer sur le bouton "Créer une séance"en haut à droite.**
