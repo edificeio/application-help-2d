@@ -209,10 +209,10 @@ Il existe de nombreuses ressources internet que vous pouvez intégrer sur votre 
 
 Voici quelques exemple de sites qui proposent des ressources intéressantes que vous pouvez intégrer sur les contenus partagés :
 
-* [Padlet ](https://padlet.com/my/dashboard)propose des murs collaboratifs ;
+* [Padlet](https://padlet.com/my/dashboard) propose des murs collaboratifs ;
 * [Geogebra](https://www.geogebra.org) fournit, pour tous les niveaux d'éducation, des ressources de mathématiques dynamiques qui associent géométrie, algèbre, tableur, grapheur, statistiques et calcul infinitésimal
 * [Corpus](https://www.reseau-canope.fr/corpus/) permet d'explorer le corps humain dans toutes ses dimensions au travers d'une interface 3D, de vidéos et de vidéos enrichies.
-* [Scratch ](https://scratch.mit.edu)pour l’apprentissage des élèves au codage informatique.
+* [Scratch](https://scratch.mit.edu) pour l’apprentissage des élèves au codage informatique.
 * [OpenStreetMap](http://www.openstreetmap.fr) : Le wiki cartographique mondial qui crée et fournit des données géographiques sous licence libre.
 * Vous pouvez également intégrer des contenus interactif (Présentations, Infographies, Dossiers, Vidéos-Présentations, ePosters, Quiz,...) créés sur [Genially](https://www.genial.ly/fr)
 

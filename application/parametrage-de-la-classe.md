@@ -1,6 +1,6 @@
 # Paramétrage de la classe
 
-Devenez un maître de la gestion ! Grâce à l’appli Paramétrage de la classe, gérez votre classe comme vous l’entendez !
+Devenez un maître de la gestion ! Grâce à l’appli **Paramétrage de la classe**, gérez votre classe comme vous l’entendez !
 
 ## Présentation
 
@@ -37,7 +37,7 @@ Une interface propose trois options pour ajouter des utilisateurs à votre class
     * Prénom (obligatoire) (3)
     * Date de naissance (obligatoire uniquement pour les élèves) (4)
     * Courriel (5)
-    * Rechercher un élève : uniquement pour les responsables légaux, afin de relier l'élève au responsable créé manuellement(6)
+    * Rechercher un élève : uniquement pour les responsables légaux, afin de relier l'élève au responsable créé manuellement (6)
     
     ![](<.gitbook/assets/2019-09-24\_17h05\_57 (1).png>)
     
@@ -49,12 +49,12 @@ Une interface propose trois options pour ajouter des utilisateurs à votre class
     
     ![](<.gitbook/assets/2019-09-24\_17h06\_48 (1) (1).png>)
 
-2. Si vous souhaitez importer des utilisateurs à partir d'un fichier, vous avez la possibilité d'exporter votre fichier CSV pour votre classe afin de l'importer depuis l'interface prévue à cet effet.
+2. Si vous souhaitez **importer des utilisateurs** à partir d'un fichier, vous avez la possibilité d'exporter votre fichier CSV pour votre classe afin de l'importer depuis l'interface prévue à cet effet.
 
-    Vous pouvez utiliser les fichiers modèles fournis sur les liens ci-après :
+    Si vous n'avez pas de fichier d'export depuis ONDE, vous pouvez utiliser les fichiers modèles fournis sur les liens ci-après :
     
-    * Fichier élève : [https://neoconnect.opendigitaleducation.com/admin/public/assets/CSV\_Eleves.csv](https://neoconnect.opendigitaleducation.com/admin/public/assets/CSV\_Eleves.csv)
-    * Fichier responsable légal : [https://neoconnect.opendigitaleducation.com/admin/public/assets/CSV\_Parents.csv](https://neoconnect.opendigitaleducation.com/admin/public/assets/CSV\_Parents.csv)
+    * Fichier élève : [https://neoconnect.opendigitaleducation.com/admin/public/assets/CSV_Eleves.csv](https://neoconnect.opendigitaleducation.com/admin/public/assets/CSV\_Eleves.csv)
+    * Fichier responsable légal : [https://neoconnect.opendigitaleducation.com/admin/public/assets/CSV_Parents.csv](https://neoconnect.opendigitaleducation.com/admin/public/assets/CSV\_Parents.csv)
     
     Pour que les élèves soient bien rattachés aux parents, vérifiez que le nom et prénom de l’élève soient correctement saisis dans le fichier des parents.
     
@@ -64,7 +64,7 @@ Une interface propose trois options pour ajouter des utilisateurs à votre class
 
 3. Si les comptes utilisateurs que vous devez rattacher à votre classe sont déjà présents sur votre établissement, vous pouvez accéder à une interface qui vous permet de rechercher les utilisateurs.
 
-    * Classe sélectionnée (1) : Vous pouvez y voir les classes auxquelles vous êtes rattachés et les utilisateurs qui ne sont rattachés à aucune classe.
+    * Classe sélectionnée (1) : Vous pouvez y voir les classes auxquelles vous êtes rattaché et le groupe des utilisateurs qui ne sont rattachés à aucune classe.
     * Barre de recherche permet de rechercher des utilisateurs (2)
     * Filtres de profil (3)
     * Liste des utilisateurs rattachés à la classe sélectionnée (4)
@@ -76,7 +76,7 @@ Une interface propose trois options pour ajouter des utilisateurs à votre class
 
 ## Créer des fiches de connexion
 
-Dans l'interface de l'application, vous disposez d'un bouton pour vous permettre de créer des fiches de connexion (1) sur la classe sélectionnée (2). Ces fiches de connexion peuvent être effectuées pour un compte déjà activé, en lui rappelant la procédure pour renouveler son mot de passe, ou pour un compte non activé, en lui indiquant la démarche de première connexion.
+Dans l'interface de l'application, vous disposez d'un bouton permettant de créer des fiches de connexion (1) sur la classe sélectionnée (2). Ces fiches de connexion peuvent être générées pour un compte déjà activé, en lui rappelant la procédure pour renouveler son mot de passe, ou pour un compte non activé, en lui indiquant la démarche de première connexion.
 
 ![](<.gitbook/assets/2019-10-08\_14h27\_06 (1) (1).png>)
 
@@ -107,7 +107,7 @@ Dans l’onglet correspondant, **uniquement pour les utilisateurs activés**, s�
 
 ![](<.gitbook/assets/bas-2 (1).png>)
 
-L'email suivant est alors envoyé sur l’adresse email que vous avez renseigné dans la rubrique Mon compte :
+L'email suivant est alors envoyé sur l’adresse email que vous avez renseignée dans la rubrique Mon compte :
 
 _Bonjour,_
 
@@ -161,7 +161,7 @@ En cas de débordement, vous avez la possibilité de bloquer la connexion d'un u
 
 En fin d'année, pour faciliter la transition d'année, vous pouvez retirer les élèves qui ne seront plus dans votre classe, afin que les autres enseignants puissent, via la recherche d'utilisateurs (voir la section "Créer des utilisateurs dans la classe"), rattacher leurs comptes à leur classe.
 
-Sélectionner l'utilisateur concerné (1) puis cliquer sur l'option "Retirer de la classe". Un message de confirmation vous demandera de vérifier si vous souhaitez bien faire votre action.
+Sélectionner l'utilisateur concerné (1) puis cliquer sur l'option "Retirer de la classe" (2). Un message de confirmation vous demandera de vérifier si vous souhaitez bien faire votre action.
 
 En cas d'erreur, vous pourrez (si l'utilisateur n'est rattaché à aucune autre classe) aller dans la recherche d'utilisateur, et rattacher l'utilisateur à votre classe.
 
@@ -171,10 +171,11 @@ En cas d'erreur, vous pourrez (si l'utilisateur n'est rattaché à aucune autre 
 
 Dans l’onglet correspondant, sélectionnez l’utilisateur que vous souhaitez supprimer (1) et cliquez sur « Supprimer » (2).
 
+![](<.gitbook/assets/bas-6 (1).png>)
+
 Une personne dont le compte est supprimé pourra encore se connecter et récupérer un export de ses documents (appli Export). En revanche, elle ne pourra plus accéder aux autres applis (espace documentaire, blog, cahier multimédia, etc.).
 
 Au bout de trois mois, un compte supprimé est complètement effacé et l’utilisateur n’a plus accès à la plateforme. Aucune information le concernant n’est conservée.
 
-Par contre, si l'utilisateur n'a jamais activé son compte, il sera définitivement supprimé immédiatement et sans délai.
+En revanche, si l'utilisateur n'a jamais activé son compte, il sera définitivement supprimé immédiatement et sans délai.
 
-![](<.gitbook/assets/bas-6 (1).png>)
