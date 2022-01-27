@@ -22,11 +22,11 @@ Votre cahier est désormais créé mais n'est pas encore visible. Il vous faut m
 
 ## Partager un carnet d'activités
 
-Pour partager un carnet d'activités avec d'autres utilisateurs, cliquez sur le signe + (1) située sur le coin en haut à droite de l\\'icône du cahier puis sur « Partager » (2).
+Pour partager un carnet d'activités avec d'autres utilisateurs, cliquez sur le signe + (1) située sur le coin en haut à droite de l'icône du cahier puis sur « Partager » (2).
 
 ![](<.gitbook/assets/homework-image4.png>)
 
-Dans la fenêtre de partage, vous pouvez donner des droits de lecture, de contribution et de gestion à d'autres personnes sur votre cahier. Pour cela, saisissez les premières lettres du nom de l'utilisateur ou du groupe d'utilisateurs que vous recherchez (1), sélectionnez le résultat (2) et cochez les cases correspondant aux droits que vous souhaitez leur attribuer (3). Pour valider, cliquez sur \\"Partager\\" (4).
+Dans la fenêtre de partage, vous pouvez donner des droits de lecture, de contribution et de gestion à d'autres personnes sur votre cahier. Pour cela, saisissez les premières lettres du nom de l'utilisateur ou du groupe d'utilisateurs que vous recherchez (1), sélectionnez le résultat (2) et cochez les cases correspondant aux droits que vous souhaitez leur attribuer (3). Pour valider, cliquez sur "Partager" (4).
 
 ![](<.gitbook/assets/homework-image5.png>)
 
@@ -40,7 +40,7 @@ Votre carnet d'activités est créé et partagé, vous pouvez désormais renseig
 
 ## Créer une activité
 
-Une fois votre carnet d'activités créé, vous pouvez y ajouter des activités. Pour cela, cliquez sur le titre ou sur l\\'image du cahier dans le dossier correspondant.
+Une fois votre carnet d'activités créé, vous pouvez y ajouter des activités. Pour cela, cliquez sur le titre ou sur l'image du cahier dans le dossier correspondant.
 
 ![](<.gitbook/assets/homework-image6.png>)
 
@@ -74,17 +74,17 @@ Pour **modifier** votre activité, il suffit de recliquer sur la zone de saisie,
 
 ## Ajouter une récurrence
 
-Si vous souhaitez que l\\'activité créé soit **récurrente** :
+Si vous souhaitez que l'activité créé soit **récurrente** :
 
-1. Après avoir enregistré votre activité, cliquez sur l\\'icône de récurrence à droite de la matière
-2. Renseignez la fréquence (hebdomadaire ou quinzomadaire), le jour de répétition, et la durée de répétition de l\\'activité
-3. Cliquez sur le bouton \\"Valider\\"
+1. Après avoir enregistré votre activité, cliquez sur l'icône de récurrence à droite de la matière
+2. Renseignez la fréquence (hebdomadaire ou quinzomadaire), le jour de répétition, et la durée de répétition de l'activité
+3. Cliquez sur le bouton "Valider"
 
 ![](<.gitbook/assets/homework-image13.png>)
 
 Lorsque vous modifiez la récurrence sur une de ses occurrences, vous la modifiez pour les évènements à venir par rapport à cette occurrence.
 
-Lorsque vous supprimez la récurrence sur une de ses occurrences, vous supprimez la récurrence de l\\'activité pour toute les dates sauf l\\'occurrence sur laquelle vous faite la modification.
+Lorsque vous supprimez la récurrence sur une de ses occurrences, vous supprimez la récurrence de l'activité pour toute les dates sauf l'occurrence sur laquelle vous faite la modification.
 
 Une fois que vous avez terminé, cliquez sur le bouton « Afficher la vue semaine » pour revenir à la page d'accueil du cahier.
 

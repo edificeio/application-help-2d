@@ -16,19 +16,19 @@ Cliquez d'abord sur le bouton « Créer un mot ».
 
 **L'assistant de création d'un mot s'ouvre, il permet d'envoyer un mot en 4 étapes :**
 
-Renseignez un titre à votre mot (1), puis rédigez un texte en ajoutant du contenu multimédia grâce à l\\'éditeur de texte (2). Cliquez maintenant sur le bouton "Suivant" (3).
+Renseignez un titre à votre mot (1), puis rédigez un texte en ajoutant du contenu multimédia grâce à l'éditeur de texte (2). Cliquez maintenant sur le bouton "Suivant" (3).
 
 ![](<.gitbook/assets/schoolbook-image3.jpg>)
 
 **Vous allez ensuite pouvoir choisir vos destinataires :**
 
-Dans la fenêtre \\"Destinataires\\", vous pouvez choisir à qui distribuer le mot.
+Dans la fenêtre "Destinataires", vous pouvez choisir à qui distribuer le mot.
 
 ![](<.gitbook/assets/schoolbook-image4.png>)
 
-Un message vous indique que **les destinataires seront des élèves ou des groupes d'élèves uniquement**. **Le mot sera envoyé aux responsables des élèves en question. Les élèves auront un droit de lecture sur le mot (1).** Effectuez votre recherche (2) et sélectionnez les élèves avec lesquels vous souhaitez partager le mot. Les groupes et utilisateurs ajoutés apparaissent sous la barre de recherche (3). Il vous est possible de consulter la fiche d\\'un utilisateur sélectionné dans la liste des utilisateurs ajoutés en cliquant sur son nom (4). Le message sera transmis aux responsables de ces élèves. Vous pouvez cocher sur la croix pour les supprimer de votre sélection. Cliquez sur \\"Suivant\\" pour valider (5).
+Un message vous indique que **les destinataires seront des élèves ou des groupes d'élèves uniquement**. **Le mot sera envoyé aux responsables des élèves en question. Les élèves auront un droit de lecture sur le mot (1).** Effectuez votre recherche (2) et sélectionnez les élèves avec lesquels vous souhaitez partager le mot. Les groupes et utilisateurs ajoutés apparaissent sous la barre de recherche (3). Il vous est possible de consulter la fiche d'un utilisateur sélectionné dans la liste des utilisateurs ajoutés en cliquant sur son nom (4). Le message sera transmis aux responsables de ces élèves. Vous pouvez cocher sur la croix pour les supprimer de votre sélection. Cliquez sur "Suivant" pour valider (5).
 
-**Il ne vous restera plus qu\\'à définir les paramètres du mot :**
+**Il ne vous restera plus qu'à définir les paramètres du mot :**
 
 ![](<.gitbook/assets/schoolbook-image5.png>)
 
@@ -48,22 +48,12 @@ Le mot est envoyé, les parents et leurs enfants recevront une notification sur 
 
 ![](<.gitbook/assets/schoolbook-image8.png>)La fenêtre « Suivi du mot » s'ouvre avec deux colonnes :
 
-*   La colonne de gauche (1) indique les élèves pour lesquels les
+*   La colonne de gauche (1) indique les élèves pour lesquels les responsables ont lu le mot. Une indication au dessus de la colonne informe du nombre de lu sur le total des destinataires (2).
+*   La colonne de droite (3) indique les utilisateurs qui ont répondu au mot.
+*   Une indication au dessus de la colonne informe du nombre de réponse(s) reçue(s) (4).
+*   Il est possible d'envoyer un rappel de lecture aux utilisateurs qui n'ont pas encore répondu (5).
 
-    responsables ont lu le mot. Une indication au dessus de la colonne
-
-    informe du nombre de lu sur le total des destinataires (2).
-*   La colonne de droite (3) indique les utilisateurs qui ont répondu au
-
-    mot.
-*   Une indication au dessus de la colonne informe du nombre de
-
-    réponse(s) reçue(s) (4).
-*   Il est possible d\\'envoyer un rappel de lecture aux utilisateurs qui
-
-    n\\'ont pas encore répondu (5).
-
-En cliquant sur l'onglet « Réponse » en haut de la colonne (1), vous pouvez consulter les réponses des responsables. Cette option est disponible seulement si elle a été activée lors de la création du mot. Les réponses s'affichent par ordre antéchronologique. À droite, vous voyez apparaître la réponse du responsable (3), et à gauche, vous retrouvez l\\'élève correspondant (2). Chaque parent peut répondre une seule fois au mot de son enfant.
+En cliquant sur l'onglet « Réponse » en haut de la colonne (1), vous pouvez consulter les réponses des responsables. Cette option est disponible seulement si elle a été activée lors de la création du mot. Les réponses s'affichent par ordre antéchronologique. À droite, vous voyez apparaître la réponse du responsable (3), et à gauche, vous retrouvez l'élève correspondant (2). Chaque parent peut répondre une seule fois au mot de son enfant.
 
 ![](<.gitbook/assets/schoolbook-image9.png>)
 
@@ -92,7 +82,7 @@ Il est possible de corriger le contenu d'un mot. Attention, aucune notification 
 
 **Imprimer un mot :**
 
-En cliquant sur l'icône "imprimer", une fenêtre s'ouvre permettant de choisir le nombre de coupons à imprimer (par défaut, le nombre d'élèves concernés par l'envoi du mot). Vous pouvez changer le nombre de coupons (1) puis cliquer sur \\"Imprimer\\" (2)
+En cliquant sur l'icône "imprimer", une fenêtre s'ouvre permettant de choisir le nombre de coupons à imprimer (par défaut, le nombre d'élèves concernés par l'envoi du mot). Vous pouvez changer le nombre de coupons (1) puis cliquer sur "Imprimer" (2)
 
 ![](<.gitbook/assets/schoolbook-image13.png>)
 
@@ -104,13 +94,13 @@ En cliquant sur l'icône "supprimer", une fenêtre s'ouvre, cliquer sur « Suppr
 
 ## Vue Enseignant - Partagez un mot
 
-Vous pouvez partager un mot **uniquement avec les utilisateurs de profil enseignant, personnel et invité**, ainsi que les administrateurs, afin d\\'attribuer à d\\'autres utilisateurs des droits de :
+Vous pouvez partager un mot **uniquement avec les utilisateurs de profil enseignant, personnel et invité**, ainsi que les administrateurs, afin d'attribuer à d'autres utilisateurs des droits de :
 
 * Lecture
 * Contribution
 * Gestion
 
-Pour cela, sélectionnez les utilisateurs avec qui vous souhaitez partager le mot (1), puis accordez les droits que vous souhaitez (2) et cliquez sur \\"Partager\\" (3). Cette fonctionnalité est très utile si vous souhaitez déléguer le suivi du mot à l\\'un de vos collègues par exemple.
+Pour cela, sélectionnez les utilisateurs avec qui vous souhaitez partager le mot (1), puis accordez les droits que vous souhaitez (2) et cliquez sur "Partager" (3). Cette fonctionnalité est très utile si vous souhaitez déléguer le suivi du mot à l'un de vos collègues par exemple.
 
 ![](<.gitbook/assets/schoolbook-image15.png>)
 
@@ -141,7 +131,7 @@ Si l'enseignant a activé l'option « réponse » lors de l'envoi du mot :
 
 Si vous êtes responsable de plusieurs enfants, un filtre vous permet de sélectionner l'enfant pour lequel vous souhaitez afficher les mots. Cliquer pour cela sur une des photos de profil sous le titre le l'application, en haut à gauche. Les mots du carnet de liaison de l'enfant sélectionné s'afficheront dans la partie centrale de l'écran.
 
-## Vue Élève - Lecture d\\'un mot
+## Vue Élève - Lecture d'un mot
 
 Les élèves ont un droit de lecture sur chaque mot qui est envoyé à leurs parents. Ils peuvent ainsi :
 

@@ -18,57 +18,57 @@ Légende des couleurs :
 
 ![](<.gitbook/assets/1calendaire\_couleurs (1).png>)
 
-* **Créer des séances et devoirs**
+**Créer des séances et devoirs**
 
-  *   **Les différents accès**
+*   **Les différents accès**
 
-      Pour créer un devoir ou une séance, il existe plusieurs moyens :
+    Pour créer un devoir ou une séance, il existe plusieurs moyens :
+    
+    * depuis les boutons en haut à droite
+    * en cliquant directement sur la séance concernée dans le calendrier
+    * en glissant-déposant une séance du bloc progression vers un créneau
+    
+    Chacune de ces actions ouvre une fenêtre permettant de saisir plusieurs informations.
+  
+*   **Créer une séance**
 
-      * depuis les boutons en haut à droite
-      * en cliquant directement sur la séance concernée dans le calendrier
-      * en glissant-déposant une séance du bloc progression vers un créneau
+    ![](<.gitbook/assets/2ajouter\_seance (1).png>)
+    
+    Si l'ajout de séance a été réalisé en cliquant sur un créneau, la classe et la discipline sont préremplies, sinon il faut choisir.
+    
+    Il faut encore compléter :
+    
+    * **Un titre** : par défaut Séance + date du jour
+    * **salle préremplie** avec l'emploi du temps
+    * **type de séances** (ces types sont paramétrés par la vie scolaire)
+    * **date du jour préremplie**
+    * bouton de **publication** : activé par défaut (possible de le désactiver pour rentrer des séances et devoirs en avance sans que les autres profils le voient)
+    * **description** : il s'agit de l'éditeur de texte présent partout sur l'ENT
+    
+    Un bouton **"Ajouter un travail à faire"** permet de poursuivre la saisie d'un travail, d'un devoir.
+  
+*   **Ajouter un travail à faire**
 
-      Chacune de ces actions ouvre une fenêtre permettant de saisir plusieurs informations.
-      
-  *   **Créer une séance**
+    ![](<.gitbook/assets/3ajouter\_travail.png>)
+    
+    Pour cette section, il est possible de saisir un travail :
+    
+    * **pour une échéance** : séance (par défaut celle en cours) ou date
+    * **pour une ou plusieurs classes, groupes**
+    * **pour une discipline spécifique** (si l'enseignant est multidisciplinaire)
+    
+    Il est possible aussi d'ajouter :
+    
+    * un **type de travail** (paramétré par la vie scolaire)
+    * une **durée** estimée
+    
+    Une fois le travail validé, un **tableau récapitulatif apparaît**. ![](<.gitbook/assets/3recap\_travail.png>)
 
-      ![](<.gitbook/assets/2ajouter\_seance (1).png>)
+**La recherche**
 
-      Si l'ajout de séance a été réalisé en cliquant sur un créneau, la classe et la discipline sont préremplies, sinon il faut choisir.
+En tant qu'enseignant il est possible d'afficher les cahiers de textes d'autres enseignants et d'autres classes. Il faut pour cela choisir l'enseignant ou la classe dans **les champs de recherche situés en haut de la page.**
 
-      Il faut encore compléter :
-
-      * **Un titre** : par défaut Séance + date du jour
-      * **salle préremplie** avec l'emploi du temps
-      * **type de séances** (ces types sont paramétrés par la vie scolaire)
-      * **date du jour préremplie**
-      * bouton de **publication** : activé par défaut (possible de le désactiver pour rentrer des séances et devoirs en avance sans que les autres profils le voient)
-      * **description** : il s'agit de l'éditeur de texte présent partout sur l'ENT
-
-      Un bouton **"Ajouter un travail à faire"** permet de poursuivre la saisie d'un travail, d'un devoir.
-      
-  *   **Ajouter un travail à faire**
-
-      ![](<.gitbook/assets/3ajouter\_travail.png>)
-
-      Pour cette section, il est possible de saisir un travail :
-
-      * **pour une échéance** : séance (par défaut celle en cours) ou date
-      * **pour une ou plusieurs classes, groupes**
-      * **pour une discipline spécifique** (si l'enseignant est multidisciplinaire)
-
-      Il est possible aussi d'ajouter :
-
-      * un **type de travail** (paramétré par la vie scolaire)
-      * une **durée** estimée
-
-      Une fois le travail validé, un **tableau récapitulatif apparaît**. ![](<.gitbook/assets/3recap\_travail.png>)
-
-*   **La recherche**
-
-    En tant qu'enseignant il est possible d'afficher les cahiers de textes d'autres enseignants et d'autres classes. Il faut pour cela choisir l'enseignant ou la classe dans **les champs de recherche situés en haut de la page.**
-
-    ![](<.gitbook/assets/1calendaire\_recherche.png>)
+![](<.gitbook/assets/1calendaire\_recherche.png>)
 
 **Liste des cahiers de textes**
 

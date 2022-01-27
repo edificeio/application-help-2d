@@ -98,10 +98,11 @@ Pour personnaliser le niveau de maitrise par cycle, suivez les étapes suivantes
 1.  Cliquez sur le menu **"Niveau de maitrise" (1)**
 
     ![](<.gitbook/assets/2\_01\_niveau1 (1).png>)
+    
 2. Choisir un **cycle (2)** – possibilité d’ajouter **une lettre ou un chiffre (3)** – **modification des couleurs** par défaut en cliquant sur la case **(4)**.
 3. Le bouton **Réinitialiser** permet de revenir à l’état défini par défaut.
 
-![](<.gitbook/assets/2\_02\_niveau2 (1).png>)
+    ![](<.gitbook/assets/2\_02\_niveau2 (1).png>)
 
 Par exemple, modifiez l’affichage des niveaux pour le cycle 4 :
 
@@ -123,23 +124,23 @@ Il est possible de masquer ou d’afficher certains éléments sur le Bilan de f
 
 * **Niveau calculé du BFC par domaines**
 
-  Cliquez sur le menu **« Visibilité du niveau calculé du BFC »**
-
-  ![](<.gitbook/assets/2\_06\_visibilité\_BFC (1).png>)
-
-  Si vous choisissez d'afficher le niveau, vous aurez le résultat suivant :
-
-  ![](<.gitbook/assets/2\_07\_visibiliteBFC3 (1).png>)
+    Cliquez sur le menu **« Visibilité du niveau calculé du BFC »**
+    
+    ![](<.gitbook/assets/2\_06\_visibilité\_BFC (1).png>)
+    
+    Si vous choisissez d'afficher le niveau, vous aurez le résultat suivant :
+    
+    ![](<.gitbook/assets/2\_07\_visibiliteBFC3 (1).png>)
 
 * **Barème DNB**
 
-  Cliquez sur le menu **« Visibilité du barème DNB affiché sur le BFC »** pour choisir d'afficher ou de masquer le barème DNB.
-
-  ![](<.gitbook/assets/2\_08\_visibilité\_DNB (1).png>)
-
-  Si vous choisissez d'afficher le barème, vous aurez le résultat suivant :
-
-  ![](<.gitbook/assets/2\_09\_visibiliteBFC4 (1).png>)
+    Cliquez sur le menu **« Visibilité du barème DNB affiché sur le BFC »** pour choisir d'afficher ou de masquer le barème DNB.
+    
+    ![](<.gitbook/assets/2\_08\_visibilité\_DNB (1).png>)
+    
+    Si vous choisissez d'afficher le barème, vous aurez le résultat suivant :
+    
+    ![](<.gitbook/assets/2\_09\_visibiliteBFC4 (1).png>)
 
 **Items de Compétences**
 
@@ -312,7 +313,9 @@ Il est possible de **définir des périodes ou des jours de fermeture** dans le 
 
 Dans le module Paramétrages de vie scolaire, aller dans **"Paramétrage des périodes d'exclusion"**. Vous pourrez ensuite cliquer sur le bouton **"Ajouter une exclusion"** ce qui vous permettra de définir la période concernée.
 
-![](<.gitbook/assets/3fermeture (1).png>) ![](<.gitbook/assets/3ajouter\_fermeture (1).png>)
+![](<.gitbook/assets/3fermeture (1).png>)
+ 
+![](<.gitbook/assets/3ajouter\_fermeture (1).png>)
 
 **Les périodes scolaires**
 
