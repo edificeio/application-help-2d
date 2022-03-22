@@ -22,6 +22,7 @@
 * [Formulaire](application/formulaire.md)
 * [Forum](application/forum.md)
 * [Frise chronologique](application/timelinegenerator.md)
+* [LOOL](application/lool.md)
 * [Mes applis](application/portal.md)
 * [Mes données](application/archive.md)
 * [Messagerie](application/conversation.md)
