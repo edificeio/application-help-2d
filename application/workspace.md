@@ -8,23 +8,23 @@
 
 ![](<.gitbook/assets/neo-espacedoc.png>)
 
-L’application Espace documentaire d’un utilisateur est composée de 4 sections : _\*\*_
+L’application Espace documentaire d’un utilisateur est composée de 4 sections :
 
-**Documents** **personnels** : cette section comporte les documents que vous avez importés dans l'espace documentaire mais que vous n'avez pas partagés à d'autres utilisateurs. Vous pouvez charger tous types de fichiers depuis votre ordinateur, qu’il s’agisse de documents texte ou PDF, d’images, de vidéos ou d’extraits audio.
+* **Documents personnels** : cette section comporte les documents que vous avez importés dans l'espace documentaire mais que vous n'avez pas partagés à d'autres utilisateurs. Vous pouvez charger tous types de fichiers depuis votre ordinateur, qu’il s’agisse de documents texte ou PDF, d’images, de vidéos ou d’extraits audio.
 
-**Documents partagés** : Vous retrouvez dans ce dossier tous les documents partagés, que d’autres utilisateurs ont partagés avec vous, ou que vous leur avez partagés.
+* **Documents partagés** : Vous retrouvez dans ce dossier tous les documents partagés, que d’autres utilisateurs ont partagés avec vous, ou que vous leur avez partagés.
 
-**Documents ajoutés dans les applis** : Vous retrouverez ici tous les fichiers que vous avez ajouté dans d’autres applis (par exemple image d’un billet de blog).
+* **Documents ajoutés dans les applis** : Vous retrouverez ici tous les fichiers que vous avez ajouté dans d’autres applis (par exemple image d’un billet de blog).
 
-**Corbeille** : Cette section contient tous les documents que vous avez supprimés des autres sections. Les documents présents dans la corbeille sont comptabilisés dans l'espace de stockage utilisé.
+* **Corbeille** : Cette section contient tous les documents que vous avez supprimés des autres sections. Les documents présents dans la corbeille sont comptabilisés dans l'espace de stockage utilisé.
 
 ## Naviguer dans mon Espace Documentaire
 
 Trois types d'affichage de vos documents sont disponibles en haut à droite de l'espace documentaire : un affichage sous forme de vignettes (A), un affichage détaillé ou un carrousel d'images (C) qui permet de faire défiler automatiquement et manuellement les images du dossier sélectionné.
 
-![](<.gitbook/assets/neo-espacedoc\_caroussel2.png>)
+![](<.gitbook/assets/neo-espacedoc_caroussel2.png>)
 
-Pour **accéder au menu d’option** d’un fichier ou d’un dossier, vous devez **cliquer une fois** dessus. Le menu s’affiche ensuite en bas de la page et vous pouvez choisir les actions à effectuer.\
+Pour **accéder au menu d’option** d’un fichier ou d’un dossier, vous devez **cliquer une fois** dessus. Le menu s’affiche ensuite en bas de la page et vous pouvez choisir les actions à effectuer.
 Vous devez cliquer une nouvelle fois sur le fichier ou le dossier pour le désélectionner.
 
 ![](<.gitbook/assets/2d-espace-documentaire-1 (1) (1) (2).png>)
@@ -33,18 +33,18 @@ Pour **visualiser un fichier** sur la visionneuse de l’ENT ou pour **ouvrir un
 
 Depuis la visionneuse de document, vous pouvez accéder à un aperçu du document :
 
-![](<.gitbook/assets/neo-espacedoc\_apercu.png>)
+![](<.gitbook/assets/neo-espacedoc_apercu.png>)
 
 Vous pouvez également sélectionner plusieurs fichiers ou dossiers si vous souhaitez effectuer une action sur tous ces documents simultanément.
 
-**ATTENTION**\
+**ATTENTION**
 Si vous effectuez une action de partage sur plusieurs fichiers ou dossiers alors que l’un de ces fichiers ou dossiers possède déjà un partage, vous supprimerez l’ancien partage effectué sur ce fichier ou dossier.
 
 ## Importer un document
 
 Pour importer un document dans votre espace de stockage personnel ou dans un dossier partagé avec vous (en contribution au minimum), cliquez sur le bouton « Importer » situé en haut de l’interface.
 
-![](<.gitbook/assets/neo-espacedoc\_importer.png>)
+![](<.gitbook/assets/neo-espacedoc_importer.png>)
 
 N.B. : _Le bouton IMPORTER apparait lorsque la section des "Documents personnels" ou celle des "Documents partagés" est sélectionnée. En cas de positionnement sur la section "Documents partagés", une fenêtre de partage s'ouvrira automatiquement suite à l'import de document._
 
@@ -112,11 +112,11 @@ Vous souhaitez récupérer, sur votre poste de travail, un ou plusieurs document
 2. Cliquer sur le bouton TÉLÉCHARGER présent dans le menu du bas qui s'affiche.
 3. Dans l'explorateur de document, choisir l'emplacement d'enregistrement du document ou de l'archive de documents, personnaliser le nom d'enregistrement du fichier puis cliquer sur le bouton Enregistrer.
 
-![](<.gitbook/assets/neo-espacedoc\_telecharger.png>)
+![](<.gitbook/assets/neo-espacedoc_telecharger.png>)
 
 Vous pouvez également télécharger un document ouvert dans la visionneuse de document :
 
-![](<.gitbook/assets/neo-espacedoc\_telechargervisioneuse.png>)
+![](<.gitbook/assets/neo-espacedoc_telechargervisioneuse.png>)
 
 ## Connaître l’espace de stockage disponible
 

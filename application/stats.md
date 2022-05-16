@@ -4,7 +4,7 @@ Devenez un mathématicien en herbes ! Grâce à l’appli **Statistiques** suive
 
 ## Présentation
 
-L’appli Statistiques vous propose de suivre **neuf indicateurs** calculés sur **une période donnée** \(soit sur le mois écoulé, soit depuis les 12 derniers mois en fonction des données disponibles\) :
+L’appli Statistiques vous propose de suivre **neuf indicateurs** calculés sur **une période donnée** (soit sur le mois écoulé, soit depuis les 12 derniers mois en fonction des données disponibles) :
 
 * **Connexions** : calcule le nombre de visites depuis un an. 
 * **Visiteurs uniques** : calcule le nombre d’utilisateurs identifiés comme uniques depuis le début du mois en cours.

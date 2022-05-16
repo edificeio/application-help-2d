@@ -127,7 +127,7 @@ Il est possible de choisir les agendas affichés sur le calendrier en cliquant d
 
 ![](<.gitbook/assets/06\_deselectionner\_agenda (1).png>)
 
-La seconde façon de visualiser les événements est la vue liste accessible par l’icône ![](<.gitbook/assets/06\_icone\_liste (1).png>) disponible en haut du menu latéral de gauche.
+La seconde façon de visualiser les événements est la vue liste accessible par l’icône ![](<.gitbook/assets/06_icone_liste.png>) disponible en haut du menu latéral de gauche.
 
 ![](<.gitbook/assets/06\_vue\_liste.png>)
 

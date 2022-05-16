@@ -14,9 +14,9 @@ Cliquez sur l’avatar en haut à gauche de l'écran.
 
 Vous accédez à votre espace personnel où vous pouvez modifier vos informations : photo, coordonnées, devise, humeur, centres d’intérêt, en cliquant simplement sur le champ à modifier.
 
-![](<.gitbook/assets/2018-10-19\_10h52\_07-2-1 (2) (2).png>)
+![](<.gitbook/assets/2018-10-19_10h52_07-2-1 (2) (2).png>)
 
-![](<.gitbook/assets/2018-10-19\_10h52\_52-2 (2) (1).png>)
+![](<.gitbook/assets/2018-10-19_10h52_52-2 (2) (1).png>)
 
 Les enseignants ont la possibilité de choisir un nom d’affichage personnalisé, visible par les autres utilisateurs. Par défaut, ce nom d’affichage est le prénom et le nom de l’utilisateur.
 
@@ -88,7 +88,7 @@ En cas d’oubli de votre mot de passe, un lien de récupération vous sera envo
 
 Vous pouvez ajouter une devise à votre compte. Pour cela, remplissez le champ « Devise » sous vos coordonnées.
 
-![](<.gitbook/assets/2018-10-19\_10h53\_59-2-1 (1) (1).png>)
+![](<.gitbook/assets/2018-10-19_10h53_59-2-1 (1) (1).png>)
 
 Votre devise sera visible sur votre profil et apparaîtra dans le fil de nouveautés des autres utilisateurs de l’ENT lorsque vous la modifierez. Afin qu'elle soit valide, cliquez sur "Publier" une fois la devise écrite.
 
@@ -120,21 +120,19 @@ Vous avez la possibilité de définir la visibilité de vos informations personn
 
 En un seul clic, vous choisissez l’icône correspondant au niveau de visibilité que vous souhaitez :
 
-* L’icône “Cadenas” signifie que l’information est privée, vous êtes le (la) seul(e) à la voir.
-
-![](<.gitbook/assets/m16-1-1-1-1-1 (1) (1).png>)
+* L’icône “Cadenas” signifie que l’information est privée, vous êtes le (la) seul(e) à la voir. ![](<.gitbook/assets/m16-1-1-1-1-1 (1) (1).png>)
 
 * L’icône “Globe” signifie que l’information est visible des autres utilisateurs de l’ENT, en fonction des droits de communication dont ils disposent.
+![](<.gitbook/assets/m18-1-2-1 (2) (1).png>)
 
-![](<.gitbook/assets/m18-1-2-1 (2) (1).png>)\
 Lorsque vous ajoutez ou modifiez le texte ou les paramètres de visibilité dans votre espace personnel, l’enregistrement est automatique.
 
 ![](<.gitbook/assets/m19-1-2-1-1 (1) (1).png>)
 
 ## Notifications externes
 
-Votre réseau est doté d’un système de notification par mail qui permet aux utilisateurs de recevoir sur leur adresse personnelle des mails contenant les nouveautés de l’ENT qui les concernent.\
-Chaque utilisateur peut modifier les notifications qu’il souhaite recevoir et la fréquence de chacune d’elles (immédiate, quotidienne, hebdomadaire).\
+Votre réseau est doté d’un système de notification par mail qui permet aux utilisateurs de recevoir sur leur adresse personnelle des mails contenant les nouveautés de l’ENT qui les concernent.
+Chaque utilisateur peut modifier les notifications qu’il souhaite recevoir et la fréquence de chacune d’elles (immédiate, quotidienne, hebdomadaire).
 Pour accéder à ce paramétrage, aller dans mon compte et cliquer sur le bouton "Gérer mes notifications externes" :
 
 ![](<.gitbook/assets/notif-ext2-1-1-2 (2) (1).png>)
@@ -149,7 +147,7 @@ Une fois la notification reçue dans sa boîte mail personnelle, l’utilisateur
 
 ## Historique des notifications émises
 
-Vous avez la possibilité de ne pas diffuser une notification aux utilisateurs avec lesquels vous avez des droits de communication ou vous avez partagé du contenu.\
+Vous avez la possibilité de ne pas diffuser une notification aux utilisateurs avec lesquels vous avez des droits de communication ou vous avez partagé du contenu.
 Depuis votre espace "Mon compte", vous retrouverez toutes les notifications que vous avez émis en cliquant sur l’onglet "Historique".
 
 ![](<.gitbook/assets/fil-historique-1-2-1 (2) (7).png>)

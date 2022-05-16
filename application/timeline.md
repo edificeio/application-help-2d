@@ -25,19 +25,19 @@ Pour filtrer les notifications reçues, déplier le menu "Filtrer les nouveauté
 
 Pour accéder à une information ou un contenu qui vous a été partagé, cliquez sur le lien présent dans la nouveauté.
 
-![](<.gitbook/assets/fil\_1.1-1024x133-2-2 (2) (2).png>)
+![](<.gitbook/assets/fil_1.1-1024x133-2-2 (2) (2).png>)
 
 Le contenu s’affiche.
 
-![](<.gitbook/assets/fil\_2-1024x425-1-1 (1) (1) (2).png>)
+![](<.gitbook/assets/fil_2-1024x425-1-1 (1) (1) (2).png>)
 
 Pour accéder au profil de l’utilisateur qui vous a partagé le contenu ou l’information, cliquez sur son identifiant.
 
-![](<.gitbook/assets/fil\_1.2-1024x133-1-2-1-1 (1) (1) (2).png>)
+![](<.gitbook/assets/fil_1.2-1024x133-1-2-1-1 (1) (1) (2).png>)
 
 Le profil de l’utilisateur s’affiche.
 
-![](<.gitbook/assets/fil\_3-1024x454-1-1-1-1 (1) (1) (2).png>)
+![](<.gitbook/assets/fil_3-1024x454-1-1-1-1 (1) (1) (2).png>)
 
 ## Suppression et signalement des notifications
 

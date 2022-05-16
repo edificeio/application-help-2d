@@ -74,7 +74,8 @@ La recherche s’effectue sur des champs spécifiques en fonction du type de res
 
 ## Liste des résultats
 
-Les ressources correspondant aux filtres de recherche sont affichées sous la zone de saisie des mots-clés.\
+Les ressources correspondant aux filtres de recherche sont affichées sous la zone de saisie des mots-clés.
+
 Si aucune ressource ne correspond aux filtres de recherche, un message indique qu’aucun résultat ne correspond à vos critères de recherche (1).
 
 ![](<.gitbook/assets/resultat001-2-1 (1) (1) (2).png>)
@@ -83,7 +84,8 @@ Si toutes les ressources correspondant aux filtres sont affichées, un message e
 
 ![](<.gitbook/assets/resultat002-2-2 (2) (1).png>)
 
-Si un nombre important de ressources correspondent aux filtres un message indique que Tous les résultats ne sont pas affichés. Veuillez utiliser la barre de scroll pour afficher la globalité des résultats de cette recherche.\
+Si un nombre important de ressources correspondent aux filtres un message indique que Tous les résultats ne sont pas affichés. Veuillez utiliser la barre de scroll pour afficher la globalité des résultats de cette recherche.
+
 En faisant glisser la barre de défilement verticale vers le bas, les ressources suivantes sont chargées puis affichées. En atteignant le bas de page, toutes les ressources qui correspondent aux filtres sont affichées et un message indique que « Tous les résultats en correspondance avec vos critères de recherche sont affichés » (1).
 
 ![](<.gitbook/assets/resultat003-2-1 (1) (1).png>)

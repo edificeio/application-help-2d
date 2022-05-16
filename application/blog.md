@@ -57,9 +57,9 @@ Les différents droits que vous pouvez attribuer aux autres utilisateurs sont le
 
 Sur les vignettes de blog, des icônes vous permettent facilement de connaitre vos droit sur les contenus :
 
-* ![](<.gitbook/assets/eye (3) (7).png>) : Consulter
-* ![](<.gitbook/assets/pencil (2) (1) (7).png>) : Contribuer
-* ![](<.gitbook/assets/cog (2) (1) (7).png>) : Gérer
+* ![](<.gitbook/assets/eye.png>) : Consulter
+* ![](<.gitbook/assets/pencil.png>) : Contribuer
+* ![](<.gitbook/assets/cog.png>) : Gérer
 
 De plus, concernant les blogs sur lesquels vous êtes propriétaire, l'icone suivante vous permet de savoir si le contenu a déjà été partagé : ![](<.gitbook/assets/share-1 (1) (1) (11).png>)
 
@@ -97,13 +97,20 @@ Note : Les commentaires qui s'affichent dans l'ENT ne sont pas visible sur la ve
 
 ## Organiser ses blogs
 
-1. Vous disposez de 3 filtres pour afficher vos blogs :&#x20;
-   * **Mes blogs**, pour afficher/masquer les blogs dont vous êtes le propriétaire
-   * **Les blogs partagés avec moi**, pour afficher/masquer les blogs qui vous ont été partagés
-   * **Blogs publics**, pour afficher/masquer les blogs accessibles publiquement
+1. Vous disposez de 3 filtres pour afficher vos blogs :
+
+    * **Mes blogs**, pour afficher/masquer les blogs dont vous êtes le propriétaire
+    
+    * **Les blogs partagés avec moi**, pour afficher/masquer les blogs qui vous ont été partagés
+    
+    * **Blogs publics**, pour afficher/masquer les blogs accessibles publiquement
+    
 2. Une barre de recherche vous permet de trouver rapidement un blog en saisissant son nom.
-3. Afin d'organiser vos blogs, vous disposez de l'arborescence suivante :&#x20;
+
+3. Afin d'organiser vos blogs, vous disposez de l'arborescence suivante :
+
    * **Mes blogs**, qui est le dossier principal, dans lequel vous pourrez créer tous vos sous-dossiers (grâce au bouton **Créer un dossier)**
+   
    * **Corbeille** où vous retrouverez les blogs que vous aurez supprimé, pour éviter toute suppression définitive involontaire
 
 ![](<.gitbook/assets/2019-07-11\_11h35\_16-1 (1) (1).png>)
@@ -156,7 +163,7 @@ Cliquez la case à cocher des billets soumis pour afficher les billets rédigés
 
 ![](<.gitbook/assets/blog\_51-1-1-1 (1) (1).png>)
 
-Vous pouvez réaliser les actions suivantes en cliquant sur « Publier » ou sur l’icône ![](<.gitbook/assets/unnamed-file-2-1-2 (1) (1) (2).png>) :
+Vous pouvez réaliser les actions suivantes en cliquant sur « Publier » ou sur l’icône ![](<.gitbook/assets/blog-bouton-plus.png>) :
 
 * **Publier** le billet sans mise à jour : le billet est alors visible par tous les utilisateurs ayant accès au blog
 * **Modifier** le billet avant publication : vous accédez à l’éditeur de texte pour apporter vos modifications

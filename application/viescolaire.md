@@ -8,7 +8,7 @@ Paramétrer les modules de vie scolaire pour votre établissement.
 
 Dans le menu **Paramétrage année scolaire**, vous définissez les dates de début et de fin de l'année scolaire.
 
-![](<.gitbook/assets/1\_01\_param\_annee (1).png>)
+![](<.gitbook/assets/1_01_param_annee (1).png>)
 
 Il est aussi possible d'effectuer ce paramétrage depuis l'onglet **Emploi Du Temps**.
 
@@ -18,20 +18,21 @@ Pour configurer les périodes par classe, suivez les étapes suivantes :
 
 1.  Cliquez sur le menu « Paramétrage des périodes » (1)
 
-    ![](<.gitbook/assets/1\_02\_periode0 (1).png>)
+    ![](<.gitbook/assets/1_02_periode0 (1).png>)
+
 2.  Rechercher une **classe ou un ensemble de classe (2)**, sélectionner les **classes souhaitées (1)** puis cliquer sur le bouton **Modifier (3)**.
 
-    ![](<.gitbook/assets/1\_03\_période\_évaluation (1).png>)
+    ![](<.gitbook/assets/1_03_période_évaluation (1).png>)
 
 Il est possible de de choisir le type de période : **semestre** ou **trimestre** puis saisir des dates attendues.
 
-![](<.gitbook/assets/1\_04\_période\_évaluation (1).png>)
+![](<.gitbook/assets/1_04_période_évaluation (1).png>)
 
 **Paramétrage des périodes d'exclusions**
 
 Dans le menu **Paramétrage des périodes d'exclusion**, vous définissez les périodes de fermeture de l'établissement (jours fériés) qui doivent être prises en compte dans les différentes applications de vie scolaire.
 
-![](<.gitbook/assets/1\_05\_periode\_exclusion (1).png>)
+![](<.gitbook/assets/1_05_periode_exclusion (1).png>)
 
 Il est aussi possible d'effectuer ce paramétrage depuis l'onglet **Emploi Du Temps**.
 
@@ -41,7 +42,7 @@ Il est aussi possible d'effectuer ce paramétrage depuis l'onglet **Emploi Du Te
 
 Après avoir défini au préalable les plages horaires dans la **console d'administration V2** (voir la section concernant le paramétrage de l'application **Présences**), vous pouvez, ici, sélectionner la grille horaire que vous souhaitez appliquer à votre établissement.
 
-![](<.gitbook/assets/1\_06\_plage\_horaire (1).png>)
+![](<.gitbook/assets/1_06_plage_horaire (1).png>)
 
 **Paramétrage des services**
 
@@ -49,30 +50,30 @@ Dans le menu **Paramétrage des services**, vous retrouvez la liste des services
 
 Les services sont affichés et regroupés par **matière** (1), par **groupes** (2) et par **enseignants** (3) et vous pouvez effectuer une recherche sur ces trois éléments.
 
-![](<.gitbook/assets/1\_07\_liste\_services (1).png>)
+![](<.gitbook/assets/1_07_liste_services (1).png>)
 
 *   **Ajouter un co-enseignant**
 
     Vous pouvez ajouter un co-enseignant sur l'un des services en cliquant sur l'icône correspondant (4).
 
-    ![](<.gitbook/assets/1\_08\_ajout\_co-enseignant (1).png>)
+    ![](<.gitbook/assets/1_08_ajout_co-enseignant (1).png>)
 
     Sélectionnez le co-enseignant (5) et la ou les classes (6) où il intervient.
 
-    ![](<.gitbook/assets/1\_09\_ajout\_co-enseignant2 (1).png>)
+    ![](<.gitbook/assets/1_09_ajout_co-enseignant2 (1).png>)
 
     Après validation, le co-enseignant est ajouté au service sélectionné. Pour le supprimer, cliquez sur la croix à côté du nom du co-enseignant.
 
-    ![](<.gitbook/assets/1\_10\_ajout\_co-enseignant3 (1).png>)
+    ![](<.gitbook/assets/1_10_ajout_co-enseignant3 (1).png>)
 *   **Ajouter un remplaçant**
 
     Vous pouvez ajouter un remplaçant sur l'un des services en cliquant sur l'icône correspondant (7).
 
-    ![](<.gitbook/assets/1\_11\_ajout\_remplaçant (1).png>)
+    ![](<.gitbook/assets/1_11_ajout_remplaçant (1).png>)
 
     Sélectionnez l'enseignant remplaçant (8), la ou les classes où il intervient (9) et ses dates de remplacement (10).
 
-    ![](<.gitbook/assets/1\_12\_ajout\_remplaçant2 (1).png>)
+    ![](<.gitbook/assets/1_12_ajout_remplaçant2 (1).png>)
 
     La **date de fin de saisie** permet à l'enseignant remplaçant de continuer à saisir des notes et des devoirs même après sa période de remplacement.
 
@@ -81,11 +82,11 @@ Les services sont affichés et regroupés par **matière** (1), par **groupes** 
 
     Vous pouvez ajouter une sous-matière en cliquant sur l'icône correspondant (1).
 
-    ![](<.gitbook/assets/1\_13\_ajout\_sous-matière (1).png>)
+    ![](<.gitbook/assets/1_13_ajout_sous-matière (1).png>)
 
     Sélectionnez la sous-matière que vous souhaitez ajouter (2) ou créez-en une nouvelle (3). La matière concernée est déjà sélectionnée (4) et vous pouvez en ajouter de nouvelles si besoin (5).
 
-    ![](<.gitbook/assets/1\_14\_ajout\_sous-matière2 (1).png>)
+    ![](<.gitbook/assets/1_14_ajout_sous-matière2 (1).png>)
 
     Après validation, la sous-matière est ajoutée. Si des évaluations étaient rattachées à la matière, elles seront automatiquement rattachées à la sous-matière créée.
 
@@ -97,26 +98,26 @@ Pour personnaliser le niveau de maitrise par cycle, suivez les étapes suivantes
 
 1.  Cliquez sur le menu **"Niveau de maitrise" (1)**
 
-    ![](<.gitbook/assets/2\_01\_niveau1 (1).png>)
+    ![](<.gitbook/assets/2_01_niveau1 (1).png>)
     
 2. Choisir un **cycle (2)** – possibilité d’ajouter **une lettre ou un chiffre (3)** – **modification des couleurs** par défaut en cliquant sur la case **(4)**.
 3. Le bouton **Réinitialiser** permet de revenir à l’état défini par défaut.
 
-    ![](<.gitbook/assets/2\_02\_niveau2 (1).png>)
+    ![](<.gitbook/assets/2_02_niveau2 (1).png>)
 
 Par exemple, modifiez l’affichage des niveaux pour le cycle 4 :
 
-![](<.gitbook/assets/2\_03\_niveau3 (1).png>)
+![](<.gitbook/assets/2_03_niveau3 (1).png>)
 
 La modification sera appliquée pour tous les utilisateurs de l'établissement.
 
 **AVANT** modification :
 
-![](<.gitbook/assets/2\_04\_niveau4 (1).png>)
+![](<.gitbook/assets/2_04_niveau4 (1).png>)
 
 **APRÈS** modification :
 
-![](<.gitbook/assets/2\_05\_niveau5 (1).png>)
+![](<.gitbook/assets/2_05_niveau5 (1).png>)
 
 **Visibilité sur le BFC**
 
@@ -126,27 +127,27 @@ Il est possible de masquer ou d’afficher certains éléments sur le Bilan de f
 
     Cliquez sur le menu **« Visibilité du niveau calculé du BFC »**
     
-    ![](<.gitbook/assets/2\_06\_visibilité\_BFC (1).png>)
+    ![](<.gitbook/assets/2_06_visibilité_BFC (1).png>)
     
     Si vous choisissez d'afficher le niveau, vous aurez le résultat suivant :
     
-    ![](<.gitbook/assets/2\_07\_visibiliteBFC3 (1).png>)
+    ![](<.gitbook/assets/2_07_visibiliteBFC3 (1).png>)
 
 * **Barème DNB**
 
     Cliquez sur le menu **« Visibilité du barème DNB affiché sur le BFC »** pour choisir d'afficher ou de masquer le barème DNB.
     
-    ![](<.gitbook/assets/2\_08\_visibilité\_DNB (1).png>)
+    ![](<.gitbook/assets/2_08_visibilité_DNB (1).png>)
     
     Si vous choisissez d'afficher le barème, vous aurez le résultat suivant :
     
-    ![](<.gitbook/assets/2\_09\_visibiliteBFC4 (1).png>)
+    ![](<.gitbook/assets/2_09_visibiliteBFC4 (1).png>)
 
 **Items de Compétences**
 
 Pour mettre à jour le référentiel de compétences, cliquez sur le menu **« Items de compétences » (1)**
 
-![](<.gitbook/assets/2\_10\_ref\_comp (1).png>)
+![](<.gitbook/assets/2_10_ref_comp (1).png>)
 
 Les items de compétences sont affichés **par cycle et par enseignement ou domaine (2)** – possibilité d’effectuer une recherche d’un item en particulier.
 
@@ -158,11 +159,13 @@ Pour chaque item, vous pouvez (4) :
 * **le modifier** : modification du libellé uniquement
 * **afficher les domaines rattachés (5)**
 
-Enfin, il est tout à fait possible de **créer un nouvel item** de compétence dans un élément signifiant **(6)** : ![](<.gitbook/assets/2\_11\_ref\_comp2 (1).png>)
+Enfin, il est tout à fait possible de **créer un nouvel item** de compétence dans un élément signifiant **(6)** : 
+
+![](<.gitbook/assets/2_11_ref_comp2 (1).png>)
 
 **Saisir un libellé et choisir un ou plusieurs domaines rattachés (7)** – ce nouvel item apparaitra dans le module Compétences.
 
-![](<.gitbook/assets/2\_12\_ref\_comp3 (1).png>)
+![](<.gitbook/assets/2_12_ref_comp3 (1).png>)
 
 NB : Le bouton **Réinitialiser** permet de revenir à l’état initial du référentiel de compétences du socle.
 
@@ -172,23 +175,23 @@ Pour rattacher une classe ou un groupe à un cycle, suivez les étapes suivantes
 
 Cliquez sur le menu **« Rattachement des cycles »**
 
-![](<.gitbook/assets/2\_13\_ratt\_cycle0 (1).png>)
+![](<.gitbook/assets/2_13_ratt_cycle0 (1).png>)
 
 Recherchez une ou plusieurs classes ou groupes (2) – filtre possible par classe, groupes d’enseignement ou groupes manuels (3) – sélectionner les classes ou groupes à paramétrer puis cliquer sur Modifier (4) afin de les rattacher soit au cycle 3 soit au cycle 4 :
 
-![](<.gitbook/assets/2\_14\_ratt\_cycle (1).png>)
+![](<.gitbook/assets/2_14_ratt_cycle (1).png>)
 
 **Projets éducatifs** Pour paramétrer les projets éducatifs, cliquer sur le menu **« Projets éducatifs » (1)** :
 
-![](<.gitbook/assets/2\_15\_BP1 (1).png>)
+![](<.gitbook/assets/2_15_BP1 (1).png>)
 
 Les différents **projets éducatifs** sont affichés par onglet (EPI, AP ou Parcours) (2). La liste présente les EPI déjà paramétrés sur l’établissement (3), la sélection d’une ligne permet de modifier ou supprimer un projet.
 
-![](<.gitbook/assets/2\_16\_BP2 (1).png>)
+![](<.gitbook/assets/2_16_BP2 (1).png>)
 
 Cliquez sur **« Créer EPI » (4)** :
 
-![](<.gitbook/assets/2\_17\_BP3 (1).png>)
+![](<.gitbook/assets/2_17_BP3 (1).png>)
 
 Choisissez un thème prédéfini (5) ou créez un nouveau pour votre établissement (6).
 
@@ -200,21 +203,21 @@ Cliquer sur **Ajouter** pour créer l’EPI. Celui-ci apparaitra dans la liste d
 
 La liste des services est affichée et organisée de la même manière que sur la page **paramétrage des services** : les services avec une même matière et un même enseignant sont regroupés ensemble pour l'affichage. Sur cette page, vous pouvez modifier le coefficient des services, les modalités, et si le service est évaluable. Pour un service avec plusieurs enseignants (co-enseignants ou remplaçants), vous pouvez aussi choisir la visibilité des intervenants.
 
-![](<.gitbook/assets/2\_18\_modalites\_services (1).png>)
+![](<.gitbook/assets/2_18_modalites_services (1).png>)
 
 *   **Modification du coefficient et des modalités d'un service**
 
     Pour changer le coefficient d'un service, changez la valeur de la colonne **coefficient** (1). Pour en modifier la modalité, changez la valeur de la colonne **modalité** (2) et pour le rendre évaluable ou non, cochez ou décochez la case de la colonne **évaluable** (3).
 
-    ![](<.gitbook/assets/2\_19\_modalites\_services2 (1).png>)
+    ![](<.gitbook/assets/2_19_modalites_services2 (1).png>)
 
     Si vous changez les modalités ou coefficient d'une ligne ou plusieurs services sont regroupés, les modifications seront appliquées pour tous les services de la ligne. Pour effectuer des modifications propres à chaque service, cliquez sur l'icône de paramétrage (4).
 
-    ![](<.gitbook/assets/2\_20\_modalites\_services3 (1).png>)
+    ![](<.gitbook/assets/2_20_modalites_services3 (1).png>)
 
     Une fenêtre s'ouvre et vous permet de choisir le coefficient, la modalité et si le service est évaluable pour chaque service.
 
-    ![](<.gitbook/assets/2\_21\_modalites\_services4 (1).png>)
+    ![](<.gitbook/assets/2_21_modalites_services4 (1).png>)
 
     Après enregistrement, les modifications sont appliquées aux services concernés.
 
@@ -228,36 +231,36 @@ La liste des services est affichée et organisée de la même manière que sur l
     * X : mesure spécifique
 *   **Modification de la visibilité d'un enseignant**
 
-    ![](<.gitbook/assets/2\_22\_modalites\_services5 (1).png>)
+    ![](<.gitbook/assets/2_22_modalites_services5 (1).png>)
 
-    Lorsqu'un service est rattaché à plusieurs enseignants (co-enseignants ou remplaçants), il est possible de masquer un ou plusieurs des ces intervenants en cliquant sur l'icône ![](<.gitbook/assets/2\_23\_modalites\_services6 (1).png>) L'intervenant masqué ne sera alors plus affiché sur les différentes pages et exports du module **Compétences**, notamment dans l'onglet **conseil de classe** et sur le **bulletin**.
+    Lorsqu'un service est rattaché à plusieurs enseignants (co-enseignants ou remplaçants), il est possible de masquer un ou plusieurs des ces intervenants en cliquant sur l'icône ![](<.gitbook/assets/2_23_modalites_services6 (1).png>) L'intervenant masqué ne sera alors plus affiché sur les différentes pages et exports du module **Compétences**, notamment dans l'onglet **conseil de classe** et sur le **bulletin**.
 *   **Modification des libellés des matières**
 
     Vous pouvez modifier les **libellés des matières** qui seront affichés sur le bulletin. Vous pouvez rechercher un modèle déjà créé (1) ou le modifier (2). Pour créer un nouveau modèle, cliquer sur **créer un modèle** (3).
 
-    ![](<.gitbook/assets/2\_24\_modif\_libelle (1).png>)
+    ![](<.gitbook/assets/2_24_modif_libelle (1).png>)
 
     Nommez votre modèle (4), modifiez les libellés que vous souhaitez modifier (5) puis validez.
 
-    ![](<.gitbook/assets/2\_25\_modif\_libelle2 (1).png>)
+    ![](<.gitbook/assets/2_25_modif_libelle2 (1).png>)
 
     Pour utiliser ces libellés sur les **bulletins**, lors de la génération, cochez **utiliser un modèle de libellé de matières** (6).
 
-    ![](<.gitbook/assets/2\_26\_modif\_libelle3 (1).png>)
+    ![](<.gitbook/assets/2_26_modif_libelle3 (1).png>)
 
     Sélectionnez le modèle que vous souhaitez utiliser (7).
 
-    ![](<.gitbook/assets/2\_27\_modif\_libelle4 (1).png>)
+    ![](<.gitbook/assets/2_27_modif_libelle4 (1).png>)
 
 **Imports retards et absences**
 
 Vous pouvez importer dans l'application les **retards et les absences** des élèves. Si l'application **Présences** est activée, vous pouvez directement récupérer les informations depuis le module (1). Sinon, vous pouvez importer vous-même le fichier contenant les informations (2).
 
-![](<.gitbook/assets/2\_28\_absences (1).png>)
+![](<.gitbook/assets/2_28_absences (1).png>)
 
 **Avis du conseil de classe** Vous pouvez personnaliser les **avis du conseil de classe** et d'**orientation** des élèves. Vous pouvez en **créer un nouveau** (1), **modifier** un avis que vous avez créé (2), le **masquer** (3) ou le **supprimer** (4).
 
-![](<.gitbook/assets/2\_29\_avis\_conseil\_classe (1).png>)
+![](<.gitbook/assets/2_29_avis_conseil_classe (1).png>)
 
 Les avis peuvent aussi être créés directement depuis l'onglet **Conseil de classe** du module **Compétences**.
 
@@ -265,13 +268,13 @@ Les avis peuvent aussi être créés directement depuis l'onglet **Conseil de cl
 
 Vous pouvez ici modifier ou ajouter des **éléments du programme travaillé** aux sous-domaines pour ensuite les utilisés lors de la saisie dans le **relevé périodique**. Après avoir sélectionné le cycle et le domaine (1), vous pouvez ajouter un élément au sous-domaine (2), modifier un élément ajouté (3) ou le supprimer (4).
 
-![](<.gitbook/assets/2\_30\_ajout\_element (1).png>)
+![](<.gitbook/assets/2_30_ajout_element (1).png>)
 
 **Organiser les matières**
 
 Vous pouvez choisir d'organiser l'**ordre d'affichage des matières** sur les écrans et exports du module compétences. Vous pouvez déplacer les matières en les **glissant-déposant** (1) dans l'ordre voulu ou en cliquant sur les **flèches** pour les déplacer (2). Le bouton **Réinitialiser** (3) permet de les remettre dans l'ordre alphabétique (ordre par défaut).
 
-![](<.gitbook/assets/2\_31\_organiser\_matiere (1).png>)
+![](<.gitbook/assets/2_31_organiser_matiere (1).png>)
 
 ## Présences
 
@@ -293,19 +296,21 @@ _**Le module Présences ne peut fonctionner correctement sans une définition de
 
 Pour définir ces créneaux, aller dans la **console d'administration V2 avec le rôle Administrateur local**, puis aller dans **Etablissement** et enfin **Grilles horaires**.
 
-![](<.gitbook/assets/3grilles\_horaires (1).png>)
+![](<.gitbook/assets/3grilles_horaires (1).png>)
 
 Si une grille horaire est déjà créée, vous pouvez vérifier que les créneaux définis sont les bons.
 
 Pour créer une grille horaire, **cliquer sur "Créer une grille"** puis **définir les créneaux dessous** en cliquant sur **"Ajouter un créneau"**.
 
-![](<.gitbook/assets/3creneaux\_horaires (1).png>)
+![](<.gitbook/assets/3creneaux_horaires (1).png>)
 
 **ATTENTION, cette partie est très importante** : Vous devez **absolument saisir ici les créneaux déclarés dans le logiciel d'emploi du temps**. Cela est important pour de nombreuses fonctionnalités du module Présences. Par ailleurs, les appels sont créés sur la base de ces créneaux, notamment les appels multiples qui se scindent en fonction de ces horaires. De ce fait, **il ne faut absolument pas définir les récréations comme des créneaux** sinon des appels seront créés pour les récréations si un cours se situe de part et d'autre de la pause. Pour information, il est possible de créer différentes grilles horaires : une pour le module réservation de ressources et agenda et une autre pour la vie scolaire.
 
 Une fois vos créneaux définis, retourner dans Mes Applis dans l'ENT et sélectionner le module **Paramétrages Vie Scolaire.** ![](<.gitbook/assets/uni-parametres (34).png>)
 
-Puis dans **l'onglet "Etablissement"**, choisir **Plage Horaire** et là dans le menu déroulant, **sélectionner la grille horaire** que vous venez de créer. ![](<.gitbook/assets/3plage\_horaire (1).png>)
+Puis dans **l'onglet "Etablissement"**, choisir **Plage Horaire** et là dans le menu déroulant, **sélectionner la grille horaire** que vous venez de créer. 
+
+![](<.gitbook/assets/3plage_horaire (1).png>)
 
 **Les périodes de fermeture**
 
@@ -315,7 +320,7 @@ Dans le module Paramétrages de vie scolaire, aller dans **"Paramétrage des pé
 
 ![](<.gitbook/assets/3fermeture (1).png>)
  
-![](<.gitbook/assets/3ajouter\_fermeture (1).png>)
+![](<.gitbook/assets/3ajouter_fermeture (1).png>)
 
 **Les périodes scolaires**
 
@@ -325,7 +330,7 @@ Il est important que les périodes scolaires (trimestres ou semestres) soient bi
 
 Cela se fait dans la **console d'administration V2** au niveau du menu **Gestion de l'établissement** puis dans l'onglet **"Emploi du temps"**.
 
-![](<.gitbook/assets/3emploi\_du\_temps (1).png>)
+![](<.gitbook/assets/3emploi_du_temps (1).png>)
 
 Avant d'importer l'emploi du temps, vous devez définir la façon dont seront importés vos groupes d'enseignement :
 
@@ -334,15 +339,15 @@ Avant d'importer l'emploi du temps, vous devez définir la façon dont seront im
 * EDT
 * UDT
 
-![](<.gitbook/assets/3alimentation\_groupe (1).png>)
+![](<.gitbook/assets/3alimentation_groupe (1).png>)
 
 Vous pouvez ensuite choisir **d'importer uniquement l'emploi du temps ou de faire une mise à jour de l'emploi du temps et des groupes d'enseignement**. Cela est utile si votre méthode d'alimentation des groupes est l'annuaire académique, mais que votre emploi du temps provient d'UDT. Vous pourrez ainsi **importer l'emploi du temps sans écraser le contenu des groupes d'enseignement**.
 
-![](<.gitbook/assets/3import\_edt (1).png>)
+![](<.gitbook/assets/3import_edt (1).png>)
 
 Vous pouvez ensuite **charger votre archive .zip et cliquer sur "importer"**. Un **rapport sera alors disponible** en haut de la page.
 
-![](<.gitbook/assets/3rapport\_chargement (1).png>)
+![](<.gitbook/assets/3rapport_chargement (1).png>)
 
 **Nous rappelons ici qu'il est important que les créneaux horaires définis précédemment correspondent bien aux créneaux horaires des cours importés.**
 
@@ -356,11 +361,11 @@ Dans le module de Paramétrage Vie Scolaire, passer à **l'onglet Présences.**
 
 Dans un premier temps, **activer le module** si ce n'est pas déjà fait.
 
-Si vous le souhaitez, un **bouton d'initialisation** vous permet de remplir tous les paramètres avec des valeurs par défaut que vous pourrez ensuite modifier. Ce bouton n'est valable qu'une fois. ![](<.gitbook/assets/3-01initialisation\_parametres (1).png>)
+Si vous le souhaitez, un **bouton d'initialisation** vous permet de remplir tous les paramètres avec des valeurs par défaut que vous pourrez ensuite modifier. Ce bouton n'est valable qu'une fois. ![](<.gitbook/assets/3-01initialisation_parametres (1).png>)
 
 Le **menu de tous les paramètres disponibles** sur cette page est cliquable pour vous amener plus rapidement à la partie de votre choix.
 
-![](<.gitbook/assets/3-02menu\_parametres (1).png>)
+![](<.gitbook/assets/3-02menu_parametres (1).png>)
 
 **Motifs d'absences individuelles**
 
@@ -382,7 +387,7 @@ Une fois qu'ils sont définis, vous pouvez :
 * les **supprimer s'ils n'ont jamais été utilisés (5)**
 * les **cacher s'ils ont déjà utilisés (6)** : ils n'apparaîtront plus dans les menus déroulants, mais comme ils ont déjà été positionnés sur des événements nous devons en conserver une trace.
 
-![](<.gitbook/assets/3-03absences\_individuelles (1).png>)
+![](<.gitbook/assets/3-03absences_individuelles (1).png>)
 
 **Attention, si vous modifiez un motif, l'intitulé sera modifié pour toutes les occurrences existantes**. Priviligiez donc la création d'un nouveau motif à la modification d'un ancien motif en nouveau.
 
@@ -442,20 +447,25 @@ Les punitions et les sanctions donnent lieu à des formulaires différenciés en
 
     Il s'agit du formulaire le plus simple. Vous **n'avez qu'un menu déroulant** avec le type de punition ou de sanction à donner .
 
-    ![](<.gitbook/assets/3-10categorie\_blame (1).png>)
+    ![](<.gitbook/assets/3-10categorie_blame (1).png>)
+    
 *   **Le formulaire type Exclusion**
 
     Celui-ci propose en plus **une période sur laquelle la punition ou la sanction va être appliquée**.
 
-    ![](<.gitbook/assets/3-11categorie\_exclusion (1).png>)
+    ![](<.gitbook/assets/3-11categorie_exclusion (1).png>)
+    
 *   **Le formulaire type Devoir supplémentaire**
 
-    Il est possible ici d'ajouter une consigne de devoir. ![](<.gitbook/assets/3-12categorie\_devoir (1).png>)
+    Il est possible ici d'ajouter une consigne de devoir. 
+    
+    ![](<.gitbook/assets/3-12categorie_devoir (1).png>)
+    
 *   **Le formulaire type Retenue**
 
     Ce formulaire permet de sélectionner **une date et des créneaux horaires pour la retenue ainsi qu'un lieu**.
 
-    ![](<.gitbook/assets/3-13categorie\_retenue (1).png>)
+    ![](<.gitbook/assets/3-13categorie_retenue (1).png>)
 
     Une fois que vous avez sélectionné la catégorie, vous pouvez alors **choisir si le type que vous définissez est une punition ou une sanction**. Si c'est une sanction, **seuls les membres du groupe Admin-VieScolaire pourront y accéder.**
 
@@ -469,23 +479,23 @@ Dans cette section, il est possible de rédiger les modèles de messages à envo
 
     Afin de définir un premier modèle de mail, **indiquer son titre**, puis dans le corps du message, **saisir le contenu du mail à envoyer**. Afin qu'il soit générique, des **codes existent** à droite qui seront remplacés lors du publipostage par les valeurs correspondantes à chaque élève. **Au clic sur le code, il est possible de le copier** pour ensuite le coller dans l'éditeur à l'aide du **raccourci de touches CTRL+V**.
 
-    ![](<.gitbook/assets/3-07publipostage\_mail (1).png>)
+    ![](<.gitbook/assets/3-07publipostage_mail (1).png>)
 
     Le récapitulatif, sous forme de tableau, présente la totalité des événements que vous souhaitez publiposter sur la période que vous avez sélectionnée.
 
     Voici un exemple de rendu de mail :
 
-    ![](<.gitbook/assets/3-09publipostage\_mail\_result (1).png>)
+    ![](<.gitbook/assets/3-09publipostage_mail_result (1).png>)
 
     La liste des modèles que vous avez renseignés se trouve en dessous. Il suffit de cliquer sur un modèle pour que le texte s'affiche dans l'éditeur et que vous puissiez le modifier.
 
-    ![](<.gitbook/assets/3-08publipostage\_mail\_liste (1).png>)
+    ![](<.gitbook/assets/3-08publipostage_mail_liste (1).png>)
 *   **Publipostage SMS**
 
     Le concept est le même pour les SMS, mais les contraintes sont plus importantes.
 
     * Le **nombre maximum de caractères pour un SMS est de 160 caractères**. De ce fait, le module coupera les SMS qui dépassent cette taille. Prendre en compte, donc, les noms longs en rédigeant un modèle court.
-    * Le **récapitulatif est remplacé par \[DATE DERNIERE ABSENCE] et \[DATE DERNIER RETARD]**. Il ne sera donc pas possible de publiposter le détail des événements sur plusieurs jours, par SMS.
+    * Le **récapitulatif est remplacé par [DATE DERNIERE ABSENCE] et [DATE DERNIER RETARD]**. Il ne sera donc pas possible de publiposter le détail des événements sur plusieurs jours, par SMS.
 
     Le mode de fonctionnement est identique au publipostage par mail. La liste des modèles se trouve en dessous de l'éditeur de texte, il est possible de modifier un modèle en cliquant dessus.
 *   **Comptage des événements**
@@ -507,14 +517,14 @@ Le paramétrage Cahier de texte est simple et consiste à définir des valeurs p
 
 Il faut tout d'abord commencer par l'initialisation des données en cliquant sur le **bouton "lancer l'initialisation"**.
 
-![](<.gitbook/assets/4initialisation\_cdt (1).png>)
+![](<.gitbook/assets/4initialisation_cdt (1).png>)
 
 Vous pourrez ensuite modifier ces données à partir des entrées de menu :
 
 * Types de travail à faire
 * Types de séances
 
-![](<.gitbook/assets/4modification\_cdt (1).png>)
+![](<.gitbook/assets/4modification_cdt (1).png>)
 
 ## Emploi du temps
 
@@ -529,4 +539,4 @@ Il est aussi possible d'y importer des emplois du temps au format STS depuis l'o
 * le fichier STS-EMP
 * le fichier EMP-STS
 
-![](<.gitbook/assets/5import\_sts (1).png>)
+![](<.gitbook/assets/5import_sts (1).png>)

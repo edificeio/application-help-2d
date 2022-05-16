@@ -30,7 +30,7 @@ Pour créer une séance, l’enseignant a plusieurs possibilités :
 
 -   Créer une séance sur un nouveau créneau en cliquant sur le bouton « Créer une séance » en haut à droite (3).
 
-**![](.gitbook/assets/9cdf3620c51b14f2b7c2647c67a9e214.png)**
+![](.gitbook/assets/9cdf3620c51b14f2b7c2647c67a9e214.png)
 
 Chacune de ces actions ouvre une fenêtre permettant de saisir plusieurs informations.
 

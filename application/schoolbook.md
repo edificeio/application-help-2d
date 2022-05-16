@@ -26,7 +26,7 @@ Dans la fenêtre "Destinataires", vous pouvez choisir à qui distribuer le mot.
 
 ![](<.gitbook/assets/schoolbook-image4.png>)
 
-Un message vous indique que **les destinataires seront des élèves ou des groupes d'élèves uniquement**. **Le mot sera envoyé aux responsables des élèves en question. Les élèves auront un droit de lecture sur le mot (1).** Effectuez votre recherche (2) et sélectionnez les élèves avec lesquels vous souhaitez partager le mot. Les groupes et utilisateurs ajoutés apparaissent sous la barre de recherche (3). Il vous est possible de consulter la fiche d'un utilisateur sélectionné dans la liste des utilisateurs ajoutés en cliquant sur son nom (4). Le message sera transmis aux responsables de ces élèves. Vous pouvez cocher sur la croix pour les supprimer de votre sélection. Cliquez sur "Suivant" pour valider (5).
+Un message vous indique que **les destinataires seront des élèves ou des groupes d'élèves uniquement**. **Le mot sera envoyé Aaux responsables des élèves en question. Les élèves auront un droit de lecture sur le mot (1).** Effectuez votre recherche (2) et sélectionnez les élèves avec lesquels vous souhaitez partager le mot. Les groupes et utilisateurs ajoutés apparaissent sous la barre de recherche (3). Il vous est possible de consulter la fiche d'un utilisateur sélectionné dans la liste des utilisateurs ajoutés en cliquant sur son nom (4). Le message sera transmis aux responsables de ces élèves. Vous pouvez cocher sur la croix pour les supprimer de votre sélection. Cliquez sur "Suivant" pour valider (5).
 
 **Il ne vous restera plus qu'à définir les paramètres du mot :**
 
@@ -44,9 +44,13 @@ Le mot est envoyé, les parents et leurs enfants recevront une notification sur 
 
 ## Vue Enseignant - Accédez au suivi du mot
 
-![](<.gitbook/assets/schoolbook-image7.png>)L'enseignant accède au suivi des accusés de lecture et éventuellement des réponses en cliquant sur le bouton « Accéder au suivi » du mot en question.
+![](<.gitbook/assets/schoolbook-image7.png>)
 
-![](<.gitbook/assets/schoolbook-image8.png>)La fenêtre « Suivi du mot » s'ouvre avec deux colonnes :
+L'enseignant accède au suivi des accusés de lecture et éventuellement des réponses en cliquant sur le bouton « Accéder au suivi » du mot en question.
+
+![](<.gitbook/assets/schoolbook-image8.png>)
+
+La fenêtre « Suivi du mot » s'ouvre avec deux colonnes :
 
 *   La colonne de gauche (1) indique les élèves pour lesquels les responsables ont lu le mot. Une indication au dessus de la colonne informe du nombre de lu sur le total des destinataires (2).
 *   La colonne de droite (3) indique les utilisateurs qui ont répondu au mot.
@@ -57,7 +61,9 @@ En cliquant sur l'onglet « Réponse » en haut de la colonne (1), vous pouvez c
 
 ![](<.gitbook/assets/schoolbook-image9.png>)
 
-![](<.gitbook/assets/schoolbook-image10.png>)Si un parent modifie sa réponse après l'avoir envoyée, l'enseignant est informé par une notification sur son fil de nouveautés.
+![](<.gitbook/assets/schoolbook-image10.png>)
+
+Si un parent modifie sa réponse après l'avoir envoyée, l'enseignant est informé par une notification sur son fil de nouveautés.
 
 ## Vue Enseignant - Corrigez, imprimez ou supprimez un mot
 

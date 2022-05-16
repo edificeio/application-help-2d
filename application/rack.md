@@ -6,20 +6,20 @@ Un devoir à rendre ? Rien de plus simple, grâce à l’appli **Casier**, dépo
 
 Pour accéder à l’appli Casier, cliquez sur l’icône correspondante dans la page « Mes applis ».
 
-![](<.gitbook/assets/2018-08-23\_17h28\_06-1-1 (1) (1).png>)
+![](<.gitbook/assets/2018-08-23_17h28_06-1-1.png>)
 
 Le casier est composé de 3 dossiers :
 
-![](<.gitbook/assets/image (65).png>)
+![](<.gitbook/assets/casier1.png>)
 
 Le dossier « **Mon casier** » contient les documents envoyés dans mon casier.\
 Le dossier « **Mes Dépôts** » contient les documents déposés par l’utilisateur dans le casier d’autres utilisateurs. Pour chaque document reçu, le titre du document (1), l’identifiant du destinataire (2) ainsi que la date et l’heure d’envoi (3) sont précisés.
 
-![](<.gitbook/assets/image (57) (1).png>)
+![](<.gitbook/assets/casier2.png>)
 
 Les documents supprimés sont disponibles dans le dossier « **Corbeille** » avant suppression définitive (1) ou bien restauration (2).
 
-![](<.gitbook/assets/image (60).png>)
+![](<.gitbook/assets/casier3.png>)
 
 {% hint style="info" %}
 Lorsqu’un document a été déposé dans un casier, il n’est **pas possible de le modifier, ni de le supprimer a posteriori**. Il est néanmoins possible de faire un second envoi avec une nouvelle version du document.

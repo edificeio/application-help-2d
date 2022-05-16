@@ -6,7 +6,7 @@ Montez une encyclopédie sur la notion vue en cours ! Grâce à l’appli **Wiki
 
 Un wiki permet de **créer et publier des contenus (texte, images…) dans différentes pages liées entre elles**. La page d’accueil du wiki est souvent utilisée comme un index référençant l’ensemble des pages créées dans le wiki.
 
-![](<.gitbook/assets/wiki\_presentation1-2-1 (1) (1) (2).png>)
+![](<.gitbook/assets/wiki_presentation1-2-1 (1) (1) (2).png>)
 
 ## Créer un Wiki
 

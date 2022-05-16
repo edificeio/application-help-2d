@@ -15,11 +15,11 @@ Dans la fenêtre d’édition de site, renseigner les informations suivantes :�
 3. l'UAI de l'établissement à choisir si votre compte est rattaché à plusieurs établissements
 4. L’url personnalisée de ce site, sans accent, caractères spéciaux et sans espaces
 
-![](<.gitbook/assets/neo-formcrea1.png>)
+    ![](<.gitbook/assets/neo-formcrea1.png>)
 
 5. Choisissez un modèle de site parmi plusieurs maquettes.‌
 
-![](<.gitbook/assets/neo-formcrea3.png>)
+    ![](<.gitbook/assets/neo-formcrea3.png>)
 
 6. Cliquer sur le bouton Enregistrer pour valider et lancer la création de votre site web‌
 

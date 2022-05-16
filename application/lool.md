@@ -8,6 +8,7 @@ enregistrez-les directement dans votre espace documentaire.
 
 Outil de bureautique vous permet de créer vos documents et de les enregistrer
 dans le dossier de votre choix, dans votre espace documentaire.
+
 ![](.gitbook/assets/00_presentation.png)
 
 ## Créer un document

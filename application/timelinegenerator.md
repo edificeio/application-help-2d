@@ -25,7 +25,7 @@ Suivez les étapes suivantes :
 * Renseignez le descriptif de la frise
 * Cliquez sur « Enregistrer »
 
-![](<.gitbook/assets/frise\_1-2-1-1 (2) (1).png>)
+![](<.gitbook/assets/frise_1-2-1-1 (2) (1).png>)
 
 ## Partager une frise chronologique
 
@@ -88,15 +88,15 @@ Vous devez ensuite renseigner les caractéristiques de votre contenu pour expliq
 * Âge des élèves : Quel est la tranche d’âge des élèves concernés par l’activité ?&#x20;
 * Mots-clés : Quels sont les mots-clés qui caractérisent le mieux votre activité ?&#x20;
 
-![](<.gitbook/assets/2020-05-20\_16h49\_44.png>)
+![](<.gitbook/assets/2020-05-20_16h49_44.png>)
 
 Lorsque votre frise chronologique est publiée, vous pouvez la visualiser en cliquant sur “Voir dans la Bibliothèque”.
 
-![](<.gitbook/assets/2020-05-20\_16h50\_53.png>)
+![](<.gitbook/assets/2020-05-20_16h50_53.png>)
 
 Vous aurez ensuite la possibilité de modifier les champs saisis ou de supprimer la publication de votre frise chronologique en cliquant sur “Modifier” depuis la page de votre activité.
 
-![](<.gitbook/assets/2020-05-20\_16h51\_05.png>)
+![](<.gitbook/assets/2020-05-20_16h51_05.png>)
 
 ## Organiser ses frises chronologiques
 
@@ -110,7 +110,7 @@ Vous avez à votre disposition différents outils pour trier les frises auxquell
    * **Mes frises**, qui est le dossier principal, dans lequel vous pourrez créer tous vos sous-dossiers (grâce au bouton **Créer un dossier)**
    * **Corbeille** où vous retrouverez les frises que vous aurez supprimées, pour éviter toute suppression définitive involontaire
 
-![](<.gitbook/assets/2019-07-11\_12h02\_57-1 (2) (1).png>)
+![](<.gitbook/assets/2019-07-11_12h02_57-1 (2) (1).png>)
 
 Après avoir créé vos différents dossiers, sélectionnez (1) la ou les frises que vous voulez mettre dans vos dossiers, puis cliquez sur le bouton "Déplacer" (2).
 
@@ -118,7 +118,7 @@ Après avoir créé vos différents dossiers, sélectionnez (1) la ou les frises
 
 Une fenêtre s'ouvrira, vous permettant de déplacer la frise sélectionnée dans un dossier existant ou d'en créer un nouveau. Vous pouvez également déplacer les dossiers eux-mêmes.
 
-![](<.gitbook/assets/2019-07-11\_12h52\_03 (2) (1).png>)
+![](<.gitbook/assets/2019-07-11_12h52_03 (2) (1).png>)
 
 ## Créer un événement dans la frise chronologique
 
@@ -133,7 +133,7 @@ Vous devez renseigner plusieurs informations pour créer un évènement :
 * Une image d’illustration
 * Une description
 
-![](<.gitbook/assets/frise\_21-1-1 (1) (1).png>)
+![](<.gitbook/assets/frise_21-1-1 (1) (1).png>)
 
 * Une fois l’événement créé, il apparaît dans la frise chronologique. Le tour est joué !
 

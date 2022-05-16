@@ -25,7 +25,7 @@ Depuis la page d’accueil, cliquez sur « Mes applis » en haut à droite de l�
 
 **Rendre une copie**
 
-Lorsque vous cliquez sur un sujet à rendre, identifiable par ce type d’icône ![](<.gitbook/assets/exercizer\_icone\_rendre\_sujet (1).png>), la consigne du devoir à rendre s’affiche.
+Lorsque vous cliquez sur un sujet à rendre, identifiable par ce type d’icône ![](<.gitbook/assets/exercizer_icone_rendre_sujet.png>), la consigne du devoir à rendre s’affiche.
 
 Vous pouvez alors déposer le fichier correspondant à votre copie. La taille de ce fichier ne doit pas dépasser 50Mo.
 
@@ -56,7 +56,7 @@ Dans l’onglet « Terminés », vous pouvez vérifier que votre sujet à bien �
 
 **Répondre à un exercice interactif**
 
-Lorsque vous cliquez sur un sujet à interactif, identifiable par ce type d’icône ![](<.gitbook/assets/exercizer\_icone\_sujet\_interactif (1).png>), une présentation du sujet s’affiche précisant la date de rendu (1), la durée de réalisation (2) et une description de l’exercice (3).
+Lorsque vous cliquez sur un sujet à interactif, identifiable par ce type d’icône ![](<.gitbook/assets/exercizer_icone_sujet_interactif.png>), une présentation du sujet s’affiche précisant la date de rendu (1), la durée de réalisation (2) et une description de l’exercice (3).
 
 Pour réaliser l’exercice, cliquez sur le bouton orange « suivant » en bas à droite de la fenêtre.
 
@@ -142,7 +142,7 @@ Vous pouvez choisir de créer un sujet à rendre ou un sujet interactif.
 
 Ce type de sujet permet de programmer une remise de devoir sous forme de fichier et de suivre le rendu des élèves. Elle permet également de déposer des corrections collectives et individuelles sous forme de fichier.
 
-Pour **un sujet à rendre**, sélectionner le premier type de sujet, identifiable par ce type d’icône ![](<.gitbook/assets/exercizer\_icone\_rendre\_sujet (2).png>).
+Pour **un sujet à rendre**, sélectionner le premier type de sujet, identifiable par ce type d’icône ![](<.gitbook/assets/exercizer_icone_rendre_sujet.png>).
 
 ![](<.gitbook/assets/exercizer\_sujet\_a\_rendre\_1.png>)
 
@@ -154,7 +154,7 @@ Dans la fenêtre qui s’ouvre, saisissez un titre (2) et ajoutez si vous le sou
 
 Ce type de sujet permet de construire et distribuer une évaluation en créant des questions auxquels les élèves pourront répondre en ligne. Les copies seront corrigées automatiquement et/ou manuellement, suivant le type de questions choisies.
 
-Pour **un sujet interactif**, sélectionner le second type de sujet, identifiable par ce type d’icône ![](<.gitbook/assets/exercizer\_icone\_sujet\_interactif (1).png>).
+Pour **un sujet interactif**, sélectionner le second type de sujet, identifiable par ce type d’icône ![](<.gitbook/assets/exercizer\_icone\_sujet\_interactif.png>).
 
 Dans la page qui s’ouvre, saisissez un titre (1) et ajoutez si vous le souhaitez une image d’illustration du sujet (sinon c’est l’icône par défaut qui est affichée) (2). Vous pouvez ajouter une description (3).
 
@@ -240,8 +240,8 @@ Remarques :
 
 |                                                                               |                                                                |
 | ----------------------------------------------------------------------------- | -------------------------------------------------------------- |
-| Vous pouvez accéder à la fiche de l'utilisateur en cliquant sur son nom :     | ![](<.gitbook/assets/exercizer\_selection\_destinataire\_3.png>) |
-| Vous pouvez également retrouver vos favoris dans la recherche d'utilisateur : | ![](<.gitbook/assets/exercizer\_selection\_destinataire\_4.png>) |
+| Vous pouvez accéder à la fiche de l'utilisateur en cliquant sur son nom :     | ![](<.gitbook/assets/exercizer_selection_destinataire_3.png>) |
+| Vous pouvez également retrouver vos favoris dans la recherche d'utilisateur : | ![](<.gitbook/assets/exercizer_selection_destinataire_4.png>) |
 
 **Options de distribution**
 

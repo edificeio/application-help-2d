@@ -69,7 +69,7 @@ Renseigner les champs de **date**, **d'heure** et de **motif** puis cliquer sur 
 
 Il est possible de régulariser et de suivre une absence directement depuis ce formulaire de création ou de modification.
 
-![](<.gitbook/assets/uni-parametres (34).png>) _Il est possible de paramétrer les motifs depuis les paramétrages._
+![](<.gitbook/assets/uni-parametres.png>) _Il est possible de paramétrer les motifs depuis les paramétrages._
 
 **Déclarer un retard**
 
@@ -142,7 +142,7 @@ Cette page recense :
 
 Par défaut, le **filtre "appels oubliés" est sélectionné** et le filtre **"appels sans enseignant" est désactivé**. Ainsi apparaissent tous les appels qui **n'ont pas été validés par l'enseignant 15mn après le début du cours.**
 
-![](<.gitbook/assets/4liste\_appels\_oublies.png>)
+![](<.gitbook/assets/4liste_appels_oublies.png>)
 
 Le CPE peut **notifier l'enseignant** pour lui rappeler qu'il doit valider son appel en cliquant sur la petite clochette dans la carte de l'appel. Cette notification arrive dans la messagerie ENT de l'enseignant concerné.
 
@@ -160,15 +160,15 @@ Les différentes actions possibles :
 * **Noter un élève absent** en cliquant sur le rond devant son nom : un tiret rouge apparaît pour indiquer l'absence. Dans l'historique à droite, le point correspondant au cours actuel se colore. **(2)**
 * **Déclarer un retard ou un départ anticipé** : en cliquant sur le nom de l'élève, un panneau latéral s'ouvre qui permet de noter retard, départ et observations. En fonction de l'événement déclaré, un tiret de la couleur correspondante apparaît et le point se colore. Les retards sont en violet et les départs en vert. **(3)**
 
-![](<.gitbook/assets/4saisir\_appel.png>)
+![](<.gitbook/assets/4saisir_appel.png>)
 
-![](<.gitbook/assets/4panneau\_eleve.png>)
+![](<.gitbook/assets/4panneau_eleve.png>)
 
 Des informations pour l'enseignant sont disponibles sur l'appel :
 
-* **Si l'élève a été absent lors du dernier cours de l'enseignant**, une petite icône le lui signale ![](<.gitbook/assets/4absent\_derniercours.png>)
+* **Si l'élève a été absent lors du dernier cours de l'enseignant**, une petite icône le lui signale ![](<.gitbook/assets/4absent_derniercours.png>)
 * **Si l'élève a été noté absent par le CPE avant le début du cours**, l'absence est déjà déclarée et l'élève est grisé. S'il est finalement là, l'enseignant peut mettre une observation à destination de la vie scolaire.
-* **Si l'élève a oublié son carnet de correspondance**, une petite icône le signale à l'enseignant.![](<.gitbook/assets/4carnet\_oublie.png>)
+* **Si l'élève a oublié son carnet de correspondance**, une petite icône le signale à l'enseignant.![](<.gitbook/assets/4carnet_oublie.png>)
 
 Le CPE aussi peut saisir un appel depuis la liste des appels ou depuis son tableau de bord. À la différence de l'enseignant, il peut **directement saisir le motif** de l'absence depuis le panneau latéral.
 
@@ -176,7 +176,7 @@ Le CPE aussi peut saisir un appel depuis la liste des appels ou depuis son table
 
 Une fois l'appel effectué, il peut être **validé pour qu'il n'apparaisse plus dans la liste des appels oubliés** de la vie scolaire. Les événements, eux, sont créés dès leur saisie et modifiés instantanément si l'enseignant modifie des données.
 
-![](<.gitbook/assets/4valider\_appel.png>)
+![](<.gitbook/assets/4valider_appel.png>)
 
 ## La gestion des événements : absences, retards, dispenses (VS)
 
@@ -196,21 +196,21 @@ Chaque ligne du tableau se compose ainsi :
 * régularisation administrative
 * état de publipostage
 
-![](<.gitbook/assets/5liste\_evenement.png>)
+![](<.gitbook/assets/5liste_evenement.png>)
 
 Le clic sur une ligne permet d'afficher le détail des événements par créneau et d'y apposer si besoin des motifs différents.
 
-![](<.gitbook/assets/5liste\_detail.png>)
+![](<.gitbook/assets/5liste_detail.png>)
 
-![](<.gitbook/assets/5table\_edit (4).png>) Le clic sur l'icône à côté des périodes permet **d'accéder directement à la vue calendaire de l'élève** pour saisir un événement sur la journée ou sur une période plus longue.
+![](<.gitbook/assets/5table_edit.png>) Le clic sur l'icône à côté des périodes permet **d'accéder directement à la vue calendaire de l'élève** pour saisir un événement sur la journée ou sur une période plus longue.
 
 Enfin, il est possible d'indiquer **les actions en cours concernant cet événement**. Cela permet à l'équipe de vie scolaire de suivre avec précision le traitement de l'événement même si ce n'est pas toujours la même personne qui s'en occupe. Au clic sur le **+** une fenêtre s'ouvre qui permet de saisir l'action en réalisée et un commentaire. Une fois validée, l'abréviation de l'action s'affiche dans le tableau.
 
-![](<.gitbook/assets/5action\_bouton.png>)
+![](<.gitbook/assets/5action_bouton.png>)
 
 ![](<.gitbook/assets/5actions.png>)
 
-![](<.gitbook/assets/uni-parametres (34).png>) _Les types d'actions et leurs abréviations sont paramétrables_.
+![](<.gitbook/assets/uni-parametres.png>) _Les types d'actions et leurs abréviations sont paramétrables_.
 
 Cette liste d'événement est bien entendu filtrable :
 
@@ -239,7 +239,7 @@ Depuis cette page, il est possible de déclarer une punition ou une sanction pou
 
 Il est possible d'arriver sur cette page déjà filtrée en arrivant depuis le tableau de bord CPE en cliquant sur une des alertes.
 
-![](<.gitbook/assets/uni-parametres (34).png>) _Le maximum d'événements à atteindre pour déclencher une alerte est paramétrable_.
+![](<.gitbook/assets/uni-parametres.png>) _Le maximum d'événements à atteindre pour déclencher une alerte est paramétrable_.
 
 **Les déclarations en ligne (VS)**
 
@@ -250,9 +250,9 @@ Ces déclarations une fois validées apparaissent pour l'équipe de Vie scolaire
 * sur le tableau de bord CPE (voir Tableau de bord CPE)
 * sur la page Déclarations en ligne, derrière le menu "Evénements"
 
-![](<.gitbook/assets/6tableau\_declarations.png>)
+![](<.gitbook/assets/6tableau_declarations.png>)
 
-Vous pouvez accéder directement à la vue calendaire de l'élève pour créer l'absence en cliquant sur l'icône à côté de son nom : ![](<.gitbook/assets/5table\_edit (4).png>)
+Vous pouvez accéder directement à la vue calendaire de l'élève pour créer l'absence en cliquant sur l'icône à côté de son nom : ![](<.gitbook/assets/5table_edit.png>)
 
 Vous pouvez également noter ces déclarations comme traitées. Cela les fait disparaître du tableau, pour lequel un filtre "non traités" est activé par défaut. Pour retrouver toutes les déclarations, désactivez ce filtre.
 
@@ -260,17 +260,17 @@ Vous pouvez également noter ces déclarations comme traitées. Cela les fait di
 
 La page des dispenses est à la fois une page de **consultation et de saisie des dispenses**. Quand des dispenses ont été déclarées, la page met à disposition un tableau récapitulatif sur le mois en cours.
 
-![](<.gitbook/assets/7tableau\_dispenses.png>)
+![](<.gitbook/assets/7tableau_dispenses.png>)
 
 Le bouton **Saisir une dispense** (également disponible depuis la vue calendaire de l'élève) ouvre une fenêtre pour saisir le nom de l'élève, la période concernée, la discipline concernée, si la présence est obligatoire ou non, un commentaire :
 
-![](<.gitbook/assets/7saisie\_dispense.png>)
+![](<.gitbook/assets/7saisie_dispense.png>)
 
 Il est aussi possible de **saisir des dispenses récurrentes** pour des élèves qui seraient dispensés sur l'année d'une ou plusieurs heures de cours (orthophonie, kiné...).
 
 Depuis la fenêtre de saisie de dispenses, il est possible de choisir "dispense ponctuelle" ou "dispense récurrente".
 
-![](<.gitbook/assets/7saisie\_dispense\_recurrente.png>)
+![](<.gitbook/assets/7saisie_dispense_recurrente.png>)
 
 Cette fonctionnalité vous permet de **sélectionner des jours de la semaine ainsi que des créneaux**. Il est possible de déclarer ces dispenses récurrentes tous les 15 jours.
 
@@ -278,19 +278,19 @@ Cette fonctionnalité vous permet de **sélectionner des jours de la semaine ain
 
 Il est possible depuis ce menu de déclarer une absence pour plusieurs élèves en même temps.
 
-![](<.gitbook/assets/7tableau\_absences\_collectives.png>)
+![](<.gitbook/assets/7tableau_absences_collectives.png>)
 
 Pour déclarer une absence collective, cliquer sur **"Saisir une absence collective"** et remplir les différents champs. Enfin **sélectionner des groupes ou des élèves** puis cliquer sur **Valider**.
 
-![](<.gitbook/assets/7saisir\_absence\_collective.png>)
+![](<.gitbook/assets/7saisir_absence_collective.png>)
 
 Si des élèves sont **déjà absents sur la période**, cela sera indiqué dans le tableau des élèves.
 
-![](<.gitbook/assets/7anomalies\_absence\_collective.png>)
+![](<.gitbook/assets/7anomalies_absence_collective.png>)
 
 Si des élèves déclarés absents à partir d'une absence collective sont **modifiés individuellement ultérieurement** depuis la vue calendaire, cela sera indiqué dans le tableau des élèves.
 
-![](<.gitbook/assets/7anomalies2\_absence\_collective.png>)
+![](<.gitbook/assets/7anomalies2_absence_collective.png>)
 
 Il est possible **d'exporter le tableau des absences collectives** dans un fichier qui comportera le nom des élèves concernés, des groupes auxquels ils appartiennent et les motifs des absences.
 
@@ -306,13 +306,13 @@ Pour les enseignants, la page des Présences présente toutes les présences qu'
 
 Pour saisir une présence, cliquer sur le bouton **Saisir une présence** en haut à droite. Il suffit ensuite de **remplir les différents champs et de sélectionner les élèves et/ou les classes à ajouter**. Il est possible d'ajouter une classe et ensuite d'en retirer certains élèves à l'aide de la croix en fin de ligne.
 
-![](<.gitbook/assets/9saisir\_presences.png>)
+![](<.gitbook/assets/9saisir_presences.png>)
 
 Il est possible de **rédiger un bref commentaire** sur la présence de l'élève qui ne sera visible que depuis cette fenêtre.
 
 Enfin, si une présence est déclarée alors que l'élève est par ailleurs noté absent sur un créneau de l'emploi du temps, **la lettre P sera visible sur la vue calendaire afin d'avertir la vie scolaire d'un éventuel conflit**. Si aucun créneau de cours n'est concomitant avec cette présence, l'information se trouvera uniquement sur la page des présences.
 
-![](<.gitbook/assets/9presence\_calendaire.png>)
+![](<.gitbook/assets/9presence_calendaire.png>)
 
 ![](<.gitbook/assets/uni-parametres (34).png>) _Les lieux et moments pour lesquels il est possible de déclarer une présence sont paramétrables_.
 
@@ -324,19 +324,19 @@ La gestion des incidents est liée à celle des punitions, sanctions et comme po
 
 La page des incidents est à la fois une page de **consultation et de saisie des incidents**. Quand des incidents ont été déclarés, la page met à disposition un tableau récapitulatif sur le mois en cours.
 
-![](<.gitbook/assets/10tableau\_incidents.png>)
+![](<.gitbook/assets/10tableau_incidents.png>)
 
 En cliquant sur une ligne, il est possible d'en afficher les détails.
 
-![](<.gitbook/assets/10detail\_incident.png>)
+![](<.gitbook/assets/10detail_incident.png>)
 
 Le bouton **Saisir un incident** (également disponible depuis la vue calendaire de l'élève) ouvre une fenêtre pour saisir le contexte et les caractéristiques de l'incident ainsi que les protagonistes :
 
-![](<.gitbook/assets/10saisie\_incident.png>)
+![](<.gitbook/assets/10saisie_incident.png>)
 
 Une fois les champs remplis, il est possible de **valider** et donc de fermer la fenêtre et de retourner au tableau récapitulatif.
 
-![](<.gitbook/assets/uni-parametres (34).png>) _Tous les champs de la fenêtre d'incident seront paramétrables._
+![](<.gitbook/assets/uni-parametres.png>) _Tous les champs de la fenêtre d'incident seront paramétrables._
 
 **Punitions et sanctions**
 
@@ -344,20 +344,20 @@ Cette fonctionnalité permet de déclarer des punitions ou des sanctions à l'en
 
 Accessible depuis l'entrée de menu **Incidents**, cette page donne accès au tableau des punitions et sanctions déjà données et vous permet d'en créer une nouvelle à l'aide du bouton en haut à droite.
 
-![](<.gitbook/assets/11tableau\_punitions.png>)
+![](<.gitbook/assets/11tableau_punitions.png>)
 
 Après avoir cliqué sur le bouton **"Saisir une punition/sanction"**, une fenêtre s'ouvre avec plusieurs champs à remplir.
 
-![](<.gitbook/assets/11saisie\_punition.png>)
+![](<.gitbook/assets/11saisie_punition.png>)
 
 * Vous pouvez chercher **un ou plusieurs élèves**
 * Sélectionner un type : attention **le droit de mettre des sanctions est réservé au profil Direction**
-* En fonction du type choisis, de nouveaux champs vont apparaître pour entrer des dates, des heures, etc... ![](<.gitbook/assets/11types\_punition.png>)
+* En fonction du type choisis, de nouveaux champs vont apparaître pour entrer des dates, des heures, etc... ![](<.gitbook/assets/11types_punition.png>)
 * Vous pouvez entrer une description si vous ne souhaitez pas déclarer d'incident.
 
 Une fois cette fenêtre validée, la ligne correspondant à la punition saisie apparaît dans le tableau. Si vous avez déclaré une punition pour plusieurs élèves, il y aura plusieurs lignes.
 
-![](<.gitbook/assets/uni-parametres (34).png>) _Les types de punitions et sanctions sont paramétrables._
+![](<.gitbook/assets/uni-parametres.png>) _Les types de punitions et sanctions sont paramétrables._
 
 ## Le publipostage
 
@@ -373,7 +373,7 @@ Il peut concerner les absences justifiées ou non, les retards (les punitions et
 
 Des **filtres** vous sont proposés pour affiner votre publipostage.
 
-![](<.gitbook/assets/12filtres\_publipostage.png>)
+![](<.gitbook/assets/12filtres_publipostage.png>)
 
 Une fois **les filtres sélectionnés (1)** vous disposez d'un **récapitulatif du nombre d'événements à publiposter (2)**. Si des **anomalies** existent au niveau des coordonnées des parents, elles seront directement visibles dans un **tableau sous le récapitulatif (3)**. Enfin vous pourrez sélectionner **le mode de publipostage à l'aide des boutons en haut à droite (4)**.
 
@@ -385,7 +385,7 @@ En cliquant sur le mode de publipostage, une pop-up s'ouvre avec :
 * **le message à envoyer** : vous aurez le choix du message parmi ceux que vous aurez paramétrés.
 * **la liste des personnes à qui ce message va être envoyé** : c'est là que vous pouvez désélectionner certaines personnes.
 
-![](<.gitbook/assets/12publipostage\_envoi.png>)
+![](<.gitbook/assets/12publipostage_envoi.png>)
 
 Une fois le publipostage effectué, il est possible d'en **consulter l'historique** depuis un 2ème onglet. Cet historique présente tous les envois qui ont été réalisés sur la période que vous souhaitez. Il est ainsi possible de consulter tous les publipostages pour un élève, pour certains types d'événements.
 
@@ -399,27 +399,27 @@ Il existe différents types de statistiques sur le module Présences :
 
 **Les statistiques globales**
 
-![](<.gitbook/assets/13statistiques\_globales.png>)
+![](<.gitbook/assets/13statistiques_globales.png>)
 
 Elles proposent le total de chaque type d'événements sur une période à définir par l'utilisateur, par défaut la date du jour.
 
 Il est possible de **filtrer** les événements et de **choisir l'affichage à partir de x événements, et d'afficher le détail en créneaux de cours**.
 
-![](<.gitbook/assets/13filtres\_statistiques.png>)
+![](<.gitbook/assets/13filtres_statistiques.png>)
 
 Il est possible **d'exporter ces statistiques en CSV** pour réaliser des traitements plus poussés dans un logiciel de tableur.
 
 **Les statistiques mensuelles**
 
-![](<.gitbook/assets/13statistiques\_mensuelles.png>)
+![](<.gitbook/assets/13statistiques_mensuelles.png>)
 
 Elles proposent **par mois et par classe le total du type d'événement sélectionné** dans les filtres. En cliquant sur la ligne d'une classe, le détail par élève est disponible.
 
-![](<.gitbook/assets/13details\_mensuelles.png>)
+![](<.gitbook/assets/13details_mensuelles.png>)
 
 Il est aussi possible d'afficher ces statistiques **sous forme de graphique** en cliquant sur l'icône correspondant à côté des filtres.
 
-![](<.gitbook/assets/13graphique\_mensuelles.png>)
+![](<.gitbook/assets/13graphique_mensuelles.png>)
 
 Il est alors possible de **sélectionner plusieurs types d'événements** en parallèle pour effectuer des comparaisons. **Les champs de recherche en haut de la page** permettent de **filtrer par classe ou par élève**. La vue par défaut est celle de l'établissement dans son ensemble.
 

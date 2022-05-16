@@ -65,11 +65,11 @@ Pour évaluer les élèves, suivez les étapes suivantes :
 5. Si l'évaluation numérique a été activée, il est possible de **mettre des notes à chaque élève dans la colonne résultat** (possibilité d’utiliser le clavier pour se déplacer d’élève en élève) **(5)**
 6.  Si le devoir possède une ou plusieurs compétences, il est possible **d’évaluer les compétences** des élèves avec les pastilles (possibilité d’utiliser le clavier avec les touches de 0 à 4 pour évaluer les compétences)**(6)**
 
-    * ![](<.gitbook/assets/pastille-grise (1).png>) Pastille grise : Compétence non évaluée
-    * ![](<.gitbook/assets/pastille-rouge (1).png>) Pastille rouge : Maîtrise insuffisante
-    * ![](<.gitbook/assets/pastille-orange (1).png>) Pastille orange : Maîtrise fragile
-    * ![](<.gitbook/assets/pastille-jaune (1).png>) Pastille jaune : Maîtrise satisfaisante
-    * ![](<.gitbook/assets/pastille-verte (1).png>) Pastille verte : très bonne maîtrise
+    * ![](<.gitbook/assets/pastille-grise.png>) Pastille grise : Compétence non évaluée
+    * ![](<.gitbook/assets/pastille-rouge.png>) Pastille rouge : Maîtrise insuffisante
+    * ![](<.gitbook/assets/pastille-orange.png>) Pastille orange : Maîtrise fragile
+    * ![](<.gitbook/assets/pastille-jaune.png>) Pastille jaune : Maîtrise satisfaisante
+    * ![](<.gitbook/assets/pastille-verte.png>) Pastille verte : très bonne maîtrise
 
     Le **détail des compétences** est disponible sur la partie droite de l’écran.
 7. Une **appréciation peut être indiquée dans le champ Appréciation (7)**. Si le devoir comprend beaucoup de compétences, l’appréciation est accessible via le bouton : ![](<.gitbook/assets/evaluer-un-eleve-3 (4).jpg>)
@@ -134,9 +134,9 @@ L’ajout d’une évaluation libre est également possible sur cette page en cl
 Pour voir le bilan du niveau des élèves individuellement, suivez les étapes suivantes :
 
 1. Renseigner les **critères pour choisir un élève (1)**
-2.  Il est possible **d’afficher le bilan de compétences** d’un élève en cliquant sur : ![](<.gitbook/assets/18\_visualisation-bilan (4).jpg>) **(2)**
+2. Il est possible **d’afficher le bilan de compétences** d’un élève en cliquant sur : ![](<.gitbook/assets/18_visualisation-bilan.jpg>) **(2)**
 
-    ![](<.gitbook/assets/19\_visualisation-bilan-4.jpg>)
+    ![](<.gitbook/assets/19_visualisation-bilan-4.jpg>)
 
 Le bilan de fin de cycle de l’élève est accessible (3) et téléchargeable (4).
 
