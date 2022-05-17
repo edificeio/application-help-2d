@@ -146,21 +146,23 @@ Cette fonctionnalité permet de :
 - restreindre l'accès à un événement dans un agenda partagé
 
 *Cas de figure 1 :*
-Vous souhaitez **partager de temps en temps des événements** à différents groupes de personnes.
-Dans ce cas, pas besoin de créer x agendas partagés. Il suffit au moment de la création d'un événement de cliquer sur **"Enregistrer et partager"**. Une fenêtre de partage s'ouvre automatiquement après enregistrement et vous pouvez choisir les groupes de personnes à qui partager l'événement ainsi que les droits à leur donner.
-![](<.gitbook/assets/05_enregistrer_partager.png>)
 
+Vous souhaitez **partager de temps en temps des événements** à différents groupes de personnes.
+
+Dans ce cas, pas besoin de créer x agendas partagés. Il suffit au moment de la création d'un événement de cliquer sur **"Enregistrer et partager"**. Une fenêtre de partage s'ouvre automatiquement après enregistrement et vous pouvez choisir les groupes de personnes à qui partager l'événement ainsi que les droits à leur donner.
+
+![](<.gitbook/assets/05_enregistrer_partager.png>)
 
 Cet événement sera automatiquement disponible dans leur agenda personnel. Ils pourront seulement le lire, le repartager ou le supprimer en fonction des droits octroyés.
 
 *Cas de figure 2 :*
+
 Vous souhaitez **partager un agenda à un groupe** de personnes mais **de temps en temps vous souhaitez restreindre l'accès à un événement** à certaines personnes. Par exemple, il y a l'agenda partagé "Etablissement-Parents" mais quand il s'agit des rencontres parents-enseignants, vous ne souhaitez pas que tous les parents accèdent à toutes les réunions. Dans ce cas, à la création de l'événement, cliquer sur **"Enregistrer et restreindre"**. La fenêtre de partage s'ouvre et vous pouvez choisir le groupe restreint à qui partager l'événement.
 
 ![](<.gitbook/assets/05_enregistrer_restreindre.png>)
 
-
-
 - Si la personne à qui vous partagez l'événement dispose de l'agenda partagé, l'événement sera dans l'agenda partagé mais visible uniquement pour elle
+
 - Si la personne à qui vous partagez l'événement ne dispose pas de l'agenda partagé, l'événement sera dans son agenda personnel.
 
 Attention, dans le cadre d'un partage d'événement à l'intérieur d'un agenda partagé, **les droits de l'agenda l'emportent sur les droits de l'événement**.

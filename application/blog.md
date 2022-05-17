@@ -8,7 +8,7 @@ L’appli **Blog** permet de publier facilement des informations, en y intégran
 
 En cas de contribution de la part d’autres utilisateurs, le gestionnaire du blog choisit le **circuit de publication** souhaité : soit il relit les billets soumis par les autres utilisateurs avant de les publier, soit les billets sont publiés immédiatement quel qu’en soit l’auteur.
 
-![](<.gitbook/assets/blog\_1-1024x478-2-2-2 (1) (1).png>)
+![](<.gitbook/assets/blog_1-1024x478-2-2-2 (1) (1).png>)
 
 ## Créer un blog privé
 
@@ -27,7 +27,7 @@ Vous accédez à l’interface de création du blog.
 
 Cliquez sur « Enregistrer » pour valider la création du blog.
 
-![](<.gitbook/assets/2019-07-11\_11h06\_50 (2) (1).png>)
+![](<.gitbook/assets/2019-07-11_11h06_50 (2) (1).png>)
 
 ## Partager un blog
 
@@ -36,7 +36,7 @@ Le blog a été créé mais n’est pas encore visible par les autres utilisateu
 1. Cliquez sur le blog à partager (1)
 2. Cliquez sur le bouton « Partager » (2)
 
-![](<.gitbook/assets/2019-07-12\_17h37\_18 (1) (1).png>)
+![](<.gitbook/assets/2019-07-12_17h37_18 (1) (1).png>)
 
 Pour le partager, suivez les étapes suivantes :
 
@@ -63,17 +63,17 @@ Sur les vignettes de blog, des icônes vous permettent facilement de connaitre v
 
 De plus, concernant les blogs sur lesquels vous êtes propriétaire, l'icone suivante vous permet de savoir si le contenu a déjà été partagé : ![](<.gitbook/assets/share-1 (1) (1) (11).png>)
 
-![](<.gitbook/assets/2019-07-12\_17h47\_38 (1) (1).png>)
+![](<.gitbook/assets/2019-07-12_17h47_38 (1) (1).png>)
 
 ## Créer un blog public
 
 Pour créer un blog accessible à des personnes extérieures à l'ENT, il vous faut retourner sur la page de création de blog.
 
-![](<.gitbook/assets/2019-07-12\_16h09\_47 (1) (1) (2).png>)
+![](<.gitbook/assets/2019-07-12_16h09_47 (1) (1) (2).png>)
 
 La page des propriétés du blog s'ouvre et vous pouvez y trouver une rubrique nommée "Adresse de mon blog".
 
-![](<.gitbook/assets/2019-07-12\_16h10\_18-1 (2) (1).png>)
+![](<.gitbook/assets/2019-07-12_16h10_18-1 (2) (1).png>)
 
 Cochez la case précédant la phrase "Le blog est accessible publiquement via cette adresse personnalisable :" (1)
 
@@ -83,15 +83,15 @@ Pour communiquer facilement cette URL, vous pouvez cliquer sur le bouton "Copier
 
 Note : Si l'on rend public un blog, les documents chargés sur le blog (par vous ou par un autre utilisateur) seront eux aussi publics.
 
-![](<.gitbook/assets/2019-07-11\_11h05\_12-1 (2) (1).png>)
+![](<.gitbook/assets/2019-07-11_11h05_12-1 (2) (1).png>)
 
 Sur la vignette du blog, le symbole suivant vous informe que le contenu est public :
 
-![](<.gitbook/assets/2019-07-11\_11h14\_08-1 (2) (1).png>)
+![](<.gitbook/assets/2019-07-11_11h14_08-1 (2) (1).png>)
 
 L'URL du blog public est visible sous l'image du blog. L'adresse apparaît tronquée. Par un clic-droit, vous pouvez récupérer l'URL en choisissant l'option "Copier l'adresse du lien".
 
-![](<.gitbook/assets/2019-07-11\_11h16\_13-1 (1) (1).png>)
+![](<.gitbook/assets/2019-07-11_11h16_13-1 (1) (1).png>)
 
 Note : Les commentaires qui s'affichent dans l'ENT ne sont pas visible sur la version publique du blog.
 
@@ -113,15 +113,15 @@ Note : Les commentaires qui s'affichent dans l'ENT ne sont pas visible sur la ve
    
    * **Corbeille** où vous retrouverez les blogs que vous aurez supprimé, pour éviter toute suppression définitive involontaire
 
-![](<.gitbook/assets/2019-07-11\_11h35\_16-1 (1) (1).png>)
+![](<.gitbook/assets/2019-07-11_11h35_16-1 (1) (1).png>)
 
 Après avoir créer vos différents dossiers, sélectionnez (1) le ou les blogs que vous voulez mettre dans vos dossiers, puis cliquez sur le bouton "Déplacer" (2).
 
-![](<.gitbook/assets/2019-07-11\_11h28\_38 (2) (1).png>)
+![](<.gitbook/assets/2019-07-11_11h28_38 (2) (1).png>)
 
 Une fenêtre s'ouvrira, vous permettant de déplacer le blog sélectionné dans un dossier existant ou d'en créer un nouveau. Il vous est également possible de déplacer des dossiers.
 
-![](<.gitbook/assets/2019-07-11\_11h29\_47-1 (1) (1).png>)
+![](<.gitbook/assets/2019-07-11_11h29_47-1 (1) (1).png>)
 
 ## Gérer le circuit de publication
 
@@ -136,14 +136,14 @@ Pour gérer le circuit de publication de votre blog, ouvrez la fenêtre de parta
 
 Une fois votre blog créé, vous pouvez publier un billet. Pour cela, cliquez sur le bouton « Créer un billet » présent en haut de l’écran.
 
-![](<.gitbook/assets/blog\_4-1024x159-2-1-1-1 (1) (1).png>)
+![](<.gitbook/assets/blog_4-1024x159-2-1-1-1 (1) (1).png>)
 
 L’outil de création du billet s’affiche dans la page :
 
 1. Saisissez le titre
 2. Rédigez le contenu du billet.
 
-![](<.gitbook/assets/2018-08-24\_15h13\_04-1-1-1 (1) (1).png>)
+![](<.gitbook/assets/2018-08-24_15h13_04-1-1-1 (1) (1).png>)
 
 Une fois la saisie terminée, vous avez différents boutons d'action (3) :
 
@@ -161,7 +161,7 @@ Si vous avez activé un circuit de publication (billets à soumettre pour les co
 
 Cliquez la case à cocher des billets soumis pour afficher les billets rédigés par les contributeurs du blog.
 
-![](<.gitbook/assets/blog\_51-1-1-1 (1) (1).png>)
+![](<.gitbook/assets/blog_51-1-1-1 (1) (1).png>)
 
 Vous pouvez réaliser les actions suivantes en cliquant sur « Publier » ou sur l’icône ![](<.gitbook/assets/blog-bouton-plus.png>) :
 
@@ -169,7 +169,7 @@ Vous pouvez réaliser les actions suivantes en cliquant sur « Publier » ou sur
 * **Modifier** le billet avant publication : vous accédez à l’éditeur de texte pour apporter vos modifications
 * **Supprimer** le billet
 
-![](<.gitbook/assets/blog\_2-1024x363-3-1 (2) (1).png>)
+![](<.gitbook/assets/blog_2-1024x363-3-1 (2) (1).png>)
 
 ## Publier dans la bibliothèque
 
@@ -190,15 +190,15 @@ Vous devez ensuite renseigner les caractéristiques de votre contenu pour expliq
 * **Âge des élèves** : Quel est la tranche d’âge des élèves concernés par l’activité ?&#x20;
 * **Mots-clés** : Quels sont les mots-clés qui caractérisent le mieux votre activité ?&#x20;
 
-![](<.gitbook/assets/2020-05-20\_16h01\_02.png>)
+![](<.gitbook/assets/2020-05-20_16h01_02.png>)
 
 Lorsque votre blog est publié, vous pouvez le visualiser en cliquant sur “Voir dans la Bibliothèque”.
 
-![](<.gitbook/assets/2020-05-20\_16h02\_02.png>)
+![](<.gitbook/assets/2020-05-20_16h02_02.png>)
 
 Vous aurez ensuite la possibilité de modifier les champs saisis ou de supprimer la publication de votre blog en cliquant sur “Modifier” depuis la page de votre activité.
 
-![](<.gitbook/assets/2020-05-20\_16h03\_50.png>)
+![](<.gitbook/assets/2020-05-20_16h03_50.png>)
 
 ![](<.gitbook/assets/correction-imagemodifieractivit-blog.png>)
 
@@ -210,7 +210,7 @@ Lorsque vous naviguez sur votre blog, vous avez la possibilité de l'imprimer, e
 
 Une option vous permettra de choisir si vous souhaitez imprimer le blog avec les commentaires ou non :
 
-![](<.gitbook/assets/2018-10-19\_12h42\_55-2-1 (1) (1).png>)
+![](<.gitbook/assets/2018-10-19_12h42_55-2-1 (1) (1).png>)
 
 ## Exporter un blog en PDF
 
@@ -220,13 +220,13 @@ Si vous souhaitez exporter votre blog sous la forme d'un fichier PDF, il vous fa
 
 Dans le champ "Destination", choisissez l'option Enregistrer au format PDF
 
-![](<.gitbook/assets/2019-07-11\_15h18\_39 (1) (1) (7).png>)
+![](<.gitbook/assets/2019-07-11_15h18_39 (1) (1) (7).png>)
 
 * Pour Internet Explorer, Microsoft Edge et Mozilla Firefox :
 
 Dans le champ "Nom", choisissez l'option "Microsoft Print to PDF"
 
-![](<.gitbook/assets/2019-07-11\_15h18\_03 (1) (1) (4).png>)
+![](<.gitbook/assets/2019-07-11_15h18_03 (1) (1) (4).png>)
 
 * Pour Safari :
 
