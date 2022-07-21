@@ -36,17 +36,21 @@ Vous accédez à l’interface de création du formulaire :
 
 3. Choisissez si vous voulez une **date de fermeture** (à partir de cette date, il ne sera plus possible de répondre au formulaire).
 
-4. Choisissez si vous voulez permettre **plusieurs réponses** d’un même utilisateur.
+4. Choisissez si vous souhaitez créer un **formulaire public** : si le droit est activé, vous pouvez partager ce formulaire à des personnes n'ayant pas de comptes dans l'ENT via une URL. Ce formulaire est obligatoirement anonyme, avec une date de fermeture, sans dépôt de fichier et les répondants ne pourront pas modifier leurs réponses ni répondre plusieurs fois.
 
-5. Choisissez si vous voulez permettre à l'utilisateur de **modifier les réponses envoyées**.
+5. Choisissez si vous voulez permettre **plusieurs réponses** d’un même utilisateur.
 
-6. Choisissez si vous voulez **anonymiser** les réponses.
+6. Choisissez si vous voulez permettre à l'utilisateur de **modifier les réponses envoyées**.
 
-7. Choisissez si vous voulez recevoir une **notification** de réponse à chaque fois qu'un utilisateur aura répondu au formulaire.
+7. Choisissez si vous voulez **anonymiser** les réponses.
+
+8. Choisissez si vous voulez recevoir une **notification** de réponse à chaque fois qu'un utilisateur aura répondu au formulaire.
+
+9. Choisissez si vous voulez ajouter une gestion des **données à caractère personnel** en début de formulaire.
 
 Cliquez sur **« Enregistrer »** pour valider la création du formulaire.
 
-![](<.gitbook/assets/02_creer-un-formulaire2.png>)
+![](<.gitbook/assets/02_creer-un-formulaire3.png>)
 
 ## Construire un formulaire
 
@@ -147,6 +151,11 @@ Les différents droits que vous pouvez attribuer aux autres utilisateurs sont le
 * **Répondre :** l’utilisateur peut répondre aux questions.
 
 
+Si c'est un **formulaire public**, la fenêtre de partage contient juste l'**URL** de réponse du formulaire que vous pourrez partager pour obtenir des réponses à votre formulaire.
+
+![](<.gitbook/assets/04_partager-un-formulaire3.png>)
+
+
 ## Vignettes
 
 Sur les vignettes de formulaire, des icônes vous permettent de connaître facilement vos opérations/droits sur les contenus :
@@ -186,8 +195,8 @@ Le formulaire a été créé et partagé en réponse à des utilisateurs mais vo
 4. La pop-up suivante s’ouvre : l’objet et le contenu du rappel sont déjà pré-remplis mais vous avez la possibilité de les modifier.
 
 5. Cliquez sur **« Confirmer »**, le rappel est envoyé :
-    - à ceux qui n’ont pas répondu au formulaire si plusieurs réponses d’un même utilisateur ne sont pas possibles.
-    - à tout le monde si plusieurs réponses d’un même utilisateur sont possibles.
+   - à ceux qui n’ont pas répondu au formulaire si plusieurs réponses d’un même utilisateur ne sont pas possibles.
+   - à tout le monde si plusieurs réponses d’un même utilisateur sont possibles.
 
    ![](<.gitbook/assets/06_envoyer-un-rappel2.png>)
 
@@ -211,8 +220,8 @@ Le formulaire a été créé et partagé en réponse à des utilisateurs, vous s
    ![](<.gitbook/assets/07_resultats-d-un-formulaire2.png>)
 
 6. Pour les dépôts de fichier il est possible de :
-    - télécharger tous les fichiers dans un zip
-    - télécharger un seul des fichiers en cliquant dessus
+   - télécharger tous les fichiers dans un zip
+   - télécharger un seul des fichiers en cliquant dessus
 
    ![](<.gitbook/assets/07_resultats-d-un-formulaire3.png>)
 
@@ -305,7 +314,7 @@ Du récapitulatif, vous pouvez :
 
 * Décider d’arrêter de répondre au formulaire pour continuer à y répondre plus tard en cliquant sur **« Enregistrer et quitter »**.
 
-   ![](<.gitbook/assets/09_repondre-a-un-formulaire3.png>)
+  ![](<.gitbook/assets/09_repondre-a-un-formulaire3.png>)
 
 ## Modifier une réponse
 
@@ -317,32 +326,32 @@ Si le créateur du formulaire vous l'a autorisé, vous avez la possibilité de m
 
    ![](<.gitbook/assets/10_modifier-une-reponse1.png>)
 
-3. Si c'est un formulaire où plusieurs réponses sont autorisées : cliquer que **« Ouvrir »** : vous arrivez ainsi sur la page **« Récapitulatif »**.
+3. Si c'est un formulaire où plusieurs réponses sont autorisées : cliquer sur **« Ouvrir »** : vous arrivez ainsi sur la page **« Récapitulatif »**.
 
 ## Organiser ses formulaires pour le répondant
 
 1. Vous disposez de 5 filtres pour afficher vos formulaires :
 
-    - **Date d’envoi :** pour trier par ordre croissant ou décroissant les formulaires selon leur date d’envoi.
+   - **Date d’envoi :** pour trier par ordre croissant ou décroissant les formulaires selon leur date d’envoi.
 
-    - **Titre :** pour trier par ordre croissant ou décroissant les formulaires selon leur titre.
+   - **Titre :** pour trier par ordre croissant ou décroissant les formulaires selon leur titre.
 
-    - **À faire :** pour afficher/masquer les formulaires auxquels vous n’avez pas encore commencé à répondre.
+   - **À faire :** pour afficher/masquer les formulaires auxquels vous n’avez pas encore commencé à répondre.
 
-    - **À finir :** pour afficher/masquer les formulaires auxquels vous avez commencé à répondre puis cliquer sur **« Enregistrer et quitter »**.
+   - **À finir :** pour afficher/masquer les formulaires auxquels vous avez commencé à répondre puis cliquer sur **« Enregistrer et quitter »**.
 
-    - **Terminer :** pour afficher/masquer les formulaires auxquels vous avez répondu.
+   - **Terminer :** pour afficher/masquer les formulaires auxquels vous avez répondu.
 
 2. Une barre de recherche vous permet de trouver rapidement un formulaire en saisissant son nom.
 
 3. Un affichage différent en fonction du statut :
 
-    - **Répondu le jj/mm/aaaa , hh :mm :** Une seule réponse autorisée et vous l’avez déjà envoyée.
+   - **Répondu le jj/mm/aaaa , hh :mm :** Une seule réponse autorisée et vous l’avez déjà envoyée.
 
-    - **En attente de réponse :** Une seule réponse autorisée et vous ne l’avez pas encore envoyée.
+   - **En attente de réponse :** Une seule réponse autorisée et vous ne l’avez pas encore envoyée.
 
-    - **Réponses : x :** Plusieurs réponses autorisés et vous en avez envoyées x.
+   - **Réponses : x :** Plusieurs réponses autorisées et vous en avez envoyées x.
 
-    - **Réponses : 0 :** Plusieurs réponses autorisés et vous n’en avez pas encore envoyées.
+   - **Réponses : 0 :** Plusieurs réponses autorisées et vous n’en avez pas encore envoyées.
 
 ![](<.gitbook/assets/11_organiser-ses-formulaires-pour-le-repondant1.png>)

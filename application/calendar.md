@@ -38,7 +38,7 @@ Description des actions :
 * **Supprimer** : permet la suppression de l’agenda sélectionné après confirmation ;
 * **Partager** : permet le partage de l’agenda sélectionné avec d’autres utilisateurs.
 
-Attention, si l'necadré de l'agenda est de couleur pâle, c'est que l'agenda n'est pas sélectionné. Les événements de cet agenda ne seront donc pas visibles dans la vue calendaire. Afin d'afficher un agenda, il faut cliquer sur son nom dans la rubrique « Mes agendas ».
+Attention, si l'encadré de l'agenda est de couleur pâle, c'est que l'agenda n'est pas sélectionné. Les événements de cet agenda ne seront donc pas visibles dans la vue calendaire. Afin d'afficher un agenda, il faut cliquer sur son nom dans la rubrique « Mes agendas ».
 
 ## Créer un événement
 
@@ -60,7 +60,7 @@ Cette première rubrique comporte les informations générales de l’événemen
 * le lieu,
 * une ou des pièces jointes, à charger depuis son appareil ou à importer depuis son espace documentaire.
 
-![](<.gitbook/assets/03_importer_pj.png>)
+    ![](<.gitbook/assets/03_importer_pj.png>)
 
 **Onglet Dates**
 
@@ -103,7 +103,7 @@ Il est alors possible de choisir le **type de ressource** que l'on souhaite rés
 Les informations de la ressource s'affichent :
 - La description de la ressource, s'il y en a une
 - La quantité de ressources disponibles pour le créneau choisi
-- Les périodes de disponibilités (en vert) ou d'indisponibilités (en rouge), s'il y en a
+- Les périodes de disponibilités (en vert) ou d'indisponibilités (en rouge), s'il y en a.
 
 
 On peut alors choisir la quantité que l'on désire réserver. Si la quantité ne correspond pas aux disponibilités, un message est affiché.
@@ -114,10 +114,11 @@ Une fois l'évènement enregistré, la réservation est affichée sur la consult
 
 ![](<.gitbook/assets/03_apercu_reservation.png>)
 
-Elle est également consultable et modifiable dans l'application **Réservation de ressources** : elle y est visible sur le même créneau que l'évènement.
+La réservation de ressource effectuée depuis Agenda est également consultable et modifiable dans l'application **Réservation de ressources** : elle y est visible sur le même créneau que l'évènement.
 
 **NB : l'application Agenda permet de créer une ressource associée à un évènement. Cependant, la modification d'un évènement ne modifiera pas la réservation de ressources associée. Rendez-vous sur l'application Réservation de ressources pour la modifier.**
 
+A la suppression de l'événement avec réservations de ressources, il est possible de choisir de supprimer l'événement seulement ou l'événement et ses réservations de ressources. Dans ce dernier cas, les réservations seront automatiquement supprimées dans l'application **Réservation de ressources**.
 
 ## Partager un agenda
 

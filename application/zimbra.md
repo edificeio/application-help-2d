@@ -1,6 +1,6 @@
 # Messagerie
 
-L’application **Messagerie** permet d’envoyer simplement un message à un utilisateur ou à un groupe d’utilisateurs (les élèves d’une classe, le personnel de l'établissement, etc.) ayant un accès à l’ENT et, selon l’établissement, à des personnes extérieures à l’ENT. La **réception** d’un nouveau message est visible dès la **page d’accueil**. Elle est indiquée par une **notification** dans le bandeau de navigation et dans le fil de nouveautés. Le nombre de messages non lus est indiqué devant chaque dossier.
+L’application **Messagerie** permet d’envoyer simplement un message à un utilisateur ou à un groupe d’utilisateurs ayant un accès à l’ENT et, selon l’établissement, à des personnes extérieures à l’ENT. La **réception** d’un nouveau message est visible dès la **page d’accueil**. Elle est indiquée par une **notification** dans le bandeau de navigation et dans le fil de nouveautés. Le nombre de messages non lus est indiqué devant chaque dossier.
 
 ## Envoyer un message
 
@@ -12,32 +12,32 @@ Vous accédez à la fenêtre de création d’un message.
 
 ![](<.gitbook/assets/002_envoyer_un_message.png>)
 
-(1) Indiquez le(s) destinataire(s) de votre message dans le champ **« À »** en saisissant au moins les trois premières lettres de son nom ou en appuyant sur entrée. Vous pouvez adresser un message à un utilisateur en particulier (par exemple un élève), ou à un groupe d’utilisateurs (par exemple les parents d’élèves de Terminale).
-(2) En cliquant sur la flèche, vous avez accès à la saisie des destinataires en **copie** du message. 
+1. Indiquez le(s) destinataire(s) de votre message dans le champ **« À »** en saisissant au moins les trois premières lettres de son nom ou en appuyant sur entrée. Vous pouvez adresser un message à un utilisateur en particulier (par exemple un élève), ou à un groupe d’utilisateurs (par exemple les parents d’élèves de Terminale).
+2. En cliquant sur la flèche, vous avez accès à la saisie des destinataires en **copie** du message.
 
-![](<.gitbook/assets/003_envoyer_un_message_déplié.png>)
+    ![](<.gitbook/assets/003_envoyer_un_message_déplié.png>)
 
-(3) Ajoutez des personnes ou des groupes dans le champ **« Copie »** si vous souhaitez leur adresser une copie du message.
-(4) Ajoutez des personnes ou des groupes dans le champ **« Copie cachée »** si vous souhaitez leur adresser une copie du message. Les autres destinataires ne verront pas la liste des utilisateurs mis en copie cachée du message lors de l’envoi. 
-(5) Indiquez le sujet de votre message dans le champ **« Objet »**.
+3. Ajoutez des personnes ou des groupes dans le champ **« Copie »** si vous souhaitez leur adresser une copie du message.
+4. Ajoutez des personnes ou des groupes dans le champ **« Copie cachée »** si vous souhaitez leur adresser une copie du message. Les autres destinataires ne verront pas la liste des utilisateurs mis en copie cachée du message lors de l’envoi.
+5. Indiquez le sujet de votre message dans le champ **« Objet »**.
 
 Pour sélectionner les **destinataires** de votre message,
 
 ![](<.gitbook/assets/004_destinataire.png>)
 
-(1) Effectuer votre recherche.
-(2) Les résultats s’affichent dans la liste déroulante.
-(3) Si la liste des résultats correspondant à votre recherche est longue, cliquez sur « Voir la suite » pour afficher plus de résultats. 
+1. Effectuer votre recherche.
+2. Les résultats s’affichent dans la liste déroulante.
+3. Si la liste des résultats correspondant à votre recherche est longue, cliquez sur « Voir la suite » pour afficher plus de résultats.
 
 **Dans la fenêtre de saisie de contenu,**
 
 ![](<.gitbook/assets/005_Saisir_message.png>)
 
-(1) **rédigez** votre message.
-(2) Cliquez sur **"Ajouter une pièce jointe"** pour joindre un document à votre message.
-Choisissez le document depuis votre **poste de travail**.
+1. **Rédigez** votre message.
+2. Cliquez sur **"Ajouter une pièce jointe"** pour joindre un fichier à votre message.
+3. Dans la fenêtre d'import, choisissez l'onglet "Charger" pour ajouter un fichier depuis votre appareil : ce fichier sera enregistré dans l'espace documentaire et ajouté en pièce jointe de votre message. Vous pouvez également ajouter un fichier de l'espace documentaire en pièce jointe depuis l'onglet "Espace documentaire".
 
-![](<.gitbook/assets/006_poste_de_travail.png>)
+![](<.gitbook/assets/006_import_pj.png>)
 
 En cochant **« Ajouter une signature »**, vous pouvez paramétrer l’ajout d’une signature pour ce message et pour les suivants.
 
@@ -62,10 +62,10 @@ Une fois que votre message est prêt, vous pouvez l’envoyer.
 **Savoir si vous êtes autorisés à communiquer avec l’extérieur**
 
 Rendez-vous dans l’application de messagerie et cliquez sur **« Nouveau message »**. Si une infobulle signalée par un point d’exclamation s’affiche au niveau de la saisie des destinataires, cela signifie que vous pouvez communiquer avec l’extérieur.
- 
+
 ![](<.gitbook/assets/011_verif_msg_exterieur.png>)
 
-Si l’icône signalant cette infobulle n’apparaît pas, cela signifie que vous n’avez pas les droits pour communiquer avec l’extérieur. 
+Si l’icône signalant cette infobulle n’apparaît pas, cela signifie que vous n’avez pas les droits pour communiquer avec l’extérieur.
 
 **Envoyer un message lorsque la communication vers l’extérieur est autorisée**
 
@@ -75,12 +75,11 @@ Pour écrire à plusieurs destinataires, séparez leurs adresses par un point-vi
 
 ![](<.gitbook/assets/012_saisie_adresse_exte.png>)
 
-Vous pouvez aussi saisie la seconde adresse après avoir validé la première. 
+Vous pouvez aussi saisir la seconde adresse après avoir validé la première.
 
 ![](<.gitbook/assets/013_saisie_adresse_exte2.png>)
 
 ## Visualiser mes messages reçus
-
 Lorsque vous recevez un nouveau message, la **notification** est indiquée dans le bandeau de navigation supérieur.
 
 ![](<.gitbook/assets/014_notification_bandeau.png>)
@@ -95,13 +94,16 @@ Pour chaque message,
 
 ![](<.gitbook/assets/016_elements_message.png>)
 
-(1) Une **enveloppe** indique que le message n’a pas encore été ouvert ou marqué comme lu.
-(2) Le **trombone** indique que le message comporte une pièce jointe
+1. Une **enveloppe** indique que le message n’a pas encore été ouvert ou marqué comme lu,
+
+2. Le **trombone** indique que le message comporte une pièce jointe.
 
 ![](<.gitbook/assets/017_filtre_recherche.png>)
 
-(1) Le filtre **« messages non lus »** vous permet de ne faire apparaître que les messages qui n’ont pas encore été lus.
-(2) La **barre de recherche** vous permet de rechercher un message dans le dossier en cours de consultation grâce au nom d’un utilisateur, un mot clé présent dans l’objet ou le contenu.
+1. Le filtre **« messages non lus »** vous permet de ne faire apparaître que les messages qui n’ont pas encore été lus,
+
+2. La **barre de recherche** vous permet de rechercher un message dans le dossier en cours de consultation grâce au nom d’un utilisateur, un mot clé présent dans l’objet ou le contenu.
+
 Le **mode d’affichage** par défaut des messages est en liste. Vous pouvez changer à tout moment.
 
 Cliquez sur le titre d’un message pour en lire le contenu.
@@ -116,18 +118,22 @@ Revenez sur la liste de vos messages.
 
 ![](<.gitbook/assets/020_selectionner_message.png>)
 
-(1) Sélectionner tous les messages ;
-(2) Sélectionner plusieurs messages ;
-(3) Les déplacer dans un dossier (pour cela vous pouvez également utiliser le "drag & drop") ;
-(4) Les marquer comme lus ;
-(5) Les marquer comme non lus.
+1. Sélectionner tous les messages,
+
+2. Sélectionner plusieurs messages,
+
+3. Les déplacer dans un dossier (pour cela vous pouvez également utiliser le "drag & drop"),
+
+4. Les marquer comme lus,
+
+5. Les marquer comme non lus.
 
 Cliquez sur les icônes de changement de vue pour modifier le mode d’affichage de vos messages.
 
 ![](<.gitbook/assets/021_changement_vues.png>)
 
 Cliquez pour passer en **affichage scindé** et voir simultanément la liste de vos messages et le contenu du message sélectionné.
- 
+
 ![](<.gitbook/assets/022_vue_scindée.png>)
 
 ## Répondre, transférer, classer et supprimer un message
@@ -137,14 +143,48 @@ Lorsque vous avez cliqué sur le titre d’un message, vous accédez à son cont
 ![](<.gitbook/assets/023_répondre_message.png>)
 
 La fenêtre de création d’un message s’ouvre. L’émetteur du message reçu est automatiquement ajouté en tant que destinataire.
-Si vous avez reçu un message groupé vous pouvez cliquer sur le bouton « + » (1) présent en haut à droite pour faire apparaître les options secondaires :
 
 ![](<.gitbook/assets/024_options_message.png>)
 
-(2) **Répondre à tous** : tous les destinataires du messages reçus sont automatiquement ajoutés dans les champs « à » et « en copie » selon la répartition du message d’origine.
-(3) **Transférer** : la fenêtre de création de contenus s’ouvre, le champ destinataire est vide et la pièce jointe est reprise si le message transféré en possédait une.
-(4) **Imprimer**.
-(5) **Supprimer** : Le message sera déplacé dans votre corbeille. Vous pourrez le supprimer définitivement ou le restaurer en le sélectionnant dans le dossier « Corbeille ».
+1. Si vous avez reçu un message groupé vous pouvez cliquer sur le bouton « + »  présent en haut à droite pour faire apparaître les options secondaires :
+
+2. **Répondre à tous** : tous les destinataires du messages reçus sont automatiquement ajoutés dans les champs « à » et « en copie » selon la répartition du message d’origine,
+
+3. **Transférer** : la fenêtre de création de contenus s’ouvre, le champ destinataire est vide et la pièce jointe est reprise si le message transféré en possédait une,
+
+4. **Imprimer**,
+
+5. **Supprimer** : Le message sera déplacé dans votre corbeille. Vous pourrez le supprimer définitivement ou le restaurer en le sélectionnant dans le dossier « Corbeille ».
+
+## Rappeler un message
+
+Dans le cas où vous faites une erreur en envoyant un message, il est possible de demander à rappeler ce message.
+
+Dans la rubrique "Messages envoyés", cliquez sur le message que vous souhaitez rappeler. Dans le menu en bas de l'écran, sélectionnez **"Rappeler le message"**.
+
+![](<.gitbook/assets/024_rappel_menu.png>)
+
+Une fenêtre apparaît : précisez la raison de la demande de rappel et confirmez là en cliquant sur **"Valider"**. Cette demande sera envoyée aux administrateurs de votre établissement.
+
+![](<.gitbook/assets/024_rappel_justification.png>)
+
+De retour dans la rubrique **"Messages envoyés"**, le message que vous avez demandé à rappeler est signalé par une icône ![](<.gitbook/assets/024_rappel_icone.png>) :
+
+![](<.gitbook/assets/024_rappel_effectue.png>)
+
+
+**Si vous êtes administrateur**
+
+Les demandes de rappel de messages sont signalées dans le fil de nouveautés.
+
+![](<.gitbook/assets/024_rappel_admin_actu.png>)
+
+Il est possible de consulter l'ensemble des demandes de rappel de message depuis la console d'administration. Pour y accéder, il faut sélectionner l'onglet "Gérer mon établissement", puis la rubrique "Messagerie Zimbra".
+En bas de la page, la liste des messages à rappeler s'affiche :
+
+![](<.gitbook/assets/024_rappel_admin_liste.png>)
+
+Pour confirmer le rappel du message, cochez les messages que vous souhaitez rappeler (1), puis confirmez en cliquant sur le bouton **"Rappeler les messages"** (2).
 
 ## Mode expert
 
@@ -162,8 +202,10 @@ La case est cochée : le mode expert est en accès direct.
 
 ![](<.gitbook/assets/027_accès_messageries_deux_modes.png>)
 
-(1) Lorsque vous vous connectez à la messagerie via le lien de connexion directe, vous accédez automatiquement au mode expert de la messagerie.
-(2) Si vous vous connectez via le menu des applications ou via les applications mises en raccourci, vous accédez au mode simple.
+1. Lorsque vous vous connectez à la messagerie via le lien de connexion directe, vous accédez automatiquement au mode expert de la messagerie.
+
+2. Si vous vous connectez via le menu des applications ou via les applications mises en raccourci, vous accédez au mode simple.
+
 Pour accéder au mode expert directement depuis la messagerie. Cliquez sur le bouton pour accéder au mode expert.
 
 ![](<.gitbook/assets/028_acceder_mode_expert.png>)
@@ -172,8 +214,12 @@ Vous accédez alors au mode expert.
 
 ![](<.gitbook/assets/029_mode_expert.png>)
 
-(1) Triez et gérez vos mails, dossiers et tags.
-(2) Effectuez des actions sur vos messages.
-(3) Affichez vos messages
-(4) Changez le mode d’affichage de vos messages
-Toutes les fonctionnalités d’une messagerie classique sont accessibles. 
+1. Triez et gérez vos mails, dossiers et tags,
+
+2. Effectuez des actions sur vos messages,
+
+3. Affichez vos messages,
+
+4. Changez le mode d’affichage de vos messages.
+
+Toutes les fonctionnalités d’une messagerie classique sont accessibles.
