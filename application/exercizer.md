@@ -27,7 +27,7 @@ Depuis la page d’accueil, cliquez sur « Mes applis » en haut à droite de l�
 
 Lorsque vous cliquez sur un sujet à rendre, identifiable par ce type d’icône ![](<.gitbook/assets/exercizer_icone_rendre_sujet.png>), la consigne du devoir à rendre s’affiche.
 
-Vous pouvez alors déposer le fichier correspondant à votre copie. La taille de ce fichier ne doit pas dépasser 50Mo.
+Vous pouvez alors déposer le ou les fichier(s) correspondant à votre copie. La taille de chaque fichier ne doit pas dépasser 50Mo.
 
 De manière générale, voici les formats que vous pouvez importer sur l’ENT :
 
@@ -46,7 +46,7 @@ Une fois le fichier sélectionné, son titre s’affiche entre l’icône trombo
 
 Il faudra valider (2) le rendu de devoir pour qu’il soit rendu à l’enseignant.
 
-Une pop-up s’affiche pour vous demander de confirmer le rendu de la copie :
+Une pop-up s’affiche pour vous demander de confirmer le rendu du sujet :
 
 ![](<.gitbook/assets/exercizer\_confirmation\_rendre\_devoir.png>)
 
@@ -66,19 +66,19 @@ Les questions du sujet s’affichent l’une après l’autre. Il vous suffit d�
 
 En cas de difficulté à trouver la réponse, une aide peut parfois vous être proposée. Il suffit de cliquer sur le bouton « Aide à la réponse » en haut à droite de l’écran (3).
 
-![](<.gitbook/assets/aide-a-la-reponse-2-1 (1) (1) (1).jpg>)
+![](<.gitbook/assets/exercizer-aide-a-la-reponse.png>)
 
 Si vous souhaitez vous interrompre et continuer plus tard l’exercice, vous pouvez cliquer sur le bouton "continuer plus tard".
 
-![](<.gitbook/assets/continuer-plus-tard-1-1 (2) (1) (1).jpg>)
+![](<.gitbook/assets/exercizer-continuer-plus-tard.png>)
 
 Dans le cas où la date de rendue de la copie est **dépassée**, le sujet affiché dans la page d’accueil indique à l'élève que la date de rendu est dépassée. L'élève pourra tout de même rendre sa copie, en revanche l'enseignant saura que la copie a été rendue en retard.
 
-![](<.gitbook/assets/retard.png>)
+![](<.gitbook/assets/exercizer-retard.png>)
 
 Une fois l’exercice terminé, cliquez sur rendre la copie. Un message de confirmation s’affiche :
 
-![](<.gitbook/assets/rendre.png>)
+![](<.gitbook/assets/exercizer-rendre.png>)
 
 Selon les options choisies par l'enseignant lors de la distribution de l'exercice, vous pourrez modifier votre copie après rendu ou non, dans la limite du délai imparti et de la correction par l’enseignant.
 
@@ -86,47 +86,44 @@ Selon les options choisies par l'enseignant lors de la distribution de l'exercic
 
 Lorsqu’un exercice est corrigé, vous êtes informés via une publication sur le fil de nouveauté.
 
-![](<.gitbook/assets/notif-2 (2) (1) (3).jpg>)
+![](<.gitbook/assets/exercizer-notif.jpg>)
 
 Vous pouvez alors :
 
 * Cliquer directement sur le nom du sujet dans la notification ce qui ouvrira directement le sujet corrigé
 * Ou vous rendre sur l’application « Exercices et évaluations » puis cliquer sur l’onglet  « terminés » en haut et à gauche de la page (1). Les sujets corrigés s’affichent. Cliquez ensuite sur le sujet dont vous souhaitez voir la correction (2).
 
-![](<.gitbook/assets/termines-3 (1) (1) (1) (2).jpg>)
+![](<.gitbook/assets/exercizer-termines.png>)
 
 **Consulter la correction d’un sujet à rendre**
 
-Vous pouvez télécharger la correction collective du sujet (A) et éventuellement la correction individuelle (B), si cette dernière a été déposée par l’enseignant :
+Vous pouvez télécharger la correction collective du sujet (A) et éventuellement la correction individuelle (B), si cette dernière a été déposée par l’enseignant sur la page de présentation du sujet.
 
-* Depuis la liste des sujets terminés (onglet « Terminés ») ![](<.gitbook/assets/exercizer\_correction\_sujet\_a\_rendre\_1.png>)
-* Dans le sujet ouvert depuis le lien de la notification : ![](<.gitbook/assets/exercizer\_correction\_sujet\_a\_rendre\_2.png>)
+![](<.gitbook/assets/exercizer\_correction\_sujet\_a\_rendre.png>)
 
 **Consulter la correction d’un sujet interactif**
 
 Un résumé s’affiche avec le score final et éventuellement des commentaires formulés par le professeur.
 
-![](<.gitbook/assets/copie-1 (1) (1) (1) (2).jpg>)
+![](<.gitbook/assets/exercice-correction-sujet-interactif.png>)
 
 Vous pouvez ensuite accéder au-dessous à la correction par question. Les bonnes réponses s’affichent en vert et les mauvaises en rouge.
 
-![](<.gitbook/assets/question-1-1-1 (2) (1) (1).jpg>)
+![](<.gitbook/assets/exercizer-corrige-eleve.png>)
 
 ## Élève / Apprenant - Réaliser un sujet d'entraînement
 
-Lorsqu'un sujet interactif a été corrigé par l'enseignant, il est possible de le récupérer (sous réserve que l'enseignant l'ait autorisé) pour s'entraîner. Vous pouvez cliquer sur l'onglet à droite du bandeau de l'exercice pour récupérer le sujet.
+Lorsqu'un sujet interactif a été corrigé par l'enseignant, il est possible de le récupérer (sous réserve que l'enseignant l'ait autorisé) pour s'entraîner. Vous pouvez cliquer sur l'onglet à droite du bandeau de l'exercice pour récupérer le sujet (1).
 
-![](<.gitbook/assets/entrainement-eleve-2.png>)
-
-![](<.gitbook/assets/entrainement-eleve-3.png>)
+![](<.gitbook/assets/exercizer-recup-entrainement.png>)
 
 L'exercice repris se trouve ensuite dans l'onglet « Sujets d'entraînement ». Vous pourrez réaliser autant de fois que souhaités ces sujets d'entraînement.
 
-![](<.gitbook/assets/stud-entrainement.png>)
+![](<.gitbook/assets/exercizer-stud-entrainement.png>)
 
 Une fois le sujet d'entraînement réalisé, vous arrivez sur une page récapitulative où vous pourrez consulter le détail de la correction de la copie (1) et recommencer le sujet (2).
 
-![](<.gitbook/assets/stud-entrainement2.png>)
+![](<.gitbook/assets/exercizer-stud-entrainement2.png>)
 
 ## Enseignant - Créer un nouveau sujet
 
@@ -160,15 +157,15 @@ Dans la page qui s’ouvre, saisissez un titre (1) et ajoutez si vous le souhait
 
 Cliquez enfin sur « Enregistrer » (4).
 
-![](<.gitbook/assets/proprietes-sujet-2 (1) (1) (1).jpg>)
+![](<.gitbook/assets/exercizer_proprietes_sujet_old.jpg>)
 
 Pour ajouter du contenu à votre sujet, cliquez sur « ajouter un élément » :
 
-![](<.gitbook/assets/ajouter-un-element-1-3 (2) (1) (1).png>)
+![](<.gitbook/assets/exercizer_ajouter_element_old.png>)
 
 Pour sélectionner le type de contenu à ajouter, cliquez sur « Énoncé » ou « Question ».
 
-![](<.gitbook/assets/types-de-questions-2-1 (1) (1) (1).jpg>)
+![](<.gitbook/assets/exercizer_types_questions_old.jpg>)
 
 Si vous avez sélectionné l’outil question, vous pouvez choisir le type de question en cliquant sur l’une de ces icônes.
 
@@ -191,27 +188,27 @@ Il vous suffit ensuite de compléter les champs de la question en renseignant :
 5. L’explication de la réponse (fourni à l'apprenant après correction du sujet)
 6. L’aide à la réponse (fourni à l'apprenant lors de la réalisation du sujet)
 
-![](<.gitbook/assets/renseigner-un-exercice-1-1-1 (1) (1) (1) (3).jpg>)
+![](<.gitbook/assets/exercizer_renseigner_exercice_old.jpg>)
 
 Pour certains types de question avec plusieurs possibilités de réponses ("Réponses multiples", "QCM", "Association" et "Mise en ordre"), une case à cocher **"Erreur non autorisée"** s'affiche lors de la rédaction de la question. En sélectionnant cette option, cela signifie que l'apprenant devra trouver la totalité de la réponse et ne sera pas autorisé à trouver partiellement la réponse à la question. Par exemple : pour une question incluant deux bonnes réponses à trouver, si l'apprenant n'en trouve qu'une sur les deux, alors aucun point ne lui sera accordé.
 
 Après avoir créé votre question, cliquez sur « ajouter un élément » et choisissez le type de la question suivante pour poursuivre votre sujet. En cochant la case à gauche du titre de la question, un bandeau orange en bas de votre écran s’affiche. Vous pouvez « dupliquer » ou « supprimer » la question.
 
-![](<.gitbook/assets/case-a-cocher-1-1 (2) (1) (2).jpg>)
+![](<.gitbook/assets/exercizer_case-a-cocher_old.jpg>)
 
 Le volet à gauche de l’écran vous permet de glisser et de déposer des questions avec votre curseur pour les ordonner.
 
-![](<.gitbook/assets/menu-navigation-2-2 (1) (1) (1) (3).png>)
+![](<.gitbook/assets/exercizer_menu_navigation_old.png>)
 
 Il est possible de visualiser votre sujet en cliquant sur l’icône « aperçu » en haut à droite de votre écran.
 
-![](<.gitbook/assets/apercu-2-1-1 (1) (1) (1) (2).jpg>)
+![](<.gitbook/assets/exercizer_apercu_old.jpg>)
 
 ## Enseignant - Distribuer un sujet interactif
 
 Une fois la création de votre sujet terminée, vous pouvez le distribuer en cliquant sur l’icône en haut à gauche de votre écran.
 
-![](<.gitbook/assets/exercizer\_distribuer\_sujet.png>)
+![](<.gitbook/assets/exercizer_distribuer_sujet_old.png>)
 
 Le processus de distribution est le même pour un **sujet à rendre** et un **sujet interactif**. C’est au niveau des choix d’options qu’il y aura des différences.
 
@@ -222,7 +219,7 @@ Pour les **sujets interactifs**, vous pouvez choisir entre 2 modes de distributi
 * Distribution classique :  le sujet sera corrigé par l'enseignant et noté,&#x20;
 * Distribution entraînement : les élèves pourront refaire le sujet à volonté pour s'exercer sur un sujet. Un score et une correction automatique leur permettront de s’auto-évaluer.&#x20;
 
-![](<.gitbook/assets/distrib-1.png>)
+![](<.gitbook/assets/exercizer_distrib_old.png>)
 
 Cliquez sur « suivant » une fois le type de distribution sélectionné.
 
@@ -230,9 +227,9 @@ Cliquez sur « suivant » une fois le type de distribution sélectionné.
 
 Saisissez les premières lettres du nom de l’utilisateur ou du groupe d’utilisateurs que vous recherchez (1) puis sélectionnez le nom de l’utilisateur ou du groupe (2). Lorsque vous ajoutez un groupe, la liste des utilisateurs individuels se met à jour dans la colonne de droite (3). Si vous souhaitez exclure un ou plusieurs élèves d’une distribution à un groupe, supprimez les utilisateurs individuellement (4).
 
-![](<.gitbook/assets/exercizer\_selection\_destinataire\_1.png>)
+![](<.gitbook/assets/exercizer_selection_destinataire_1.png>)
 
-![](<.gitbook/assets/exercizer\_selection\_destinataire\_2.png>)
+![](<.gitbook/assets/exercizer_selection_destinataire_2.png>)
 
 Cliquez sur le bouton « suivant » (5), lorsque la sélection des destinataires est terminée.
 
@@ -255,15 +252,15 @@ Pour **la distribution classique d’un sujet interactif**, les options s’affi
 * (4) Interdire la récupération du sujet par l'élève pour un mode entraînement
 * (5) Indiquer un temps de réalisation du sujet (délai uniquement indicatif)
 
-![](<.gitbook/assets/d-class-4.png>)
+![](<.gitbook/assets/exercizer_distribution_interactif_old.png>)
 
 Pour la **distribution entrainement d’un sujet interactif**, les options sont plus limitées. Vous avez la possibilité de présenter les questions de manières aléatoires (1) et d'indiquer un temps de réalisation du sujet (2).
 
-![](<.gitbook/assets/d-entr2.png>)
+![](<.gitbook/assets/exercizer_distribution_entrainement_old.png>)
 
 Dans les options de distributions d’un **sujet à rendre**, vous pouvez définir la date de début et la date de fin de distribution (comme pour la distribution classique d’un sujet à rendre) (1) mais aussi la date à laquelle les corrigés seront visibles et téléchargeables par les élèves (2).
 
-![](<.gitbook/assets/exercizer\_options\_distribution.png>)
+![](<.gitbook/assets/exercizer_options_distribution.png>)
 
 Une fois les options définies, cliquer sur le bouton « Suivant ».
 
@@ -271,29 +268,29 @@ Une fois les options définies, cliquer sur le bouton « Suivant ».
 
 Le dernier menu « Valider » vous rappelle la date de début et de fin de programmation du sujet. Cliquer sur le bouton suivant pour valider la distribution paramétrée (type, destinataires et option).
 
-![](<.gitbook/assets/exercizer\_valider\_distribution.png>)
+![](<.gitbook/assets/exercizer_valider_distribution.png>)
 
 ## Enseignant - Modifier la période de distribution d’un sujet
 
 Afin de modifier la période de distribution d’un sujet déjà lancé, rendez-vous sur l’onglet "Mes corrections" (1), puis sélectionnez le sujet souhaité (2).
 
-![](<.gitbook/assets/exercizer\_modfier\_periode\_distribution\_1 (1).png>)
+![](<.gitbook/assets/exercizer_modifier_periode_distribution_1.png>)
 
 Dans le bloc des informations sur le sujet en haut à gauche, cliquer sur “Modifier” (3).
 
-![](<.gitbook/assets/exercizer\_modfier\_periode\_distribution\_2.png>)
+![](<.gitbook/assets/exercizer_modifier_periode_distribution_2.png>)
 
 Si des élèves ont déjà commencé l'exercice, vous ne pourrez plus modifier la date de début de l’évaluation.
 
-![](<.gitbook/assets/exercizer\_modfier\_periode\_distribution\_3.png>)
+![](<.gitbook/assets/exercizer_modifier_periode_distribution_3.png>)
 
 Pour les **sujets à rendre**, vous pouvez modifier la date de publication du corrigé.
 
-![](<.gitbook/assets/exercizer\_modfier\_periode\_distribution\_4.png>)
+![](<.gitbook/assets/exercizer_modifier_periode_distribution_4.png>)
 
 Pour les sujets interactifs (distribution classique), Vous avez la possibilité d'interdire aux élèves de reprendre le sujet pour un entraînement.
 
-![](<.gitbook/assets/modif-datepng.png>)
+![](<.gitbook/assets/exercizer_modif_date_old.png>)
 
 Pensez à valider vos modifications. Une notification sera envoyée à tous les apprenants pour les informer de la nouvelle date limite de rendu.
 
@@ -301,21 +298,21 @@ Pensez à valider vos modifications. Une notification sera envoyée à tous les 
 
 Cliquez sur l’onglet “Mes Corrections” (1), puis cliquez sur le sujet souhaité (2).
 
-![](<.gitbook/assets/exercizer\_modfier\_periode\_distribution\_1 (1).png>)
+![](<.gitbook/assets/exercizer_modifier_periode_distribution_1.png>)
 
 Dans le bloc des informations sur le sujet en haut à gauche, cliquer sur “Déprogrammer” (1). Les apprenants n’auront plus accès au sujet et l'enseignant n'aura plus accès aux corrections.
 
-![](<.gitbook/assets/exercizer\_deprogrammer\_sujet.png>)
+![](<.gitbook/assets/exercizer_deprogrammer_sujet_old.png>)
 
 ## Enseignant - Exclure un élève d’une évaluation distribuée à un groupe
 
 Vous pouvez exclure un ou plusieurs élèves à la distribution. Pour cela, il vous suffit, lors de la distribution, de sélectionner le groupe souhaité, et supprimer le ou les élève(s) à exclure dans la liste “utilisateurs ajoutés” (1).
 
-![](<.gitbook/assets/exclu.png>)
+![](<.gitbook/assets/exercizer_exclu1_old.png>)
 
 Si vous avez déjà distribué le sujet, rendez-vous dans “Mes Corrections”. Sélectionnez le sujet souhaité puis cliquez sur le ou les élèves à exclure (1). Cliquez ensuite sur “Exclure de l’évaluation” dans le menu en bas de l’écran (2).
 
-![](<.gitbook/assets/exclu2.png>)
+![](<.gitbook/assets/exercizer_exclu2_old.png>)
 
 ## Enseignant - Ajouter le statut "rendu" à un sujet
 
@@ -325,13 +322,13 @@ Cette option vous permettra notamment de ne pas inclure ces élèves dans les ra
 
 Elle n’est disponible que pour les sujets interactifs.
 
-![](<.gitbook/assets/rendu\_manuel (1).png>)
+![](<.gitbook/assets/exercizer_rendu_manuel_old.png>)
 
 ## Enseignant - Partager un sujet
 
 Pour partager un sujet avec d’autres utilisateurs, cliquez sur la case à cocher correspondant au sujet (1) puis sur le bouton « Partager » (2).
 
-![](<.gitbook/assets/image (53) (1).png>)
+![](<.gitbook/assets/exercizer_partage_1_old.png>)
 
 La fenêtre de partage apparaît. Pour attribuer des droits d’accès à votre sujet à d’autres utilisateurs, suivez les étapes suivantes :
 
@@ -339,7 +336,7 @@ La fenêtre de partage apparaît. Pour attribuer des droits d’accès à votre 
 2. Sélectionnez le nom de l’utilisateur ou du groupe.
 3. Cochez les cases correspondant aux droits que vous souhaitez leur attribuer.
 
-![](<.gitbook/assets/fenetre-de-partage-1-1 (1) (1) (1) (2).png>)
+![](<.gitbook/assets/exercizer_fenetre_partage_old.png>)
 
 Vous pouvez attribuer différents droits aux autres utilisateurs de l’ENT :
 
@@ -349,11 +346,11 @@ Vous pouvez attribuer différents droits aux autres utilisateurs de l’ENT :
 
 La personne à qui vous avez partagé le sujet peut le retrouver dans la rubrique « Sujets partagés avec moi ». En fonction des droits accordés, elle a la possibilité de le modifier et de le distribuer en cliquant sur l’intitulé du sujet.
 
-![](<.gitbook/assets/image (51) (1).png>)
+![](<.gitbook/assets/exercizer_sujets_partages_old.png>)
 
 Elle peut aussi copier le sujet (en le sélectionnant puis en cliquant sur « Copier » dans le menu qui apparait en bas.) et faire des modifications dans sa propre version.
 
-![](<.gitbook/assets/image (50) (1) (1).png>)
+![](<.gitbook/assets/exercizer_copier_old.png>)
 
 _Nota Bene : Contrairement à la publication de sujet dans la bibliothèque, cette fonction « Partager » restreint le partage aux seules personnes à qui les droits de consultation, contribution et/ou gestion sont donnés._
 
@@ -361,11 +358,11 @@ _Nota Bene : Contrairement à la publication de sujet dans la bibliothèque, cet
 
 Pour corriger un sujet, cliquez sur l’onglet « Mes corrections » en haut à gauche de l’écran puis cliquez sur le sujet que vous souhaitez corriger.
 
-![](<.gitbook/assets/exercizer\_modfier\_periode\_distribution\_1 (1).png>)
+![](<.gitbook/assets/exercizer_modifier_periode_distribution_1.png>)
 
 Vous arrivez sur la liste des élèves du groupe auquel vous avez distribué le sujet. Pour les élèves n'ayant pas rendu leur devoir, vous pouvez sélectionner un des élèves sur la case à cocher (1) afin de lui envoyer un rappel (2) pour faire le devoir, ou l'exclure de l'évaluation (3) si l'élève ne peut pas faire le devoir. Il est également possible de sélectionner en lot tous les élèves n'ayant pas rendu le devoir (4).
 
-![](<.gitbook/assets/rappel.png>)
+![](<.gitbook/assets/exercizer_rappel_old.png>)
 
 **Corriger un sujet à rendre**
 
@@ -373,11 +370,11 @@ Vous avez la possibilité de télécharger sur votre appareil les copies rendues
 
 Soit individuellement en cliquant sur la pièce jointe dans la colonne « Fichier ».
 
-![](<.gitbook/assets/exercizer\_corriger\_sujet\_a\_rendre\_1.png>)
+![](<.gitbook/assets/exercizer_corriger_sujet_a_rendre_1.png>)
 
 Soit de manière groupée en sélectionnant toutes les copies à récupérer puis en cliquant sur « Télécharger la sélection » dans le menu orange qui s’affiche en bas de l’écran.
 
-![](<.gitbook/assets/exercizer\_corriger\_sujet\_a\_rendre\_2.png>)
+![](<.gitbook/assets/exercizer_corriger_sujet_a_rendre_2.png>)
 
 Ce sera alors un dossier zippé qui s’enregistrera sur votre poste de travail.
 
@@ -391,21 +388,21 @@ Vous disposez de plusieurs statuts de correction pour vous repérer au cours des
 * En cours de correction (2) : la correction a été débutée mais n'est pas finalisée
 * Rendu (3) : le devoir a été rendu par l'élève mais la correction n'a pas encore débuté
 
-![](<.gitbook/assets/statut.png>)
+![](<.gitbook/assets/exercizer_statut_old.png>)
 
 Vous pouvez cocher la case à gauche du nom de l’élève pour changer à la volée le statut d'une ou de plusieurs copies en "corrigé" (2).
 
-![](<.gitbook/assets/exercizer\_corriger\_sujet\_interactif\_2.png>)
+![](<.gitbook/assets/exercizer_corriger_sujet_interactif_2.png>)
 
 Cliquez sur le nom de l’élève pour corriger la copie rendue par celui-ci.
 
 Pour chacune des questions corrigées automatiquement, vous pouvez affecter un score final manuel en modifiant la valeur « score final ».
 
-![](<.gitbook/assets/exercizer\_corriger\_sujet\_interactif\_3.png>)
+![](<.gitbook/assets/exercizer_corriger_sujet_interactif_3.png>)
 
 Sous le résumé de la copie, vous pouvez y ajouter un commentaire lors de la correction.
 
-![](<.gitbook/assets/exercizer\_corriger\_sujet\_interactif\_4.png>)
+![](<.gitbook/assets/exercizer_corriger_sujet_interactif_4.png>)
 
 ## Enseignant - Dupliquer un sujet
 
