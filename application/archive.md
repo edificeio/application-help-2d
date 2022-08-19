@@ -28,13 +28,13 @@ Le fichier généré (fichier compressé) peut être enregistré sur votre appar
 
 Connectez-vous avec le compte sur lequel vous souhaitez importer des données issues de l’ENT. Dans l’**onglet IMPORTER** de l’application, cliquez sur le bouton Parcourir (ou utilisez la fonctionnalité glisser-déposer sur votre ordinateur) pour charger le fichier d’export compressé que vous souhaitez importer sur votre compte.
 
-![](<.gitbook/assets/importer\_selectionfichier (1) (1).png>)
+![](<.gitbook/assets/importer_selectionfichier (1) (1).png>)
 
 _Seul un fichier au format .zip, généré par la fonction EXPORTER de l’application MES DONNEES, peut être importé._
 
 Une fois le fichier sélectionné et chargé, une fenêtre s’affiche vous proposant de sélectionner les applications pour lesquelles vous souhaitez importer les contenus. Cochez les contenus à importer (1) puis cliquez sur le bouton Importer (2) :
 
-![](<.gitbook/assets/importer\_selectionapplipourimport2 (1).png>)
+![](<.gitbook/assets/importer_selectionapplipourimport2 (1).png>)
 
 _Pour que le contenu d’une application puisse être importé, il faut :_
 
@@ -43,7 +43,7 @@ _Pour que le contenu d’une application puisse être importé, il faut :_
 
 Si l'import est volumineux, il peut prendre plusieurs minutes :
 
-![](<.gitbook/assets/importer\_spinner (1).png>)
+![](<.gitbook/assets/importer_spinner (1).png>)
 
 A la fin de l’import, un rapport s’affiche sur l’onglet IMPORTER, indiquant notamment le nombre de contenus importés par application :
 

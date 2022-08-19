@@ -4,7 +4,7 @@
 
 La page d’accueil est la première page affichée après vous être connecté sur la plateforme. Elle vous permet d’accéder à différentes fonctions et contenus, comme le fil de nouveautés, les widgets, le bandeau de navigation (présents sur chaque page de l’ENT) mais aussi de changer de thème.
 
-![](<.gitbook/assets/aperçu page d'accueil.png>)
+![](<.gitbook/assets/presentation_page_accueil.png>)
 
 ## Le fil de nouveautés
 
@@ -45,7 +45,8 @@ Sur le fil de nouveauté, vous avez la possibilité de ne plus voir la notificat
 
 ![](<.gitbook/assets/fil-survol1-1-1-1 (1) (1) (2).png>)
 
-Lorsque vous cliquez sur la flèche, les actions concernant la notification sélectionnée s’affichent.\
+Lorsque vous cliquez sur la flèche, les actions concernant la notification sélectionnée s’affichent.
+
 Vous pouvez :
 
 * Supprimer l’affichage de la notification de votre fil de nouveauté
@@ -67,13 +68,13 @@ Les widgets se situent à gauche du fil de nouveautés. Ils sont composés des n
 
 * Le widget **Mon réseau** affiche la photo de profil de l’utilisateur, son nom et son établissement de rattachement. S’il est rattaché à plusieurs établissements, il peut sélectionner un de ses établissements dans une liste déroulante.
 
-  * Les enseignants peuvent cliquer sur “Mes classes” et sur “Équipe enseignante”
+* Les enseignants peuvent cliquer sur “Mes classes” et sur “Équipe enseignante”
 
-  * Les personnels peuvent cliquer sur “Personnels et enseignants” et sur “Les classes”
+* Les personnels peuvent cliquer sur “Personnels et enseignants” et sur “Les classes”
 
-  * Les élèves disposent un bouton “Ma classe” et un bouton “Mes enseignants”
+* Les élèves disposent un bouton “Ma classe” et un bouton “Mes enseignants”
 
-  * Les parents bénéficient des boutons “Équipe enseignante” et “Direction”
+* Les parents bénéficient des boutons “Équipe enseignante” et “Direction”
 
 ![](<.gitbook/assets/widget mon réseau.png>)
 
@@ -89,9 +90,18 @@ Les widgets se situent à gauche du fil de nouveautés. Ils sont composés des n
 
 ![](<.gitbook/assets/widget liens utiles.png>)
 
-* Le widget **Dictaphone** permet d’enregistrer des sons depuis le micro de son ordinateur. Les sons seront enregistrés dans l’espace documentaire de l’utilisateur.
+* Le widget **Studio** permet de capturer des sons ou des vidéos depuis le micro et la caméra de son ordinateur.
 
-![](<.gitbook/assets/widget dictaphone.png>)
+![](<.gitbook/assets/Timeline_widget-studio.png>)
+
+* Vous avez la possibilité de donner un nom à votre enregistrement (1)
+* Après avoir lancé votre enregistrement, vous pouvez suspendre les enregistrements audio ou arrêter les capture vidéo en cliquant sur le bouton de gauche (2)
+* Vous pouvez ensuite lire l'enregistrement que vous venez de capturer en cliquant sur le bouton "lecture" (3)
+* Les captures audio et vidéo seront enregistrées (4) dans l’espace documentaire de l’utilisateur. Vous pouvez aussi annuler un enregistrement que vous ne souhaitez pas conserver (5)
+
+![](<.gitbook/assets/widget-dictaphone2.png>)
+
+![](<.gitbook/assets/Timeline_widget-captureVideo2.png>)
 
 * Le widget **Applications préférées** permet d’afficher les applications favorites directement depuis la page d’accueil.
 
@@ -196,18 +206,18 @@ Différentes ressources sont proposées par défaut (LearningApps, Educaplay, Yo
 
 1. Copiez d’abord l’adresse URL du contenu
 
-    ![](.gitbook/assets/exemple-ressource-externe-learningapps.png)
+![](.gitbook/assets/exemple-ressource-externe-learningapps.png)
 
 2. Intégrez la ressource dans une application
 
-    Cliquez sur l’icône du type de contenu à insérer, (LearningApps dans notre exemple).
+Cliquez sur l’icône du type de contenu à insérer, (LearningApps dans notre exemple).
 
-    ![](.gitbook/assets/selection-learningapps-onglet-lien-ajout-contenu-multimedia-2D.png)
+![](.gitbook/assets/selection-learningapps-onglet-lien-ajout-contenu-multimedia-2D.png)
 
-    Une nouvelle fenêtre s’ouvre, dans laquelle vous pouvez coller l’adresse de la ressource en question (1). Une prévisualisation du contenu s’affiche (2), si vous souhaitez l’intégrer, cliquez sur le bouton “Appliquer” (3).
+Une nouvelle fenêtre s’ouvre, dans laquelle vous pouvez coller l’adresse de la ressource en question (1). Une prévisualisation du contenu s’affiche (2), si vous souhaitez l’intégrer, cliquez sur le bouton “Appliquer” (3).
 
-    ![](.gitbook/assets/apercu-learningapps-onglet-lien-ajout-contenu-multimedia-2D.png)
-    
+![](.gitbook/assets/apercu-learningapps-onglet-lien-ajout-contenu-multimedia-2D.png)
+
 La ressource est maintenant intégrée à votre contenu !
 
 **Ajouter une ressource dont le type n’est pas proposé par défaut**
@@ -216,31 +226,31 @@ Si le type de la ressource à intégrer n’est pas proposé par défaut, il fau
 
 1. _**Exemples de contenus à intégrer via le code d'intégration (embed ou iframe)**_
 
-    Il existe de nombreuses ressources internet que vous pouvez intégrer sur votre réseau éducatif si le code d’intégration lié est proposé. Ce code se trouve souvent derrière le symbole : **</>** mais on peut le trouver également derrière un bouton "Partager" ou des icônes de partage.
+Il existe de nombreuses ressources internet que vous pouvez intégrer sur votre réseau éducatif si le code d’intégration lié est proposé. Ce code se trouve souvent derrière le symbole : **</>** mais on peut le trouver également derrière un bouton "Partager" ou des icônes de partage.
 
-    Voici quelques exemples de sites qui proposent des ressources intéressantes que vous pouvez intégrer sur les contenus partagés :
-    
-    * [Padlet](https://padlet.com/my/dashboard) propose des murs collaboratifs.
-    * [Geogebra](https://www.geogebra.org/) fournit, pour tous les niveaux d'éducation, des ressources de mathématiques dynamiques qui associent géométrie, algèbre, tableur, grapheur, statistiques et calcul infinitésimal.
-    * [Corpus](https://www.reseau-canope.fr/corpus/) permet d'explorer le corps humain dans toutes ses dimensions au travers d'une interface 3D, de vidéos et de vidéos enrichies.
-    * [Scratch](https://scratch.mit.edu/) pour l’apprentissage des élèves au codage informatique.
-    * [OpenStreetMap](http://www.openstreetmap.fr/) : Le wiki cartographique mondial qui crée et fournit des données géographiques sous licence libre.
-    * Vous pouvez également intégrer des contenus interactifs (Présentations, Infographies, Dossiers, Vidéos-Présentations, ePosters, Quiz,...) créés sur [Genially](https://www.genial.ly/fr).    
-    
+Voici quelques exemples de sites qui proposent des ressources intéressantes que vous pouvez intégrer sur les contenus partagés :
+
+* [Padlet](https://padlet.com/my/dashboard) propose des murs collaboratifs.
+* [Geogebra](https://www.geogebra.org/) fournit, pour tous les niveaux d'éducation, des ressources de mathématiques dynamiques qui associent géométrie, algèbre, tableur, grapheur, statistiques et calcul infinitésimal.
+* [Corpus](https://www.reseau-canope.fr/corpus/) permet d'explorer le corps humain dans toutes ses dimensions au travers d'une interface 3D, de vidéos et de vidéos enrichies.
+* [Scratch](https://scratch.mit.edu/) pour l’apprentissage des élèves au codage informatique.
+* [OpenStreetMap](http://www.openstreetmap.fr/) : Le wiki cartographique mondial qui crée et fournit des données géographiques sous licence libre.
+* Vous pouvez également intégrer des contenus interactifs (Présentations, Infographies, Dossiers, Vidéos-Présentations, ePosters, Quiz,...) créés sur [Genially](https://www.genial.ly/fr).
+
 2. _**Collez le code d’intégration pour intégrer la ressource sur votre espace numérique**_
 
-    Une fois le code d’intégration copié, vous pouvez insérer la ressource dans toutes les applications dotées de l’éditeur de texte en cliquant sur l’icône d’intégration ci-contre.
+Une fois le code d’intégration copié, vous pouvez insérer la ressource dans toutes les applications dotées de l’éditeur de texte en cliquant sur l’icône d’intégration ci-contre.
 
-    ![](.gitbook/assets/coller-code-integration-ajout-contenu-multimedia-1-2D.png)
+![](.gitbook/assets/coller-code-integration-ajout-contenu-multimedia-1-2D.png)
 
-    Une fenêtre s’ouvre, vous pouvez alors :
+Une fenêtre s’ouvre, vous pouvez alors :
 
-    1. Coller le lien d’intégration de la ressource ;
-    2. Voir un aperçu du contenu à intégrer ;
-    3. Cliquer sur le bouton « Appliquer » pour intégrer la ressource au contenu.
+1. Coller le lien d’intégration de la ressource ;
+2. Voir un aperçu du contenu à intégrer ;
+3. Cliquer sur le bouton « Appliquer » pour intégrer la ressource au contenu.
 
-    ![](.gitbook/assets/coller-code-integration-ajout-contenu-multimedia-2-2D.png)
-    
+![](.gitbook/assets/coller-code-integration-ajout-contenu-multimedia-2-2D.png)
+
 **Captation vidéo**
 
 Vous pouvez également ajouter une capture vidéo.
@@ -293,31 +303,26 @@ Pour y accéder, cliquez sur le bouton à droite de votre fil de nouveautés.
 
 L’onglet de gestion de vos paramètres apparaît.
 
-![](<.gitbook/assets/volet personnalisation page d'accueil.png>)
+![](<.gitbook/assets/timeline_badeau-personnalisation.png>)
 
-Pour changer l’apparence de votre thème, cliquez sur celui de votre choix.
+Pour changer l’apparence de votre thème, cliquez sur celui de votre choix (1). L’apparence de votre thème est alors modifiée.
 
-![](<.gitbook/assets/volet personnalisation page d'accueil thème.png>)
+Pour décider d’afficher seulement certains widgets, désélectionnez ceux que vous ne souhaitez pas voir apparaître sur votre page d’accueil (2). Ils seront grisés dans la gestion de vos paramètres.
 
-L’apparence de votre thème est modifiée.
-
-Pour décider d’afficher seulement certains widgets, désélectionnez ceux que vous ne souhaitez pas voir apparaître sur votre page d’accueil. Ils seront grisés dans la gestion de vos paramètres.
-
-![](<.gitbook/assets/volet personnalisation page d'accueil widgets.png>)
-
-Vous pouvez également choisir la langue de l’interface.
-
-![](<.gitbook/assets/volet personnalisation page d'accueil langue.png>)
+Vous pouvez également choisir la langue de l’interface (3).
 
 ## Notifications externes
 
-Votre réseau est doté d’un système de notification par mail qui permet aux utilisateurs de recevoir sur leur adresse personnelle des mails contenant les dernières nouveautés et informations qui les concernent.\
-Chaque utilisateur peut modifier les notifications qu’il souhaite recevoir et la fréquence de chacune d’elles (immédiate, quotidienne, hebdomadaire).\
+Votre réseau est doté d’un système de notification par mail qui permet aux utilisateurs de recevoir sur leur adresse personnelle des mails contenant les dernières nouveautés et informations qui les concernent.
+
+Chaque utilisateur peut modifier les notifications qu’il souhaite recevoir et la fréquence de chacune d’elles (immédiate, quotidienne, hebdomadaire).
+
 Pour accéder à ce paramétrage, aller dans Mon compte (1) et cliquer sur le bouton "Gérer mes notifications externes" (2).
 
 ![](<.gitbook/assets/image1-1-1-1 (1) (1) (2).png>)
 
-La page de paramétrage des notifications externes permet de modifier l’adresse de réception des mails (3) et de choisir la fréquence d’envoi de chaque notification (immédiat, quotidien, hebdomadaire, jamais) (4).\
+La page de paramétrage des notifications externes permet de modifier l’adresse de réception des mails (3) et de choisir la fréquence d’envoi de chaque notification (immédiat, quotidien, hebdomadaire, jamais) (4).
+
 Le détail des notifications disponibles par service est accessible en cliquant sur le nom du service dans la ligne correspondante (5).
 
 ![](<.gitbook/assets/image2-1-1-1-1 (2) (2).png>)
@@ -350,9 +355,7 @@ Les ressources sont recherchées dans les catégories suivantes :
 * Poste-Fichiers
 * Sondage
 
-{% hint style="info" %}
 Seules les ressources pour lesquelles l’utilisateur a un droit d’accès sont affichées dans le moteur de recherche.
-{% endhint %}
 
 ![](<.gitbook/assets/acces0011-1-2-1-1 (2).png>)
 
@@ -388,6 +391,4 @@ Vous retrouverez ensuite ce favori de partage dans votre barre de recherche, au 
 
 ![](<.gitbook/assets/consultation-favori-2-2-1-1 (2) (2).png>)
 
-{% hint style="info" %}
 Afin que votre partage soit pris en compte, n’oubliez pas de cliquer sur le bouton "Partager".
-{% endhint %}

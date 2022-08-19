@@ -1,4 +1,4 @@
-# Mindmap
+# Carte mentale
 
 Fatigué de laisser filer vos idées de génie ? L’application **Carte mentale** permet non seulement de les noter, mais aussi d’y relier toutes les réflexions qui en découlent !
 
@@ -41,7 +41,7 @@ Pour ajouter de nouvelles notions à un nœud :
 
 3. Le nouveau nœud est créé ainsi que le lien avec le nœud de départ.
 
-    ![](<.gitbook/assets/02-créer-carte-mentale-4.png>)
+   ![](<.gitbook/assets/02-créer-carte-mentale-4.png>)
 
 **Supprimer un nœud**
 
@@ -51,7 +51,7 @@ Pour supprimer un nœud, vous pouvez :
 
 2. Cliquer sur l’icône **« Supprimer un nœud »** ou taper directement sur la touche « supprimer ».
 
-    ![](<.gitbook/assets/02-créer-carte-mentale-5.png>)
+   ![](<.gitbook/assets/02-créer-carte-mentale-5.png>)
 
 **La mise en forme du texte**
 
@@ -75,7 +75,7 @@ Pour ajouter lien entre deux nœuds il vous faut :
 
 3. Une flèche apparaît, cliquez sur le second nœud (3) pour indiquer le point d’arrivée de la flèche
 
-    ![](<.gitbook/assets/02-créer-carte-mentale-7.png>)
+   ![](<.gitbook/assets/02-créer-carte-mentale-7.png>)
 
 
 **Ajouter des contenus complémentaires à un nœud**
@@ -117,7 +117,7 @@ Dans la fenêtre de partage, vous pouvez donner des **droits de lecture, de cont
 
 4. Pour valider, cliquez sur le bouton **« Partager »**.
 
-    ![](<.gitbook/assets/03-partager-carte-mentale-2.png>)
+   ![](<.gitbook/assets/03-partager-carte-mentale-2.png>)
 
 Les **différents droits** que vous pouvez attribuer sont les suivants :
 
@@ -161,6 +161,20 @@ Vous aurez ensuite la possibilité de **modifier les champs saisis ou de supprim
 
 ![](<.gitbook/assets/04-publier-biblio-4.png>)
 
+## Dupliquer une carte mentale
+
+Cliquez sur la carte mentale dont vous souhaitez faire une copie, puis choisissez l'option "dupliquer" sur le menu.
+
+![](<.gitbook/assets/Mindmap_06-dupliquer-1.png>)
+
+Vous verrez apparaître un message vous signalant que la copie a été correctement réalisée.
+
+![](<.gitbook/assets/Mindmap_06-dupliquer-2.png>)
+
+Vous pourrez ensuite vérifier que la copie est bien présente dans votre application.
+
+![](<.gitbook/assets/Mindmap_06-dupliquer-3.png>)
+
 ## Gestion des dossiers
 
 Les cartes mentales peuvent être **rangées et triées dans des dossiers**.
@@ -191,7 +205,7 @@ Une pop-up apparait, affichant toute **l’arborescence de dossiers**. Pour choi
 
 2. Cliquez sur **« Déplacer »** pour valider l’action
 
-    ![](<.gitbook/assets/05-gestion-dossier-5.png>)
+   ![](<.gitbook/assets/05-gestion-dossier-5.png>)
 
 **Supprimer un dossier**
 
@@ -201,7 +215,7 @@ Pour supprimer un dossier il suffit de :
 
 2. Cliquer sur le bouton **« Supprimer »** dans le bandeau orange en bas
 
-    ![](<.gitbook/assets/05-gestion-dossier-6.png>)
+   ![](<.gitbook/assets/05-gestion-dossier-6.png>)
 
 Une pop-up avec un **message de confirmation** de la suppression apparait. Un clic sur le bouton **« Supprimer »** permet de confirmer l’action de suppression.
 
