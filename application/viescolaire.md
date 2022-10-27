@@ -336,6 +336,10 @@ Puis dans **l'onglet "Etablissement"**, choisir **Plage Horaire** et là dans le
 
 ![](<.gitbook/assets/viescolaire_3_plage_horaire.png>)
 
+Pensez bien à définir l'heure qui définit la mi-journée sur votre établissement pour permettre le calcul des absences par demi journée dans le module Présences.
+
+![](<.gitbook/assets/viescolaire_1_06_plage_horaire_mijournee.png>)
+
 **Les périodes de fermeture**
 
 Il est possible de **définir des périodes ou des jours de fermeture** dans le paramétrage de Vie Scolaire. Côté Présences, cela aura pour conséquences de **griser ces périodes dans le registre**.
