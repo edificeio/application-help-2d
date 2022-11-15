@@ -57,11 +57,11 @@ Exemple de création d'un aimant vidéo en plusieurs étapes :
 
 1. D'abord choisir un URL
 
-![](.gitbook/assets/magneto_2_03_aimant-video.png)
+    ![](.gitbook/assets/magneto_2_03_aimant-video.png)
 
 2. Puis choisir un titre, une légende et description
 
-![](.gitbook/assets/magneto_2_04_aimant-video.png)
+    ![](.gitbook/assets/magneto_2_04_aimant-video.png)
 
 
 La création de l'aimant se fait directement au clic sur "Enregistrer" et il apparaît sur le tableau. Le type de l'aimant est alors affiché au niveau de la vignette de ce dernier.

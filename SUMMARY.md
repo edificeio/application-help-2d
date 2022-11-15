@@ -26,6 +26,7 @@
 * [Frise chronologique](application/timelinegenerator.md)
 * [GeoGebra](application/geogebra)
 * [LOOL](application/lool.md)
+* [Magneto](application/magneto.md)
 * [Mes applis](application/portal.md)
 * [Mes données](application/archive.md)
 * [Messagerie](application/conversation.md)
