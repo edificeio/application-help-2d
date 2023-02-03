@@ -77,11 +77,11 @@ Si vous choisissez une section, l’outil de création s’affiche ainsi dans la
 
 2. Saisissez une **description** si vous souhaitez.
 
-3. **Supprimer** la section : ![](<.gitbook/assets/formulaire_3_1_02-construire-un-formulaire.png>)
+3. **Supprimer** la section : ![](<.gitbook/assets/formulaire_3_1_02_construire-un-formulaire.png>)
 
-4. **Annuler** les récentes modifications : ![](<.gitbook/assets/formulaire_3_1_03-construire-un-formulaire.png>)
+4. **Annuler** les récentes modifications : ![](<.gitbook/assets/formulaire_3_1_03_construire-un-formulaire.png>)
 
-5. **Valider** la création de la section ou les modifications : ![](<.gitbook/assets/formulaire_3_1_04-construire-un-formulaire.png>)
+5. **Valider** la création de la section ou les modifications : ![](<.gitbook/assets/formulaire_3_1_04_construire-un-formulaire.png>)
 
 6. En enregistrant votre section, vous pouvez **rajouter des questions**.
 
@@ -98,18 +98,18 @@ Si vous choisissez une question, l’outil de création s’affiche dans la page
 
 2. Rédigez les **réponses possibles** (pour les choix multiples, réponse unique et radio bouton).
 
-3. Choisissez de rendre la réponse à cette question **obligatoire** : ![](<.gitbook/assets/formulaire_3_2_02-construire-un-formulaire.png>)
+3. Choisissez de rendre la réponse à cette question **obligatoire** : ![](<.gitbook/assets/formulaire_3_2_02_construire-un-formulaire.png>)
 
-4. **Dupliquer** l'élément (avec la question et les réponses possibles) : ![](<.gitbook/assets/formulaire_3_2_03-construire-un-formulaire.png>)
+4. **Dupliquer** l'élément (avec la question et les réponses possibles) : ![](<.gitbook/assets/formulaire_3_2_03_construire-un-formulaire.png>)
 
-5. **Supprimer** la question : ![](<.gitbook/assets/formulaire_3_2_04-construire-un-formulaire.png>)
+5. **Supprimer** la question : ![](<.gitbook/assets/formulaire_3_2_04_construire-un-formulaire.png>)
 
-6. **Annuler** les récentes modifications : ![](<.gitbook/assets/formulaire_3_2_05-construire-un-formulaire.png>)
+6. **Annuler** les récentes modifications : ![](<.gitbook/assets/formulaire_3_2_05_construire-un-formulaire.png>)
 
 
 **Question conditionnelle**
 
-Pour les questions de type radio bouton et réponse unique, il est possible de créer des questions conditionnelles grâce au bouton poussoir : ![](<.gitbook/assets/formulaire_3_3_01-construire-un-formulaire-question-conditionnelle.png>)
+Pour les questions de type radio bouton et réponse unique, il est possible de créer des questions conditionnelles grâce au bouton poussoir : ![](<.gitbook/assets/formulaire_3_3_01_construire-un-formulaire-question-conditionnelle.png>)
 
 Vous pouvez ainsi choisir à quelle section l'utilisateur devra répondre en fonction de sa réponse :
 
