@@ -24,7 +24,6 @@ Ce module vous permet de **créer des formulaires** en y intégrant différents 
 
 * une demande de réponse longue.
 
-
 ![](<.gitbook/assets/formulaire_1_01_presentation.png>)
 
 ## Créer un formulaire
@@ -202,7 +201,7 @@ Le formulaire a été créé et partagé en réponse à des utilisateurs mais vo
 5. Cliquez sur **« Confirmer »**, le rappel est envoyé :
    - à ceux qui n’ont pas répondu au formulaire si plusieurs réponses d’un même utilisateur ne sont pas possibles.
    - à tout le monde si plusieurs réponses d’un même utilisateur sont possibles.
-
+   
    ![](<.gitbook/assets/formulaire_7_01_envoyer-un-rappel.png>)
 
 
