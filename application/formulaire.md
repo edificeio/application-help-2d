@@ -184,7 +184,6 @@ Le formulaire a été créé et partagé en réponse à des utilisateurs mais vo
 
 ![](<.gitbook/assets/formulaire_6_01_envoyer-un-rappel.png>)
 
-
 ## Envoyer un rappel
 
 Le formulaire a été créé et partagé en réponse à des utilisateurs mais vous n’avez pas encore toutes les réponses que vous souhaitez. Il est possible d’envoyer un rappel aux utilisateurs. Pour cela, suivez les étapes suivantes :
