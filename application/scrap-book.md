@@ -117,7 +117,7 @@ Si vous tentez de modifier une page éditée par un autre utilisateur, vous obti
 
 ![](.gitbook/assets/scrap-book_04_messageVerrou2D.png)
 
-Lorsque vous changez de page après l’avoir édité, le changement de page entraîne une sauvegarde automatique de la page que vous quittez. 
+Lorsque vous changez de page après l’avoir éditée, le changement de page entraîne une sauvegarde automatique de la page que vous quittez. 
 
 ![](.gitbook/assets/scrapbook_04_pageSaved.png)
 
