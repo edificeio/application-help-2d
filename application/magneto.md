@@ -11,6 +11,13 @@ Depuis l'application Magnéto, il est possible de **créer des tableaux blancs d
 ![](.gitbook/assets/magneto_1_01_creer-un-tableau.png)
 
 Une pop up s'ouvre alors. Il est **obligatoire de mettre un titre et une vignette**. La description est optionnelle.
+Il est également possible de choisir le mode d'affichage du tableau :
+- **libre**
+- **sections verticales**
+- **sections horizontales**
+
+Vous pouvez choisir d'ajouter des **mots clés** au tableau qui seront utilisés dans la recherche.
+Enfin vous pouvez ajouter une **image de fond** à votre tableau. Il faut privilégier une image en mode paysage de bonne qualité.
 
 ![](.gitbook/assets/magneto_1_02_creer-un-tableau.png)
 
@@ -57,11 +64,11 @@ Exemple de création d'un aimant vidéo en plusieurs étapes :
 
 1. D'abord choisir un URL
 
-![](.gitbook/assets/magneto_2_03_aimant-video.png)
+    ![](.gitbook/assets/magneto_2_03_aimant-video.png)
 
 2. Puis choisir un titre, une légende et description
 
-![](.gitbook/assets/magneto_2_04_aimant-video.png)
+    ![](.gitbook/assets/magneto_2_04_aimant-video.png)
 
 
 La création de l'aimant se fait directement au clic sur "Enregistrer" et il apparaît sur le tableau. Le type de l'aimant est alors affiché au niveau de la vignette de ce dernier.
@@ -91,6 +98,29 @@ Il permet **d'ouvrir une visionneuse d'aimants** et de naviguer de l'un à l'aut
 
 ![](.gitbook/assets/magneto_2_09_lecture-navigation.png)
 
+## Sections
+
+Les tableaux Magnéto peuvent se diviser en sections verticales (colonnes) ou horizontales (lignes).
+
+Ce choix se fait à la création du tableau ou depuis la roue cranté en bas de la barre d'outils.
+
+![](.gitbook/assets/magneto_2_10_proprietes-tableau.png)
+
+![](.gitbook/assets/magneto_2_11_disposition-tableau.png)
+
+Une section est créée par défaut si le mode section est choisi. Elle est nommée Section 1 et il est possible d'éditer son nom en cliquant directement sur le nom.
+Une section peut être **dupliquée, supprimée et déplacée**.
+- A la **suppression** de la section, il est demandé à l'utilisateur **s'il souhaite supprimer tous les aimants** contenus dans la section ou s'il préfère **les déplacer** dans la première section.
+- Le déplacement de la section se fait par **glisser-déposer depuis le haut de la section**.
+
+![](.gitbook/assets/magneto_2_12_sections.png)
+
+Pour **créer une section** il suffit **d'ajouter un nom dans le champ "nom de section" puis de cliquer sur entrer ou de cliquer n'importe où ailleurs dans la page**. Il est aussi possible de créer automatiquement une section en glissant-déposant un aimant dans la colonne.
+
+![](.gitbook/assets/magneto_2_13_creer-section.png)
+
+
+
 ## Partage et publication
 
 En cliquant sur 'Partage' dans le menu toaster, **les tableaux peuvent être partagés**.
@@ -108,7 +138,7 @@ Il existe différents droits :
 
 ![](.gitbook/assets/magneto_3_02_popup-partage.png)
 
-Il est également possible de **mettre un tableau à disposition de toute la plateforme** depuis le toaster et le **bouton "Partager à toute la plateforme"**. Le tableau est ainsi disponible à tous les utilisateurs connectés avec un **droit de réutilisation**. Ils accèderont donc au tableau en mode lecture et pourront en plus dupliquer les aimants sur leurs propres tableaux depuis la collection d'aimants.
-Ces tableaux sont disponibles depuis l'arborescence dans l'entrée de menu **Tableaux de la plateforme**. 
+Il est également possible de **mettre un tableau à disposition de tous les établissements de la plateforme** depuis le toaster et le **bouton "Partager à toute la plateforme"**. Le tableau est ainsi disponible à tous les utilisateurs connectés avec un **droit de réutilisation**. Ils accèderont donc au tableau en mode lecture et pourront en plus dupliquer les aimants sur leurs propres tableaux depuis la collection d'aimants.
+Ces tableaux sont disponibles depuis l'arborescence dans l'entrée de menu **Tableaux de la plateforme**.
 
 ![](.gitbook/assets/magneto_3_03_popup-partage-plateforme.png)
