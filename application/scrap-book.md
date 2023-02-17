@@ -6,7 +6,7 @@ Avec le **Cahier multimédia**, votre banal exposé sur la faune amazonienne dev
 
 Les cahiers créés peuvent être utilisés comme des **supports de restitution** de travaux ou encore comme **outil de communication** avec d’autres utilisateurs puisque chaque cahier peut être partagé avec un utilisateur ou un groupe d’utilisateurs.
 
-Les utilisateurs ayant des droits de contribution dans le cahier choisissent le nombre de pages du cahier et la mise en forme qu’ils souhaitent appliquer à chaque page.
+Les utilisateurs ayant des droits de contribution dans le cahier choisissent le nombre de pages du cahier et la mise en forme qu’ils souhaitent appliquer à chaque page. Ils peuvent éditer à plusieurs et en même temps un cahier multimédia, en se positionnant sur des pages différentes 
 
 ![](<.gitbook/assets/cma-1-1-2 (1) (1) (2).png>)
 
@@ -106,6 +106,22 @@ Pour tous les types de contenus, il est aussi possible de modifier la position e
 Pour modifier la taille du contenu, cliquez sur le contenu puis cliquez sur l'icône "flèches" situé en bas à droite du contenu.
 
 ![](<.gitbook/assets/2019-07-12_15h39_54-1 (1) (1).png>)
+
+Il est possible de **collaborer à plusieurs en simultané** sur un cahier multimédia. En effet, plusieurs utilisateurs peuvent éditer en même temps **des pages différentes** d'un même cahier multimédia.
+
+Lorsque vous éditez une page, celle-ci est verrouillée. Les autres utilisateurs pourront toujours consulter le contenu de cette page, mais ils ne pourront pas la modifier.
+
+_Rq : Ce verrou est maintenu tant que vous êtes en cours d'édition de la page, et est automatiquement levé en cas d’absence d’activité pendant 10min, ou après enregistrement. Ainsi, si vous perdez la connexion, vous aurez 10 min pour vous reconnecter et continuer de modifier la page en cours d’édition._
+
+Si vous tentez de modifier une page éditée par un autre utilisateur, vous obtiendrez le message suivant :
+
+![](.gitbook/assets/scrap-book_04_messageVerrou2D.png)
+
+Lorsque vous changez de page après l’avoir édité, le changement de page entraîne une sauvegarde automatique de la page que vous quittez. 
+
+![](.gitbook/assets/scrapbook_04_pageSaved.png)
+
+La page quittée est de nouveau disponible pour modification par un autre utilisateur.
 
 Pour visualiser votre cahier, cliquez sur « Afficher ». N’oubliez pas d’enregistrer vos travaux avant de quitter la page en cliquant sur « Enregistrer ».
 
