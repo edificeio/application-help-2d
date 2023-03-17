@@ -30,7 +30,7 @@ Vous accédez à l’interface de création du cahier.
 
 ![](<.gitbook/assets/2019-07-16_15h07_54 (2) (2).png>)
 
-Votre cahier est désormais créé mais n’est pas encore visible. Pour le partager avec d’autres utilisateurs, cliquez sur la case à cocher (1) située à côté du cahier puis sur « Partager » (2).
+Votre cahier est désormais créé, mais n’est pas encore visible. Pour le partager avec d’autres utilisateurs, cliquez sur la case à cocher (1) située à côté du cahier puis sur « Partager » (2).
 
 ![](<.gitbook/assets/2d-cahier-multimedia-partager-1 (1) (1).png>)
 
@@ -46,18 +46,18 @@ Les différents droits que vous pouvez attribuer sont les suivants :
 * Contribution : l’utilisateur peut modifier le cahier
 * Gestion : l’utilisateur peut partager, modifier et supprimer le cahier
 
-Pour les cahiers vous appartenant, vous pourrez voir quels sont les cahiers que vous aurez déjà partagé car ils auront cette icône : ![](<.gitbook/assets/share-1 (1) (1).png>)
+Pour les cahiers vous appartenant, vous pourrez voir quels sont les cahiers que vous aurez déjà partagés, car ils auront cette icône : ![](<.gitbook/assets/share-1 (1) (1).png>)
 
-## Organiser ses cahiers multimédias <a href="#organiser-ses-cahiers-multimedias" id="organiser-ses-cahiers-multimedias"></a>
+## Organiser ses cahiers multimédias
 
-‌Vous avez à votre disposition différents outils pour trier les cahiers multimédias auxquels vous avez accès :‌
+Vous avez à votre disposition différents outils pour trier les cahiers multimédias auxquels vous avez accès :
 
 1. Deux filtres vous permettent d'afficher :
    * **Mes cahiers,** pour afficher/masquer les cahiers multimédia dont vous êtes le propriétaire
    * **Les cahiers partagés avec moi,** pour afficher/masquer les cahiers multimédia qui vous ont été partagés
 2. Vous pouvez organiser vos cahiers grâce à l'arborescence suivante :
    * **Mes cahiers**, qui est le dossier principal, dans lequel vous pourrez créer tous vos sous-dossiers (grâce au bouton "Créer un dossier")
-   * **Corbeille** où vous retrouverez les cahiers multimédia que vous aurez supprimé, pour éviter toute suppression définitive involontaire.
+   * **Corbeille** où vous retrouverez les cahiers multimédias que vous aurez supprimés, pour éviter toute suppression définitive involontaire.
 
 ![](<.gitbook/assets/2019-07-11_15h48_17 (1) (1).png>)
 
@@ -75,11 +75,11 @@ Une fois votre cahier multimédia créé, vous pouvez publier des pages. Lorsque
 
 Pour modifier plus facilement le cahier multimédia, vous disposez de l'option "Afficher en plein écran".
 
-![](<.gitbook/assets/2019-07-12_15h35_27-1 (2) (1).png>)
+![](.gitbook/assets/scrap-book_04_btn-modifier2D.png)
 
 Pour ajouter de nouvelles pages, cliquez sur « Ajouter une page » (1) ou sur la flèche à droite du cahier (2).
 
-![](<.gitbook/assets/2019-07-12_15h37_39-1 (1) (1) (2).png>)
+![](.gitbook/assets/scrap-book_04_ajouterPage2D.png)
 
 Vous pouvez ajouter les contenus suivants dans vos cahiers :
 
@@ -123,37 +123,29 @@ Lorsque vous changez de page après l’avoir éditée, le changement de page en
 
 La page quittée est de nouveau disponible pour modification par un autre utilisateur.
 
-Pour visualiser votre cahier, cliquez sur « Afficher ». N’oubliez pas d’enregistrer vos travaux avant de quitter la page en cliquant sur « Enregistrer ».
+Pour visualiser votre cahier, cliquez sur « Quitter l'édition ». N’oubliez pas d’enregistrer vos travaux avant de quitter la page en cliquant sur « Enregistrer ».
 
-## Organiser les pages du cahier multimédia <a href="#organiser-les-pages-du-cahier-multimedia" id="organiser-les-pages-du-cahier-multimedia"></a>
+![](.gitbook/assets/scrap-book_04_Btns-Enregistrer-Quitter2D.png)
 
-‌Différentes options sont à votre disposition pour organiser les pages de votre cahier multimédia. Dans le mode édition du cahier multimédia, cliquez sur le bouton "+"‌
+## Organiser les pages du cahier multimédia
 
-* Vous pouvez modifier l'ordre des pages en cliquant sur le bouton "Ordre des pages".
+Différentes options sont à votre disposition pour organiser les pages de votre cahier multimédia. Dans le mode édition du cahier multimédia, cliquez sur le bouton "+". 
 
-![](<.gitbook/assets/2019-07-12_15h42_49-1 (1) (1).png>)
+![](.gitbook/assets/scrap-book_05_toaster-OrgaPages2D.png)
 
-Une fenêtre s'ouvrira pour accéder à toutes les pages de votre cahier multimédia. Par un simple glisser-déposer, vous pourrez ordonner vos pages comme vous le souhaitez.
+\(1\) Vous pouvez modifier l'ordre des pages en cliquant sur le bouton "**Réorganiser les pages**". Une fenêtre s'ouvrira pour accéder à toutes les pages de votre cahier multimédia. Par un simple glisser-déposer, vous pourrez ordonner vos pages comme vous le souhaitez.
 
-![](<.gitbook/assets/2019-07-12_15h43_41-1 (2) (1).png>)
+![](.gitbook/assets/scrap-book_05_fenetre-reorganiserPages2D.png)
 
-‌
+\(2\) Vous pouvez dupliquer la page en cours, en cliquant sur "**Dupliquer la page**". La page dupliquée se retrouvera avant la page sélectionnée.
 
-* Vous pouvez dupliquer la page en cours, en cliquant sur "Dupliquer la page". La page dupliquée se retrouvera avant la page sélectionnée.
+\(3\) Vous pouvez dupliquer la page en cours dans un autre cahier multimédia en cliquant sur le bouton "**Copier vers un cahier**". Vous pourrez choisir le ou les cahiers multimédias de destination puis cliquer sur "Copier".
 
-![](<.gitbook/assets/2019-07-12_15h42_491-1 (2) (2).png>)
+![](.gitbook/assets/scrap-book_05_fenetre-CopierPage2D.png)
 
-* Vous pouvez dupliquer la page en cours dans un autre cahier multimédia en cliquant sur le bouton "Copier vers un cahier".
+\(4\) Vous pouvez également supprimer la page en cours, en cliquant sur le bouton "**Supprimer la page**".
 
-![](<.gitbook/assets/2019-07-12_15h42_492-2 (2) (2).png>)
-
-Vous pourrez choisir le ou les cahiers multimédias de destination puis cliquer sur "Copier".
-
-![](<.gitbook/assets/2019-07-12_15h49_30 (1) (1) (2).png>)
-
-* Vous pouvez également supprimer la page en cours, en cliquant sur le bouton "Supprimer la page".
-
-![](<.gitbook/assets/2019-07-12_15h42_493-1 (2) (1).png>)
+\(5\) Et enfin, vous pouvez ajouter une nouvelle page juste après celle sur laquelle vous êtes positionnée en cliquant sur le bouton "**Ajouter une page à la suite**"
 
 ## Publier une vidéo dans un cahier multimédia
 
@@ -222,34 +214,34 @@ Vous aurez ensuite la possibilité de modifier les champs saisis ou de supprimer
 
 ![](<.gitbook/assets/2020-05-20_16h39_59.png>)
 
-## Imprimer le cahier multimédia <a href="#imprimer-le-cahier-multimedia" id="imprimer-le-cahier-multimedia"></a>
+## Imprimer le cahier multimédia 
 
-‌Il vous est possible d'imprimer votre cahier multimédia. Vous pouvez le faire depuis la page d'accueil de l'application Cahier multimédia en sélectionnant le cahier que vous voulez imprimer (1) puis cliquer sur "Imprimer" (2).
+Il vous est possible d'imprimer votre cahier multimédia. Vous pouvez le faire depuis la page d'accueil de l'application Cahier multimédia en sélectionnant le cahier que vous voulez imprimer (1) puis cliquer sur "Imprimer" (2).
 
 ![](<.gitbook/assets/2019-07-12_15h50_02-1 (2) (1).png>)
 
 Vous pouvez également ouvrir le cahier multimédia souhaité, cliquer sur le "+" (1) puis cliquer sur "Imprimer" (2).
 
-![](<.gitbook/assets/2019-07-12_15h42_494-2 (1) (1).png>)
+![](.gitbook/assets/scrap-book_08_Btn-imprimer2D.png)
 
-## Exporter un cahier multimédia en PDF <a href="#exporter-en-pdf-le-cahier-multimedia" id="exporter-en-pdf-le-cahier-multimedia"></a>
+## Exporter un cahier multimédia en PDF
 
-‌Si vous souhaitez exporter votre cahier multimédia sous la forme d'un fichier PDF, il vous faut suivre les mêmes démarches que pour imprimer. Ensuite selon le navigateur utilisé :‌
+Si vous souhaitez exporter votre cahier multimédia sous la forme d'un fichier PDF, il vous faut suivre les mêmes démarches que pour imprimer. Ensuite selon le navigateur utilisé :‌
 
 * Pour Chrome :
 
-Dans le champ "Destination", choisissez l'option Enregistrer au format PDF‌
+Dans le champ "Destination", choisissez l'option Enregistrer au format PDF.
 
 ![](<.gitbook/assets/2019-07-11_15h18_39 (1) (1) (3).png>)
 
 * Pour Internet Explorer, Microsoft Edge et Mozilla Firefox :
 
-Dans le champ "Nom", choisissez l'option "Microsoft Print to PDF"‌
+Dans le champ "Nom", choisissez l'option "Microsoft Print to PDF".
 
 ![](<.gitbook/assets/2019-07-11_15h18_03 (1) (1) (7).png>)
 
 * Pour Safari :
 
-Cliquez sur la flèche vers le bas situé à coté du PDF puis choisissez l'option "Enregistrer au format PDF"
+Cliquez sur la flèche vers le bas situé à côté du PDF puis choisissez l'option "Enregistrer au format PDF"
 
 ![](<.gitbook/assets/capture-decran-2019-07-11-a-15.36.46 (1) (1) (7).png>)
