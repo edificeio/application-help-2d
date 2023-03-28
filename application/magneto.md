@@ -142,3 +142,34 @@ Il est également possible de **mettre un tableau à disposition de tous les ét
 Ces tableaux sont disponibles depuis l'arborescence dans l'entrée de menu **Tableaux de la plateforme**.
 
 ![](.gitbook/assets/magneto_3_03_popup-partage-plateforme.png)
+
+## Extensions Navigateur Magnéto
+
+Des extensions navigateurs existent pour vous permettre d'agréger du contenu dans vos tableaux durant votre navigation web. 
+
+* [Extension Chrome](https://chrome.google.com/webstore/detail/magneto-extension/pamjpplklghfnfknbbfegacelfkhjikd "Lien extension Magnéto Chrome")
+* [Extension Firefox](https://addons.mozilla.org/fr/firefox/addon/magneto_extension/ "Lien extension Magnéto Firefox")
+
+Installez l'extension, puis lors de votre navigation, cliquer dessus.
+Il vous sera demandé de vous connecter en choisissant votre ENT.
+![](.gitbook/assets/magneto_4_extension-authent1.png)
+![](.gitbook/assets/magneto_4_extension-authent2.png)
+
+Une fois connecté, actualisez la page ou l'extension.
+![](.gitbook/assets/magneto_4_extension-update.png)
+
+Vos tableaux sont désormais disponibles et vous pouvez sélectionner celui dans lequel vous souhaitez créer des aimants.
+![](.gitbook/assets/magneto_4_extension-tableau.png)
+
+Il suffit ensuite de cliquer sur les modes de capture de votre choix :
+
+* Lien : crée un aimant "Lien" en prenant le lien de la page web sur laquelle vous vous trouvez
+* Capture du texte de la page complète : crée un aimant "texte" avec tout le contenu de la page web
+* Capture : vous permet de réaliser une capture d'écran et cela crée un aimant "image"
+* Sélection manuelle : vous permet de choisir l'élément de la page à copier et crée un aimant "texte"
+
+Cliquez enfin sur Sauvegarder après avoir renseigné le titre de l'aimant.
+![](.gitbook/assets/magneto_4_extension-sauvegarde.png)
+
+Un feedback vous indique si l'aimant a bien été créé et vous propose d'accéder au tableau Magnéto.
+![](.gitbook/assets/magneto_4_extension-feedback.png)
