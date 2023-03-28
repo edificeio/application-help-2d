@@ -12,9 +12,10 @@ Depuis l'application Magnéto, il est possible de **créer des tableaux blancs d
 
 Une pop up s'ouvre alors. Il est **obligatoire de mettre un titre et une vignette**. La description est optionnelle.
 Il est également possible de choisir le mode d'affichage du tableau :
-- **libre**
-- **sections verticales**
-- **sections horizontales**
+
+* **libre**
+* **sections verticales**
+* **sections horizontales**
 
 Vous pouvez choisir d'ajouter des **mots clés** au tableau qui seront utilisés dans la recherche.
 Enfin vous pouvez ajouter une **image de fond** à votre tableau. Il faut privilégier une image en mode paysage de bonne qualité.
@@ -26,6 +27,7 @@ Au **clic sur "Enregistrer"**, le tableau se crée et l'utilisateur est directem
 La collection de tableaux est alors disponible et il est possible de **créer des dossiers pour les ranger**.
 
 Sur la carte des tableaux, des icônes indiquent si les tableaux sont :
+
 * **partagés**  ![](.gitbook/assets/magneto_1_03_partage.png)
 
 * **partagés à la communauté**  ![](.gitbook/assets/magneto_1_04_partage-communaute.png)
@@ -37,6 +39,7 @@ Sur la carte des tableaux, des icônes indiquent si les tableaux sont :
 
 L'utilisateur peut **ajouter des aimants sur son tableau à partir de la barre latérale**.
 Il existe différents types d'aimants :
+
 * texte
 
 * image
@@ -84,6 +87,7 @@ Il est possible de **faire une recherche par mot clés** (4). L'affichage des r�
 Depuis cette vue, l'utilisateur peut accéder à un **aperçu de l'aimant** pour savoir si l'aimant lui convient. Pour cela, il clique sur les 3 petits points en haut à droite puis sur aperçu. (1)
 
 Si l'aimant lui convient, **il peut alors le dupliquer** :
+
 * soit depuis les 3 petits, (2)
 
 * soit depuis le bouton "Dupliquer" en bas à droite de la pop-up. (3)
@@ -110,8 +114,9 @@ Ce choix se fait à la création du tableau ou depuis la roue cranté en bas de 
 
 Une section est créée par défaut si le mode section est choisi. Elle est nommée Section 1 et il est possible d'éditer son nom en cliquant directement sur le nom.
 Une section peut être **dupliquée, supprimée et déplacée**.
-- A la **suppression** de la section, il est demandé à l'utilisateur **s'il souhaite supprimer tous les aimants** contenus dans la section ou s'il préfère **les déplacer** dans la première section.
-- Le déplacement de la section se fait par **glisser-déposer depuis le haut de la section**.
+
+* A la **suppression** de la section, il est demandé à l'utilisateur **s'il souhaite supprimer tous les aimants** contenus dans la section ou s'il préfère **les déplacer** dans la première section.
+* Le déplacement de la section se fait par **glisser-déposer depuis le haut de la section**.
 
 ![](.gitbook/assets/magneto_2_12_sections.png)
 
@@ -128,6 +133,7 @@ En cliquant sur 'Partage' dans le menu toaster, **les tableaux peuvent être par
 ![](.gitbook/assets/magneto_3_01_toaster.png)
 
 Il existe différents droits :
+ 
 * **droit de lecture** : les utilisateurs n'accèdent au tableau qu'en mode lecture
 
 * **droit de réutilisation** : les utilisateurs accèdent au tableau en mode lecture, ils peuvent aussi réutiliser les aimants depuis la collection d'aimants
