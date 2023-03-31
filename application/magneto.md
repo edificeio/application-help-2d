@@ -12,9 +12,10 @@ Depuis l'application Magnéto, il est possible de **créer des tableaux blancs d
 
 Une pop up s'ouvre alors. Il est **obligatoire de mettre un titre et une vignette**. La description est optionnelle.
 Il est également possible de choisir le mode d'affichage du tableau :
-- **libre**
-- **sections verticales**
-- **sections horizontales**
+
+* **libre**
+* **sections verticales**
+* **sections horizontales**
 
 Vous pouvez choisir d'ajouter des **mots clés** au tableau qui seront utilisés dans la recherche.
 Enfin vous pouvez ajouter une **image de fond** à votre tableau. Il faut privilégier une image en mode paysage de bonne qualité.
@@ -26,6 +27,7 @@ Au **clic sur "Enregistrer"**, le tableau se crée et l'utilisateur est directem
 La collection de tableaux est alors disponible et il est possible de **créer des dossiers pour les ranger**.
 
 Sur la carte des tableaux, des icônes indiquent si les tableaux sont :
+
 * **partagés**  ![](.gitbook/assets/magneto_1_03_partage.png)
 
 * **partagés à la communauté**  ![](.gitbook/assets/magneto_1_04_partage-communaute.png)
@@ -37,6 +39,7 @@ Sur la carte des tableaux, des icônes indiquent si les tableaux sont :
 
 L'utilisateur peut **ajouter des aimants sur son tableau à partir de la barre latérale**.
 Il existe différents types d'aimants :
+
 * texte
 
 * image
@@ -84,6 +87,7 @@ Il est possible de **faire une recherche par mot clés** (4). L'affichage des r�
 Depuis cette vue, l'utilisateur peut accéder à un **aperçu de l'aimant** pour savoir si l'aimant lui convient. Pour cela, il clique sur les 3 petits points en haut à droite puis sur aperçu. (1)
 
 Si l'aimant lui convient, **il peut alors le dupliquer** :
+
 * soit depuis les 3 petits, (2)
 
 * soit depuis le bouton "Dupliquer" en bas à droite de la pop-up. (3)
@@ -110,8 +114,9 @@ Ce choix se fait à la création du tableau ou depuis la roue cranté en bas de 
 
 Une section est créée par défaut si le mode section est choisi. Elle est nommée Section 1 et il est possible d'éditer son nom en cliquant directement sur le nom.
 Une section peut être **dupliquée, supprimée et déplacée**.
-- A la **suppression** de la section, il est demandé à l'utilisateur **s'il souhaite supprimer tous les aimants** contenus dans la section ou s'il préfère **les déplacer** dans la première section.
-- Le déplacement de la section se fait par **glisser-déposer depuis le haut de la section**.
+
+* A la **suppression** de la section, il est demandé à l'utilisateur **s'il souhaite supprimer tous les aimants** contenus dans la section ou s'il préfère **les déplacer** dans la première section.
+* Le déplacement de la section se fait par **glisser-déposer depuis le haut de la section**.
 
 ![](.gitbook/assets/magneto_2_12_sections.png)
 
@@ -128,6 +133,7 @@ En cliquant sur 'Partage' dans le menu toaster, **les tableaux peuvent être par
 ![](.gitbook/assets/magneto_3_01_toaster.png)
 
 Il existe différents droits :
+ 
 * **droit de lecture** : les utilisateurs n'accèdent au tableau qu'en mode lecture
 
 * **droit de réutilisation** : les utilisateurs accèdent au tableau en mode lecture, ils peuvent aussi réutiliser les aimants depuis la collection d'aimants
@@ -142,3 +148,34 @@ Il est également possible de **mettre un tableau à disposition de tous les ét
 Ces tableaux sont disponibles depuis l'arborescence dans l'entrée de menu **Tableaux de la plateforme**.
 
 ![](.gitbook/assets/magneto_3_03_popup-partage-plateforme.png)
+
+## Extensions Navigateur Magnéto
+
+Des extensions navigateurs existent pour vous permettre d'agréger du contenu dans vos tableaux durant votre navigation web. 
+
+* [Extension Chrome](https://chrome.google.com/webstore/detail/magneto-extension/pamjpplklghfnfknbbfegacelfkhjikd "Lien extension Magnéto Chrome")
+* [Extension Firefox](https://addons.mozilla.org/fr/firefox/addon/magneto_extension/ "Lien extension Magnéto Firefox")
+
+Installez l'extension, puis lors de votre navigation, cliquer dessus.
+Il vous sera demandé de vous connecter en choisissant votre ENT.
+![](.gitbook/assets/magneto_4_extension-authent1.png)
+![](.gitbook/assets/magneto_4_extension-authent2.png)
+
+Une fois connecté, actualisez la page ou l'extension.
+![](.gitbook/assets/magneto_4_extension-update.png)
+
+Vos tableaux sont désormais disponibles et vous pouvez sélectionner celui dans lequel vous souhaitez créer des aimants.
+![](.gitbook/assets/magneto_4_extension-tableau.png)
+
+Il suffit ensuite de cliquer sur les modes de capture de votre choix :
+
+* Lien : crée un aimant "Lien" en prenant le lien de la page web sur laquelle vous vous trouvez
+* Capture du texte de la page complète : crée un aimant "texte" avec tout le contenu de la page web
+* Capture : vous permet de réaliser une capture d'écran et cela crée un aimant "image"
+* Sélection manuelle : vous permet de choisir l'élément de la page à copier et crée un aimant "texte"
+
+Cliquez enfin sur Sauvegarder après avoir renseigné le titre de l'aimant.
+![](.gitbook/assets/magneto_4_extension-sauvegarde.png)
+
+Un feedback vous indique si l'aimant a bien été créé et vous propose d'accéder au tableau Magnéto.
+![](.gitbook/assets/magneto_4_extension-feedback.png)
