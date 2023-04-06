@@ -1,7 +1,8 @@
 # Lystore
 
 ## Passer des commandes à votre collectivité
-### 1. **Accéder à la campagne de matériel**
+
+**1. Accéder à la campagne de matériel**
 
 Si vous êtes en charge de passer des commandes de matériel dans votre établissement, vous arrivez sur une page d'accueil similaire à celle-ci lorsque vous accédez à l'application Lystore :
 
@@ -15,7 +16,7 @@ Sur les campagnes ouvertes (ici, Campagne test Support), il y a 2 boutons utilis
 
 
 
-### 2. **Accéder au catalogue**
+**2. Accéder au catalogue**
 
 **Pour passer une commande** à votre collectivité, cliquez sur le bouton **Accéder au catalogue** de la campagne souhaitée.
 Vous accédez alors au catalogue proposé par la collectivité pour la campagne concernée, comme sur l'exemple ci-après :
@@ -25,7 +26,7 @@ Vous accédez alors au catalogue proposé par la collectivité pour la campagne 
 
 
 
-### 3. **Sélectionner des équipements**
+**3. Sélectionner des équipements**
 
 Sélectionnez un des équipements que vous souhaitez ajouter à votre panier. Puis, vous pouvez choisir la quantité voulue de cet équipement.
 ![](.gitbook/assets/lystore_02v2_detail_article_reduit.png)
@@ -35,8 +36,7 @@ Le prix total de l'article affiché en bleu à droite correspond donc au prix de
 
 Cliquez sur "Ajouter au panier" pour ajouter l'article en quantité voulue à votre panier.
 
-
-### 4. **Consulter et valider votre panier**
+**4. Consulter et valider votre panier**
 
 Pour accéder à votre panier, cliquez sur l'onglet "Panier" dans le menu en haut de l'écran.
 ![](.gitbook/assets/lystore_03_panier_reduit.png)
@@ -60,7 +60,7 @@ Vous devez obligatoirement choisir l'intitulé de votre demande (les intitulés 
 Les autres champs sont optionnels.
 
 
-### 5. **Consulter vos demandes**
+**5. Consulter vos demandes**
 
 Aller dans l'onglet "Suivi des demandes" dans le menu en haut de l'écran.
 
@@ -77,6 +77,7 @@ Sur chaque demande, un statut est affiché (à droite) pour vous indiquer l'éta
 
 
 ## Consulter l'historique de vos demandes
+
 Depuis la page d'accueil de Lystore, cliquez sur le bouton "Accéder aux demandes" présent sur la campagne dont vous souhaitez consulter l'historique de vos demandes.
 
 ![](.gitbook/assets/lystore_01_ecran_des_campagnes_reduit.png)

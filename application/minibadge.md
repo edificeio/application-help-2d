@@ -13,6 +13,7 @@ En revanche, si vous acceptez de participer, il faut alors **valider la charte**
 ## Badges reçus
 
 A l'ouverture du module, vous arrivez sur **la page des badges reçus**. Elle est composée de 3 blocs :
+
 - **Badges reçus publics** : votre nom apparaît dans les statistiques du badge
 
 ![](<.gitbook/assets/minibadges_02_badgespublics.png>)
@@ -47,6 +48,7 @@ Avant de décerner un badge, vous pouvez en **consulter le détail** en cliquant
 ![](<.gitbook/assets/minibadges_03_detailbadge.png>)
 
 Cette page se compose :
+
 - d'un bloc présentant les **caractéristiques du badge**
 
 - d'un bloc **description du badge**
@@ -71,6 +73,7 @@ C'est ici qu'il sera **possible de révoquer un badge**. Cela signifie que vous 
 ## Statistiques
 
 Si vous avez le droit, vous accéderez à un onglet Statistiques permettant d'obtenir des informations d'usages du module sur :
+
 - Les utilisateurs les plus récompensés
 
 - Les utilisateurs les plus généreux
