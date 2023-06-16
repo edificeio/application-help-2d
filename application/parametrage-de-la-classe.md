@@ -22,13 +22,12 @@ Il est alors possible d’ajouter des élèves, des parents, des enseignants et 
 
 ![](<.gitbook/assets/2019-10-08\_14h26\_55 (1).png>)
 
-Une interface propose trois options pour ajouter des utilisateurs à votre classe :
+Une interface propose deux options pour ajouter des utilisateurs à votre classe :
 
 * Créer des utilisateurs (1) : vous permet de créer manuellement des utilisateurs
-* Importer un fichier (2) : vous permet d'importer un fichier CSV issus de votre base pour créer tous vos élèves, ou d'importer un fichier en se basant sur les modèles fournis
-* Rechercher des utilisateurs (3) : vous permet de rechercher des utilisateurs déjà présents sur l'école
+* Rechercher des utilisateurs (2) : vous permet de rechercher des utilisateurs déjà présents sur l'école
 
-![](<.gitbook/assets/2019-09-24\_17h04\_24 (1) (1).png>)
+![](.gitbook/assets/parametrage-de-la-classe_02_AjoutUserNEO.png)
 
 1. Si vous souhaitez créer manuellement des utilisateurs, une interface vous propose de créer l'utilisateur de votre choix en renseignant plusieurs informations, obligatoires ou non, en fonction du profil :
 
@@ -49,20 +48,8 @@ Une interface propose trois options pour ajouter des utilisateurs à votre class
     
     ![](<.gitbook/assets/2019-09-24\_17h06\_48 (1) (1).png>)
 
-2. Si vous souhaitez **importer des utilisateurs** à partir d'un fichier, vous avez la possibilité d'exporter votre fichier CSV pour votre classe afin de l'importer depuis l'interface prévue à cet effet.
 
-    Si vous n'avez pas de fichier d'export depuis ONDE, vous pouvez utiliser les fichiers modèles fournis sur les liens ci-après :
-    
-    * Fichier élève : [https://neoconnect.opendigitaleducation.com/admin/public/assets/CSV_Eleves.csv](https://neoconnect.opendigitaleducation.com/admin/public/assets/CSV\_Eleves.csv)
-    * Fichier responsable légal : [https://neoconnect.opendigitaleducation.com/admin/public/assets/CSV_Parents.csv](https://neoconnect.opendigitaleducation.com/admin/public/assets/CSV\_Parents.csv)
-    
-    Pour que les élèves soient bien rattachés aux parents, vérifiez que le nom et prénom de l’élève soient correctement saisis dans le fichier des parents.
-    
-    Attention : pour le bon fonctionnement de ces manipulations, les élèves doivent être créés avant les parents.
-    
-    Pour créer un compte enseignant ou un compte personnel, il n'est pas possible de fonctionner par import de fichier. Vous devrez créer ces comptes de manière manuelle, comme vu précédemment.
-
-3. Si les comptes utilisateurs que vous devez rattacher à votre classe sont déjà présents sur votre établissement, vous pouvez accéder à une interface qui vous permet de rechercher les utilisateurs.
+2. Si les comptes utilisateurs que vous devez rattacher à votre classe sont déjà présents sur votre établissement, vous pouvez accéder à une interface qui vous permet de rechercher les utilisateurs.
 
     * Classe sélectionnée (1) : Vous pouvez y voir les classes auxquelles vous êtes rattaché et le groupe des utilisateurs qui ne sont rattachés à aucune classe.
     * Barre de recherche permet de rechercher des utilisateurs (2)
