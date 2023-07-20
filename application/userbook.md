@@ -22,6 +22,18 @@ Vous accédez à votre espace personnel dans lequel vous pouvez mettre à jour v
 
 Les enseignants ont la possibilité de choisir un nom d’affichage personnalisé, visible par les autres utilisateurs. Par défaut, ce nom d’affichage est le prénom et le nom de l’utilisateur.
 
+## Administrateur - Modifier mes informations personnelles
+
+Si vous avez le rôle d’administrateur local de votre réseau éducatif, vous devez, dans un premier temps, cliquer sur le bouton "déverrouiller" en haut à droite de la fenêtre dans laquelle se trouvent vos informations personnelles.
+
+![Mon compte - dévérouiller les infos personnelles .png](.gitbook%2Fassets%2FMon%20compte%20-%20d%C3%A9v%C3%A9rouiller%20les%20infos%20personnelles%20.png)
+
+Une nouvelle fenêtre s'ouvre et une double authentification vous sera demandée. Un code à 6 chiffres vous sera envoyé par SMS sur votre mobile. Il peut mettre quelque temps à arriver. Puis, vous n'aurez plus qu'à rentrer le code reçu pour accéder à l'application.
+
+![Mon compte - 2FA infos perso.png](.gitbook%2Fassets%2FMon%20compte%20-%202FA%20infos%20perso.png)
+
+Il peut mettre quelque instants à arriver. Puis, vous n'aurez plus qu'à renseigner le code reçu pour accéder à l'application. Vos conditions de changements d'informations personnelles seront ensuite les mêmes que les autres utilisateurs, détaillées ci-dessous.
+
 ## Changer mon identifiant
 
 Vous pouvez remplacer votre identifiant de connexion par un alias, en cliquant sur "Modifier" à côté de l'identifiant :
@@ -82,11 +94,29 @@ Vous pouvez ajouter ou modifier votre adresse mail dans l’espace « Mon compte
 
 ![](.gitbook/assets/userbook_05_mail1.png)
 
-En cas d’oubli de votre mot de passe, un lien de récupération vous sera envoyé sur l’adresse mail renseignée dans votre compte.
-
-Si vous avez le rôle d’administrateur local de votre réseau éducatif, il vous faudra vérifier la nouvelle adresse mail renseignée en saisissant le code de vérification reçu par mail à cette adresse.
+Il vous faudra vérifier la nouvelle adresse mail renseignée en saisissant le code de vérification reçu par mail à cette adresse.
 
 ![](.gitbook/assets/userbook_05_mail2.png)
+
+En cas d’oubli de votre mot de passe, un lien de récupération vous sera envoyé sur l’adresse mail renseignée dans votre compte.
+
+## Modifier mes numéros de téléphone
+
+Vous pouvez ajouter ou modifier vos numéros de téléphone fixe et mobile dans l’espace « Mon compte ». Pour ajouter ou modifier le numéro de téléphone fixe, saisissez le numéro dans le champ prévu, en face de « téléphone ».
+
+![Mon compte -Modifier son numéro.png](.gitbook%2Fassets%2FMon%20compte%20-Modifier%20son%20num%C3%A9ro.png)
+
+Ajoutez ou modifiez votre numéro de téléphone fixe directement dans la fenêtre ci-dessous
+
+![Mon compte - fenêtre de modification du num .png](.gitbook%2Fassets%2FMon%20compte%20-%20fen%C3%AAtre%20de%20modification%20du%20num%20.png)
+
+Une fenêtre s'ouvrira alors pour vérifier votre numéro de téléphone. Il vous suffira de rentrer votre numéro dans un premier temps, puis de cliquer sur le bouton "vérifier mon numéro".
+
+![Mon compte - 2FA num tel 1.png](.gitbook%2Fassets%2FMon%20compte%20-%202FA%20num%20tel%201.png)
+
+Vous recevrez alors un code à six chiffres qu'il faudra entrer dans une nouvelle fenêtre. Enfin, votre nouveau numéro de mobile sera enregistré dans vos informations personnelles.
+
+![Mon compte - 2FA num tel 2.png](.gitbook%2Fassets%2FMon%20compte%20-%202FA%20num%20tel%202.png)
 
 ## Ajouter une devise à mon compte
 
@@ -152,7 +182,7 @@ Une fois la notification reçue dans sa boîte mail personnelle, l’utilisateur
 ## Historique des notifications émises
 
 Vous avez la possibilité de ne pas diffuser une notification aux utilisateurs avec lesquels vous avez des droits de communication ou vous avez partagé du contenu.
-Depuis votre espace "Mon compte", vous retrouverez toutes les notifications que vous avez émis en cliquant sur l’onglet "Historique".
+Depuis votre espace "Mon compte", vous retrouverez toutes les notifications que vous avez émises en cliquant sur l’onglet "Historique".
 
 ![](.gitbook/assets/userbook_11_notifFil.png)
 
