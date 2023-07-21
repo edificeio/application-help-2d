@@ -1,12 +1,12 @@
 # Présences
 
-Présences est un module de vie scolaire qui permet de **gérer tous les événements ayant lieu au sein de l'établissement scolaire**. Il comprend plusieurs parties que nous détaillerons dans cette documentation : La gestion des **absences et des appels**, La gestion des **présences**, La gestion des **incidents et des punitions, sanctions**, Le **publipostage** de tous ces événements.
+Présences est un module de vie scolaire qui permet de **gérer tous les événements (absences, retards, dispenses...etc) ayant lieu au sein de l'établissement scolaire**. Il comprend plusieurs parties que nous détaillerons dans cette documentation : La gestion des **absences et des appels**, La gestion des **présences**, Le **publipostage** de tous ces événements.
 
 ## Le tableau de bord
 
-Le **tableau de bord** de Présences est la **porte d'entrée** de ce module et donne accès aux actions quotidiennes des différents acteurs de l'établissement. Sa **constitution dépend de votre profil** sur l'ENT. Ainsi, CPE, enseignants et parents n'y verront pas nécessairement les mêmes informations.
+Le **tableau de bord** de Présences est la **porte d'entrée** de ce module et donne accès aux actions quotidiennes des différents acteurs de l'établissement. Sa **constitution dépend de votre profil** sur l'ENT. Ainsi, personnel de direction, enseignants et parents n'y verront pas nécessairement les mêmes informations.
 
-**Le tableau de bord des CPE**
+**Le tableau de bord des personnels de direction**
 
 Ce tableau de bord se compose de :
 
@@ -39,9 +39,9 @@ Un panneau latéral permet aux parents de **déclarer une absence en ligne** pou
 
 ![](<.gitbook/assets/1dashboard\_parents.png>)
 
-## La vue calendaire (VS)
+## Saisir un événement pour un élève
 
-La vue calendaire est le **coeur du module Présences** pour les personnels de vie scolaire. C'est à partir de cette vue qu'il est possible de **déclarer tous les événements** liés à un élève si on en a les droits.
+La vue calendaire est le **coeur du module Présences** pour les personnels de direction. C'est à partir de cette vue qu'il est possible de **déclarer tous les événements** liés à un élève si on en a les droits.
 
 _Y accéder_ : taper le nom de l'élève concerné directement **depuis le tableau de bord** dans le champ de recherche jaune et sélectionner-le dans la liste.
 
@@ -69,7 +69,7 @@ Renseigner les champs de **date**, **d'heure** et de **motif** puis cliquer sur 
 
 Il est possible de régulariser et de suivre une absence directement depuis ce formulaire de création ou de modification.
 
-![](<.gitbook/assets/uni-parametres.png>) _Il est possible de paramétrer les motifs depuis les paramétrages._
+![](<.gitbook/assets/uni-parametres.png>) Il est possible de définir les motifs depuis le module Paramétrage vie scolaire.
 
 **Déclarer un retard**
 
@@ -80,11 +80,7 @@ Il est possible de régulariser et de suivre une absence directement depuis ce f
 
 Renseigner les champs de **date**, **de créneaux** et **d'heure du retard** puis cliquer sur Créer. La plage horaire sélectionnée se colore d'un petit rectangle violet.
 
-**Déclarer une dispense, un incident, des punitions ou sanctions**
-
-Nous verrons ces déclarations dans les pages concernées, mais il est possible d'en déclarer depuis la vue calendaire à partir du bouton en haut à droite.
-
-**Déclarer un carnet oublié**
+**Déclarer un carnet oublié (collège / lycée uniquement)**
 
 Enfin, c'est ici que la vie scolaire peut déclarer qu'un élève a **oublié son carnet de correspondance.** Depuis le **bouton "Carnet oublié"** en haut à droite de l'écran. Une fenêtre s'ouvre qui vous permet de saisir la **date de l'oubli** et qui indique le **nombre d'oublis déjà recensés**.
 
@@ -115,7 +111,7 @@ Enfin, cette vue calendaire vous permet de consulter tous les événements liés
 
 ![](<.gitbook/assets/2evenements.png>)
 
-## Le registre (VS)
+## Consulter le registre d'appel
 
 Le registre permet de **consulter tous les événements d'une classe sur un mois**. Il est accessible directement depuis la page d'accueil en rentrant le nom de la classe.
 
@@ -135,20 +131,20 @@ _Petite astuce_ : la **fiche élève de chaque élève est disponible en cliquan
 
 ## La liste des appels
 
-Cette page recense :
+Cette page, disponible depuis le menu "Appels" dans la colonne de gauche, recense :
 
-* tous les appels de l'établissement pour les CPE
+* tous les appels de l'établissement pour le personnel de direction
 * ses propres appels pour les enseignants
 
 Par défaut, le **filtre "appels oubliés" est sélectionné** et le filtre **"appels sans enseignant" est désactivé**. Ainsi apparaissent tous les appels qui **n'ont pas été validés par l'enseignant 15mn après le début du cours.**
 
 ![](<.gitbook/assets/4liste_appels_oublies.png>)
 
-Le CPE peut **notifier l'enseignant** pour lui rappeler qu'il doit valider son appel en cliquant sur la petite clochette dans la carte de l'appel. Cette notification arrive dans la messagerie ENT de l'enseignant concerné.
+Le personnel de direction peut **notifier l'enseignant** pour lui rappeler qu'il doit valider son appel en cliquant sur la petite clochette dans la carte de l'appel. Cette notification arrive dans la messagerie ENT de l'enseignant concerné.
 
 ## La saisie d'un appel
 
-L'appel est normalement saisi par l'enseignant, mais peut l'être aussi par le CPE.
+L'appel est normalement saisi par l'enseignant, mais peut l'être aussi par le personnel de direction.
 
 La page de saisie d'un appel comporte :
 
@@ -158,7 +154,7 @@ La page de saisie d'un appel comporte :
 Les différentes actions possibles :
 
 * **Noter un élève absent** en cliquant sur le rond devant son nom : un tiret rouge apparaît pour indiquer l'absence. Dans l'historique à droite, le point correspondant au cours actuel se colore. **(2)**
-* **Déclarer un retard ou un départ anticipé** : en cliquant sur le nom de l'élève, un panneau latéral s'ouvre qui permet de noter retard, départ et observations. En fonction de l'événement déclaré, un tiret de la couleur correspondante apparaît et le point se colore. Les retards sont en violet et les départs en vert. **(3)**
+* **Déclarer un retard ou un départ anticipé** : en cliquant sur l'état, un panneau latéral s'ouvre qui permet de noter retard, départ et observations. En fonction de l'événement déclaré, un tiret de la couleur correspondante apparaît et le point se colore. Les retards sont en violet et les départs en rose. **(3)**
 
 ![](<.gitbook/assets/4saisir_appel.png>)
 
@@ -167,20 +163,18 @@ Les différentes actions possibles :
 Des informations pour l'enseignant sont disponibles sur l'appel :
 
 * **Si l'élève a été absent lors du dernier cours de l'enseignant**, une petite icône le lui signale ![](<.gitbook/assets/4absent_derniercours.png>)
-* **Si l'élève a été noté absent par le CPE avant le début du cours**, l'absence est déjà déclarée et l'élève est grisé. S'il est finalement là, l'enseignant peut mettre une observation à destination de la vie scolaire.
-* **Si l'élève a oublié son carnet de correspondance**, une petite icône le signale à l'enseignant.![](<.gitbook/assets/4carnet_oublie.png>)
+* **Si l'élève a été noté absent par le personnel de direction avant le début du cours**, l'absence est déjà déclarée et l'élève est grisé. S'il est finalement là, l'enseignant peut mettre une observation à destination du personnel de direction.
+* **Si l'élève a oublié son carnet de correspondance (collège ou lycée uniquement)**, une petite icône le signale à l'enseignant.![](<.gitbook/assets/4carnet_oublie.png>)
 
-Le CPE aussi peut saisir un appel depuis la liste des appels ou depuis son tableau de bord. À la différence de l'enseignant, il peut **directement saisir le motif** de l'absence depuis le panneau latéral.
+Le personnel de direction aussi peut saisir un appel depuis la liste des appels ou depuis son tableau de bord. Il peut **directement saisir le motif** de l'absence depuis le panneau latéral.
 
 ![](<.gitbook/assets/4motif.png>)
 
-Une fois l'appel effectué, il peut être **validé pour qu'il n'apparaisse plus dans la liste des appels oubliés** de la vie scolaire. Les événements, eux, sont créés dès leur saisie et modifiés instantanément si l'enseignant modifie des données.
+Une fois l'appel effectué, il peut être **validé pour qu'il n'apparaisse plus dans la liste des appels oubliés** du personnel de direction. Les événements, eux, sont créés dès leur saisie et modifiés instantanément si l'enseignant modifie des données.
 
 ![](<.gitbook/assets/4valider_appel.png>)
 
-## La gestion des événements : absences, retards, dispenses (VS)
-
-Cette gestion a été imaginée de façon **transversale**. Il est possible de réaliser des actions identiques à plusieurs endroits pour fluidifier la réalisation des tâches. Ces différents endroits sont reliés entre eux dans la mesure du possible.
+## La gestion des événements : absences, retards, dispenses
 
 **La liste des événements**
 
@@ -204,7 +198,7 @@ Le clic sur une ligne permet d'afficher le détail des événements par créneau
 
 ![](<.gitbook/assets/5table_edit.png>) Le clic sur l'icône à côté des périodes permet **d'accéder directement à la vue calendaire de l'élève** pour saisir un événement sur la journée ou sur une période plus longue.
 
-Enfin, il est possible d'indiquer **les actions en cours concernant cet événement**. Cela permet à l'équipe de vie scolaire de suivre avec précision le traitement de l'événement même si ce n'est pas toujours la même personne qui s'en occupe. Au clic sur le **+** une fenêtre s'ouvre qui permet de saisir l'action en réalisée et un commentaire. Une fois validée, l'abréviation de l'action s'affiche dans le tableau.
+Enfin, il est possible d'indiquer **les actions en cours concernant cet événement**. Cela permet au personnel de direction de suivre avec précision le traitement de l'événement même si ce n'est pas toujours la même personne qui s'en occupe. Au clic sur le **+** une fenêtre s'ouvre qui permet de saisir l'action en réalisée et un commentaire. Une fois validée, l'abréviation de l'action s'affiche dans le tableau.
 
 ![](<.gitbook/assets/5action_bouton.png>)
 
@@ -224,7 +218,7 @@ Cette liste d'événement est bien entendu filtrable :
 
 ![](<.gitbook/assets/5filtres.png>)
 
-**Les alertes (VS)**
+**Les alertes**
 
 La page des alertes recense toutes les alertes déclarées sur l'établissement concernant les événements :
 
@@ -233,21 +227,21 @@ La page des alertes recense toutes les alertes déclarées sur l'établissement 
 * **incidents**
 * **carnets oubliés**
 
-Depuis cette page, il est possible de déclarer une punition ou une sanction pour un ou plusieurs élèves. Il est aussi possible de réinitialiser les alertes pour repartir à 0. Pour cela, sélectionner une alerte en cliquant dessus puis choisir l'action à réaliser sur cette alerte.
+Depuis cette page, il est possible de déclarer une punition ou une sanction pour un ou plusieurs élèves (collège et lycée uniquement). Il est aussi possible de réinitialiser les alertes pour repartir à 0. Pour cela, sélectionner une alerte en cliquant dessus puis choisir l'action à réaliser sur cette alerte.
 
 ![](<.gitbook/assets/5alertes.png>)
 
-Il est possible d'arriver sur cette page déjà filtrée en arrivant depuis le tableau de bord CPE en cliquant sur une des alertes.
+Il est possible d'arriver sur cette page déjà filtrée en arrivant depuis le tableau de bord personnel de direction en cliquant sur une des alertes.
 
 ![](<.gitbook/assets/uni-parametres.png>) _Le maximum d'événements à atteindre pour déclencher une alerte est paramétrable_.
 
-**Les déclarations en ligne (VS)**
+**Les déclarations en ligne**
 
 Il est possible grâce au module, **pour les parents, de déclarer en ligne une absence** pour leur enfant. Cela se fait depuis leur tableau de bord, sur la partie droite de leur écran (voir Tableau de bord Parents).
 
-Ces déclarations une fois validées apparaissent pour l'équipe de Vie scolaire à 2 endroits :
+Ces déclarations une fois validées apparaissent pour le personnel de direction à 2 endroits :
 
-* sur le tableau de bord CPE (voir Tableau de bord CPE)
+* sur le tableau de bord CPE (voir Tableau de bord personnel de direction)
 * sur la page Déclarations en ligne, derrière le menu "Evénements"
 
 ![](<.gitbook/assets/6tableau_declarations.png>)
@@ -256,7 +250,7 @@ Vous pouvez accéder directement à la vue calendaire de l'élève pour créer l
 
 Vous pouvez également noter ces déclarations comme traitées. Cela les fait disparaître du tableau, pour lequel un filtre "non traités" est activé par défaut. Pour retrouver toutes les déclarations, désactivez ce filtre.
 
-**Les dispenses (VS)**
+**Les dispenses**
 
 La page des dispenses est à la fois une page de **consultation et de saisie des dispenses**. Quand des dispenses ont été déclarées, la page met à disposition un tableau récapitulatif sur le mois en cours.
 
@@ -274,7 +268,7 @@ Depuis la fenêtre de saisie de dispenses, il est possible de choisir "dispense 
 
 Cette fonctionnalité vous permet de **sélectionner des jours de la semaine ainsi que des créneaux**. Il est possible de déclarer ces dispenses récurrentes tous les 15 jours.
 
-**Absences collectives (VS)**
+**Absences collectives**
 
 Il est possible depuis ce menu de déclarer une absence pour plusieurs élèves en même temps.
 
@@ -298,7 +292,7 @@ Il est possible **d'exporter le tableau des absences collectives** dans un fichi
 
 Cette fonctionnalité est celle qui donne son nom au module. Elle permet de **déclarer la présence d'élèves sur des créneaux qui ne sont pas inscrits dans l'emploi du temps**.
 
-Pour la Vie Scolaire, la page des Présences présente toutes les présences saisies dans l'établissement. Un filtre permet au CPE de ne voir que les présences qu'il a lui-même remplies. En cliquant sur une carte, une pop-up s'ouvre qui permet au CPE d'avoir toutes les informations nécessaires sur cette présence. Des **champs de recherche "personnel" ou "élève"** permettent de retrouver des déclarations de présences spécifiques.
+Pour le personnel de direction, la page des Présences présente toutes les présences saisies dans l'établissement. Un filtre permet au personnel de direction de ne voir que les présences qu'il a lui-même remplies. En cliquant sur une carte, une pop-up s'ouvre qui lui permet d'avoir toutes les informations nécessaires sur cette présence. Des **champs de recherche "personnel" ou "élève"** permettent de retrouver des déclarations de présences spécifiques.
 
 Pour les enseignants, la page des Présences présente toutes les présences qu'il a saisies.
 
@@ -316,11 +310,11 @@ Enfin, si une présence est déclarée alors que l'élève est par ailleurs not�
 
 ![](<.gitbook/assets/uni-parametres (34).png>) _Les lieux et moments pour lesquels il est possible de déclarer une présence sont paramétrables_.
 
-## La gestion des incidents, punitions, sanctions
+## La gestion des incidents, punitions, sanctions (collège et lycée uniquement)
 
 La gestion des incidents est liée à celle des punitions, sanctions et comme pour les absences peut se faire de différents endroits dans le module.
 
-**Les incidents (VS)**
+**Les incidents**
 
 La page des incidents est à la fois une page de **consultation et de saisie des incidents**. Quand des incidents ont été déclarés, la page met à disposition un tableau récapitulatif sur le mois en cours.
 
@@ -359,7 +353,7 @@ Une fois cette fenêtre validée, la ligne correspondant à la punition saisie a
 
 ![](<.gitbook/assets/uni-parametres.png>) _Les types de punitions et sanctions sont paramétrables._
 
-## Le publipostage
+## Le publipostage : prévenir les familles (mail, SMS, pdf)
 
 Le publipostage permet de traiter en masse l'envoi de courrier aux familles concernant différents événements.
 
