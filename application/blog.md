@@ -8,7 +8,7 @@ L’appli **Blog** permet de publier facilement des informations, en y intégran
 
 En cas de contribution de la part d’autres utilisateurs, le gestionnaire du blog choisit le **circuit de publication** souhaité : soit il relit les billets soumis par les autres utilisateurs avant de les publier, soit les billets sont publiés immédiatement quel qu’en soit l’auteur.
 
-![](<.gitbook/assets/blog_1-1024x478-2-2-2 (1) (1).png>)
+![Blog - Présentation de l'application .png](.gitbook%2Fassets%2FBlog%20-%20Pr%C3%A9sentation%20de%20l%27application%20.png)
 
 ## Créer un blog public ou privé
 
@@ -16,16 +16,19 @@ Cliquez sur la page « Mes applis » puis sur l’icône « Blog ».
 
 ![](<.gitbook/assets/blog2-1024x231-2-2-1-1 (2) (1).png>)
 
-Dans le service Blog, cliquez sur le bouton « Créer un blog » présent en haut à droite de la page.
+Dans le service Blog, cliquez sur le bouton « **Nouveau Blog** » présent en haut à droite de la page.
 
-![Blog - Page d'accueil .png](.gitbook%2Fassets%2FBlog%20-%20Page%20d%27accueil%20.png)
+![Blog - Créer un blog public ou privé.png](.gitbook%2Fassets%2FBlog%20-%20Cr%C3%A9er%20un%20blog%20public%20ou%20priv%C3%A9.png)
 
 Vous accédez à l’interface de création du blog.
 
-1. Indiquez le titre de votre blog.
-2. Ajoutez une vignette d’illustration du blog (si vous ne modifiez pas l’image, c’est la vignette par défaut qui s’affichera).
+1. Indiquez le **titre** de votre blog.
+2. Ajoutez une **description** (optionnel).
+3. N'oubliez pas d'illustrer votre blog par une vignette (si vous ne modifiez pas l’image, c’est la vignette par défaut qui s’affichera).
 
-Cliquez sur « Enregistrer » pour valider la création du blog.
+Cliquez sur « **Créer** » pour valider la création du blog.
+
+![Blog - Fenêtre de création .png](.gitbook%2Fassets%2FBlog%20-%20Fen%C3%AAtre%20de%20cr%C3%A9ation%20.png)
 
 **Créer un blog public**
 
@@ -38,15 +41,13 @@ via les 3 petits points du blog concerné.
 
 Cliquez sur "Propriétés". La page des propriétés du blog s'ouvre et vous pouvez y trouver une rubrique nommée "Accès au blog".
 
-![Blog - propriétés blog public .png](.gitbook%2Fassets%2FBlog%20-%20propri%C3%A9t%C3%A9s%20blog%20public%20.png)
+![Blog - Fenêtre des propriétés .png](.gitbook%2Fassets%2FBlog%20-%20Fen%C3%AAtre%20des%20propri%C3%A9t%C3%A9s%20.png)
 
 Activez l’option “Accessible publiquement via une URL :" (1)
 
-Complétez l’url se trouvant sous l’option (extension personnalisée) c'est l'adresse qui permettra d'accéder au blog sans être connecté à l'ENT. Vous pouvez personnaliser l'URL du blog (2).
+L'URL se génère automatiquement. C'est l'adresse qui permettra d'accéder au blog sans être connecté à l'ENT.
 
-Si l'adresse existe déjà, un message d'erreur apparaît.
-
-Pour communiquer facilement cette URL, vous pouvez cliquer sur le bouton "Copier URL" (3).
+Pour communiquer facilement cette URL, vous pouvez cliquer sur le bouton "Copier URL" (2).
 
 Note : Si l'on rend un blog public, les documents chargés sur le blog (par vous ou par un autre utilisateur) seront eux aussi publics.
 
@@ -142,12 +143,30 @@ Vous pouvez réaliser les actions suivantes en cliquant sur « Publier » ou sur
 
 ## Organiser ses blogs et billets de blog
 
+![Blog - Menu filtres et recherche.png](.gitbook%2Fassets%2FBlog%20-%20Menu%20filtres%20et%20recherche.png)
+
+Vous disposez de 3 filtres (1) pour afficher vos blogs :
+
+* **Mes blogs**, pour afficher/masquer les blogs dont vous êtes le propriétaire
+* **Les blogs** partagés avec moi, pour afficher/masquer les blogs qui vous ont été partagés
+* **Blogs publics**, pour afficher/masquer les blogs accessibles publiquement
+
+Une barre de recherche (2) vous permet de trouver rapidement un blog en saisissant son nom.
+
 Afin d'organiser vos blogs, vous disposez de l'arborescence suivante :
 
 * **Mes blogs**, qui est le dossier principal, dans lequel vous pourrez créer tous vos sous-dossiers (grâce au bouton Créer un dos
 * **Corbeille** où vous retrouverez les blogs que vous aurez supprimé, pour éviter toute suppression définitive involontaire
 
-Attention, les dossiers mis à la corbeille sont, eux, définitivement supprimés. Les blogs contenus dans ces dossiers sont mis dans la corbeille
+Fonctionnement de la **corbeille** et mise en sourdine :
+
+* Les ressources que vous avez placées ou qu’un auteur/gestionnaire a placées dans votre propre corbeille ne génèrent plus de notifications mails ni de notifications dans le fil de nouveautés.
+
+* Les dossiers placés dans la corbeille sont automatiquement et définitivement supprimés. Les ressources contenues de ces dossiers ne sont cependant pas définitivement supprimées, et s’ajouteront simplement aux autres éléments de la corbeille.
+
+* Les ressources restaurées depuis la corbeille se replaceront dans leur dossier d’origine si celui-ci existe toujours. Les notifications seront également réactivées pour les ressources restaurées.
+
+**Déplacer un blog**
 
 Après avoir créé vos différents dossiers, sélectionnez (1) le ou les blogs que vous voulez mettre dans vos dossiers, puis cliquez sur le bouton "Déplacer" (2).
 
@@ -175,7 +194,7 @@ La Bibliothèque est un espace de partage et d’inspiration entre enseignants.
 
 Si vous souhaitez publier votre blog dans la bibliothèque pour inspirer d’autres enseignants, faites comme ceci :
 
-1. Ouvrez le toast d’actions via les 3 petits points sur le blog que vous souhaitez publier. Un bandeau apparaît en bas avec le bouton "publier dans la bibliothèque" cliquez dessus.
+1. Ouvrez le toast d’actions via les 3 petits points sur le blog que vous souhaitez publier. Un bandeau apparaît en bas avec le bouton "**publier dans la bibliothèque**" cliquez dessus.
 
 ![Blog - publier dans la bibli.png](.gitbook%2Fassets%2FBlog%20-%20publier%20dans%20la%20bibli.png)
 
