@@ -232,7 +232,7 @@ Vous pouvez désormais exporter un cahier multimédia en HTML, pour conserver le
 
 Pour cela, sélectionnez le cahier multimédia que vous souhaitez exporter, puis cliquez sur Exporter en bas de page, et dans la fenêtre qui s'ouvre.
 
-![NEO_Cahiermulti_export.png](.gitbook%2Fassets%2FNEO_Cahiermulti_export.png)
+![](.gitbook%2Fassets%2FNEO_Cahiermulti_export.png)
 
 Le cahier est téléchargé au format ZIP sur votre ordinateur. Choisissez le fichier "Index" dans le dossier qui s'ouvre.
 
