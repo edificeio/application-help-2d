@@ -7,19 +7,19 @@
 L’application Carte mentale permet de **représenter visuellement une arborescence** en créant des liens entre différentes idées. Le schéma se construit autour d’une idée principale, sous forme d’image ou de texte, à partir de laquelle plusieurs chemins se créent.
 La carte mentale peut être faite de manière collective ou personnelle, selon les souhaits du créateur de la carte.
 
-![2D_Cartementale_prez.png](.gitbook%2Fassets%2F2D_Cartementale_prez.png)
+![](.gitbook%2Fassets%2F2D_Cartementale_prez.png)
 
 ## Créer une carte mentale
 
 Pour accéder à l’application **Carte mentale**, cliquez sur l’icône correspondante dans la page **Mes applis**.
 
-![2D_Cartementale_Creer une carte mentale_1.png](.gitbook%2Fassets%2F2D_Cartementale_Creer%20une%20carte%20mentale_1.png)
+![](.gitbook%2Fassets%2F2D_Cartementale_Creer%20une%20carte%20mentale_1.png)
 
-Cliquez sur "**Créer une carte mentale**" en haut à droite de la page.
+Cliquez sur **Créer une carte mentale** en haut à droite de la page.
 
-![2D_Cartementale_Creer une carte mentale_2.png](.gitbook%2Fassets%2F2D_Cartementale_Creer%20une%20carte%20mentale_2.png)
+![](.gitbook%2Fassets%2F2D_Cartementale_Creer%20une%20carte%20mentale_2.png)
 
-Vous accédez à l'interface de création d'une carte mentale.
+Vous accédez à l'**interface de création** d'une carte mentale.
 
 1.	Indiquez le **titre** de votre carte : il constitue le nœud de départ.
 
@@ -27,9 +27,9 @@ Vous accédez à l'interface de création d'une carte mentale.
 
 3. Ajouter une **vignette d'illustration** de la carte (si vous ne modifiez pas l’image, c’est la vignette par défaut qui s’affichera).
 
-Cliquez sur "**Créer**" pour valider la création de la carte.
+Cliquez sur **Créer** pour valider la création de la carte.
 
-![2D_Cartementale_Creer une carte mentale_3.png](.gitbook%2Fassets%2F2D_Cartementale_Creer%20une%20carte%20mentale_3.png)
+![](.gitbook%2Fassets%2F2D_Cartementale_Creer%20une%20carte%20mentale_3.png)
 
 Cliquez sur la vignette de votre carte mentale dans le menu principal pour commencer à la construire.
 
@@ -39,23 +39,23 @@ Cliquez sur la vignette de votre carte mentale dans le menu principal pour comme
 
 Pour ajouter de nouvelles notions à un nœud, sélectionnez le nœud de départ et cliquez sur l’icône " **+** " ou tapez directement sur la touche "**entrée**". Le nouveau nœud est créé ainsi que le lien avec le nœud de départ
 
-![2D_Cartementale_Ajouter un noeud.png](.gitbook%2Fassets%2F2D_Cartementale_Ajouter%20un%20noeud.png)
+![](.gitbook%2Fassets%2F2D_Cartementale_Ajouter%20un%20noeud.png)
 
 Pour supprimer un nœud, sélectionnez le nœud et cliquez sur l’icône " **-** " ou tapez directement sur la touche "**supprimer**".
 
 **Mettre en forme le texte**
 
-La barre d’outils de la carte mentale vous permet de modifier le format du texte : la police, sa taille, mise en forme et couleur. 
+La **barre d’outils** de la carte mentale vous permet de modifier le format du texte : la police, sa taille, mise en forme et couleur. 
 
 Pour modifier le texte, sélectionnez le nœud ou une partie du texte du nœud et cliquez sur les icônes suivantes dans la barre d’outils.
 
-![2D_Cartementale_Mettre en forme le texte.png](.gitbook%2Fassets%2F2D_Cartementale_Mettre%20en%20forme%20le%20texte.png)
+<center><img src=".gitbook/assets/2D_Cartementale_Mettre en forme le texte.png" alt="" width="400"/></center>
 
 **Ajouter un lien entre deux nœuds**
 
 Pour ajouter un lien entre deux nœuds, sélectionnez le nœud de départ (1), cliquez sur l’icône "**ajouter un lien**" dans la barre d’outils (2). Une flèche apparaît, cliquez sur le second nœud (3) pour indiquer le point d’arrivée de la flèche.
 
-![2D_Cartementale_Ajouter un lien entre noeuds.png](.gitbook%2Fassets%2F2D_Cartementale_Ajouter%20un%20lien%20entre%20noeuds.png)
+![](.gitbook%2Fassets%2F2D_Cartementale_Ajouter%20un%20lien%20entre%20noeuds.png)
 
 **Ajouter des contenus complémentaires à un nœud**
 
@@ -67,7 +67,7 @@ Grâce à la barre d’outils de la carte mentale, vous pouvez ajouter à vos n�
 
 Pour ajouter un contenu complémentaire, sélectionnez le nœud et cliquez sur les icônes correspondantes dans la barre d’outils.
 
-![2D_Cartementale_Contenu complementaire.png](.gitbook%2Fassets%2F2D_Cartementale_Contenu%20complementaire.png)
+![](.gitbook%2Fassets%2F2D_Cartementale_Contenu%20complementaire.png)
 
 Les émoticônes ainsi que les liens et les notes apparaissent sous forme d’icône dans le nœud avant le texte et une visualisation est proposée au survol de l’icône.
 
@@ -80,7 +80,7 @@ La carte mentale a été créée mais n’est pas encore visible par les autres 
 
 Pour partager une carte mentale avec d’autres utilisateurs, cliquez sur les 3 petits points sur la carte à partager (1) puis sur "**Partager**" en bas de votre écran (2).
 
-![2D_Cartementale_Partager.png](.gitbook%2Fassets%2F2D_Cartementale_Partager.png)
+![](.gitbook%2Fassets%2F2D_Cartementale_Partager.png)
 
 Dans la fenêtre de partage, vous pouvez donner des **droits de lecture, de contribution et de gestion** à d’autres personnes sur votre carte.
 
@@ -88,7 +88,7 @@ Pour cela, saisissez les premières lettres du nom de l’utilisateur ou du grou
 
 Cliquez sur "**Partager**" pour valider.
 
-![2D_Cartementale_Partager_1.png](.gitbook%2Fassets%2F2D_Cartementale_Partager_1.png)
+![](.gitbook%2Fassets%2F2D_Cartementale_Partager_1.png)
 
 Les différents droits que vous pouvez attribuer sont les suivants :
 
@@ -106,7 +106,7 @@ La **Bibliothèque** est un espace de partage et d’inspiration entre enseignan
 
 Si vous souhaitez publier votre carte mentale dans la bibliothèque pour inspirer d’autres enseignants, il vous suffit de cliquer sur les 3 petits points sur la carte à partager "**Publier dans la Bibliothèque**" dans le menu en bas de votre écran.
 
-![2D_Cartementale_Publier bibli.png](.gitbook%2Fassets%2F2D_Cartementale_Publier%20bibli.png)
+![](.gitbook%2Fassets%2F2D_Cartementale_Publier%20bibli.png)
 
 Vous devez ensuite renseigner les **caractéristiques de votre contenu** pour expliquer votre usage :
 
@@ -130,13 +130,13 @@ Lorsque votre carte mentale est **publiée**, vous pouvez la visualiser en cliqu
 
 Vous aurez ensuite la possibilité de **modifier les champs saisis ou de supprimer** la publication de votre carte mentale en cliquant sur **« Modifier »** depuis la page de votre activité.
 
-![2D_Cartementale_Publier dans la biblio_3.png](.gitbook%2Fassets%2F2D_Cartementale_Publier%20dans%20la%20biblio_3.png)
+![](.gitbook%2Fassets%2F2D_Cartementale_Publier%20dans%20la%20biblio_3.png)
 
 **Raccourci vers la Bibliothèque**
 
 En tant qu'enseignant, dans la page d’accueil contenant la liste de vos cartes mentales, un encart à gauche vous permet d’accéder rapidement à la Bibliothèque pour récupérer de nouvelles activités.
 
-![2D_Cartementale_Bibli.png](.gitbook%2Fassets%2F2D_Cartementale_Bibli.png)
+![](.gitbook%2Fassets%2F2D_Cartementale_Bibli.png)
 
 ## Dupliquer une carte mentale
 
@@ -152,7 +152,7 @@ Afin de les organiser, vous disposez de l'arborescence suivante :
 
 * **Corbeille**, où vous retrouverez les cartes mentales que vous aurez supprimées, pour éviter toute suppression définitive involontaire.
 
-![2D_Cartementale_Organiser.png](.gitbook%2Fassets%2F2D_Cartementale_Organiser.png)
+![](.gitbook%2Fassets%2F2D_Cartementale_Organiser.png)
 
 Fonctionnement de la **corbeille** et mise en sourdine :
 
@@ -166,7 +166,7 @@ Les ressources restaurées depuis la corbeille se replaceront dans leur dossier 
 
 Après avoir créé vos différents dossiers, sélectionnez (1) la carte mentale que vous voulez mettre dans vos dossiers via les 3 petits points, puis cliquez sur le bouton "**Déplacer**" (2)
 
-![2D_Cartementale_Deplacer.png](.gitbook%2Fassets%2F2D_Cartementale_Deplacer.png)
+![](.gitbook%2Fassets%2F2D_Cartementale_Deplacer.png)
 
 Une fenêtre s'ouvrira, vous permettant de déplacer la carte mentale sélectionnée dans un dossier existant. 
 
@@ -178,7 +178,7 @@ Il vous est également possible de déplacer des dossiers de la même façon.
 
 En cliquant sur les 3 petits points de votre carte mentale, vous avez la possibilité de l'imprimer, en sélectionnant "**Imprimer**" en bas de votre écran.
 
-![2D_Cartementale_Imprimer.png](.gitbook%2Fassets%2F2D_Cartementale_Imprimer.png)
+![](.gitbook%2Fassets%2F2D_Cartementale_Imprimer.png)
 
 **Exporter une Carte mentale**
 
@@ -186,10 +186,11 @@ Il est maintenant possible d'exporter la carte vers différents formats.
 
 Dans la carte que vous souhaitez exporter, cliquez sur le bouton “**Exporter**”.
 
-![2D_Cartementale_Exporter.png](.gitbook%2Fassets%2F2D_Cartementale_Exporter.png)
+![](.gitbook%2Fassets%2F2D_Cartementale_Exporter.png)
 
 Choisissez quel format vous préférez dans le menu déroulant, et cliquez sur “**Exporter**”.
 
-![2D_Cartementale_Exporter_2.png](.gitbook%2Fassets%2F2D_Cartementale_Exporter_2.png)
+<center><img src=".gitbook/assets/2D_Cartementale_Exporter_2.png" alt="" width="400"/></center>
+
 
 Il n'est pas possible d'importer une Carte mentale.
