@@ -49,7 +49,7 @@ La **barre d’outils** de la carte mentale vous permet de modifier le format du
 
 Pour modifier le texte, sélectionnez le nœud ou une partie du texte du nœud et cliquez sur les icônes suivantes dans la barre d’outils.
 
-<center><img src=".gitbook/assets/2D_Cartementale_Mettre en forme le texte.png" alt="" width="400"/></center>
+![](.gitbook%2Fassets%2F2D_Cartementale_Mettre%20en%20forme%20le%20texte.png)
 
 **Ajouter un lien entre deux nœuds**
 
@@ -190,7 +190,6 @@ Dans la carte que vous souhaitez exporter, cliquez sur le bouton “**Exporter**
 
 Choisissez quel format vous préférez dans le menu déroulant, et cliquez sur “**Exporter**”.
 
-<center><img src=".gitbook/assets/2D_Cartementale_Exporter_2.png" alt="" width="400"/></center>
-
+![](.gitbook%2Fassets%2F2D_Cartementale_Exporter_2.png)
 
 Il n'est pas possible d'importer une Carte mentale.

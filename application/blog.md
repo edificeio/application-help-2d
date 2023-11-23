@@ -53,7 +53,7 @@ _Note : Si l'on rend un blog public, les documents chargés sur le blog (par vou
 
 Sur la vignette du blog, le symbole suivant vous informe que le contenu est public :
 
-<center><img src=".gitbook/assets/Blog - Vignette blog public.png" alt="drawing" width="400"/></center>
+![](.gitbook%2Fassets%2FBlog%20-%20Vignette%20blog%20public.png)
 
 L'URL du blog public est également visible dans le blog, sous l'image du blog. L'adresse apparaît tronquée.
 Par un clic-droit, vous pouvez récupérer l'URL en choisissant l'option "**Copier l'adresse du lien**".
