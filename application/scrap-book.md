@@ -61,13 +61,23 @@ Vous avez à votre disposition différents outils pour trier les cahiers multim�
 
 ![](<.gitbook/assets/2019-07-11_15h48_17 (1) (1).png>)
 
-Après avoir créé vos différents dossiers, sélectionnez (1) le ou les cahiers que vous voulez mettre dans vos dossiers, puis cliquez sur le bouton "Déplacer" (2).‌
+**Déplacer un cahier multimédia**
+
+Après avoir créé vos différents dossiers :
+1. Sélectionnez le ou les cahiers que vous voulez mettre dans vos dossiers.
+2. Cliquez sur le bouton **Déplacer**.
 
 ![](<.gitbook/assets/2019-07-11_15h48_27 (2) (1).png>)
 
 Une fenêtre s'ouvrira, vous permettant de déplacer le cahier sélectionné dans un dossier existant ou d'en créer un nouveau. Vous pouvez également déplacer et organiser vos dossiers de la même manière.
 
 ![](<.gitbook/assets/2019-07-11_15h48_47 (1) (1) (2).png>)
+
+**Dupliquer un cahier multimédia**
+
+Cliquez sur le cahier multimédia que vous souhaitez dupliquer, puis cliquez sur **Dupliquer** dans le menu ouvert en bas de la page
+
+Votre cahier est dupliqué, vous pouvez ensuite le renommer, le déplacer dans un autre dossier et le modifier, etc.
 
 ## Editer les pages du cahier multimédia
 
