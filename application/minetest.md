@@ -70,7 +70,7 @@ Pour cela, il vous suffit de cliquer sur le **lien disponible sous le nom du mod
 
 Pour **se connecter à un monde Minetest**, suivez les étapes suivantes avec les informations que vous avez reçues par **mail** :
 
-1. **Ouvrez** le logiciel Minetest sur votre ordinateur en vous rendant dans votre explorateur de fichiers > Dossier **« minetest-5.5.0-win64 »** extrait > Dossier **« bin »** > Application **« minetest »** :
+1. **Ouvrez** le logiciel Minetest sur votre ordinateur en vous rendant dans votre explorateur de fichiers > Dossier **« minetest-5.5.0-win64 »** extrait > Dossier **« bin »** > Application **« minetest »** (La version de Minetest doit être au minimum la "minetest-5.5.0" mais elle peut être supérieure):
 
     ![](<.gitbook/assets/minetest_05_se_connecter_au_monde_1.png>)
 
