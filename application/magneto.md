@@ -1,8 +1,6 @@
 # Magneto
 
-Que ce soit pour préparer des exposés ou des cours, quoi de mieux que de pouvoir agréger tout type de contenus sur un tableau ? Le principe est simple : sur un tableau blanc, ajouter des aimants contenant du contenu multimédia, texte, lien le tout de façon collaborative et en temps réel.
-
-Ces tableaux Magnéto disposent d’une barre de création permettant l’ajout de différents types de contenus y compris du contenu en provenance d’autres tableaux. Une extension web permet également d’agréger du contenu directement pendant sa navigation.
+Que ce soit pour préparer des exposés ou des cours, quoi de mieux que de pouvoir agréger tout type de contenus sur un tableau ? Le principe est simple : sur un tableau blanc, ajouter des aimants contenant du contenu multimédia, texte, lien le tout de façon collaborative et en temps réel. Ces tableaux Magnéto disposent d’une barre de création permettant l’ajout de différents types de contenus y compris du contenu en provenance d’autres tableaux. Une extension web permet également d’agréger du contenu directement pendant sa navigation.
 
 ## Créer un tableau
 
