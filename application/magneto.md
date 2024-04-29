@@ -82,7 +82,19 @@ Une fois vos premiers tableaux créés, il est possible de **créer des dossiers
 Pour cela, le bouton  ![](.gitbook/assets/magneto_2_10_dossier.PNG)  est disponible sous le menu de gauche. Il suffit d’entrer le nom du dossier puis de cliquer sur « Enregistrer » pour qu’il soit créé. 
 Il est possible de **renommer** et **supprimer** un dossier de la même manière qu’un tableau. Il est aussi possible de **partager** un dossier (cf paragraphe sur le partage de dossiers).
 
-## Ajouter des aimants
+## Tableaux de la plateforme
+
+La plateforme est un ensemble d’établissements commun à une même région. Il est possible de **partager des tableaux à l’ensemble des utilisateurs de la plateforme.** Ces tableaux sont accessibles en droit réutilisation seulement. Les autres utilisateurs de la plateforme pourront donc dupliquer les aimants dans leurs propres tableaux sans modifier le contenu de votre tableau. Les tableaux partagés à la plateforme sont **disponibles dans l’onglet « Tableaux de la plateforme »** dans l’arborescence de dossiers du menu. 
+
+![](.gitbook/assets/magneto_3_11_tableau_plateforme.png)
+
+Pour partager un tableau sur la plateforme, il faut sélectionner le tableau et cliquer sur le bouton **« Partager à toute la plateforme »** depuis le menu via le menu d’action orange en bas de l’écran.
+
+Une icône monde est présente sur tous les tableaux partagés à la plateforme.
+
+![](.gitbook/assets/magneto_3_12_icone_plateforme.png)
+
+## Les aimants
 
 L'utilisateur peut **ajouter des aimants sur son tableau à partir de la barre latérale**.
 Il existe différents types d'aimants :
@@ -149,7 +161,7 @@ Il permet **d'ouvrir une visionneuse d'aimants** et de naviguer de l'un à l'aut
 
 ![](.gitbook/assets/magneto_2_09_lecture-navigation.png)
 
-## Sections
+## Les sections
 
 Les tableaux Magnéto peuvent se diviser en sections verticales (colonnes) ou horizontales (lignes).
 
@@ -173,17 +185,23 @@ Pour **créer une section** il suffit **d'ajouter un nom dans le champ "nom de s
 
 
 
-## Partage et publication
+## Le partage
 
-En cliquant sur 'Partage' dans le menu toaster, **les tableaux peuvent être partagés**.
+**PARTAGE DE TABLEAUX**
 
-![](.gitbook/assets/magneto_3_01_toaster.png)
+Il est possible de **partager des dossiers ou des tableaux**, afin de favoriser le travail collaboratif. 
+
+Un dossier partagé apparaît différemment d’un dossier standard : 
+
+![](.gitbook/assets/magneto_2_13_creer-section.png)
+
+**LES DIFFERENTS DROITS D'ACCES SUR LES TABLEAUX**
 
 Il existe différents droits :
  
-* **droit de lecture** : les utilisateurs n'accèdent au tableau qu'en mode lecture
+* **droit de lecture** : les utilisateurs n'accèdent au tableau qu'en mode consultation.
 
-* **droit de réutilisation** : les utilisateurs accèdent au tableau en mode lecture, ils peuvent aussi réutiliser les aimants depuis la collection d'aimants
+* **droit de réutilisation** : les utilisateurs accèdent au tableau en mode lecture, ils peuvent aussi dupliquer les aimants directement depuis le tableau ou depuis la collection d'aimants.
 
 * **droit d'écriture** : les utilisateurs peuvent ajouter des aimants au tableau
 
@@ -191,10 +209,39 @@ Il existe différents droits :
 
 ![](.gitbook/assets/magneto_3_02_popup-partage.png)
 
-Il est également possible de **mettre un tableau à disposition de tous les établissements de la plateforme** depuis le toaster et le **bouton "Partager à toute la plateforme"**. Le tableau est ainsi disponible à tous les utilisateurs connectés avec un **droit de réutilisation**. Ils accèderont donc au tableau en mode lecture et pourront en plus dupliquer les aimants sur leurs propres tableaux depuis la collection d'aimants.
-Ces tableaux sont disponibles depuis l'arborescence dans l'entrée de menu **Tableaux de la plateforme**.
+Chaque droit contient le/les droit(s) qui le précède. Ainsi donner le droit "Écriture" revient à donner les droits "Écriture", "Réutilisation" et "Lecture".
 
-![](.gitbook/assets/magneto_3_03_popup-partage-plateforme.png)
+Un propriétaire d’un tableau ou un dossier a tous les droits sur celui-ci, c’est-à-dire qu’il peut également choisir de le partager à d’autres utilisateurs.
+
+**LE PARTAGE DE DOSSIERS**
+
+Il est possible de partager des dossiers contenants des tableaux (et des dossiers) à d’autres utilisateurs de magnéto. Ainsi, lorsque l’on partage un dossier à une tierce personne, tout le contenu du dossier lui est également partagé. 
+
+Par exemple, si l’on crée l’architecture suivante : 
+
+![](.gitbook/assets/magneto_3_02_popup-partage.png)
+
+Si l’on souhaite **partager le Dossier 1** avec des droits d’édition, toutes les personnes qui ont accès au Dossier 1 **auront également accès à l’ensemble des éléments du dossier** (c’est-à-dire les tableaux 1 et 2 ainsi que le dossier 2  et son tableau 3). 
+
+Le partage de dossiers fonctionne en suivant quelques règles de gestion :
+
+* Il est possible de **partager un dossier à différents utilisateurs, avec des droits différents.** Il existe 4 droits de partage : lecture, réutilisation, écriture et gestion. Le détail de ces droits est donné plus haut.
+
+* **Le droit du dossier partagé (parent) s’étend sur tous les sous-éléments** du dossier. 
+
+    * **Il est possible d’augmenter ces droits sur les sous-éléments,** par exemple donner à une des personnes des droits de gestion sur le dossier 2. 
+
+    * Cependant, **on ne peut pas diminuer ces droits :** dans notre exemple, il n’est pas possible de réduire ou de supprimer l’accès au dossier 2 aux personnes auxquelles le dossier 1 a été partagé.
+
+* Il est possible de **partager un sous-élément du dossier à des personnes à qui le dossier parent n’a pas été partagé.** Par exemple, il est possible de partager le tableau 1 à quelqu’un à qui le dossier 1 n’a pas été partagé.
+
+* Les personnes à qui le dossier parent a été partagé avec le droit écriture ou gestion peuvent créer des tableaux/dossiers dans le dossier partagé. Toutes les personnes à qui le dossier a été partagé voient alors les contributions faites par ces personnes. 
+
+* Le propriétaire du dossier partagé (parent) devient gestionnaire (= possède le droit gestion) sur tous les éléments créés par d’autres personnes dans son dossier.
+
+* **La suppression d’un dossier partagé supprime les partages** précédemment établis. Tous les éléments du dossier sont **alors transférés dans les corbeilles respectives des propriétaires.** Par exemple, si l‘on supprime le dossier 1, les dossiers créés par l’utilisateur en vert ira sans sa corbeille personnelle et tout comme pour ceux créés par l’utilisateur orange.
+
+![](.gitbook/assets/magneto_3_02_popup-partage.png)
 
 ## Extensions Navigateur Magnéto
 
