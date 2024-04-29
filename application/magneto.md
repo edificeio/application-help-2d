@@ -1,37 +1,86 @@
 # Magneto
 
-Que ce soit pour préparer des exposés ou des cours, quoi de mieux que de pouvoir agréger tout type de contenus sur un tableau ? Le principe est simple : sur un tableau blanc, ajouter des aimants contenant du contenu multimédia, texte, lien le tout de façon collaborative et en temps réel. Ces tableaux Magnéto disposent d’une barre de création permettant l’ajout de différents types de contenus y compris du contenu en provenance d’autres tableaux. Une extension web permet également d’agréger du contenu directement pendant sa navigation.
+Avec Magnéto, ajoutez des tableaux et des aimants pour organisez vos pensées, vos ressources et vos idées ! 
 
-## Créer un tableau
+## Présentation
+
+Que ce soit pour préparer des exposés ou des cours, quoi de mieux que de pouvoir agréger tout type de contenus sur un tableau ? Le principe est simple : sur un tableau blanc, ajouter des aimants contenant du contenu multimédia, texte, lien ou tout autre fichier le tout de façon collaborative et en temps réel.
+
+Ces tableaux Magnéto disposent d’une barre de création permettant l’ajout de différents types de contenus y compris du contenu en provenance d’autres tableaux. Une extension web permet également d’agréger du contenu directement pendant sa navigation.
+
+## Les tableaux
 
 Depuis l'application Magnéto, il est possible de **créer des tableaux blancs depuis le bouton "Créer un tableau"** en haut à droite de la fenêtre.
 
-![](.gitbook/assets/magneto_1_01_creer-un-tableau.png)
+![](.gitbook/assets/magneto_2_01_creation_tableau.png)
 
-Une pop up s'ouvre alors. Il est **obligatoire de mettre un titre et une vignette**. La description est optionnelle.
-Il est également possible de choisir le mode d'affichage du tableau :
+Une pop up s'ouvre alors afin de paramétrer les caractéristiques de ce tableau. 
+
+![](.gitbook/assets/magneto_2_02_propriete_tableau.png)
+
+Il est **obligatoire de mettre un titre (1) et une vignette (2)**. La description (3) est optionnelle. Des options (4) permettent de donner des droits d’actions aux utilisateurs.
+Il est également possible de choisir le mode d'affichage du tableau (5) :
 
 * **libre**
 * **sections verticales**
 * **sections horizontales**
 
-Vous pouvez choisir d'ajouter des **mots clés** au tableau qui seront utilisés dans la recherche.
-Enfin vous pouvez ajouter une **image de fond** à votre tableau. Il faut privilégier une image en mode paysage de bonne qualité.
+Pour plus d’informations sur ces différents affichages, il faut se référer au paragraphe des sections.
 
-![](.gitbook/assets/magneto_1_02_creer-un-tableau.png)
+Vous pouvez choisir d'ajouter des **mots clés (6)** au tableau qui seront utilisés dans la recherche.
+Enfin vous pouvez ajouter une **image de fond (7)** à votre tableau. Il faut privilégier une image de bonne qualité.
 
 Au **clic sur "Enregistrer"**, le tableau se crée et l'utilisateur est directement redirigé vers le tableau vide sur lequel il pourra ajouter des aimants.
 
-La collection de tableaux est alors disponible et il est possible de **créer des dossiers pour les ranger**.
+Sur la carte d'un tableau, des icônes sont visibles. 
 
-Sur la carte des tableaux, des icônes indiquent si les tableaux sont :
+![](.gitbook/assets/magneto_2_03_icones_tableau.png)
 
-* **partagés**  ![](.gitbook/assets/magneto_1_03_partage.png)
+Elles indiquent si le tableau est :
 
-* **partagés à la communauté**  ![](.gitbook/assets/magneto_1_04_partage-communaute.png)
+* **partagé**  ![](.gitbook/assets/magneto_2_04_partage.png)
 
-* **notre propriété**  ![](.gitbook/assets/magneto_1_05_notre-propriete.png)
+* **partagé à la plateforme**  ![](.gitbook/assets/magneto_2_05_partage-communaute.png)
 
+* **notre propriété**  ![](.gitbook/assets/magneto_2_06_notre-propriete.png)
+
+*  **la propriété de quelqu'un d'autre**  ![](.gitbook/assets/magneto_2_07_utilisateur.PNG)
+
+
+**ACTIONS SUR LES TABLEAUX**
+
+En cliquant sur la carte d’un tableau créé, il est possible d’effectuer différentes actions via le menu d’action orange qui s’affiche en bas de l’écran :  
+
+* **Ouvrir :** pour accéder au contenu d'un tableau
+
+* **Propriétés :** pour modifier les propriétés du tableaux  (définies lors de sa création et modifiables à tout moment)
+
+* **Déplacer :** pour déplacer le tableau dans un dossier particulier
+
+* **Partager :** pour partager le tableau à d’autres utilisateurs (cf paragraphe « partager un tableau »)
+
+* **Partager à toute la platforme :** pour partager le tableau à toute la plateforme (cf paragraphe « Tableaux de la plateforme »)
+
+* **Supprimer :** pour déplacer le tableau dans la corbeille
+
+**MODE LECTURE D'UN TABLEAU**
+
+Le mode lecture permet de **consulter tous les aimants du tableau les uns après les autres**, comme pour la lecture d’un diaporama. 
+
+Une fois des aimants disponibles sur le tableau, le **bouton "Lecture" apparaît** en haut à droite.
+
+![](.gitbook/assets/magneto_2_08_lecture.png)
+
+Il permet **d'ouvrir une visionneuse d'aimants** et de naviguer de l'un à l'autre, grâce aux flèches sur les côtés. Un menu permet de sélectionner une section en particulier, pour les tableaux ayant des sections.
+
+![](.gitbook/assets/magneto_2_09_mode_lecture.png)
+
+**ORGANISATION EN DOSSIERS**
+
+Une fois vos premiers tableaux créés, il est possible de **créer des dossiers pour les ranger.**
+
+Pour cela, le bouton  ![](.gitbook/assets/magneto_2_10_dossier.PNG)  est disponible sous le menu de gauche. Il suffit d’entrer le nom du dossier puis de cliquer sur « Enregistrer » pour qu’il soit créé. 
+Il est possible de **renommer** et **supprimer** un dossier de la même manière qu’un tableau. Il est aussi possible de **partager** un dossier (cf paragraphe sur le partage de dossiers).
 
 ## Ajouter des aimants
 
