@@ -246,7 +246,7 @@ Une fois des aimants disponibles sur le tableau, le **bouton "Lecture" apparaît
 
 **LES DIFFERENTS TYPES DE SECTION**
 
-Les tableaux Magnéto peuvent se diviser en sections verticales (colonnes) ou horizontales (lignes). Les tableaux Magnéto peuvent se diviser en sections verticales (colonnes) ou horizontales (lignes). Cela permet de séparer des groupes d’aimants pour mieux les organiser. 
+Les tableaux Magnéto peuvent se diviser en sections verticales (colonnes) ou horizontales (lignes). Cela permet de séparer des groupes d’aimants pour mieux les organiser. 
 
 Exemple d’un tableau à sections verticales : 
 
@@ -287,6 +287,7 @@ D’autres actions sont disponibles en cliquant sur le menu en haut de la sectio
 ![](.gitbook/assets/magneto_5_46_actions_section.png)
 
 * **Dupliquer une section (1)** : En cliquant sur le menu de la section, on peut la dupliquer, c’est-à-dire effectuer une copie de celle-ci dans le tableau actuel. Tous les aimants contenant la section sont également dupliqués. 
+
 
 * **Masquer pour les lecteurs (2)** : Cette option permet de rendre la section et son contenu invisible pour toutes les personnes ayant le droit de lecture sur le tableau.
 Au clic sur « Masquer pour les lecteurs » une icône apparaît sur la section pour indiquer son statut.
